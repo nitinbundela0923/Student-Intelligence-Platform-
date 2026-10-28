@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Maths_Marks,Physics_Marks,Chemistry_Marks,English_Marks,Physical_Education_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S060094,Chaaya Cheema,Day Scholar,12 PCM,Shopify,17,Female,Divine,94,89,98,95,97,81,554,92.33,93.6,4.0,AI Engineer,Mathematics,English,1,Excellent,Yes,Basketball,15,Yes,6,5,Debate
+S060148,Udant Rao,Day Scholar,12 PCM,Discord,16,Female,Divine,92,86,82,93,99,84,536,89.33,96.6,3.4,Software Engineer,Computer Science,Physical Education,2,Excellent,Yes,Cricket,6,No,1,0,Chess
+S060376,Manya Ganguly,Day Scholar,12 PCM,Netflix,17,Female,Divine,98,93,94,93,65,88,531,88.5,81.3,3.5,Civil Engineer,Mathematics,Physical Education,3,Excellent,Yes,Athletics,12,No,2,2,Quiz Club
+S060281,Kala Nayak,Day Scholar,12 PCM,CloudCore,17,Female,Divine,92,86,82,95,90,84,529,88.17,84.4,3.8,Mechanical Engineer,Mathematics,English,4,Excellent,No,,0,No,0,0,Dance
+S060130,Balendra More,Day Scholar,12 PCM,CloudCore,17,Male,Divine,91,77,73,92,92,98,523,87.17,81.2,7.1,Mechanical Engineer,Mathematics,Physical Education,5,Excellent,Yes,Football,8,No,8,5,Reading
+S060177,Ijaya Lad,Day Scholar,12 PCM,Netflix,17,Female,Divine,100,92,71,98,92,65,518,86.33,89.6,3.1,Data Scientist,Chemistry,Hindi,6,Excellent,No,,0,No,0,0,Chess
+S060392,Rachit Magar,Day Scholar,12 PCM,CloudCore,16,Male,Divine,92,74,84,97,73,96,516,86.0,72.6,4.0,AI Engineer,Physics,Hindi,7,Excellent,Yes,Football,11,Yes,7,5,Robotics Club
+S060076,Finn Mutti,Hosteler,12 PCM,Netflix,16,Female,Divine,77,81,99,95,92,71,515,85.83,82.5,6.4,Robotics Engineer,Chemistry,English,8,Excellent,Yes,Cricket,12,Yes,7,6,Chess
+S060037,Yauvani Pau,Day Scholar,12 PCM,Discord,17,Male,Divine,93,63,73,98,88,95,510,85.0,94.9,5.0,AI Engineer,Computer Science,English,9,Excellent,Yes,Cricket,6,No,6,6,Public Speaking
+S060112,Hritik Pai,Hosteler,12 PCM,Shopify,16,Female,Divine,85,73,68,94,95,95,510,85.0,99.9,7.0,Scientist,Computer Science,English,10,Excellent,Yes,Athletics,3,No,9,9,Coding Club
+S060016,Ayushman Karan,Hosteler,12 PCM,Discord,16,Male,Paradise,88,76,83,70,93,95,505,84.17,80.2,4.9,Architect,Computer Science,English,11,Good,Yes,Badminton,4,No,2,1,Quiz Club
+S060343,Pahal Chauhan,Hosteler,12 PCM,Shopify,17,Female,Divine,74,92,99,55,91,93,504,84.0,95.9,6.1,Software Engineer,Mathematics,Physical Education,12,Good,Yes,Cricket,4,Yes,7,5,Science Club
+S060362,Osha Gokhale,Hosteler,12 PCM,CloudCore,17,Male,Paradise,78,75,98,96,95,61,503,83.83,83.0,4.3,Software Engineer,Physics,Hindi,13,Good,Yes,Cricket,13,Yes,10,5,Painting
+S060209,Aayush Sur,Day Scholar,12 PCM,CloudCore,16,Female,Divine,60,79,93,83,99,88,502,83.67,93.1,2.7,AI Engineer,Mathematics,Physical Education,14,Good,Yes,Basketball,14,Yes,8,10,Robotics Club
+S060001,Harini Gulati,Day Scholar,12 PCM,Discord,17,Female,Divine,87,88,70,90,96,69,500,83.33,76.9,6.4,Mechanical Engineer,Physics,Hindi,15,Good,Yes,Kabaddi,8,No,2,1,Entrepreneurship Club
+S060344,Ayaan Puri,Day Scholar,12 PCM,CloudCore,16,Male,Divine,95,65,81,99,98,57,495,82.5,88.6,7.1,Mechanical Engineer,Chemistry,Physical Education,16,Good,No,,0,No,0,0,Volunteering
+S060023,Xavier Rana,Hosteler,12 PCM,CloudCore,17,Female,Divine,90,97,73,91,87,57,495,82.5,71.8,4.3,Robotics Engineer,Mathematics,Hindi,17,Good,Yes,Kabaddi,7,Yes,13,15,Music
+S060085,Chatresh Pandit,Hosteler,12 PCM,Netflix,16,Female,Divine,93,90,63,100,51,97,494,82.33,98.6,2.5,Scientist,Chemistry,English,18,Good,No,,0,No,0,0,Dance
+S060024,Panini Chaudry,Day Scholar,12 PCM,Netflix,16,Female,Divine,91,52,89,95,85,81,493,82.17,93.2,4.6,Software Engineer,Physics,Hindi,19,Good,No,,0,No,0,0,Painting
+S060382,Bishakha Seth,Hosteler,12 PCM,Discord,16,Male,Paradise,64,81,99,61,93,94,492,82.0,81.2,2.3,Robotics Engineer,Physics,Physical Education,20,Good,No,,0,No,0,0,Science Club
+S060298,Vedant Memon,Day Scholar,12 PCM,Discord,17,Male,Divine,90,80,78,67,91,85,491,81.83,73.8,3.5,Mechanical Engineer,Mathematics,Hindi,21,Good,Yes,Kabaddi,15,Yes,12,5,Public Speaking
+S060141,Pushti Zacharia,Hosteler,12 PCM,Shopify,16,Female,Divine,87,92,90,86,66,69,490,81.67,86.3,3.1,Robotics Engineer,Chemistry,Hindi,22,Good,Yes,Football,6,No,4,4,Coding Club
+S060203,Viraj Ravi,Day Scholar,12 PCM,Shopify,16,Female,Divine,85,95,73,41,98,97,489,81.5,71.2,5.6,Architect,Mathematics,Physical Education,23,Good,Yes,Cricket,11,Yes,13,7,Photography
+S060045,Kabir Choudhry,Hosteler,12 PCM,Netflix,17,Male,Passion,79,97,66,69,88,90,489,81.5,97.4,6.5,Mechanical Engineer,Computer Science,Physical Education,24,Good,Yes,Cricket,6,No,4,4,Public Speaking
+S060116,Hemani Chawla,Hosteler,12 PCM,Discord,17,Male,Paradise,98,87,99,92,36,77,489,81.5,87.4,6.3,Pilot,Mathematics,English,25,Good,Yes,Badminton,9,No,7,6,Photography
+S060400,Tanmayi Om,Day Scholar,12 PCM,Shopify,16,Female,Divine,84,85,64,85,73,96,487,81.17,89.5,2.1,Scientist,Mathematics,Hindi,26,Good,Yes,Cricket,15,No,2,2,Dance
+S060335,Christopher Devan,Day Scholar,12 PCM,Discord,16,Male,Divine,99,67,90,92,97,41,486,81.0,99.9,5.6,Civil Engineer,Mathematics,Physical Education,27,Good,Yes,Athletics,2,No,6,3,Chess
+S060286,Azaan Ramanathan,Hosteler,12 PCM,CloudCore,17,Female,Divine,86,80,67,99,76,78,486,81.0,81.1,5.9,Software Engineer,Chemistry,Physical Education,28,Good,Yes,Basketball,14,No,9,6,Debate
+S060388,Ojas Vasa,Hosteler,12 PCM,Discord,17,Male,Paradise,86,97,99,78,46,80,486,81.0,97.2,3.7,Data Scientist,Physics,Hindi,29,Good,No,,0,No,0,0,Painting
+S060002,Irya Soman,Hosteler,12 PCM,Discord,16,Male,Passion,77,79,56,91,96,86,485,80.83,77.8,4.6,Architect,Physics,English,30,Good,Yes,Basketball,14,No,7,6,Dance
+S060341,Omya Deo,Day Scholar,12 PCM,Shopify,17,Female,Divine,86,94,91,88,44,78,481,80.17,86.9,6.2,Electrical Engineer,Computer Science,English,31,Good,Yes,Athletics,12,Yes,14,8,Debate
+S060074,Aahana Tiwari,Day Scholar,12 PCM,Shopify,17,Male,Divine,100,63,68,60,94,96,481,80.17,71.4,2.0,Civil Engineer,Computer Science,Physical Education,32,Good,No,,0,No,0,0,Chess
+S060114,Nathan Johal,Hosteler,12 PCM,Discord,17,Male,Passion,38,86,95,77,90,95,481,80.17,72.6,6.9,Data Scientist,Physics,English,33,Good,Yes,Volleyball,6,No,3,1,Science Club
+S060228,Wishi Banik,Day Scholar,12 PCM,Discord,16,Male,Divine,87,93,94,99,56,52,481,80.17,92.2,4.2,Mechanical Engineer,Physics,Hindi,34,Good,Yes,Kabaddi,11,Yes,10,8,Robotics Club
+S060087,Eta Khatri,Day Scholar,12 PCM,Discord,16,Female,Divine,93,95,98,67,35,93,481,80.17,82.1,3.9,Electrical Engineer,Computer Science,English,35,Good,Yes,Badminton,4,Yes,10,7,Entrepreneurship Club
+S060129,Jhalak Chaudhuri,Hosteler,12 PCM,Netflix,17,Female,Divine,91,87,81,79,80,61,479,79.83,85.2,1.5,AI Engineer,Chemistry,Physical Education,36,Good,Yes,Athletics,13,Yes,13,16,Debate
+S060180,Ishwar Basak,Hosteler,12 PCM,Shopify,17,Male,Passion,85,51,100,96,82,64,478,79.67,95.3,2.2,AI Engineer,Physics,English,37,Good,Yes,Football,7,Yes,11,11,Debate
+S060131,Dakshesh Sathe,Hosteler,12 PCM,CloudCore,16,Male,Paradise,100,92,53,71,66,96,478,79.67,70.5,1.4,Architect,Mathematics,Hindi,38,Good,Yes,Football,15,Yes,8,5,Photography
+S060213,Jyoti Mahajan,Hosteler,12 PCM,Shopify,16,Female,Divine,88,97,99,94,40,60,478,79.67,89.0,4.8,AI Engineer,Physics,Hindi,39,Good,Yes,Cricket,8,No,3,3,Robotics Club
+S060132,Daksha Sabharwal,Day Scholar,12 PCM,Shopify,16,Female,Divine,88,94,68,48,90,89,477,79.5,90.3,3.4,Electrical Engineer,Computer Science,English,40,Good,Yes,Cricket,5,No,6,4,Reading
+S060174,Darika Dayal,Day Scholar,12 PCM,Shopify,17,Female,Divine,86,74,90,38,97,92,477,79.5,98.9,3.5,Electrical Engineer,Physics,Physical Education,41,Good,Yes,Hockey,13,Yes,9,10,Quiz Club
+S060136,Idika Sahni,Day Scholar,12 PCM,Discord,17,Male,Divine,62,61,82,96,88,88,477,79.5,92.8,3.1,Scientist,Physics,English,42,Good,Yes,Volleyball,9,Yes,5,4,Reading
+S060113,Kritika Lad,Day Scholar,12 PCM,Shopify,17,Female,Divine,62,76,92,82,69,95,476,79.33,70.7,6.7,Civil Engineer,Chemistry,Hindi,43,Good,No,,0,No,0,0,Drama
+S060036,Baghyawati Pillay,Hosteler,12 PCM,Discord,16,Male,Petals,100,82,88,79,81,45,475,79.17,79.9,3.8,Software Engineer,Computer Science,Physical Education,44,Good,No,,0,No,0,0,Robotics Club
+S060018,Yauvani Gole,Hosteler,12 PCM,Shopify,17,Male,Petals,93,81,73,57,73,97,474,79.0,99.1,2.3,Pilot,Computer Science,Hindi,45,Good,Yes,Volleyball,10,Yes,14,14,Volunteering
+S060342,Zayyan Rout,Hosteler,12 PCM,Discord,16,Male,Passion,89,74,77,44,96,94,474,79.0,96.5,5.7,Robotics Engineer,Physics,Hindi,46,Good,Yes,Kabaddi,2,No,2,1,Science Club
+S060119,Raghav Goel,Hosteler,12 PCM,Discord,17,Male,Paradise,92,99,66,84,67,66,474,79.0,84.8,4.6,AI Engineer,Mathematics,Hindi,47,Good,No,,0,No,0,0,Coding Club
+S060305,Imaran Sachdeva,Hosteler,12 PCM,Discord,17,Male,Passion,85,99,65,75,55,94,473,78.83,97.7,3.2,Architect,Physics,English,48,Good,Yes,Football,9,Yes,10,11,Chess
+S060256,Anay Suresh,Hosteler,12 PCM,Discord,17,Female,Divine,67,84,83,78,62,98,472,78.67,97.1,4.3,AI Engineer,Physics,Hindi,49,Good,No,,0,No,0,0,Entrepreneurship Club
+S060230,Dayita Balakrishnan,Day Scholar,12 PCM,Netflix,16,Male,Divine,89,87,96,45,88,67,472,78.67,98.8,1.9,Robotics Engineer,Mathematics,Hindi,50,Good,Yes,Football,12,No,9,4,Debate
+S060147,Nicholas Mammen,Hosteler,12 PCM,Netflix,17,Female,Divine,84,43,61,100,87,97,472,78.67,84.9,2.7,Civil Engineer,Mathematics,Hindi,51,Good,Yes,Swimming,12,Yes,8,7,Debate
+S060134,Madhavi Som,Hosteler,12 PCM,Discord,17,Male,Paradise,97,53,96,85,81,60,472,78.67,94.5,7.6,Scientist,Mathematics,English,52,Good,Yes,Football,5,Yes,6,7,Entrepreneurship Club
+S060104,Kabir Rau,Day Scholar,12 PCM,CloudCore,16,Female,Divine,77,91,84,84,68,68,472,78.67,80.5,6.9,Electrical Engineer,Mathematics,Hindi,53,Good,No,,0,No,0,0,Reading
+S060250,Ishwar Yadav,Day Scholar,12 PCM,Shopify,16,Female,Divine,80,93,99,49,57,92,470,78.33,84.8,7.1,Scientist,Computer Science,Physical Education,54,Good,Yes,Volleyball,8,Yes,11,4,Painting
+S060173,Ucchal Bassi,Hosteler,12 PCM,Netflix,17,Male,Passion,94,94,97,98,41,45,469,78.17,74.0,3.7,Mechanical Engineer,Physics,English,55,Good,Yes,Cricket,13,Yes,9,11,Entrepreneurship Club
+S060367,Forum Dada,Day Scholar,12 PCM,Shopify,17,Female,Divine,39,92,88,81,76,93,469,78.17,96.3,2.8,AI Engineer,Chemistry,Hindi,56,Good,Yes,Tennis,15,Yes,6,5,Painting
+S060183,Nachiket Ramachandran,Day Scholar,12 PCM,CloudCore,16,Female,Divine,82,42,75,76,96,98,469,78.17,83.8,2.4,Software Engineer,Mathematics,English,57,Good,No,,0,No,0,0,Quiz Club
+S060142,Girindra Thakkar,Day Scholar,12 PCM,Netflix,17,Male,Divine,90,72,96,70,54,87,469,78.17,95.4,2.8,Mechanical Engineer,Chemistry,Physical Education,58,Good,Yes,Cricket,14,Yes,13,20,Volunteering
+S060084,Balveer Nath,Day Scholar,12 PCM,Discord,16,Female,Divine,43,99,46,95,100,86,469,78.17,73.5,5.0,Civil Engineer,Computer Science,Physical Education,59,Good,Yes,Cricket,5,No,9,8,Debate
+S060176,Theodore Malhotra,Hosteler,12 PCM,CloudCore,16,Male,Passion,80,48,89,94,69,88,468,78.0,80.9,1.8,AI Engineer,Physics,Hindi,60,Good,Yes,Cricket,12,Yes,7,6,Dance
+S060380,Peter Bhavsar,Hosteler,12 PCM,CloudCore,16,Female,Divine,75,50,73,74,99,96,467,77.83,73.2,7.6,Mechanical Engineer,Mathematics,Physical Education,61,Good,Yes,Football,7,Yes,14,14,Photography
+S060109,Damyanti Kala,Hosteler,12 PCM,Shopify,16,Male,Petals,53,87,81,64,92,90,467,77.83,96.7,7.5,AI Engineer,Mathematics,Physical Education,62,Good,No,,0,No,0,0,Chess
+S060162,Mason Cheema,Hosteler,12 PCM,Shopify,16,Female,Divine,88,77,95,42,91,72,465,77.5,95.8,5.9,Architect,Physics,English,63,Good,Yes,Basketball,9,No,8,9,Entrepreneurship Club
+S060317,Bhavani Gaba,Day Scholar,12 PCM,Shopify,16,Male,Divine,89,56,96,58,83,83,465,77.5,94.2,6.4,Civil Engineer,Computer Science,Physical Education,64,Good,No,,0,No,0,0,Chess
+S060245,Udant Kar,Day Scholar,12 PCM,CloudCore,16,Female,Divine,51,93,81,81,61,98,465,77.5,93.6,6.7,Pilot,Mathematics,Physical Education,65,Good,Yes,Kabaddi,6,No,7,8,Dance
+S060199,Imaran Mangal,Hosteler,12 PCM,Netflix,16,Male,Paradise,84,93,76,48,88,74,463,77.17,99.9,7.8,Electrical Engineer,Chemistry,Physical Education,66,Good,Yes,Hockey,4,No,1,0,Entrepreneurship Club
+S060396,Darika Dasgupta,Day Scholar,12 PCM,Discord,16,Female,Divine,93,82,85,72,56,74,462,77.0,94.0,7.2,Data Scientist,Chemistry,Physical Education,67,Good,No,,0,No,0,0,Chess
+S060222,Hemangini Chaudhry,Day Scholar,12 PCM,CloudCore,17,Female,Divine,89,95,91,82,43,62,462,77.0,89.7,1.9,Electrical Engineer,Physics,Physical Education,68,Good,No,,0,No,0,0,Painting
+S060012,Aahana Bhardwaj,Hosteler,12 PCM,Netflix,16,Female,Divine,92,61,69,74,94,71,461,76.83,77.0,5.7,Electrical Engineer,Chemistry,Physical Education,69,Good,No,,0,No,0,0,Coding Club
+S060288,Andrew De,Hosteler,12 PCM,CloudCore,17,Female,Divine,99,93,46,65,77,79,459,76.5,97.4,4.0,Mechanical Engineer,Chemistry,Physical Education,70,Good,No,,0,No,0,0,Robotics Club
+S060049,Maanas Patla,Hosteler,12 PCM,Discord,16,Male,Paradise,80,84,39,65,99,92,459,76.5,85.6,1.3,Civil Engineer,Mathematics,Hindi,71,Good,Yes,Football,13,Yes,15,14,Entrepreneurship Club
+S060290,Yashvi Bhargava,Day Scholar,12 PCM,Netflix,16,Female,Divine,74,95,88,56,60,85,458,76.33,82.9,7.0,AI Engineer,Computer Science,Physical Education,72,Good,Yes,Cricket,4,Yes,11,8,Music
+S060152,Eesha Gupta,Day Scholar,12 PCM,CloudCore,16,Male,Divine,59,58,58,99,95,89,458,76.33,75.6,4.4,Scientist,Physics,Hindi,73,Good,Yes,Athletics,6,Yes,12,7,Painting
+S060264,Manthan Krishnan,Day Scholar,12 PCM,CloudCore,17,Female,Divine,72,85,51,92,57,99,456,76.0,73.1,7.4,Data Scientist,Chemistry,English,74,Good,No,,0,No,0,0,Entrepreneurship Club
+S060327,Krishna Manda,Hosteler,12 PCM,Discord,17,Female,Divine,75,71,98,73,90,49,456,76.0,99.3,1.4,Robotics Engineer,Computer Science,English,75,Good,Yes,Kabaddi,9,No,8,6,Dance
+S060221,Yasti Bhasin,Hosteler,12 PCM,CloudCore,16,Male,Petals,80,89,94,51,45,97,456,76.0,91.3,6.6,Mechanical Engineer,Computer Science,Physical Education,76,Good,Yes,Football,11,Yes,13,15,Painting
+S060185,Yatan Prakash,Day Scholar,12 PCM,Netflix,17,Male,Divine,100,39,59,83,82,92,455,75.83,75.6,5.3,Data Scientist,Chemistry,Physical Education,77,Good,No,,0,No,0,0,Drama
+S060309,Ijaya Dara,Hosteler,12 PCM,Netflix,16,Female,Divine,77,50,94,75,98,61,455,75.83,94.5,4.6,Pilot,Computer Science,Hindi,78,Good,Yes,Football,4,Yes,12,14,Music
+S060027,Indira Din,Day Scholar,12 PCM,Shopify,16,Male,Divine,64,77,46,90,100,78,455,75.83,78.2,3.8,Architect,Mathematics,English,79,Good,No,,0,No,0,0,Public Speaking
+S060301,Shivani Sem,Day Scholar,12 PCM,CloudCore,17,Male,Divine,55,95,77,99,58,71,455,75.83,75.7,5.9,Civil Engineer,Physics,English,80,Good,Yes,Hockey,3,No,3,1,Entrepreneurship Club
+S060143,Fitan Ravel,Day Scholar,12 PCM,CloudCore,17,Male,Divine,90,87,65,91,76,46,455,75.83,94.7,3.1,Robotics Engineer,Chemistry,Hindi,81,Good,Yes,Badminton,3,No,8,4,Volunteering
+S060005,Arjun Reddy,Day Scholar,12 PCM,CloudCore,17,Female,Divine,79,68,57,85,99,66,454,75.67,97.7,7.6,Mechanical Engineer,Computer Science,Hindi,82,Good,No,,0,No,0,0,Volunteering
+S060042,Azad Dhawan,Day Scholar,12 PCM,CloudCore,16,Male,Divine,99,92,69,62,43,89,454,75.67,93.9,5.1,Electrical Engineer,Physics,Hindi,83,Good,No,,0,No,0,0,Reading
+S060307,Nidra Nadkarni,Day Scholar,12 PCM,CloudCore,16,Female,Divine,77,71,86,82,87,50,453,75.5,86.6,3.2,Software Engineer,Physics,English,84,Good,No,,0,No,0,0,Reading
+S060040,Advay Ramakrishnan,Day Scholar,12 PCM,Discord,17,Female,Divine,81,90,82,60,44,95,452,75.33,76.5,1.4,Mechanical Engineer,Physics,Physical Education,85,Good,Yes,Football,13,No,4,4,Coding Club
+S060067,Chatresh Ben,Hosteler,12 PCM,Netflix,17,Male,Passion,71,98,52,86,50,95,452,75.33,96.7,3.2,Software Engineer,Chemistry,Physical Education,86,Good,Yes,Badminton,14,No,2,1,Quiz Club
+S060170,Wyatt Chaudry,Hosteler,12 PCM,Shopify,16,Female,Divine,98,83,82,35,68,85,451,75.17,84.1,7.2,Electrical Engineer,Computer Science,English,87,Good,Yes,Cricket,5,No,8,4,Quiz Club
+S060061,Samarth Wali,Hosteler,12 PCM,Discord,16,Female,Divine,63,49,71,78,90,99,450,75.0,96.4,5.9,Architect,Computer Science,Physical Education,88,Good,Yes,Tennis,8,No,7,6,Coding Club
+S060125,George Maharaj,Day Scholar,12 PCM,Netflix,16,Female,Divine,97,92,61,54,69,77,450,75.0,85.8,1.7,Civil Engineer,Chemistry,Hindi,89,Good,No,,0,No,0,0,Quiz Club
+S060276,Rachit Krishnamurthy,Day Scholar,12 PCM,Discord,17,Female,Divine,58,45,80,96,97,73,449,74.83,77.6,3.6,AI Engineer,Computer Science,Hindi,90,Good,Yes,Cricket,9,No,1,0,Volunteering
+S060315,Amruta Raju,Day Scholar,12 PCM,Discord,17,Male,Divine,62,72,98,86,93,38,449,74.83,85.2,3.2,Mechanical Engineer,Computer Science,Hindi,91,Good,Yes,Football,6,No,9,9,Drama
+S060355,Oviya Gopal,Day Scholar,12 PCM,Shopify,16,Female,Divine,73,65,96,84,56,74,448,74.67,99.6,5.4,Scientist,Computer Science,English,92,Good,Yes,Cricket,3,Yes,12,16,Science Club
+S060033,Ayushman Mishra,Day Scholar,12 PCM,Netflix,17,Male,Divine,88,84,37,84,72,82,447,74.5,79.1,6.8,Electrical Engineer,Physics,Hindi,93,Good,No,,0,No,0,0,Dance
+S060154,Quincy Borah,Day Scholar,12 PCM,Shopify,17,Female,Divine,93,72,87,81,37,77,447,74.5,70.6,2.3,Mechanical Engineer,Computer Science,English,94,Good,No,,0,No,0,0,Drama
+S060167,Falguni Samra,Hosteler,12 PCM,CloudCore,17,Male,Petals,95,46,92,82,83,48,446,74.33,88.2,3.6,Pilot,Physics,Hindi,95,Good,Yes,Cricket,6,Yes,8,5,Entrepreneurship Club
+S060187,Manya Butala,Hosteler,12 PCM,Netflix,17,Male,Paradise,73,53,97,95,68,59,445,74.17,95.2,2.1,Architect,Physics,Physical Education,96,Good,Yes,Volleyball,3,No,9,4,Debate
+S060352,Shivani Magar,Hosteler,12 PCM,Shopify,17,Male,Passion,69,97,57,67,84,71,445,74.17,75.2,4.1,Pilot,Mathematics,English,97,Good,No,,0,No,0,0,Dance
+S060165,Laban Bora,Day Scholar,12 PCM,Discord,17,Male,Divine,96,82,73,59,94,41,445,74.17,73.6,6.4,Data Scientist,Chemistry,Hindi,98,Good,Yes,Athletics,12,Yes,5,6,Photography
+S060386,Neelima Dara,Hosteler,12 PCM,Shopify,17,Male,Paradise,74,44,94,96,39,98,445,74.17,91.0,4.0,Civil Engineer,Physics,Hindi,99,Good,Yes,Hockey,10,Yes,15,15,Chess
+S060066,Upkaar Goswami,Day Scholar,12 PCM,CloudCore,17,Female,Divine,91,90,57,75,59,71,443,73.83,92.6,5.2,Data Scientist,Mathematics,English,100,Good,Yes,Football,8,No,8,9,Quiz Club
+S060163,Mitesh Thakkar,Hosteler,12 PCM,Discord,16,Female,Divine,85,68,87,77,77,49,443,73.83,91.6,3.1,Mechanical Engineer,Mathematics,Physical Education,101,Good,Yes,Football,15,No,10,6,Coding Club
+S060039,Sara Goda,Hosteler,12 PCM,Netflix,17,Female,Divine,91,72,61,88,64,67,443,73.83,70.2,4.9,Robotics Engineer,Mathematics,Physical Education,102,Good,Yes,Badminton,8,No,6,4,Reading
+S060235,Karan Subramanian,Hosteler,12 PCM,Shopify,17,Male,Passion,80,83,82,47,100,50,442,73.67,81.0,1.6,Robotics Engineer,Physics,English,103,Good,Yes,Cricket,3,No,1,0,Volunteering
+S060369,Charles Jani,Day Scholar,12 PCM,Discord,16,Female,Divine,76,55,61,85,98,67,442,73.67,71.8,2.6,Civil Engineer,Mathematics,Hindi,104,Good,Yes,Football,11,Yes,9,7,Drama
+S060299,William Sankaran,Hosteler,12 PCM,CloudCore,16,Female,Divine,71,94,47,58,84,87,441,73.5,80.2,5.8,Scientist,Chemistry,Physical Education,105,Good,Yes,Cricket,9,Yes,8,4,Photography
+S060046,Lakshmi Pillai,Day Scholar,12 PCM,Netflix,16,Male,Divine,51,99,38,77,84,90,439,73.17,86.6,4.1,Architect,Computer Science,Hindi,106,Good,Yes,Swimming,2,No,1,1,Entrepreneurship Club
+S060364,Nathan Sanghvi,Day Scholar,12 PCM,Netflix,17,Female,Divine,84,89,36,88,62,80,439,73.17,97.2,3.7,Scientist,Mathematics,English,107,Good,Yes,Cricket,2,No,10,8,Chess
+S060100,Vasana Vohra,Day Scholar,12 PCM,Netflix,17,Female,Divine,91,55,69,81,95,48,439,73.17,97.5,4.1,Architect,Chemistry,Hindi,108,Good,Yes,Hockey,7,Yes,12,9,Quiz Club
+S060068,Brinda Chakrabarti,Hosteler,12 PCM,Shopify,17,Female,Divine,92,84,45,50,84,84,439,73.17,83.1,6.4,Electrical Engineer,Chemistry,Hindi,109,Good,Yes,Badminton,10,No,9,3,Painting
+S060277,Veda Randhawa,Hosteler,12 PCM,Netflix,16,Male,Passion,98,74,43,70,56,97,438,73.0,88.8,2.8,Mechanical Engineer,Computer Science,English,110,Good,No,,0,No,0,0,Chess
+S060249,Sai Suresh,Day Scholar,12 PCM,Discord,17,Female,Divine,54,93,80,54,66,89,436,72.67,87.7,2.9,Data Scientist,Mathematics,Hindi,111,Good,Yes,Tennis,9,No,5,2,Science Club
+S060069,Garima Batra,Day Scholar,12 PCM,Shopify,17,Female,Divine,96,40,50,85,82,83,436,72.67,92.4,6.8,Robotics Engineer,Physics,English,112,Good,Yes,Kabaddi,4,No,4,4,Entrepreneurship Club
+S060020,Abdul Bakshi,Hosteler,12 PCM,Shopify,17,Male,Passion,96,42,87,86,87,37,435,72.5,80.8,6.0,Pilot,Chemistry,Physical Education,113,Good,No,,0,No,0,0,Debate
+S060102,Urvi Upadhyay,Day Scholar,12 PCM,CloudCore,16,Female,Divine,87,100,88,43,39,78,435,72.5,98.3,4.5,AI Engineer,Mathematics,English,114,Good,Yes,Badminton,10,Yes,9,8,Drama
+S060195,Yashvi Lal,Day Scholar,12 PCM,CloudCore,16,Male,Divine,90,75,49,91,47,82,434,72.33,87.0,5.9,Software Engineer,Mathematics,Physical Education,115,Good,Yes,Volleyball,8,No,4,1,Photography
+S060022,Baghyawati Mitter,Day Scholar,12 PCM,CloudCore,16,Male,Divine,40,66,97,42,100,88,433,72.17,74.9,4.5,AI Engineer,Chemistry,Hindi,116,Good,No,,0,No,0,0,Quiz Club
+S060366,Jeet Sha,Day Scholar,12 PCM,CloudCore,17,Female,Divine,72,42,99,79,64,76,432,72.0,77.2,2.1,Data Scientist,Chemistry,Hindi,117,Good,Yes,Cricket,6,No,4,2,Drama
+S060377,Aarav Trivedi,Hosteler,12 PCM,Discord,16,Male,Passion,99,49,77,67,60,80,432,72.0,97.1,2.0,Data Scientist,Chemistry,Physical Education,118,Good,Yes,Hockey,9,Yes,12,9,Debate
+S060189,Yamini Rana,Day Scholar,12 PCM,Discord,16,Female,Divine,39,59,73,93,82,85,431,71.83,96.1,6.9,Architect,Chemistry,Hindi,119,Good,Yes,Football,10,Yes,15,15,Music
+S060198,Simon Naidu,Hosteler,12 PCM,CloudCore,17,Female,Divine,54,41,99,73,74,90,431,71.83,80.9,3.1,Scientist,Chemistry,Hindi,120,Good,Yes,Badminton,15,Yes,5,3,Public Speaking
+S060287,Pranit Kapoor,Hosteler,12 PCM,Netflix,17,Female,Divine,78,44,70,59,87,93,431,71.83,83.6,7.7,AI Engineer,Mathematics,English,121,Good,Yes,Football,13,Yes,12,13,Robotics Club
+S060089,Wriddhish Karnik,Day Scholar,12 PCM,Shopify,16,Male,Divine,68,91,52,89,68,62,430,71.67,95.5,7.3,Architect,Computer Science,Physical Education,122,Good,Yes,Football,8,Yes,15,16,Coding Club
+S060336,Praneel Mohan,Hosteler,12 PCM,Discord,17,Female,Divine,78,100,64,76,76,35,429,71.5,97.1,4.1,Architect,Computer Science,English,123,Good,Yes,Cricket,11,No,8,6,Volunteering
+S060118,Ayush Sekhon,Day Scholar,12 PCM,Netflix,17,Female,Divine,94,62,90,77,71,35,429,71.5,88.6,4.4,Scientist,Physics,Physical Education,124,Good,Yes,Cricket,11,No,9,4,Painting
+S060282,Megha Gala,Day Scholar,12 PCM,Discord,17,Male,Divine,52,90,74,77,76,58,427,71.17,80.9,3.0,Pilot,Computer Science,Physical Education,125,Good,Yes,Football,7,Yes,12,6,Reading
+S060389,Bhavani Maharaj,Day Scholar,12 PCM,CloudCore,17,Female,Divine,49,76,81,88,88,45,427,71.17,86.8,5.1,Robotics Engineer,Physics,Physical Education,126,Good,Yes,Cricket,2,No,10,9,Coding Club
+S060211,Aarini Dewan,Hosteler,12 PCM,Discord,16,Female,Divine,79,72,47,87,61,80,426,71.0,70.8,3.9,Civil Engineer,Mathematics,English,127,Good,Yes,Badminton,12,No,3,2,Robotics Club
+S060361,Irya Aurora,Hosteler,12 PCM,Netflix,17,Male,Petals,89,43,80,82,56,76,426,71.0,99.3,5.6,Robotics Engineer,Chemistry,Hindi,128,Good,Yes,Athletics,9,No,8,3,Science Club
+S060048,Kavya Jani,Hosteler,12 PCM,Netflix,16,Male,Petals,84,70,85,56,68,63,426,71.0,80.7,4.7,Software Engineer,Mathematics,English,129,Good,Yes,Cricket,10,Yes,7,3,Robotics Club
+S060371,Ekantika Thaman,Day Scholar,12 PCM,Shopify,17,Male,Divine,43,60,96,83,66,77,425,70.83,82.5,3.2,AI Engineer,Chemistry,English,130,Good,Yes,Volleyball,5,No,3,3,Photography
+S060308,Jatin Batta,Day Scholar,12 PCM,Netflix,17,Female,Divine,88,62,63,58,71,83,425,70.83,95.7,4.7,Robotics Engineer,Mathematics,Hindi,131,Good,No,,0,No,0,0,Quiz Club
+S060034,Robert Mammen,Hosteler,12 PCM,Shopify,16,Female,Divine,94,55,90,72,38,76,425,70.83,88.9,4.2,Civil Engineer,Computer Science,Physical Education,132,Good,No,,0,No,0,0,Music
+S060041,Gopal Chaudhary,Day Scholar,12 PCM,CloudCore,17,Male,Divine,61,83,83,63,56,79,425,70.83,76.1,5.9,Electrical Engineer,Chemistry,Physical Education,133,Good,Yes,Football,6,Yes,14,14,Coding Club
+S060044,Abhimanyu Walla,Day Scholar,12 PCM,Discord,16,Female,Divine,81,70,46,96,90,42,425,70.83,84.9,7.4,AI Engineer,Mathematics,Physical Education,134,Good,No,,0,No,0,0,Robotics Club
+S060175,Luke Bahl,Hosteler,12 PCM,CloudCore,17,Male,Paradise,80,50,61,82,86,65,424,70.67,91.9,6.5,Civil Engineer,Chemistry,Hindi,135,Good,Yes,Hockey,11,No,8,4,Quiz Club
+S060312,Falan Baral,Day Scholar,12 PCM,Netflix,16,Male,Divine,51,64,97,85,87,40,424,70.67,78.5,7.5,Architect,Chemistry,English,136,Good,No,,0,No,0,0,Drama
+S060098,Arin Khare,Day Scholar,12 PCM,Shopify,16,Female,Divine,93,37,74,46,78,96,424,70.67,81.4,5.3,Data Scientist,Computer Science,Hindi,137,Good,Yes,Badminton,3,No,3,3,Music
+S060283,Kritika Peri,Day Scholar,12 PCM,Shopify,16,Male,Divine,53,94,81,73,70,53,424,70.67,82.9,5.8,Pilot,Mathematics,Physical Education,138,Good,Yes,Cricket,3,No,1,1,Drama
+S060279,Ishwar Kant,Hosteler,12 PCM,CloudCore,17,Male,Paradise,35,72,69,100,68,79,423,70.5,97.7,4.4,Software Engineer,Mathematics,English,139,Good,Yes,Kabaddi,12,No,1,0,Dance
+S060090,Jacob Sandhu,Hosteler,12 PCM,Discord,16,Male,Passion,86,85,39,69,80,64,423,70.5,76.1,5.6,Civil Engineer,Chemistry,Hindi,140,Good,Yes,Cricket,5,No,3,2,Painting
+S060373,Anusha Panchal,Hosteler,12 PCM,Shopify,16,Female,Divine,92,53,57,83,79,59,423,70.5,78.6,6.0,Robotics Engineer,Physics,Hindi,141,Good,Yes,Cricket,6,Yes,13,11,Dance
+S060223,Aryan Prakash,Day Scholar,12 PCM,Discord,17,Male,Divine,55,40,70,99,95,63,422,70.33,80.8,5.1,Data Scientist,Mathematics,Physical Education,142,Good,Yes,Hockey,9,No,8,4,Robotics Club
+S060372,Logan Walia,Hosteler,12 PCM,Shopify,17,Female,Divine,100,80,53,37,85,66,421,70.17,96.6,1.5,Robotics Engineer,Computer Science,Physical Education,143,Good,Yes,Cricket,6,No,3,2,Public Speaking
+S060079,Adweta Rege,Day Scholar,12 PCM,CloudCore,16,Female,Divine,83,40,51,98,73,76,421,70.17,91.7,1.9,AI Engineer,Mathematics,English,144,Good,Yes,Cricket,11,Yes,12,6,Science Club
+S060258,Jacob Malhotra,Hosteler,12 PCM,Discord,16,Male,Petals,95,59,70,45,74,78,421,70.17,90.5,4.2,Civil Engineer,Physics,Physical Education,145,Good,Yes,Cricket,13,No,6,3,Science Club
+S060236,Gauri Kota,Day Scholar,12 PCM,CloudCore,17,Male,Divine,65,93,69,60,54,80,421,70.17,78.9,7.8,Robotics Engineer,Chemistry,Hindi,146,Good,Yes,Badminton,13,Yes,15,16,Volunteering
+S060011,Mason Acharya,Day Scholar,12 PCM,CloudCore,16,Female,Divine,77,72,52,45,95,80,421,70.17,84.2,2.2,Scientist,Physics,English,147,Good,Yes,Swimming,12,No,8,3,Volunteering
+S060146,Ayushman Datta,Hosteler,12 PCM,Shopify,16,Male,Petals,53,66,52,69,84,97,421,70.17,97.1,2.6,Mechanical Engineer,Chemistry,Hindi,148,Good,Yes,Cricket,7,No,10,5,Quiz Club
+S060254,Chatresh Barman,Day Scholar,12 PCM,Netflix,16,Female,Divine,96,69,58,61,61,75,420,70.0,97.3,2.6,Data Scientist,Chemistry,Physical Education,149,Good,Yes,Basketball,9,Yes,11,5,Chess
+S060240,Tanish Dada,Day Scholar,12 PCM,Netflix,16,Male,Divine,45,70,77,75,61,91,419,69.83,82.0,1.9,Electrical Engineer,Mathematics,English,150,Average,Yes,Badminton,11,No,2,2,Science Club
+S060346,Dev Banerjee,Day Scholar,12 PCM,CloudCore,17,Female,Divine,69,52,93,66,64,75,419,69.83,73.9,2.7,Data Scientist,Computer Science,Physical Education,151,Average,Yes,Hockey,13,Yes,10,6,Reading
+S060318,Jeevika Varkey,Day Scholar,12 PCM,Netflix,17,Male,Divine,66,73,87,56,95,42,419,69.83,75.3,6.5,Robotics Engineer,Mathematics,Physical Education,152,Average,Yes,Kabaddi,13,Yes,13,8,Reading
+S060181,Janya Mangat,Day Scholar,12 PCM,Shopify,17,Female,Divine,67,96,99,50,49,58,419,69.83,87.7,5.7,Robotics Engineer,Mathematics,Physical Education,153,Average,No,,0,No,0,0,Robotics Club
+S060026,Sai Sandhu,Hosteler,12 PCM,CloudCore,16,Male,Paradise,51,84,67,79,56,82,419,69.83,77.2,5.3,Software Engineer,Computer Science,Hindi,154,Average,Yes,Football,11,Yes,9,8,Painting
+S060325,Tripti Rau,Hosteler,12 PCM,Netflix,17,Male,Paradise,79,37,66,47,93,97,419,69.83,97.1,5.9,Scientist,Physics,Physical Education,155,Average,Yes,Volleyball,13,No,7,7,Robotics Club
+S060326,Ranveer Manda,Hosteler,12 PCM,Netflix,17,Male,Petals,45,94,83,78,62,57,419,69.83,85.9,2.8,Electrical Engineer,Computer Science,English,156,Average,Yes,Badminton,14,No,3,3,Robotics Club
+S060280,Bhavya Modi,Day Scholar,12 PCM,Discord,16,Female,Divine,84,35,72,75,88,64,418,69.67,82.1,6.7,Pilot,Mathematics,Hindi,157,Average,Yes,Football,14,No,4,4,Debate
+S060266,Bhavani Dube,Day Scholar,12 PCM,CloudCore,17,Male,Divine,48,89,83,92,67,39,418,69.67,86.9,6.2,Software Engineer,Mathematics,Hindi,158,Average,No,,0,No,0,0,Quiz Club
+S060385,Bhanumati Kuruvilla,Day Scholar,12 PCM,Discord,16,Female,Divine,79,40,50,73,83,92,417,69.5,82.7,2.0,AI Engineer,Physics,Physical Education,159,Average,Yes,Badminton,3,No,6,5,Entrepreneurship Club
+S060289,Aditya Basu,Day Scholar,12 PCM,Discord,16,Female,Divine,67,43,94,53,76,84,417,69.5,88.0,6.2,Electrical Engineer,Computer Science,English,160,Average,No,,0,No,0,0,Debate
+S060103,Meera Kapadia,Day Scholar,12 PCM,Shopify,16,Male,Divine,70,69,98,41,56,83,417,69.5,84.7,6.9,Civil Engineer,Mathematics,Physical Education,161,Average,No,,0,No,0,0,Painting
+S060390,Ojas Lalla,Day Scholar,12 PCM,Netflix,17,Male,Divine,65,84,67,87,36,78,417,69.5,73.6,3.9,Mechanical Engineer,Chemistry,English,162,Average,Yes,Football,5,No,10,4,Painting
+S060368,Upasna Raman,Hosteler,12 PCM,CloudCore,17,Male,Paradise,77,72,88,93,41,45,416,69.33,93.2,7.0,Software Engineer,Chemistry,Physical Education,163,Average,No,,0,No,0,0,Public Speaking
+S060161,Nitara Pandey,Day Scholar,12 PCM,Shopify,16,Male,Divine,93,60,58,65,81,59,416,69.33,70.5,7.1,Mechanical Engineer,Mathematics,Physical Education,164,Average,Yes,Cricket,9,No,8,5,Chess
+S060149,Hredhaan Nagarajan,Day Scholar,12 PCM,Shopify,17,Female,Divine,68,67,68,62,88,63,416,69.33,71.1,3.9,Scientist,Computer Science,Hindi,165,Average,Yes,Basketball,8,No,5,2,Volunteering
+S060135,Sai Peri,Hosteler,12 PCM,Netflix,17,Female,Divine,42,78,71,81,78,65,415,69.17,80.7,7.7,AI Engineer,Computer Science,English,166,Average,Yes,Volleyball,8,No,5,3,Chess
+S060394,Kashvi Vaidya,Day Scholar,12 PCM,Discord,16,Female,Divine,86,36,49,97,84,61,413,68.83,87.1,4.5,AI Engineer,Chemistry,Hindi,167,Average,Yes,Cricket,2,No,2,2,Music
+S060284,Ekansh Dey,Day Scholar,12 PCM,Discord,17,Male,Divine,56,94,64,90,70,39,413,68.83,94.0,2.0,Pilot,Computer Science,English,168,Average,Yes,Football,13,No,2,0,Public Speaking
+S060304,Kala Kothari,Day Scholar,12 PCM,Discord,17,Male,Divine,69,72,67,61,55,88,412,68.67,74.4,5.8,AI Engineer,Physics,Hindi,169,Average,Yes,Cricket,13,Yes,15,7,Robotics Club
+S060097,Lavanya Dass,Hosteler,12 PCM,Netflix,16,Female,Divine,60,87,67,98,55,44,411,68.5,72.6,7.0,Robotics Engineer,Computer Science,English,170,Average,Yes,Cricket,15,Yes,11,11,Quiz Club
+S060058,Lekha Bhakta,Day Scholar,12 PCM,CloudCore,17,Female,Divine,79,84,54,92,67,35,411,68.5,73.2,5.8,Data Scientist,Computer Science,Physical Education,171,Average,No,,0,No,0,0,Drama
+S060224,Mekhala Sahni,Hosteler,12 PCM,CloudCore,17,Female,Divine,93,63,70,49,38,98,411,68.5,91.8,1.3,Data Scientist,Mathematics,Hindi,172,Average,Yes,Football,10,Yes,7,4,Coding Club
+S060272,Udarsh Mangat,Day Scholar,12 PCM,CloudCore,16,Male,Divine,64,53,74,58,78,84,411,68.5,70.2,4.8,Pilot,Mathematics,Hindi,173,Average,No,,0,No,0,0,Science Club
+S060347,Daniel Dasgupta,Day Scholar,12 PCM,Shopify,17,Female,Divine,56,54,95,66,77,63,411,68.5,96.8,7.6,Robotics Engineer,Physics,English,174,Average,No,,0,No,0,0,Photography
+S060243,Maanav Gara,Hosteler,12 PCM,Netflix,17,Female,Divine,81,68,72,51,80,58,410,68.33,84.8,4.4,Data Scientist,Mathematics,Physical Education,175,Average,Yes,Basketball,10,No,4,4,Science Club
+S060144,Mugdha Bhatti,Day Scholar,12 PCM,Shopify,16,Female,Divine,46,74,67,84,62,77,410,68.33,94.3,3.3,Civil Engineer,Computer Science,Hindi,176,Average,Yes,Badminton,12,Yes,7,7,Painting
+S060316,Janaki Krishna,Day Scholar,12 PCM,Shopify,17,Female,Divine,63,90,35,74,61,87,410,68.33,97.2,1.1,Robotics Engineer,Mathematics,Physical Education,177,Average,Yes,Football,13,Yes,5,2,Public Speaking
+S060047,Qasim Rai,Hosteler,12 PCM,Netflix,16,Male,Passion,70,66,68,80,40,86,410,68.33,85.1,3.8,Scientist,Physics,English,178,Average,Yes,Basketball,14,Yes,7,4,Volunteering
+S060349,Finn Bajaj,Hosteler,12 PCM,Netflix,17,Female,Divine,86,56,88,58,62,59,409,68.17,71.0,2.9,Architect,Mathematics,Physical Education,179,Average,Yes,Cricket,14,No,7,7,Entrepreneurship Club
+S060155,Mohini Narayan,Day Scholar,12 PCM,Discord,17,Male,Divine,62,75,99,59,40,74,409,68.17,84.4,7.3,Mechanical Engineer,Physics,English,180,Average,No,,0,No,0,0,Volunteering
+S060267,Xalak Malhotra,Hosteler,12 PCM,CloudCore,17,Female,Divine,46,41,85,90,93,54,409,68.17,98.5,4.5,Robotics Engineer,Chemistry,Physical Education,181,Average,Yes,Athletics,9,No,10,4,Debate
+S060365,Rachita Puri,Hosteler,12 PCM,Shopify,17,Male,Paradise,46,99,72,51,84,56,408,68.0,79.3,5.6,Mechanical Engineer,Physics,English,182,Average,Yes,Volleyball,4,No,3,3,Debate
+S060133,Sathvik Tara,Day Scholar,12 PCM,CloudCore,17,Male,Divine,81,63,78,38,56,92,408,68.0,77.9,6.1,Civil Engineer,Computer Science,Hindi,183,Average,Yes,Volleyball,8,No,9,10,Dance
+S060007,Nirja Vora,Hosteler,12 PCM,CloudCore,17,Male,Paradise,87,52,54,98,54,63,408,68.0,97.2,5.8,Architect,Computer Science,Physical Education,184,Average,Yes,Kabaddi,7,Yes,9,8,Painting
+S060242,Samesh Srinivas,Day Scholar,12 PCM,Netflix,16,Male,Divine,56,100,38,78,38,98,408,68.0,96.2,6.0,Electrical Engineer,Physics,Physical Education,185,Average,Yes,Football,11,No,3,2,Entrepreneurship Club
+S060202,Ucchal Basak,Hosteler,12 PCM,CloudCore,17,Female,Divine,67,55,65,89,91,40,407,67.83,81.5,3.2,Pilot,Chemistry,Physical Education,186,Average,Yes,Cricket,2,No,2,0,Quiz Club
+S060356,Dipta Khare,Day Scholar,12 PCM,CloudCore,17,Female,Divine,84,49,38,83,87,66,407,67.83,88.2,7.2,Robotics Engineer,Physics,Physical Education,187,Average,No,,0,No,0,0,Photography
+S060015,David Munshi,Day Scholar,12 PCM,CloudCore,17,Male,Divine,79,54,60,62,96,56,407,67.83,95.8,5.6,Pilot,Physics,Physical Education,188,Average,Yes,Cricket,13,Yes,8,6,Robotics Club
+S060193,Falak Sharma,Hosteler,12 PCM,CloudCore,16,Male,Paradise,56,56,72,48,97,78,407,67.83,81.5,1.3,AI Engineer,Mathematics,Hindi,189,Average,Yes,Football,6,Yes,10,11,Reading
+S060310,Gagan Kaul,Day Scholar,12 PCM,Shopify,16,Female,Divine,81,87,76,87,36,40,407,67.83,83.4,3.2,Mechanical Engineer,Computer Science,Physical Education,190,Average,No,,0,No,0,0,Music
+S060077,Sara Bhardwaj,Hosteler,12 PCM,Shopify,17,Female,Divine,75,74,72,58,51,76,406,67.67,73.5,7.3,Mechanical Engineer,Chemistry,Physical Education,191,Average,No,,0,No,0,0,Dance
+S060080,Amrita Ramaswamy,Hosteler,12 PCM,CloudCore,16,Male,Petals,84,81,59,48,82,52,406,67.67,72.9,5.6,AI Engineer,Mathematics,Physical Education,192,Average,No,,0,No,0,0,Volunteering
+S060159,Manthan Kaur,Day Scholar,12 PCM,Shopify,17,Female,Divine,78,54,88,93,52,41,406,67.67,88.9,4.3,Electrical Engineer,Chemistry,Hindi,193,Average,No,,0,No,0,0,Photography
+S060229,Darika Prabhu,Day Scholar,12 PCM,Discord,17,Male,Divine,98,43,50,57,72,86,406,67.67,81.0,4.4,Software Engineer,Mathematics,English,194,Average,Yes,Badminton,5,No,9,6,Volunteering
+S060191,Zaid Ramanathan,Hosteler,12 PCM,Shopify,17,Male,Petals,66,71,35,97,45,91,405,67.5,76.9,3.7,Scientist,Mathematics,Hindi,195,Average,Yes,Football,6,No,4,2,Music
+S060188,Warjas Bhasin,Day Scholar,12 PCM,Netflix,16,Male,Divine,49,62,54,66,82,92,405,67.5,85.9,6.6,Robotics Engineer,Physics,English,196,Average,Yes,Cricket,7,No,10,12,Quiz Club
+S060055,Chaaya Nair,Hosteler,12 PCM,CloudCore,16,Female,Divine,80,78,50,47,63,87,405,67.5,85.0,6.6,Mechanical Engineer,Physics,Hindi,197,Average,Yes,Badminton,13,No,8,6,Science Club
+S060059,Abhimanyu Babu,Hosteler,12 PCM,Netflix,17,Male,Petals,64,42,84,82,44,89,405,67.5,90.2,2.2,Scientist,Computer Science,English,198,Average,Yes,Badminton,11,Yes,15,9,Coding Club
+S060330,Idika Tripathi,Hosteler,12 PCM,Shopify,16,Female,Divine,92,84,55,81,53,40,405,67.5,76.6,1.7,Mechanical Engineer,Mathematics,Physical Education,199,Average,Yes,Cricket,3,No,10,8,Painting
+S060206,Yatin Randhawa,Hosteler,12 PCM,Shopify,17,Male,Petals,48,56,100,59,83,59,405,67.5,86.5,4.0,Software Engineer,Computer Science,Physical Education,200,Average,Yes,Badminton,12,No,6,6,Science Club
+S060082,Aayush Jani,Day Scholar,12 PCM,Discord,16,Female,Divine,74,69,61,62,43,96,405,67.5,90.5,3.5,AI Engineer,Chemistry,Hindi,201,Average,No,,0,No,0,0,Drama
+S060071,Bhavika Upadhyay,Hosteler,12 PCM,Shopify,16,Female,Divine,35,76,74,84,43,92,404,67.33,80.9,6.9,Software Engineer,Chemistry,English,202,Average,No,,0,No,0,0,Debate
+S060043,Om Joshi,Day Scholar,12 PCM,Netflix,17,Female,Divine,37,91,61,54,87,74,404,67.33,93.2,4.9,Mechanical Engineer,Chemistry,Physical Education,203,Average,No,,0,No,0,0,Entrepreneurship Club
+S060207,Isha Bhalla,Day Scholar,12 PCM,Netflix,16,Male,Divine,58,64,80,93,64,45,404,67.33,72.1,1.6,AI Engineer,Chemistry,Physical Education,204,Average,Yes,Cricket,8,Yes,11,7,Photography
+S060128,Urvi Gokhale,Day Scholar,12 PCM,Discord,16,Male,Divine,36,72,100,71,49,76,404,67.33,89.6,3.0,Software Engineer,Physics,English,205,Average,No,,0,No,0,0,Music
+S060322,Priya Deshmukh,Hosteler,12 PCM,Shopify,16,Male,Petals,61,98,98,66,35,46,404,67.33,97.9,1.2,Electrical Engineer,Chemistry,English,206,Average,No,,0,No,0,0,Dance
+S060296,Utkarsh Dada,Day Scholar,12 PCM,Discord,17,Female,Divine,82,36,62,66,58,100,404,67.33,70.7,2.9,AI Engineer,Mathematics,English,207,Average,Yes,Basketball,4,Yes,13,8,Robotics Club
+S060395,Zaitra Patil,Day Scholar,12 PCM,Shopify,16,Male,Divine,79,63,84,35,88,54,403,67.17,70.4,2.3,Robotics Engineer,Computer Science,English,208,Average,Yes,Football,9,Yes,14,5,Quiz Club
+S060106,Chatresh Talwar,Day Scholar,12 PCM,Netflix,17,Female,Divine,64,68,77,38,65,91,403,67.17,86.6,7.6,Mechanical Engineer,Physics,Hindi,209,Average,No,,0,No,0,0,Volunteering
+S060227,Lakshit Kaur,Day Scholar,12 PCM,Netflix,17,Male,Divine,60,93,70,58,42,79,402,67.0,91.6,6.3,Civil Engineer,Mathematics,Hindi,210,Average,Yes,Cricket,10,No,3,2,Drama
+S060239,Anvi Nadkarni,Day Scholar,12 PCM,CloudCore,16,Female,Divine,66,81,60,68,52,75,402,67.0,73.7,3.9,Pilot,Mathematics,Hindi,211,Average,Yes,Football,15,Yes,11,4,Coding Club
+S060381,Balveer Rege,Day Scholar,12 PCM,Netflix,16,Male,Divine,52,93,93,66,41,57,402,67.0,83.1,3.3,Mechanical Engineer,Chemistry,Hindi,212,Average,No,,0,No,0,0,Chess
+S060205,Ekani Saxena,Day Scholar,12 PCM,CloudCore,17,Male,Divine,79,72,43,90,61,57,402,67.0,92.6,7.7,Robotics Engineer,Mathematics,Physical Education,213,Average,Yes,Badminton,5,Yes,7,5,Chess
+S060190,Chakrika Kalla,Day Scholar,12 PCM,Shopify,16,Male,Divine,77,76,71,88,55,35,402,67.0,94.9,3.4,Data Scientist,Computer Science,Physical Education,214,Average,Yes,Cricket,8,No,7,7,Volunteering
+S060354,Radha Mann,Hosteler,12 PCM,Netflix,16,Female,Divine,65,41,78,94,56,68,402,67.0,99.9,1.2,Scientist,Physics,English,215,Average,Yes,Hockey,12,Yes,11,13,Volunteering
+S060107,Unnati Kanda,Hosteler,12 PCM,CloudCore,17,Male,Paradise,82,86,59,58,50,66,401,66.83,79.1,6.2,Scientist,Mathematics,English,216,Average,Yes,Cricket,10,No,5,5,Coding Club
+S060252,Rajeshri Reddy,Day Scholar,12 PCM,Discord,16,Male,Divine,40,70,84,78,81,47,400,66.67,86.6,2.6,Pilot,Physics,English,217,Average,Yes,Cricket,9,No,10,11,Drama
+S060137,Sarthak Modi,Hosteler,12 PCM,Netflix,17,Female,Divine,72,60,45,95,46,82,400,66.67,86.8,6.4,Mechanical Engineer,Computer Science,Physical Education,218,Average,Yes,Basketball,9,No,10,8,Quiz Club
+S060065,Hiral Srivastava,Day Scholar,12 PCM,Netflix,16,Female,Divine,63,79,40,97,68,53,400,66.67,79.2,5.7,Pilot,Mathematics,Physical Education,219,Average,Yes,Football,8,No,4,2,Entrepreneurship Club
+S060117,Kala Halder,Day Scholar,12 PCM,Netflix,17,Male,Divine,69,40,98,39,93,61,400,66.67,85.9,2.9,Architect,Physics,English,220,Average,Yes,Cricket,6,No,6,4,Science Club
+S060357,Jacob Ganesan,Hosteler,12 PCM,CloudCore,16,Female,Divine,84,78,36,89,44,69,400,66.67,80.5,1.1,Mechanical Engineer,Chemistry,Hindi,221,Average,No,,0,No,0,0,Debate
+S060197,Nathaniel Joshi,Day Scholar,12 PCM,Shopify,16,Female,Divine,59,50,71,56,87,76,399,66.5,97.2,6.8,AI Engineer,Physics,Hindi,222,Average,Yes,Cricket,11,Yes,12,9,Dance
+S060186,Wridesh Rana,Day Scholar,12 PCM,CloudCore,17,Male,Divine,83,93,35,75,76,37,399,66.5,76.8,7.5,AI Engineer,Mathematics,English,223,Average,No,,0,No,0,0,Painting
+S060238,Indira Ahuja,Hosteler,12 PCM,Discord,17,Female,Divine,97,48,66,86,61,41,399,66.5,96.1,2.2,Architect,Mathematics,English,224,Average,No,,0,No,0,0,Music
+S060275,Harsh Sen,Hosteler,12 PCM,Shopify,17,Female,Divine,41,70,45,97,74,71,398,66.33,86.8,1.6,Electrical Engineer,Chemistry,Physical Education,225,Average,Yes,Football,12,Yes,13,13,Entrepreneurship Club
+S060210,Bhavika Mand,Hosteler,12 PCM,Netflix,17,Female,Divine,67,70,80,70,56,55,398,66.33,80.1,2.4,Architect,Physics,Physical Education,226,Average,Yes,Cricket,4,No,8,8,Reading
+S060003,Wyatt Minhas,Day Scholar,12 PCM,Shopify,17,Female,Divine,45,82,91,57,49,74,398,66.33,96.7,1.5,Architect,Computer Science,English,227,Average,Yes,Football,9,Yes,15,9,Debate
+S060050,Michael Kannan,Day Scholar,12 PCM,CloudCore,17,Female,Divine,89,35,73,42,62,96,397,66.17,83.2,4.2,Pilot,Physics,Physical Education,228,Average,Yes,Athletics,4,No,7,5,Entrepreneurship Club
+S060078,Idika Hari,Day Scholar,12 PCM,Shopify,17,Male,Divine,40,66,67,78,81,64,396,66.0,74.8,7.9,Software Engineer,Computer Science,Hindi,229,Average,No,,0,No,0,0,Public Speaking
+S060274,Amaira Dhar,Day Scholar,12 PCM,Discord,17,Female,Divine,91,38,98,40,89,40,396,66.0,78.2,3.6,AI Engineer,Chemistry,English,230,Average,Yes,Cricket,5,No,3,3,Science Club
+S060032,Aadi Parmer,Day Scholar,12 PCM,Netflix,17,Female,Divine,86,45,51,81,97,36,396,66.0,76.6,1.7,Software Engineer,Mathematics,Physical Education,231,Average,Yes,Cricket,8,No,8,5,Music
+S060014,Eshana Sarraf,Day Scholar,12 PCM,Netflix,17,Female,Divine,92,86,44,65,40,69,396,66.0,72.7,7.4,Architect,Chemistry,Physical Education,232,Average,Yes,Cricket,10,Yes,11,7,Science Club
+S060297,Nilima Das,Hosteler,12 PCM,Netflix,16,Male,Petals,36,94,96,47,57,65,395,65.83,98.2,1.9,Electrical Engineer,Computer Science,Physical Education,233,Average,Yes,Basketball,14,Yes,15,18,Public Speaking
+S060054,Elijah Subramaniam,Day Scholar,12 PCM,Discord,17,Female,Divine,94,47,46,82,42,84,395,65.83,88.2,6.4,AI Engineer,Chemistry,Hindi,234,Average,No,,0,No,0,0,Public Speaking
+S060110,Ansh Rout,Day Scholar,12 PCM,CloudCore,16,Female,Divine,85,90,39,66,62,52,394,65.67,94.7,5.0,Mechanical Engineer,Mathematics,English,235,Average,Yes,Basketball,14,No,4,3,Chess
+S060383,Sathvik Narayanan,Day Scholar,12 PCM,CloudCore,17,Female,Divine,45,84,77,43,70,75,394,65.67,100.0,4.0,Mechanical Engineer,Chemistry,English,236,Average,Yes,Cricket,6,No,8,9,Volunteering
+S060010,Daksh Bora,Day Scholar,12 PCM,Netflix,16,Female,Divine,39,36,88,57,97,77,394,65.67,79.1,2.3,Mechanical Engineer,Mathematics,Hindi,237,Average,No,,0,No,0,0,Public Speaking
+S060013,Gayathri Narang,Hosteler,12 PCM,Discord,17,Male,Passion,70,100,97,46,40,41,394,65.67,70.4,4.9,Robotics Engineer,Chemistry,Physical Education,238,Average,Yes,Cricket,15,Yes,14,6,Dance
+S060008,Ikshita Nanda,Day Scholar,12 PCM,Shopify,17,Male,Divine,64,82,42,76,92,37,393,65.5,70.9,6.0,Pilot,Physics,Hindi,239,Average,Yes,Hockey,8,No,1,0,Quiz Club
+S060091,Ishanvi Shan,Hosteler,12 PCM,Netflix,16,Female,Divine,49,74,90,79,47,54,393,65.5,73.6,7.1,Data Scientist,Computer Science,Physical Education,240,Average,No,,0,No,0,0,Public Speaking
+S060384,Krishna Balan,Hosteler,12 PCM,CloudCore,17,Male,Passion,44,82,56,73,54,83,392,65.33,79.9,4.5,Architect,Physics,Physical Education,241,Average,Yes,Football,10,Yes,11,7,Debate
+S060265,Brijesh Hayre,Hosteler,12 PCM,Discord,17,Female,Divine,69,76,40,68,86,53,392,65.33,96.3,2.8,Data Scientist,Mathematics,Physical Education,242,Average,Yes,Cricket,6,No,1,1,Entrepreneurship Club
+S060184,Udarsh Borde,Day Scholar,12 PCM,Netflix,17,Female,Divine,61,79,66,99,44,43,392,65.33,80.6,7.0,Civil Engineer,Computer Science,English,243,Average,Yes,Cricket,13,Yes,15,8,Science Club
+S060108,Shivani Sheth,Hosteler,12 PCM,Discord,17,Female,Divine,93,61,42,70,46,80,392,65.33,76.6,6.7,Pilot,Physics,Hindi,244,Average,Yes,Basketball,10,No,4,2,Debate
+S060072,Yahvi Gera,Hosteler,12 PCM,Netflix,17,Female,Divine,77,60,46,59,50,100,392,65.33,97.6,1.1,Mechanical Engineer,Chemistry,Hindi,245,Average,Yes,Badminton,15,No,8,8,Music
+S060101,Ati Dyal,Hosteler,12 PCM,CloudCore,16,Female,Divine,50,49,77,74,47,94,391,65.17,88.8,2.3,AI Engineer,Physics,Physical Education,246,Average,Yes,Football,15,No,8,7,Debate
+S060196,Aadi Swaminathan,Hosteler,12 PCM,Discord,17,Male,Paradise,49,48,71,55,69,99,391,65.17,73.3,1.0,Pilot,Chemistry,Physical Education,247,Average,Yes,Athletics,14,Yes,13,10,Quiz Club
+S060333,Rayaan Mannan,Hosteler,12 PCM,Netflix,16,Male,Petals,73,45,96,78,61,37,390,65.0,80.8,2.4,Robotics Engineer,Mathematics,English,248,Average,Yes,Badminton,12,Yes,7,3,Volunteering
+S060208,Tamanna Purohit,Hosteler,12 PCM,CloudCore,16,Male,Passion,66,74,94,42,79,35,390,65.0,84.9,3.6,AI Engineer,Mathematics,Physical Education,249,Average,No,,0,No,0,0,Robotics Club
+S060268,Vinaya Om,Day Scholar,12 PCM,Netflix,16,Female,Divine,62,93,95,41,44,55,390,65.0,96.4,1.8,Software Engineer,Mathematics,Physical Education,250,Average,No,,0,No,0,0,Entrepreneurship Club
+S060029,Leela Sharma,Hosteler,12 PCM,CloudCore,16,Male,Passion,51,54,80,86,55,64,390,65.0,96.9,6.8,Robotics Engineer,Computer Science,Physical Education,251,Average,Yes,Football,4,No,3,3,Painting
+S060021,Zaitra Grewal,Day Scholar,12 PCM,Discord,16,Female,Divine,43,87,74,86,52,48,390,65.0,75.7,8.0,Software Engineer,Physics,Physical Education,252,Average,Yes,Kabaddi,13,Yes,13,16,Volunteering
+S060126,Warda Ghosh,Hosteler,12 PCM,Netflix,16,Male,Petals,52,90,70,51,80,47,390,65.0,96.1,3.6,AI Engineer,Computer Science,Physical Education,253,Average,Yes,Cricket,3,No,1,1,Volunteering
+S060166,Vrishti Mody,Hosteler,12 PCM,Discord,16,Female,Divine,53,47,94,36,69,91,390,65.0,94.6,3.4,Mechanical Engineer,Chemistry,Physical Education,254,Average,Yes,Cricket,7,No,9,3,Robotics Club
+S060263,Balveer Ratta,Day Scholar,12 PCM,Netflix,16,Female,Divine,78,78,35,78,47,73,389,64.83,78.9,6.8,Data Scientist,Chemistry,English,255,Average,No,,0,No,0,0,Chess
+S060295,Samar Ray,Day Scholar,12 PCM,Discord,16,Male,Divine,75,75,71,43,70,55,389,64.83,96.5,4.7,Architect,Mathematics,English,256,Average,Yes,Volleyball,11,Yes,7,7,Painting
+S060269,Quincy Ranganathan,Day Scholar,12 PCM,Netflix,16,Male,Divine,66,91,36,69,91,35,388,64.67,84.5,5.1,Pilot,Mathematics,English,257,Average,Yes,Cricket,15,No,10,8,Photography
+S060319,Radhika Gandhi,Day Scholar,12 PCM,Netflix,17,Female,Divine,88,85,48,40,80,47,388,64.67,72.6,1.3,Pilot,Computer Science,English,258,Average,No,,0,No,0,0,Entrepreneurship Club
+S060270,Karan Johal,Day Scholar,12 PCM,Shopify,17,Female,Divine,85,57,90,52,41,63,388,64.67,98.6,7.7,Mechanical Engineer,Physics,English,259,Average,Yes,Hockey,4,No,9,9,Coding Club
+S060140,Lipika Varughese,Hosteler,12 PCM,Shopify,16,Female,Divine,98,40,58,35,65,92,388,64.67,86.8,5.3,Architect,Mathematics,Hindi,260,Average,No,,0,No,0,0,Coding Club
+S060261,Harita Dyal,Day Scholar,12 PCM,Discord,16,Male,Divine,81,92,38,60,56,60,387,64.5,93.8,7.0,Software Engineer,Mathematics,English,261,Average,Yes,Football,2,Yes,13,16,Coding Club
+S060302,Baljiwan Shukla,Hosteler,12 PCM,Netflix,17,Male,Passion,49,49,53,91,79,66,387,64.5,83.9,7.4,Data Scientist,Chemistry,English,262,Average,Yes,Badminton,10,Yes,9,7,Coding Club
+S060075,Fitan Grover,Hosteler,12 PCM,Discord,17,Male,Paradise,62,97,45,99,48,36,387,64.5,74.5,3.2,Architect,Mathematics,Hindi,263,Average,Yes,Kabaddi,4,Yes,9,9,Volunteering
+S060387,Yachana Sangha,Hosteler,12 PCM,Netflix,17,Male,Petals,73,36,97,51,46,84,387,64.5,84.4,6.9,Software Engineer,Mathematics,Hindi,264,Average,Yes,Football,3,Yes,14,10,Coding Club
+S060214,Krishna Khalsa,Hosteler,12 PCM,Shopify,17,Male,Passion,74,91,75,52,50,44,386,64.33,92.5,7.6,Architect,Chemistry,Hindi,265,Average,Yes,Badminton,7,Yes,5,3,Robotics Club
+S060232,Faras Vaidya,Day Scholar,12 PCM,Netflix,17,Male,Divine,72,63,38,94,66,52,385,64.17,89.8,6.4,Civil Engineer,Computer Science,Physical Education,266,Average,Yes,Kabaddi,14,Yes,10,12,Painting
+S060052,Hema Natt,Hosteler,12 PCM,Netflix,16,Male,Paradise,73,50,75,63,62,62,385,64.17,95.4,3.9,Pilot,Physics,English,267,Average,Yes,Football,7,No,7,6,Dance
+S060070,Ria Char,Day Scholar,12 PCM,Shopify,17,Male,Divine,98,51,61,46,53,76,385,64.17,75.4,2.4,Civil Engineer,Mathematics,Physical Education,268,Average,Yes,Kabaddi,15,No,3,2,Chess
+S060225,Ridhi Sheth,Day Scholar,12 PCM,Discord,17,Female,Divine,59,48,76,65,85,52,385,64.17,97.0,6.8,Architect,Chemistry,English,269,Average,No,,0,No,0,0,Robotics Club
+S060179,Omya Bhavsar,Day Scholar,12 PCM,Shopify,16,Female,Divine,49,46,88,59,61,82,385,64.17,76.4,1.5,Robotics Engineer,Computer Science,Physical Education,270,Average,No,,0,No,0,0,Chess
+S060331,Lajita Randhawa,Hosteler,12 PCM,Discord,17,Female,Divine,62,56,84,98,38,47,385,64.17,83.4,1.8,Pilot,Computer Science,Physical Education,271,Average,Yes,Hockey,10,No,6,2,Science Club
+S060215,Irya Munshi,Hosteler,12 PCM,CloudCore,16,Male,Paradise,74,61,65,48,37,99,384,64.0,99.2,1.4,Data Scientist,Mathematics,Physical Education,272,Average,Yes,Badminton,9,Yes,6,6,Painting
+S060334,Xavier Lanka,Day Scholar,12 PCM,Netflix,16,Male,Divine,38,92,76,75,35,68,384,64.0,86.4,3.9,Mechanical Engineer,Computer Science,English,273,Average,Yes,Basketball,7,No,9,9,Drama
+S060006,Ganga Hegde,Day Scholar,12 PCM,Netflix,17,Male,Divine,38,60,72,69,75,70,384,64.0,90.2,6.5,Civil Engineer,Physics,English,274,Average,Yes,Football,9,No,2,0,Coding Club
+S060086,Finn Chander,Hosteler,12 PCM,CloudCore,16,Male,Petals,76,68,40,91,36,72,383,63.83,90.6,7.9,Mechanical Engineer,Chemistry,Hindi,275,Average,No,,0,No,0,0,Painting
+S060233,Anita Hayer,Hosteler,12 PCM,CloudCore,17,Female,Divine,62,42,68,64,100,47,383,63.83,88.7,7.1,Software Engineer,Chemistry,Hindi,276,Average,Yes,Kabaddi,7,No,4,2,Dance
+S060220,Arunima Zachariah,Day Scholar,12 PCM,Netflix,17,Male,Divine,49,60,50,65,78,81,383,63.83,87.1,1.9,Scientist,Chemistry,Physical Education,277,Average,Yes,Badminton,7,No,9,6,Volunteering
+S060025,Logan Dhar,Day Scholar,12 PCM,Netflix,16,Female,Divine,96,79,35,40,59,74,383,63.83,92.6,1.4,Robotics Engineer,Chemistry,Hindi,278,Average,Yes,Cricket,12,No,8,8,Music
+S060255,Jonathan Sastry,Day Scholar,12 PCM,Discord,16,Male,Divine,62,88,58,45,79,50,382,63.67,74.1,1.0,Software Engineer,Chemistry,English,279,Average,No,,0,No,0,0,Painting
+S060139,Reyansh Singhal,Hosteler,12 PCM,Netflix,16,Male,Paradise,82,61,57,40,55,86,381,63.5,71.0,6.0,Electrical Engineer,Chemistry,Physical Education,280,Average,Yes,Hockey,2,No,1,1,Debate
+S060212,Chandran Devi,Day Scholar,12 PCM,Netflix,16,Male,Divine,64,86,80,36,77,38,381,63.5,84.7,4.5,Software Engineer,Chemistry,English,281,Average,Yes,Athletics,10,Yes,8,6,Music
+S060169,Nirja D’Alia,Day Scholar,12 PCM,Netflix,17,Female,Divine,38,67,73,40,84,79,381,63.5,94.8,7.9,Software Engineer,Chemistry,Hindi,282,Average,Yes,Cricket,10,No,8,8,Public Speaking
+S060219,Thomas Goel,Hosteler,12 PCM,Discord,16,Male,Passion,74,51,48,40,87,81,381,63.5,94.1,3.1,Scientist,Physics,English,283,Average,Yes,Cricket,9,Yes,13,13,Entrepreneurship Club
+S060244,Kiaan Mall,Day Scholar,12 PCM,Discord,17,Female,Divine,66,39,74,89,71,41,380,63.33,70.3,5.0,Pilot,Chemistry,Hindi,284,Average,No,,0,No,0,0,Dance
+S060031,Teerth Ahluwalia,Hosteler,12 PCM,Shopify,16,Male,Petals,92,36,69,60,59,64,380,63.33,89.0,4.8,Robotics Engineer,Chemistry,Physical Education,285,Average,Yes,Cricket,2,No,1,1,Painting
+S060260,Girindra Khalsa,Hosteler,12 PCM,Discord,17,Male,Petals,76,87,39,51,65,61,379,63.17,94.3,7.3,Robotics Engineer,Computer Science,Hindi,286,Average,No,,0,No,0,0,Drama
+S060314,Vrishti Bassi,Hosteler,12 PCM,Netflix,16,Male,Paradise,82,39,46,74,85,52,378,63.0,83.8,4.0,Data Scientist,Mathematics,English,287,Average,Yes,Cricket,2,No,1,1,Painting
+S060064,Aarini Tara,Day Scholar,12 PCM,Netflix,16,Female,Divine,68,70,80,38,86,36,378,63.0,82.4,1.9,Software Engineer,Mathematics,Hindi,288,Average,Yes,Volleyball,3,Yes,13,5,Volunteering
+S060182,Yachana Mohan,Hosteler,12 PCM,Discord,17,Female,Divine,92,64,56,51,52,63,378,63.0,89.3,4.6,Robotics Engineer,Physics,English,289,Average,Yes,Basketball,3,No,2,1,Robotics Club
+S060053,Ethan Bhatti,Day Scholar,12 PCM,Shopify,16,Male,Divine,75,35,38,56,78,96,378,63.0,73.2,7.1,AI Engineer,Physics,English,290,Average,No,,0,No,0,0,Quiz Club
+S060339,Onveer Mohan,Day Scholar,12 PCM,Netflix,17,Female,Divine,44,46,93,41,85,69,378,63.0,87.0,7.4,Data Scientist,Computer Science,English,291,Average,Yes,Athletics,12,No,3,3,Chess
+S060160,Reyansh Padmanabhan,Hosteler,12 PCM,CloudCore,16,Female,Divine,35,35,80,90,97,40,377,62.83,79.6,7.7,AI Engineer,Chemistry,English,292,Average,Yes,Volleyball,3,No,5,2,Dance
+S060093,Jalsa Sawhney,Hosteler,12 PCM,CloudCore,16,Female,Divine,44,66,98,60,48,61,377,62.83,97.3,3.8,Scientist,Computer Science,English,293,Average,Yes,Badminton,8,No,6,3,Science Club
+S060028,Imaran Narasimhan,Day Scholar,12 PCM,CloudCore,17,Male,Divine,60,96,38,42,80,61,377,62.83,88.0,2.5,AI Engineer,Computer Science,Hindi,294,Average,Yes,Football,15,Yes,5,5,Music
+S060194,Rohan Parikh,Hosteler,12 PCM,CloudCore,17,Female,Divine,77,69,50,59,62,60,377,62.83,80.8,6.6,Mechanical Engineer,Mathematics,Physical Education,295,Average,No,,0,No,0,0,Reading
+S060257,Warjas Deo,Hosteler,12 PCM,Discord,17,Male,Petals,59,43,93,63,38,81,377,62.83,88.7,6.9,Architect,Computer Science,English,296,Average,Yes,Badminton,3,No,4,2,Debate
+S060292,Leela Bir,Hosteler,12 PCM,Discord,16,Male,Paradise,93,55,47,51,50,81,377,62.83,89.0,7.3,AI Engineer,Chemistry,Hindi,297,Average,No,,0,No,0,0,Robotics Club
+S060035,Jeremiah Bhargava,Hosteler,12 PCM,CloudCore,16,Female,Divine,68,51,62,39,63,93,376,62.67,90.3,1.6,Scientist,Physics,English,298,Average,Yes,Basketball,6,No,7,7,Coding Club
+S060226,Bhavini Misra,Day Scholar,12 PCM,Netflix,17,Male,Divine,45,75,67,38,87,64,376,62.67,96.9,1.1,Mechanical Engineer,Computer Science,Physical Education,299,Average,No,,0,No,0,0,Drama
+S060127,Krish Korpal,Day Scholar,12 PCM,CloudCore,17,Male,Divine,78,40,66,41,100,50,375,62.5,95.3,2.8,Scientist,Computer Science,Hindi,300,Average,Yes,Cricket,9,No,4,4,Painting
+S060351,Warda Sandhu,Day Scholar,12 PCM,CloudCore,16,Female,Divine,71,56,45,73,57,73,375,62.5,85.2,7.3,Scientist,Chemistry,Physical Education,301,Average,No,,0,No,0,0,Science Club
+S060121,Lakshmi Ganesh,Hosteler,12 PCM,CloudCore,16,Male,Petals,81,55,61,39,51,86,373,62.17,76.6,7.7,Software Engineer,Chemistry,Hindi,302,Average,Yes,Football,7,No,6,5,Volunteering
+S060168,Pranit Gera,Hosteler,12 PCM,Shopify,16,Male,Paradise,43,42,79,81,45,83,373,62.17,91.5,1.5,Scientist,Chemistry,Hindi,303,Average,Yes,Volleyball,9,No,8,7,Entrepreneurship Club
+S060379,Charles Srinivas,Day Scholar,12 PCM,Discord,17,Female,Divine,38,94,37,53,83,67,372,62.0,74.2,6.6,AI Engineer,Computer Science,Hindi,304,Average,Yes,Volleyball,8,Yes,8,6,Coding Club
+S060151,Yatan Dash,Hosteler,12 PCM,Netflix,16,Male,Passion,45,46,79,37,78,87,372,62.0,77.1,3.2,Architect,Mathematics,English,305,Average,No,,0,No,0,0,Coding Club
+S060374,Matthew Babu,Day Scholar,12 PCM,Netflix,17,Male,Divine,41,66,60,64,42,99,372,62.0,78.4,4.7,Scientist,Chemistry,Hindi,306,Average,No,,0,No,0,0,Chess
+S060092,Wriddhish Issac,Day Scholar,12 PCM,Discord,17,Male,Divine,37,74,63,83,67,47,371,61.83,91.8,5.1,Scientist,Mathematics,Physical Education,307,Average,Yes,Football,11,No,5,4,Dance
+S060030,Tamanna Sagar,Hosteler,12 PCM,Discord,16,Male,Passion,61,48,39,64,64,95,371,61.83,86.3,5.1,Robotics Engineer,Chemistry,Hindi,308,Average,Yes,Cricket,3,No,8,10,Drama
+S060248,Widisha Yohannan,Day Scholar,12 PCM,Shopify,17,Male,Divine,72,60,50,85,42,62,371,61.83,71.8,6.8,Electrical Engineer,Mathematics,English,309,Average,Yes,Hockey,13,No,10,10,Coding Club
+S060398,Gopal Srivastava,Day Scholar,12 PCM,Shopify,16,Male,Divine,87,45,49,100,54,36,371,61.83,90.6,4.0,Civil Engineer,Mathematics,Physical Education,310,Average,Yes,Kabaddi,9,No,7,8,Dance
+S060234,Dalbir Cheema,Hosteler,12 PCM,Shopify,16,Female,Divine,71,94,37,71,50,48,371,61.83,72.8,4.0,Mechanical Engineer,Chemistry,English,311,Average,Yes,Kabaddi,14,Yes,12,7,Photography
+S060393,Harinakshi Parikh,Day Scholar,12 PCM,Netflix,16,Male,Divine,41,68,61,84,58,58,370,61.67,82.7,1.9,Electrical Engineer,Physics,English,312,Average,No,,0,No,0,0,Science Club
+S060294,Prisha Joshi,Hosteler,12 PCM,Netflix,16,Female,Divine,54,71,59,51,84,51,370,61.67,90.2,1.6,Mechanical Engineer,Physics,English,313,Average,No,,0,No,0,0,Entrepreneurship Club
+S060359,Vansha Aggarwal,Hosteler,12 PCM,Shopify,17,Male,Paradise,57,42,85,45,68,72,369,61.5,71.1,4.2,Civil Engineer,Computer Science,Physical Education,314,Average,Yes,Cricket,9,No,10,4,Painting
+S060017,Jagvi Atwal,Hosteler,12 PCM,Discord,17,Female,Divine,35,97,50,49,88,50,369,61.5,98.0,2.8,Architect,Physics,English,315,Average,Yes,Basketball,7,No,1,1,Robotics Club
+S060353,Harita Saran,Day Scholar,12 PCM,Netflix,16,Female,Divine,50,81,65,35,42,94,367,61.17,77.8,7.9,Data Scientist,Chemistry,Hindi,316,Average,Yes,Kabaddi,9,Yes,6,3,Volunteering
+S060300,Dalbir Manda,Day Scholar,12 PCM,Discord,16,Male,Divine,57,94,41,52,43,79,366,61.0,76.2,2.8,Civil Engineer,Chemistry,Physical Education,317,Average,No,,0,No,0,0,Chess
+S060057,Wazir Banik,Hosteler,12 PCM,Discord,16,Male,Paradise,70,80,55,52,40,68,365,60.83,98.3,6.8,Pilot,Physics,Hindi,318,Average,Yes,Cricket,7,No,1,1,Public Speaking
+S060253,Qasim Puri,Hosteler,12 PCM,Netflix,17,Female,Divine,52,51,55,39,96,72,365,60.83,75.1,7.6,Electrical Engineer,Chemistry,Hindi,319,Average,Yes,Cricket,10,No,3,1,Painting
+S060171,Ria Pingle,Day Scholar,12 PCM,Discord,16,Male,Divine,49,55,87,38,51,84,364,60.67,86.8,4.6,AI Engineer,Physics,English,320,Average,No,,0,No,0,0,Public Speaking
+S060231,Parth Wali,Day Scholar,12 PCM,CloudCore,17,Male,Divine,88,95,45,49,37,50,364,60.67,93.4,2.6,Software Engineer,Mathematics,Hindi,321,Average,Yes,Football,11,No,2,1,Photography
+S060340,Riya Suri,Hosteler,12 PCM,Shopify,16,Male,Passion,42,92,38,74,73,45,364,60.67,87.3,7.4,Pilot,Mathematics,Hindi,322,Average,Yes,Badminton,9,No,4,1,Debate
+S060099,Aarna Lal,Day Scholar,12 PCM,Shopify,16,Male,Divine,92,58,39,85,50,40,364,60.67,83.7,4.0,Scientist,Chemistry,English,323,Average,Yes,Athletics,9,No,4,5,Robotics Club
+S060218,Wishi Krishna,Day Scholar,12 PCM,Shopify,16,Female,Divine,59,58,43,71,96,36,363,60.5,98.9,3.0,Scientist,Computer Science,Hindi,324,Average,Yes,Kabaddi,8,No,7,6,Science Club
+S060345,Vinaya Shan,Day Scholar,12 PCM,CloudCore,17,Female,Divine,37,55,67,38,66,99,362,60.33,75.9,5.2,AI Engineer,Mathematics,Hindi,325,Average,Yes,Hockey,13,No,10,9,Reading
+S060204,Yatin Kashyap,Hosteler,12 PCM,Shopify,17,Male,Paradise,62,39,82,44,37,98,362,60.33,93.9,6.6,AI Engineer,Mathematics,Hindi,326,Average,Yes,Badminton,14,No,4,4,Science Club
+S060145,Yutika Bhat,Hosteler,12 PCM,Netflix,17,Male,Petals,70,36,54,83,36,83,362,60.33,81.7,5.7,Robotics Engineer,Physics,English,327,Average,No,,0,No,0,0,Dance
+S060320,Jai Ranganathan,Day Scholar,12 PCM,Netflix,16,Female,Divine,56,69,67,67,37,66,362,60.33,85.6,4.0,Mechanical Engineer,Computer Science,English,328,Average,No,,0,No,0,0,Photography
+S060391,Rachita Khanna,Day Scholar,12 PCM,Shopify,17,Female,Divine,59,58,51,68,82,44,362,60.33,81.8,3.8,Robotics Engineer,Chemistry,English,329,Average,Yes,Badminton,5,No,1,0,Painting
+S060303,Fariq Apte,Day Scholar,12 PCM,Discord,16,Male,Divine,58,57,39,85,76,46,361,60.17,91.5,6.8,Civil Engineer,Computer Science,Hindi,330,Average,Yes,Cricket,8,No,8,8,Debate
+S060056,Triya Chaudhry,Hosteler,12 PCM,CloudCore,16,Male,Petals,74,53,61,55,81,37,361,60.17,88.0,1.6,Data Scientist,Chemistry,English,331,Average,Yes,Cricket,6,No,3,1,Dance
+S060247,Sanya Ram,Hosteler,12 PCM,CloudCore,16,Female,Divine,46,90,42,63,53,67,361,60.17,83.2,2.0,Electrical Engineer,Mathematics,Physical Education,332,Average,Yes,Cricket,15,No,7,8,Coding Club
+S060293,Ranveer Bakshi,Day Scholar,12 PCM,CloudCore,17,Female,Divine,58,54,39,47,85,78,361,60.17,76.5,6.5,AI Engineer,Chemistry,Physical Education,333,Average,Yes,Badminton,2,No,7,4,Coding Club
+S060138,Rudra Lad,Hosteler,12 PCM,Netflix,16,Male,Passion,84,40,66,43,88,39,360,60.0,99.4,1.2,Mechanical Engineer,Chemistry,Physical Education,334,Average,No,,0,No,0,0,Painting
+S060375,Owen Bhakta,Hosteler,12 PCM,Discord,16,Female,Divine,58,37,60,46,63,95,359,59.83,90.5,1.5,Electrical Engineer,Chemistry,Hindi,335,Average,No,,0,No,0,0,Coding Club
+S060291,Agastya Dayal,Hosteler,12 PCM,CloudCore,16,Female,Divine,90,96,41,46,35,51,359,59.83,88.2,1.4,Civil Engineer,Mathematics,Physical Education,336,Average,No,,0,No,0,0,Dance
+S060164,Oscar Loke,Hosteler,12 PCM,CloudCore,17,Female,Divine,75,47,41,63,59,71,356,59.33,91.7,2.6,Data Scientist,Chemistry,English,337,Average,Yes,Football,10,No,7,5,Science Club
+S060313,Odika Ravi,Day Scholar,12 PCM,Shopify,16,Male,Divine,40,44,63,97,54,57,355,59.17,70.5,6.5,Pilot,Chemistry,Hindi,338,Average,No,,0,No,0,0,Debate
+S060004,Gayathri Chauhan,Day Scholar,12 PCM,Shopify,17,Male,Divine,84,38,60,83,44,46,355,59.17,92.5,1.2,Robotics Engineer,Mathematics,Hindi,339,Average,Yes,Cricket,5,Yes,12,8,Entrepreneurship Club
+S060038,Rehaan Venkataraman,Day Scholar,12 PCM,Shopify,17,Male,Divine,46,35,64,77,58,74,354,59.0,81.4,2.1,Civil Engineer,Mathematics,Physical Education,340,Average,No,,0,No,0,0,Robotics Club
+S060115,Chakrika Trivedi,Hosteler,12 PCM,CloudCore,17,Male,Petals,86,47,62,49,51,59,354,59.0,77.6,5.2,Scientist,Mathematics,Physical Education,341,Average,Yes,Basketball,9,No,8,6,Photography
+S060095,Chatresh Randhawa,Day Scholar,12 PCM,CloudCore,17,Female,Divine,44,79,63,38,73,57,354,59.0,95.6,2.3,Robotics Engineer,Physics,Physical Education,342,Average,Yes,Basketball,3,Yes,15,14,Dance
+S060019,Matthew Dhingra,Day Scholar,12 PCM,Shopify,16,Female,Divine,35,42,95,50,53,78,353,58.83,80.0,1.7,Software Engineer,Physics,Physical Education,343,Average,Yes,Volleyball,10,Yes,10,5,Coding Club
+S060348,Urishilla Zachariah,Day Scholar,12 PCM,Shopify,16,Female,Divine,59,66,69,42,49,68,353,58.83,81.2,5.8,Robotics Engineer,Mathematics,English,344,Average,No,,0,No,0,0,Painting
+S060271,Maanav Ram,Day Scholar,12 PCM,Discord,17,Female,Divine,96,58,44,54,66,35,353,58.83,83.7,4.5,Civil Engineer,Mathematics,Physical Education,345,Average,No,,0,No,0,0,Science Club
+S060216,Rachita Bobal,Hosteler,12 PCM,CloudCore,17,Female,Divine,38,65,47,100,37,66,353,58.83,86.4,3.6,AI Engineer,Physics,English,346,Average,Yes,Badminton,12,Yes,13,11,Entrepreneurship Club
+S060321,Alexander Sood,Day Scholar,12 PCM,Discord,16,Male,Divine,69,41,64,65,47,66,352,58.67,81.9,6.2,Data Scientist,Computer Science,Hindi,347,Average,Yes,Badminton,15,Yes,6,7,Music
+S060123,Yutika Pant,Hosteler,12 PCM,Discord,17,Male,Paradise,53,80,62,46,76,35,352,58.67,73.8,1.5,Civil Engineer,Chemistry,Physical Education,348,Average,Yes,Athletics,11,Yes,9,5,Debate
+S060158,Divya Kade,Day Scholar,12 PCM,CloudCore,17,Female,Divine,40,57,63,60,86,46,352,58.67,80.2,1.2,AI Engineer,Mathematics,Hindi,349,Average,No,,0,No,0,0,Photography
+S060088,Mitesh Raju,Day Scholar,12 PCM,Shopify,16,Male,Divine,83,52,55,54,50,58,352,58.67,87.4,7.5,AI Engineer,Computer Science,Physical Education,350,Average,Yes,Cricket,12,No,7,8,Public Speaking
+S060153,Sanya Baria,Hosteler,12 PCM,CloudCore,16,Male,Paradise,47,35,86,40,99,44,351,58.5,71.1,2.1,Robotics Engineer,Physics,Physical Education,351,Average,Yes,Cricket,7,No,1,1,Science Club
+S060332,Benjamin Jha,Hosteler,12 PCM,CloudCore,17,Female,Divine,35,57,75,47,77,59,350,58.33,92.6,4.0,Data Scientist,Physics,English,352,Average,Yes,Kabaddi,3,No,8,9,Science Club
+S060201,Reva Chopra,Day Scholar,12 PCM,CloudCore,17,Male,Divine,36,51,53,67,85,57,349,58.17,95.0,5.4,Civil Engineer,Physics,English,353,Average,Yes,Football,9,No,3,3,Science Club
+S060122,Yashodhara Shukla,Day Scholar,12 PCM,Netflix,17,Female,Divine,68,35,66,38,91,50,348,58.0,94.2,6.9,Civil Engineer,Computer Science,English,354,Average,No,,0,No,0,0,Robotics Club
+S060083,Vihaan Vaidya,Hosteler,12 PCM,Shopify,17,Female,Divine,90,94,38,46,38,40,346,57.67,76.8,3.1,Scientist,Computer Science,Hindi,355,Average,Yes,Badminton,8,Yes,6,6,Debate
+S060378,Falak Pillay,Day Scholar,12 PCM,Shopify,16,Female,Divine,61,65,41,52,59,66,344,57.33,76.2,5.8,Mechanical Engineer,Mathematics,Physical Education,356,Average,Yes,Badminton,7,No,6,5,Drama
+S060329,Gaurangi Kothari,Hosteler,12 PCM,Shopify,16,Male,Paradise,56,49,83,36,38,82,344,57.33,78.0,1.5,Electrical Engineer,Chemistry,Physical Education,357,Average,Yes,Athletics,11,No,6,3,Science Club
+S060350,Rohan Majumdar,Day Scholar,12 PCM,Discord,17,Male,Divine,61,69,72,53,45,44,344,57.33,80.2,7.2,Mechanical Engineer,Mathematics,Physical Education,358,Average,No,,0,No,0,0,Debate
+S060009,Elijah Mahajan,Hosteler,12 PCM,Shopify,17,Female,Divine,49,43,59,87,68,37,343,57.17,94.5,5.4,Civil Engineer,Mathematics,English,359,Average,Yes,Cricket,15,No,7,4,Science Club
+S060397,Ojasvi Devi,Day Scholar,12 PCM,CloudCore,17,Male,Divine,61,37,62,51,74,57,342,57.0,95.9,7.9,Robotics Engineer,Mathematics,English,360,Average,No,,0,No,0,0,Debate
+S060063,Vanya Sastry,Hosteler,12 PCM,CloudCore,16,Female,Divine,36,67,67,87,40,44,341,56.83,77.7,6.6,Pilot,Chemistry,Hindi,361,Average,Yes,Badminton,2,No,7,4,Entrepreneurship Club
+S060062,Pallavi Bains,Day Scholar,12 PCM,Shopify,16,Male,Divine,80,38,79,55,46,43,341,56.83,95.3,6.5,Civil Engineer,Physics,Hindi,362,Average,No,,0,No,0,0,Music
+S060241,Robert Dubey,Day Scholar,12 PCM,Netflix,17,Male,Divine,74,39,58,59,52,59,341,56.83,87.8,6.8,Software Engineer,Physics,Physical Education,363,Average,Yes,Hockey,8,No,6,5,Robotics Club
+S060105,Gayathri Memon,Day Scholar,12 PCM,CloudCore,17,Female,Divine,39,51,67,38,81,65,341,56.83,75.1,5.5,AI Engineer,Mathematics,Physical Education,364,Average,Yes,Cricket,7,Yes,5,6,Science Club
+S060251,Fariq Sodhi,Hosteler,12 PCM,CloudCore,16,Male,Paradise,53,70,38,55,62,61,339,56.5,84.3,1.7,Architect,Mathematics,Physical Education,365,Average,No,,0,No,0,0,Debate
+S060278,Ojas Comar,Hosteler,12 PCM,Shopify,16,Female,Divine,68,57,45,55,52,61,338,56.33,73.7,4.9,Civil Engineer,Physics,Hindi,366,Average,Yes,Cricket,3,No,6,5,Public Speaking
+S060060,David Basak,Hosteler,12 PCM,Netflix,17,Male,Paradise,51,64,63,60,42,58,338,56.33,87.5,6.2,Software Engineer,Chemistry,English,367,Average,Yes,Football,2,Yes,7,8,Public Speaking
+S060200,Chatura Majumdar,Hosteler,12 PCM,Discord,17,Male,Paradise,47,59,42,75,52,62,337,56.17,82.1,7.1,Software Engineer,Chemistry,Hindi,368,Average,Yes,Cricket,3,No,9,8,Drama
+S060081,Lopa Dutt,Day Scholar,12 PCM,Discord,17,Male,Divine,68,63,35,50,36,84,336,56.0,97.7,3.5,Electrical Engineer,Computer Science,Hindi,369,Average,Yes,Cricket,4,Yes,9,7,Photography
+S060358,Tanmayi Badami,Hosteler,12 PCM,Discord,16,Male,Petals,59,45,88,40,35,67,334,55.67,97.3,4.4,Data Scientist,Computer Science,Physical Education,370,Average,No,,0,No,0,0,Public Speaking
+S060363,Nathaniel Batta,Day Scholar,12 PCM,Shopify,17,Male,Divine,48,75,35,70,64,42,334,55.67,99.2,4.0,Civil Engineer,Chemistry,Physical Education,371,Average,Yes,Swimming,13,Yes,6,4,Public Speaking
+S060237,Advik Puri,Day Scholar,12 PCM,Netflix,16,Male,Divine,46,54,61,50,44,78,333,55.5,89.1,1.8,Data Scientist,Chemistry,English,372,Average,Yes,Cricket,10,No,5,4,Quiz Club
+S060150,Nakul Bhatnagar,Day Scholar,12 PCM,Discord,17,Male,Divine,67,57,40,42,72,54,332,55.33,83.3,4.2,Pilot,Mathematics,English,373,Average,No,,0,No,0,0,Photography
+S060120,Ijaya Ghosh,Hosteler,12 PCM,CloudCore,17,Female,Divine,75,62,38,60,58,39,332,55.33,83.1,6.9,Robotics Engineer,Chemistry,Hindi,374,Average,Yes,Volleyball,9,No,2,1,Volunteering
+S060324,Diya Dhillon,Day Scholar,12 PCM,Shopify,16,Male,Divine,35,57,45,56,97,40,330,55.0,73.7,5.2,Architect,Computer Science,English,375,Average,Yes,Football,11,No,1,0,Drama
+S060051,Tanmayi Dugal,Day Scholar,12 PCM,Shopify,17,Male,Divine,45,58,57,49,78,40,327,54.5,91.0,7.9,Robotics Engineer,Computer Science,Physical Education,376,Average,Yes,Basketball,10,Yes,6,5,Public Speaking
+S060157,Isha Subramanian,Hosteler,12 PCM,CloudCore,17,Female,Divine,54,40,71,66,45,51,327,54.5,77.5,1.6,Software Engineer,Computer Science,Hindi,377,Average,Yes,Cricket,13,No,9,5,Painting
+S060285,Kalpit Sekhon,Hosteler,12 PCM,Shopify,16,Male,Paradise,46,67,66,42,59,46,326,54.33,77.3,1.1,AI Engineer,Physics,English,378,Average,Yes,Badminton,9,No,3,3,Public Speaking
+S060338,Max Arora,Hosteler,12 PCM,Shopify,17,Female,Divine,84,38,44,40,81,38,325,54.17,71.2,3.2,AI Engineer,Computer Science,Physical Education,379,Average,No,,0,No,0,0,Music
+S060178,Rachit Murthy,Day Scholar,12 PCM,Shopify,16,Female,Divine,50,57,79,53,39,45,323,53.83,90.9,7.2,Data Scientist,Physics,English,380,Average,No,,0,No,0,0,Dance
+S060217,Simon Sachar,Hosteler,12 PCM,CloudCore,16,Male,Petals,54,73,44,67,38,46,322,53.67,74.0,2.8,Robotics Engineer,Physics,Hindi,381,Average,Yes,Volleyball,2,No,5,2,Chess
+S060337,Yashasvi Rattan,Hosteler,12 PCM,Discord,16,Male,Petals,38,50,65,51,36,81,321,53.5,92.5,1.4,Software Engineer,Mathematics,English,382,Average,Yes,Cricket,6,No,10,8,Coding Club
+S060192,Ridhi Raval,Hosteler,12 PCM,CloudCore,17,Female,Divine,41,88,41,66,44,41,321,53.5,73.3,2.3,Electrical Engineer,Physics,Hindi,383,Average,Yes,Tennis,6,Yes,15,12,Debate
+S060172,Gagan Radhakrishnan,Day Scholar,12 PCM,Discord,16,Male,Divine,35,43,70,35,43,94,320,53.33,96.2,8.0,Scientist,Computer Science,Physical Education,384,Average,Yes,Volleyball,2,No,7,3,Quiz Club
+S060259,Neelima Prabhakar,Day Scholar,12 PCM,Discord,17,Male,Divine,37,35,42,95,54,57,320,53.33,72.6,2.1,Robotics Engineer,Mathematics,Hindi,385,Average,Yes,Athletics,14,Yes,8,7,Painting
+S060156,Matthew Chaudhary,Day Scholar,12 PCM,CloudCore,17,Male,Divine,44,36,54,52,48,86,320,53.33,80.2,7.6,Data Scientist,Physics,Hindi,386,Average,No,,0,No,0,0,Music
+S060323,Sara Aurora,Hosteler,12 PCM,Shopify,16,Female,Divine,38,35,54,65,47,81,320,53.33,72.2,2.4,Architect,Chemistry,Physical Education,387,Average,Yes,Cricket,6,No,1,0,Drama
+S060124,Brinda Chowdhury,Day Scholar,12 PCM,Discord,17,Male,Divine,51,42,73,50,39,65,320,53.33,78.9,3.0,Data Scientist,Chemistry,Physical Education,388,Average,No,,0,No,0,0,Music
+S060399,Caleb Goel,Hosteler,12 PCM,Shopify,16,Female,Divine,43,77,60,43,48,47,318,53.0,84.0,6.6,Software Engineer,Chemistry,Physical Education,389,Average,Yes,Cricket,15,Yes,8,3,Entrepreneurship Club
+S060370,Darika Nagarajan,Day Scholar,12 PCM,Shopify,17,Male,Divine,35,42,68,46,78,45,314,52.33,74.3,4.9,Civil Engineer,Computer Science,Hindi,390,Average,Yes,Volleyball,8,No,7,3,Quiz Club
+S060262,Theodore Datta,Day Scholar,12 PCM,Discord,17,Female,Divine,36,56,70,50,63,38,313,52.17,85.4,4.8,Electrical Engineer,Mathematics,Physical Education,391,Average,No,,0,No,0,0,Entrepreneurship Club
+S060273,Jagvi Dhar,Day Scholar,12 PCM,Shopify,17,Male,Divine,40,61,38,60,69,44,312,52.0,80.2,2.3,Software Engineer,Mathematics,Hindi,392,Average,Yes,Swimming,3,No,6,3,Debate
+S060073,Yashasvi Mammen,Hosteler,12 PCM,Netflix,16,Male,Paradise,51,50,35,45,53,69,303,50.5,91.8,6.5,Electrical Engineer,Physics,Hindi,393,Average,Yes,Basketball,8,No,8,5,Drama
+S060306,Meghana Keer,Hosteler,12 PCM,Discord,17,Male,Petals,82,62,40,36,40,40,300,50.0,76.4,7.8,Mechanical Engineer,Computer Science,Physical Education,394,Average,Yes,Cricket,13,No,6,6,Chess
+S060311,Sachi Nagi,Day Scholar,12 PCM,Netflix,16,Female,Divine,52,46,36,55,58,51,298,49.67,92.0,3.4,Mechanical Engineer,Mathematics,Physical Education,395,Needs Improvement,Yes,Badminton,5,No,3,3,Quiz Club
+S060328,Zinal Deol,Day Scholar,12 PCM,Shopify,16,Male,Divine,53,58,39,67,41,40,298,49.67,95.8,4.8,AI Engineer,Mathematics,Physical Education,396,Needs Improvement,Yes,Cricket,8,Yes,11,13,Painting
+S060096,Vincent Lanka,Day Scholar,12 PCM,Discord,16,Female,Divine,49,81,38,39,47,44,298,49.67,88.3,3.3,Electrical Engineer,Physics,Hindi,397,Needs Improvement,No,,0,No,0,0,Drama
+S060360,Falak Palla,Day Scholar,12 PCM,Netflix,17,Female,Divine,55,39,42,43,71,45,295,49.17,74.1,3.7,Robotics Engineer,Chemistry,Hindi,398,Needs Improvement,Yes,Basketball,6,Yes,15,7,Drama
+S060246,Mugdha Pant,Day Scholar,12 PCM,Discord,17,Female,Divine,37,47,52,50,37,67,290,48.33,74.7,3.5,Architect,Chemistry,Physical Education,399,Needs Improvement,No,,0,No,0,0,Dance
+S060111,Darpan Nagy,Hosteler,12 PCM,Shopify,17,Female,Divine,41,71,43,41,46,37,279,46.5,83.1,4.4,Scientist,Physics,Physical Education,400,Needs Improvement,Yes,Badminton,12,Yes,8,6,Reading

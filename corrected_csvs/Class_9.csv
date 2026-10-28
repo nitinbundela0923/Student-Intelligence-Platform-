@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Maths_Marks,Science_Marks,SocialScience_Marks,English_Marks,Computer_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S070113,Hemangini Bhavsar,Hosteler,12 PCB,SecureStack,17,Female,Divine,88,95,72,87,91,92,525,87.5,76.5,3.9,Lawyer,Biology,Economics,1,Excellent,No,,0,No,0,0,Photography
+S070123,Aarna Handa,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,85,85,87,98,69,95,519,86.5,83.8,6.3,Doctor,Chemistry,Mathematics,2,Excellent,Yes,Athletics,8,No,7,4,Photography
+S070029,Onveer Loyal,Hosteler,12 PCB,SecureStack,17,Female,Divine,75,93,89,71,88,98,514,85.67,71.8,3.9,Software Engineer,Biology,Economics,3,Excellent,Yes,Kabaddi,13,No,4,2,Dance
+S070369,Mason Gara,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,93,83,73,94,82,88,513,85.5,92.4,7.2,Data Analyst,Physics,Economics,4,Excellent,Yes,Badminton,12,No,8,8,Painting
+S070238,Harsh Oza,Hosteler,12 PCB,SecureStack,17,Female,Divine,78,100,97,80,63,94,512,85.33,82.8,3.1,Police Officer,Biology,Mathematics,5,Excellent,Yes,Kabaddi,15,Yes,11,8,Volunteering
+S070182,Chandani Pant,Day Scholar,12 PCB,SecureStack,17,Male,Divine,92,89,91,72,90,77,511,85.17,92.9,4.8,Teacher,Physics,Economics,6,Excellent,Yes,Badminton,2,No,10,10,Photography
+S070075,Thomas Menon,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,87,76,70,92,81,100,506,84.33,98.6,4.4,Teacher,Biology,Economics,7,Good,Yes,Kabaddi,7,No,10,5,Volunteering
+S070098,Quincy Kapadia,Hosteler,12 PCB,SecureStack,17,Male,Paradise,68,90,82,88,80,98,506,84.33,81.7,4.4,Scientist,Physics,Mathematics,8,Good,Yes,Volleyball,6,No,6,6,Music
+S070297,Charan More,Hosteler,12 PCB,StreamLogic,16,Female,Divine,89,96,96,40,90,89,500,83.33,90.6,5.2,Data Analyst,Biology,Economics,9,Good,Yes,Football,8,No,5,5,Drama
+S070132,Vrinda Lall,Hosteler,12 PCB,SecureStack,16,Male,Paradise,85,100,59,95,68,88,495,82.5,71.9,4.0,Doctor,Physics,Computer Science,10,Good,Yes,Cricket,5,No,9,10,Science Club
+S070320,Jhalak Konda,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,89,100,73,94,40,98,494,82.33,71.3,2.1,Lawyer,Chemistry,Economics,11,Good,Yes,Badminton,8,Yes,5,4,Photography
+S070146,Pranit Mittal,Day Scholar,12 PCB,SecureStack,17,Male,Divine,100,93,91,82,84,44,494,82.33,80.0,4.4,Data Analyst,Biology,Mathematics,12,Good,No,,0,No,0,0,Quiz Club
+S070096,Jasmit Rege,Hosteler,12 PCB,SecureStack,16,Male,Passion,90,92,89,68,53,99,491,81.83,91.2,6.1,Architect,Physics,Economics,13,Good,Yes,Cricket,10,No,8,9,Reading
+S070356,Januja Dani,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,97,40,96,100,65,91,489,81.5,89.9,2.1,Doctor,Physics,Economics,14,Good,Yes,Football,2,No,8,7,Drama
+S070064,Shravya Hegde,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,93,77,69,97,60,92,488,81.33,78.3,5.1,Entrepreneur,Biology,Economics,15,Good,Yes,Cricket,11,Yes,13,9,Volunteering
+S070259,Aradhana Yadav,Hosteler,12 PCB,StreamLogic,17,Female,Divine,89,51,92,74,91,90,487,81.17,82.8,7.7,IAS Officer,Physics,Economics,16,Good,Yes,Cricket,15,No,9,4,Volunteering
+S070176,Upma Gara,Hosteler,12 PCB,CodeCanvas,16,Male,Petals,94,40,67,99,97,89,486,81.0,88.1,6.7,Software Engineer,Chemistry,Mathematics,17,Good,Yes,Badminton,12,No,5,3,Debate
+S070125,Umang Ramakrishnan,Day Scholar,12 PCB,SecureStack,17,Male,Divine,76,92,83,97,61,75,484,80.67,99.1,6.3,Software Engineer,Physics,Computer Science,18,Good,Yes,Hockey,4,No,9,9,Drama
+S070115,Janaki Bhardwaj,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,62,98,97,89,52,86,484,80.67,96.5,3.5,Doctor,Physics,Computer Science,19,Good,No,,0,No,0,0,Coding Club
+S070152,Jonathan Rau,Hosteler,12 PCB,SecureStack,17,Female,Divine,98,98,99,76,77,36,484,80.67,78.3,3.5,Teacher,Chemistry,Economics,20,Good,No,,0,No,0,0,Science Club
+S070017,Max Khurana,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,85,91,64,74,98,71,483,80.5,92.6,2.6,Teacher,Physics,Mathematics,21,Good,No,,0,No,0,0,Photography
+S070033,Gabriel Sawhney,Hosteler,12 PCB,StreamLogic,17,Female,Divine,84,55,100,83,94,67,483,80.5,91.7,2.3,Architect,Physics,Computer Science,22,Good,Yes,Basketball,8,Yes,6,4,Reading
+S070083,Adya Acharya,Hosteler,12 PCB,Innovixus Labs,17,Male,Petals,42,90,84,91,90,86,483,80.5,89.7,3.3,Entrepreneur,Chemistry,Mathematics,23,Good,Yes,Basketball,6,Yes,8,8,Reading
+S070264,Eshana Loyal,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,78,78,95,84,87,61,483,80.5,90.7,7.8,Software Engineer,Physics,Computer Science,24,Good,Yes,Hockey,10,No,2,1,Science Club
+S070015,Charvi Tailor,Day Scholar,12 PCB,SecureStack,16,Male,Divine,88,51,75,69,98,100,481,80.17,86.9,4.6,Architect,Biology,Mathematics,25,Good,Yes,Football,11,Yes,10,11,Painting
+S070034,Gaurang Keer,Hosteler,12 PCB,SecureStack,16,Male,Petals,79,70,95,91,58,87,480,80.0,97.5,6.6,Teacher,Biology,Economics,26,Good,Yes,Cricket,6,No,4,4,Robotics Club
+S070136,Tristan Acharya,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,97,55,87,74,98,69,480,80.0,90.3,3.2,Data Analyst,Physics,Mathematics,27,Good,Yes,Basketball,2,No,9,3,Reading
+S070058,Hamsini Din,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,97,61,96,72,70,83,479,79.83,98.4,4.1,Lawyer,Chemistry,Computer Science,28,Good,Yes,Cricket,4,No,4,3,Debate
+S070180,Dipta Wason,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,82,86,99,42,100,70,479,79.83,83.2,4.3,Data Analyst,Chemistry,Mathematics,29,Good,Yes,Volleyball,11,No,9,11,Entrepreneurship Club
+S070081,Ekaja Pingle,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,88,41,71,84,94,100,478,79.67,90.5,4.1,Architect,Chemistry,Economics,30,Good,No,,0,No,0,0,Science Club
+S070068,Chasmum Kibe,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,75,99,94,58,64,87,477,79.5,92.9,1.8,IAS Officer,Physics,Computer Science,31,Good,Yes,Badminton,11,Yes,12,9,Robotics Club
+S070314,Lucky Mitra,Day Scholar,12 PCB,SecureStack,16,Male,Divine,68,92,63,100,94,60,477,79.5,90.2,2.2,Teacher,Physics,Mathematics,32,Good,No,,0,No,0,0,Entrepreneurship Club
+S070111,Tanvi Apte,Hosteler,12 PCB,SecureStack,17,Female,Divine,64,85,97,99,73,57,475,79.17,83.9,7.3,Pilot,Physics,Mathematics,33,Good,Yes,Hockey,11,Yes,9,10,Reading
+S070376,Abhiram Kunda,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,100,99,54,67,62,93,475,79.17,99.6,6.2,Entrepreneur,Physics,Computer Science,34,Good,No,,0,No,0,0,Entrepreneurship Club
+S070344,Abhiram Dar,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,55,100,82,80,59,98,474,79.0,88.0,7.3,Police Officer,Chemistry,Economics,35,Good,Yes,Football,3,Yes,10,8,Entrepreneurship Club
+S070014,Qarin Sarna,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,89,98,65,41,80,99,472,78.67,71.7,2.1,Software Engineer,Biology,Mathematics,36,Good,Yes,Cricket,10,No,10,12,Science Club
+S070139,Ubika Mishra,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,89,83,59,84,72,84,471,78.5,98.1,2.6,Scientist,Chemistry,Computer Science,37,Good,No,,0,No,0,0,Coding Club
+S070145,Oscar Chana,Hosteler,12 PCB,StreamLogic,17,Female,Divine,75,58,78,96,67,96,470,78.33,78.3,4.1,Data Analyst,Biology,Mathematics,38,Good,No,,0,No,0,0,Debate
+S070363,Elijah Chopra,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,58,57,85,100,95,75,470,78.33,72.3,7.2,IAS Officer,Physics,Computer Science,39,Good,No,,0,No,0,0,Debate
+S070277,Ucchal Karnik,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,94,97,65,100,69,45,470,78.33,83.3,4.5,Army Officer,Chemistry,Computer Science,40,Good,No,,0,No,0,0,Photography
+S070374,Nachiket Agarwal,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,50,50,93,95,91,90,469,78.17,87.8,7.9,Police Officer,Chemistry,Mathematics,41,Good,Yes,Kabaddi,6,Yes,6,5,Coding Club
+S070038,Hema Dewan,Day Scholar,12 PCB,SecureStack,16,Female,Divine,91,47,89,99,90,52,468,78.0,74.4,6.2,Scientist,Biology,Economics,42,Good,Yes,Badminton,11,Yes,15,10,Debate
+S070333,Hema Swamy,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,100,75,89,78,51,75,468,78.0,74.5,3.3,Teacher,Chemistry,Computer Science,43,Good,No,,0,No,0,0,Robotics Club
+S070008,Raghav Bansal,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,79,86,91,100,59,53,468,78.0,98.8,6.3,Army Officer,Chemistry,Mathematics,44,Good,No,,0,No,0,0,Robotics Club
+S070346,Vasudha Nagarajan,Hosteler,12 PCB,CodeCanvas,16,Male,Petals,98,93,70,72,71,64,468,78.0,87.8,3.2,Doctor,Physics,Computer Science,45,Good,Yes,Basketball,6,Yes,14,18,Photography
+S070339,Yasti Nanda,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,85,80,76,74,78,74,467,77.83,71.6,4.3,Doctor,Chemistry,Computer Science,46,Good,Yes,Badminton,12,Yes,14,16,Volunteering
+S070102,Ganga Shanker,Day Scholar,12 PCB,SecureStack,16,Male,Divine,69,70,53,95,100,80,467,77.83,70.5,5.3,IAS Officer,Chemistry,Economics,47,Good,No,,0,No,0,0,Music
+S070396,Chandran Sha,Hosteler,12 PCB,StreamLogic,16,Male,Passion,47,71,91,96,78,83,466,77.67,92.1,1.6,Doctor,Physics,Economics,48,Good,Yes,Basketball,6,No,9,10,Drama
+S070144,Abha Swaminathan,Day Scholar,12 PCB,SecureStack,17,Female,Divine,99,79,81,92,49,66,466,77.67,98.8,2.8,Army Officer,Chemistry,Mathematics,49,Good,Yes,Football,2,No,3,2,Photography
+S070175,Garima Madan,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,58,90,68,71,79,99,465,77.5,92.2,3.0,Army Officer,Chemistry,Mathematics,50,Good,Yes,Cricket,10,No,10,12,Debate
+S070160,Jasmit Contractor,Hosteler,12 PCB,StreamLogic,17,Male,Petals,85,89,78,87,40,86,465,77.5,81.1,7.5,Entrepreneur,Chemistry,Computer Science,51,Good,Yes,Kabaddi,11,Yes,5,5,Volunteering
+S070205,Waida Oak,Hosteler,12 PCB,SecureStack,17,Male,Passion,92,91,91,71,45,73,463,77.17,84.1,4.5,Police Officer,Biology,Mathematics,52,Good,No,,0,No,0,0,Entrepreneurship Club
+S070172,Abdul Kohli,Hosteler,12 PCB,StreamLogic,17,Female,Divine,88,48,51,91,86,99,463,77.17,75.2,7.1,Software Engineer,Chemistry,Computer Science,53,Good,No,,0,No,0,0,Robotics Club
+S070156,Wazir Garg,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,60,85,78,96,53,90,462,77.0,71.0,4.2,Data Analyst,Chemistry,Mathematics,54,Good,Yes,Badminton,9,No,2,0,Entrepreneurship Club
+S070328,Nikita Iyer,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,89,88,73,42,75,95,462,77.0,89.2,4.7,Pilot,Biology,Economics,55,Good,Yes,Basketball,5,Yes,12,8,Volunteering
+S070040,Pushti Baria,Hosteler,12 PCB,StreamLogic,16,Male,Passion,91,57,72,85,94,62,461,76.83,72.3,2.4,Architect,Physics,Computer Science,56,Good,Yes,Cricket,2,Yes,6,4,Quiz Club
+S070219,Zarna Murty,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,90,96,39,47,89,99,460,76.67,95.1,3.5,Doctor,Biology,Economics,57,Good,No,,0,No,0,0,Quiz Club
+S070062,Ekani Ghose,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,66,78,66,97,84,69,460,76.67,92.7,2.5,IAS Officer,Physics,Computer Science,58,Good,No,,0,No,0,0,Coding Club
+S070229,Omisha Barad,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,72,58,97,61,93,79,460,76.67,76.7,6.1,Doctor,Chemistry,Economics,59,Good,No,,0,No,0,0,Dance
+S070288,Ekansh Master,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,97,90,88,41,76,67,459,76.5,74.5,4.3,Architect,Chemistry,Mathematics,60,Good,Yes,Cricket,13,No,4,3,Drama
+S070166,Shivani Bhalla,Day Scholar,12 PCB,SecureStack,16,Male,Divine,74,74,65,77,90,79,459,76.5,93.7,3.8,Police Officer,Biology,Computer Science,61,Good,Yes,Basketball,3,No,2,1,Dance
+S070291,Teerth Viswanathan,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,97,40,56,86,97,83,459,76.5,77.9,6.1,Lawyer,Chemistry,Computer Science,62,Good,Yes,Badminton,5,Yes,9,11,Dance
+S070398,Sanaya Tata,Day Scholar,12 PCB,SecureStack,16,Female,Divine,59,97,84,69,71,77,457,76.17,88.8,7.5,Entrepreneur,Biology,Mathematics,63,Good,No,,0,No,0,0,Public Speaking
+S070293,Rushil Walla,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,87,100,67,91,40,72,457,76.17,71.9,6.1,Army Officer,Biology,Computer Science,64,Good,Yes,Volleyball,10,No,5,6,Coding Club
+S070101,Abeer Tailor,Day Scholar,12 PCB,SecureStack,17,Male,Divine,81,97,67,76,85,50,456,76.0,95.7,2.4,Entrepreneur,Chemistry,Mathematics,65,Good,Yes,Cricket,5,Yes,9,11,Dance
+S070076,Niharika Parekh,Hosteler,12 PCB,SecureStack,17,Female,Divine,53,80,42,90,98,93,456,76.0,75.9,3.8,Teacher,Chemistry,Computer Science,66,Good,Yes,Athletics,9,No,10,10,Volunteering
+S070065,Oscar Mand,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,43,74,81,84,78,96,456,76.0,88.3,1.7,Data Analyst,Physics,Mathematics,67,Good,Yes,Badminton,6,Yes,12,6,Volunteering
+S070143,Wakeeta Balan,Hosteler,12 PCB,StreamLogic,17,Female,Divine,46,91,73,97,64,84,455,75.83,76.1,4.1,Doctor,Physics,Computer Science,68,Good,Yes,Football,10,No,3,3,Photography
+S070394,Dalaja Tripathi,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,37,89,55,81,99,94,455,75.83,70.6,1.4,Software Engineer,Physics,Mathematics,69,Good,Yes,Cricket,15,Yes,6,7,Photography
+S070005,Yutika Bhavsar,Hosteler,12 PCB,StreamLogic,17,Female,Divine,66,86,45,87,80,91,455,75.83,74.1,7.3,Lawyer,Biology,Economics,70,Good,Yes,Cricket,3,No,6,3,Reading
+S070383,Jalsa Jhaveri,Hosteler,12 PCB,SecureStack,16,Female,Divine,72,74,45,89,89,84,453,75.5,84.3,4.3,Teacher,Physics,Computer Science,71,Good,Yes,Hockey,12,No,8,7,Quiz Club
+S070004,Falan Sachar,Hosteler,12 PCB,SecureStack,17,Female,Divine,99,65,99,99,56,35,453,75.5,73.6,5.1,Police Officer,Chemistry,Computer Science,72,Good,Yes,Basketball,10,Yes,11,9,Painting
+S070002,Chatresh Dugar,Hosteler,12 PCB,StreamLogic,16,Male,Paradise,67,78,51,92,77,88,453,75.5,87.5,3.4,Doctor,Biology,Computer Science,73,Good,Yes,Cricket,11,Yes,11,5,Painting
+S070188,Aarna Pillay,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,83,89,36,99,88,58,453,75.5,80.6,3.0,Teacher,Biology,Computer Science,74,Good,Yes,Cricket,15,No,4,4,Debate
+S070039,Robert Ramakrishnan,Hosteler,12 PCB,StreamLogic,17,Female,Divine,87,75,84,72,61,73,452,75.33,71.5,5.8,Doctor,Biology,Mathematics,75,Good,Yes,Basketball,5,Yes,6,2,Volunteering
+S070126,Gaurang Om,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,73,94,84,69,88,44,452,75.33,72.6,5.3,IAS Officer,Biology,Economics,76,Good,Yes,Football,10,No,5,5,Chess
+S070253,Viraj Khanna,Day Scholar,12 PCB,SecureStack,16,Male,Divine,70,96,96,84,59,47,452,75.33,93.3,2.1,Police Officer,Biology,Economics,77,Good,No,,0,No,0,0,Science Club
+S070037,Vincent Bains,Hosteler,12 PCB,Innovixus Labs,17,Male,Paradise,55,99,54,90,95,59,452,75.33,96.1,1.1,Pilot,Physics,Economics,78,Good,Yes,Football,3,No,5,2,Drama
+S070130,Bhanumati Pillay,Hosteler,12 PCB,StreamLogic,17,Female,Divine,88,81,55,96,55,75,450,75.0,83.8,5.9,Lawyer,Chemistry,Computer Science,79,Good,Yes,Football,14,No,6,5,Science Club
+S070069,Upasna Chand,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,92,49,53,84,76,96,450,75.0,86.6,2.0,Army Officer,Biology,Mathematics,80,Good,No,,0,No,0,0,Painting
+S070108,Vanya Agarwal,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,85,37,45,92,95,95,449,74.83,75.7,7.5,Scientist,Biology,Mathematics,81,Good,Yes,Hockey,6,No,8,5,Drama
+S070007,Sudiksha Mohanty,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,87,85,44,65,90,78,449,74.83,93.3,7.7,Army Officer,Physics,Economics,82,Good,Yes,Football,10,No,9,8,Photography
+S070027,Manan Vig,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,75,64,92,80,57,80,448,74.67,99.2,3.1,Army Officer,Physics,Mathematics,83,Good,Yes,Basketball,9,No,7,7,Reading
+S070232,Agastya Tella,Hosteler,12 PCB,CodeCanvas,16,Male,Petals,96,66,76,95,42,73,448,74.67,77.5,1.1,Teacher,Chemistry,Economics,84,Good,Yes,Kabaddi,6,No,5,4,Quiz Club
+S070222,Pallavi Borra,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,54,84,85,99,41,85,448,74.67,78.6,4.0,Lawyer,Biology,Economics,85,Good,No,,0,No,0,0,Science Club
+S070289,Devika Wable,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,86,68,42,84,68,99,447,74.5,93.4,6.3,Police Officer,Chemistry,Mathematics,86,Good,No,,0,No,0,0,Robotics Club
+S070226,Vivaan Badami,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,53,60,75,97,64,97,446,74.33,97.2,1.7,Data Analyst,Physics,Mathematics,87,Good,Yes,Cricket,3,No,2,1,Volunteering
+S070315,Dominic Doshi,Hosteler,12 PCB,SecureStack,16,Female,Divine,81,87,60,87,40,91,446,74.33,79.1,6.7,Lawyer,Biology,Computer Science,88,Good,Yes,Football,9,No,6,3,Public Speaking
+S070352,Udyati Krish,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,76,92,69,76,37,95,445,74.17,74.7,2.1,Lawyer,Biology,Mathematics,89,Good,Yes,Badminton,15,Yes,12,13,Chess
+S070318,Rachana Banerjee,Hosteler,12 PCB,CodeCanvas,16,Male,Petals,92,96,87,64,65,40,444,74.0,70.2,2.1,Doctor,Biology,Mathematics,90,Good,Yes,Basketball,15,No,8,9,Drama
+S070151,Rajeshri Kibe,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,59,94,89,66,41,95,444,74.0,87.4,6.7,Entrepreneur,Chemistry,Computer Science,91,Good,Yes,Cricket,15,No,10,7,Dance
+S070213,Ansh Sule,Hosteler,12 PCB,StreamLogic,16,Female,Divine,50,67,95,75,72,85,444,74.0,78.2,6.3,Lawyer,Biology,Mathematics,92,Good,No,,0,No,0,0,Chess
+S070191,Samaksh Bakshi,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,58,89,85,88,82,41,443,73.83,86.6,6.3,Scientist,Physics,Mathematics,93,Good,Yes,Football,11,No,9,11,Dance
+S070258,Kamala Ranganathan,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,88,67,95,61,92,40,443,73.83,78.2,2.0,Architect,Physics,Mathematics,94,Good,No,,0,No,0,0,Volunteering
+S070302,Theodore Dora,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,50,85,91,83,44,90,443,73.83,99.5,3.8,Data Analyst,Physics,Computer Science,95,Good,Yes,Badminton,9,No,4,1,Public Speaking
+S070099,Vanya Patil,Hosteler,12 PCB,Innovixus Labs,16,Male,Passion,79,42,73,65,99,85,443,73.83,81.9,3.5,Teacher,Chemistry,Mathematics,96,Good,Yes,Football,6,No,8,8,Reading
+S070127,Samarth Oza,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,48,85,57,91,77,85,443,73.83,76.7,7.1,Scientist,Physics,Computer Science,97,Good,No,,0,No,0,0,Quiz Club
+S070184,Widisha Gola,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,35,77,64,86,89,91,442,73.67,71.0,1.5,Pilot,Physics,Economics,98,Good,Yes,Badminton,6,No,2,1,Music
+S070386,Varenya Bassi,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,90,57,54,74,73,94,442,73.67,89.4,1.7,IAS Officer,Physics,Computer Science,99,Good,Yes,Basketball,7,Yes,15,17,Public Speaking
+S070309,Ojasvi Menon,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,77,73,96,61,100,35,442,73.67,84.5,1.2,Police Officer,Physics,Mathematics,100,Good,Yes,Badminton,3,No,6,5,Reading
+S070074,George Badal,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,54,93,61,69,68,97,442,73.67,73.4,7.0,Lawyer,Chemistry,Economics,101,Good,Yes,Volleyball,5,Yes,13,9,Volunteering
+S070381,Kamala Muni,Hosteler,12 PCB,Innovixus Labs,16,Male,Passion,91,41,73,90,74,71,440,73.33,93.1,5.8,Data Analyst,Biology,Computer Science,102,Good,No,,0,No,0,0,Reading
+S070390,Bimala Chacko,Hosteler,12 PCB,Innovixus Labs,16,Male,Petals,81,82,66,55,61,95,440,73.33,85.1,2.5,Architect,Biology,Mathematics,103,Good,Yes,Badminton,11,No,6,6,Coding Club
+S070317,Yashica Deshpande,Hosteler,12 PCB,Innovixus Labs,16,Male,Petals,74,75,70,82,88,50,439,73.17,92.6,5.1,Teacher,Chemistry,Computer Science,104,Good,No,,0,No,0,0,Painting
+S070256,Avni Grover,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,70,98,55,93,76,46,438,73.0,99.1,7.4,Lawyer,Chemistry,Mathematics,105,Good,Yes,Cricket,15,Yes,14,20,Painting
+S070167,Girish Bala,Day Scholar,12 PCB,SecureStack,17,Female,Divine,52,56,73,81,76,100,438,73.0,71.2,6.1,Army Officer,Chemistry,Mathematics,106,Good,Yes,Hockey,11,Yes,11,5,Music
+S070206,Sanaya Dhingra,Day Scholar,12 PCB,SecureStack,17,Female,Divine,79,55,85,50,75,94,438,73.0,94.5,4.9,Software Engineer,Biology,Computer Science,107,Good,Yes,Badminton,13,No,9,8,Entrepreneurship Club
+S070327,Reva Raval,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,66,59,67,88,75,83,438,73.0,81.6,2.3,Teacher,Biology,Economics,108,Good,Yes,Badminton,13,Yes,9,8,Reading
+S070129,Jalsa Rajagopalan,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,68,42,92,100,94,42,438,73.0,72.7,6.2,Software Engineer,Biology,Economics,109,Good,Yes,Football,13,No,5,5,Dance
+S070162,Guneet Kamdar,Hosteler,12 PCB,StreamLogic,17,Male,Petals,75,76,92,54,62,78,437,72.83,92.7,6.5,Army Officer,Biology,Economics,110,Good,Yes,Cricket,13,No,5,6,Chess
+S070041,Upkaar Balan,Hosteler,12 PCB,SecureStack,16,Female,Divine,48,95,55,85,54,100,437,72.83,98.3,5.9,IAS Officer,Chemistry,Economics,111,Good,Yes,Badminton,10,No,4,4,Quiz Club
+S070159,Isaac Thakur,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,82,62,39,87,68,99,437,72.83,93.4,6.3,Police Officer,Chemistry,Computer Science,112,Good,Yes,Badminton,12,No,6,2,Quiz Club
+S070325,Ishanvi Devan,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,76,99,37,89,44,92,437,72.83,88.9,1.7,Doctor,Physics,Computer Science,113,Good,No,,0,No,0,0,Debate
+S070215,Chameli Merchant,Hosteler,12 PCB,SecureStack,17,Female,Divine,65,70,89,85,75,53,437,72.83,78.6,2.8,Teacher,Biology,Mathematics,114,Good,No,,0,No,0,0,Painting
+S070388,Harinakshi Gill,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,42,76,74,56,89,99,436,72.67,88.5,6.2,Entrepreneur,Chemistry,Mathematics,115,Good,Yes,Basketball,3,No,8,4,Science Club
+S070112,Anika Chaudhry,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,92,95,42,84,66,57,436,72.67,73.9,5.5,Data Analyst,Chemistry,Computer Science,116,Good,Yes,Football,12,Yes,11,6,Quiz Club
+S070218,Jeremiah Sawhney,Hosteler,12 PCB,StreamLogic,16,Male,Passion,48,76,70,71,97,74,436,72.67,77.1,5.9,Army Officer,Physics,Economics,117,Good,No,,0,No,0,0,Public Speaking
+S070117,Amaira Baral,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,85,58,75,45,76,97,436,72.67,73.2,7.1,Teacher,Physics,Economics,118,Good,No,,0,No,0,0,Dance
+S070265,Arunima Bath,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,62,36,92,55,95,95,435,72.5,84.2,5.0,Lawyer,Physics,Computer Science,119,Good,No,,0,No,0,0,Painting
+S070239,Avi Raja,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,37,83,87,88,98,42,435,72.5,93.0,2.6,Pilot,Physics,Mathematics,120,Good,Yes,Cricket,7,Yes,9,9,Music
+S070360,Libni Kar,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,89,47,94,83,81,41,435,72.5,94.1,6.6,IAS Officer,Biology,Computer Science,121,Good,No,,0,No,0,0,Robotics Club
+S070043,Samesh Chand,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,87,65,83,90,57,53,435,72.5,95.1,3.1,Lawyer,Biology,Economics,122,Good,No,,0,No,0,0,Painting
+S070067,Nitara Vala,Hosteler,12 PCB,StreamLogic,17,Female,Divine,39,95,55,48,99,99,435,72.5,94.1,5.7,Pilot,Physics,Economics,123,Good,Yes,Volleyball,12,Yes,8,7,Coding Club
+S070257,Patrick Thakur,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,84,78,67,86,65,54,434,72.33,86.8,5.5,Scientist,Biology,Computer Science,124,Good,Yes,Cricket,4,No,5,2,Quiz Club
+S070142,Eesha Mani,Hosteler,12 PCB,StreamLogic,17,Female,Divine,96,89,55,44,69,80,433,72.17,77.1,7.8,Police Officer,Biology,Economics,125,Good,Yes,Hockey,2,No,2,2,Coding Club
+S070341,Anita Narain,Hosteler,12 PCB,SecureStack,17,Male,Passion,85,82,86,48,40,92,433,72.17,92.5,1.5,Scientist,Chemistry,Mathematics,126,Good,No,,0,No,0,0,Painting
+S070026,Oeshi Mukhopadhyay,Hosteler,12 PCB,StreamLogic,17,Female,Divine,83,76,78,94,43,59,433,72.17,87.3,3.9,Teacher,Physics,Computer Science,127,Good,No,,0,No,0,0,Science Club
+S070203,Vrinda Pillai,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,64,80,55,88,63,81,431,71.83,84.2,4.0,Data Analyst,Biology,Computer Science,128,Good,Yes,Basketball,14,Yes,14,11,Science Club
+S070250,Fitan Dubey,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,91,79,56,81,87,37,431,71.83,95.8,3.8,Architect,Chemistry,Computer Science,129,Good,Yes,Badminton,7,Yes,14,8,Science Club
+S070170,Rachita Jha,Hosteler,12 PCB,SecureStack,16,Female,Divine,99,49,85,87,48,63,431,71.83,95.7,4.8,Architect,Physics,Mathematics,130,Good,Yes,Badminton,15,No,3,2,Public Speaking
+S070241,Widisha Kaur,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,98,44,94,36,62,97,431,71.83,82.4,6.7,Police Officer,Biology,Mathematics,131,Good,Yes,Football,6,No,1,1,Painting
+S070103,Noah Sandal,Hosteler,12 PCB,CodeCanvas,17,Male,Passion,88,53,93,90,55,52,431,71.83,86.2,1.6,Data Analyst,Chemistry,Computer Science,132,Good,Yes,Badminton,7,No,8,4,Chess
+S070254,Victor Tara,Day Scholar,12 PCB,SecureStack,17,Female,Divine,95,42,55,81,74,83,430,71.67,85.3,7.4,Entrepreneur,Chemistry,Economics,133,Good,Yes,Kabaddi,9,No,2,1,Robotics Club
+S070343,Lavanya Mohanty,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,87,78,52,90,80,42,429,71.5,78.5,7.2,IAS Officer,Biology,Mathematics,134,Good,Yes,Badminton,12,Yes,14,14,Debate
+S070306,Ridhi Tata,Hosteler,12 PCB,SecureStack,17,Male,Paradise,70,90,42,63,75,88,428,71.33,96.6,3.7,Entrepreneur,Physics,Mathematics,135,Good,Yes,Football,15,No,10,10,Reading
+S070084,Varsha Tella,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,70,63,77,63,56,99,428,71.33,84.0,5.7,IAS Officer,Physics,Mathematics,136,Good,Yes,Cricket,4,Yes,8,6,Quiz Club
+S070276,Kala Mitra,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,80,60,55,89,91,53,428,71.33,90.3,5.9,Army Officer,Physics,Computer Science,137,Good,Yes,Football,15,Yes,8,4,Chess
+S070122,Omya Narain,Day Scholar,12 PCB,SecureStack,17,Male,Divine,35,95,96,44,58,100,428,71.33,72.6,5.6,Teacher,Physics,Mathematics,138,Good,Yes,Football,9,Yes,15,15,Volunteering
+S070164,Wazir Atwal,Day Scholar,12 PCB,SecureStack,16,Male,Divine,49,46,78,81,83,90,427,71.17,89.4,1.1,Scientist,Chemistry,Economics,139,Good,Yes,Badminton,4,Yes,15,18,Reading
+S070225,Nathaniel Brar,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,89,50,89,57,93,49,427,71.17,75.7,6.5,Architect,Physics,Economics,140,Good,Yes,Cricket,8,No,5,2,Coding Club
+S070197,Faqid Ranganathan,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,79,81,81,37,70,78,426,71.0,80.8,1.1,Pilot,Physics,Computer Science,141,Good,No,,0,No,0,0,Reading
+S070097,Pranav Bhardwaj,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,55,41,93,69,100,68,426,71.0,95.4,3.7,Doctor,Biology,Mathematics,142,Good,Yes,Cricket,8,No,5,3,Painting
+S070261,Eiravati Sahota,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,92,75,49,38,82,90,426,71.0,84.5,5.6,Software Engineer,Chemistry,Computer Science,143,Good,Yes,Basketball,14,No,8,5,Drama
+S070334,Eta Garg,Hosteler,12 PCB,Innovixus Labs,16,Male,Petals,42,94,55,52,88,95,426,71.0,83.0,1.2,Doctor,Chemistry,Mathematics,144,Good,Yes,Volleyball,15,Yes,9,9,Painting
+S070268,Arin Ramakrishnan,Day Scholar,12 PCB,SecureStack,16,Female,Divine,52,70,97,48,88,71,426,71.0,81.7,7.6,Scientist,Physics,Computer Science,145,Good,Yes,Badminton,4,Yes,13,12,Painting
+S070321,Shravya Sethi,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,60,87,99,38,80,61,425,70.83,85.9,6.9,Lawyer,Biology,Mathematics,146,Good,Yes,Cricket,6,No,3,2,Music
+S070357,Prisha Mital,Hosteler,12 PCB,SecureStack,16,Female,Divine,84,48,73,81,70,69,425,70.83,99.5,7.4,Scientist,Physics,Economics,147,Good,No,,0,No,0,0,Music
+S070190,Charita Devi,Hosteler,12 PCB,SecureStack,17,Male,Paradise,72,39,44,76,96,98,425,70.83,74.1,5.3,Lawyer,Biology,Mathematics,148,Good,No,,0,No,0,0,Volunteering
+S070121,Samaksh Mangal,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,51,84,77,96,76,41,425,70.83,70.3,6.0,IAS Officer,Chemistry,Economics,149,Good,Yes,Hockey,12,Yes,8,7,Debate
+S070332,Baghyawati Krishna,Hosteler,12 PCB,SecureStack,16,Male,Petals,74,36,91,70,86,67,424,70.67,80.0,4.1,Entrepreneur,Chemistry,Mathematics,150,Good,Yes,Hockey,5,No,10,5,Coding Club
+S070255,Gautam Nayak,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,81,99,58,67,74,45,424,70.67,85.3,6.4,Doctor,Biology,Computer Science,151,Good,Yes,Football,4,No,3,3,Reading
+S070055,Libni Raja,Day Scholar,12 PCB,SecureStack,17,Male,Divine,37,77,42,69,100,98,423,70.5,87.5,6.9,IAS Officer,Physics,Mathematics,152,Good,Yes,Hockey,15,Yes,11,8,Volunteering
+S070173,Amruta Din,Day Scholar,12 PCB,SecureStack,17,Female,Divine,70,81,39,42,99,92,423,70.5,97.1,5.6,IAS Officer,Chemistry,Computer Science,153,Good,Yes,Football,10,No,7,6,Debate
+S070274,Sathvik Borah,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,59,61,96,80,71,55,422,70.33,77.3,6.0,Entrepreneur,Chemistry,Economics,154,Good,No,,0,No,0,0,Photography
+S070303,Libni Mandal,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,41,51,81,66,83,100,422,70.33,97.8,6.7,Pilot,Biology,Mathematics,155,Good,Yes,Football,2,No,3,1,Public Speaking
+S070155,Wriddhish Zacharia,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,70,75,46,93,39,99,422,70.33,84.8,6.0,Architect,Physics,Economics,156,Good,Yes,Hockey,8,Yes,14,18,Drama
+S070196,Jagdish Bhagat,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,81,69,93,41,42,95,421,70.17,92.6,2.5,Police Officer,Physics,Economics,157,Good,No,,0,No,0,0,Drama
+S070310,Yuvraj Ratti,Hosteler,12 PCB,SecureStack,17,Female,Divine,91,55,79,75,63,58,421,70.17,90.8,7.7,Architect,Biology,Computer Science,158,Good,Yes,Badminton,5,No,4,1,Painting
+S070090,Zashil Sanghvi,Hosteler,12 PCB,StreamLogic,16,Male,Petals,98,89,55,49,60,69,420,70.0,81.9,5.8,Software Engineer,Chemistry,Mathematics,159,Good,Yes,Kabaddi,13,Yes,11,12,Robotics Club
+S070395,Eesha Behl,Day Scholar,12 PCB,SecureStack,16,Male,Divine,53,60,45,87,93,82,420,70.0,72.5,2.4,Lawyer,Physics,Computer Science,160,Good,Yes,Badminton,5,No,10,11,Science Club
+S070347,Oeshi Singhal,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,41,72,95,93,51,68,420,70.0,97.4,4.4,Data Analyst,Biology,Economics,161,Good,No,,0,No,0,0,Quiz Club
+S070331,Ekantika Shere,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,66,60,49,98,55,92,420,70.0,80.6,7.0,Doctor,Chemistry,Computer Science,162,Good,Yes,Cricket,2,No,9,6,Public Speaking
+S070266,Chameli Nayar,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,55,89,86,37,65,87,419,69.83,93.6,2.3,Lawyer,Chemistry,Economics,163,Average,Yes,Cricket,6,No,2,1,Quiz Club
+S070079,Sachi Deep,Hosteler,12 PCB,SecureStack,17,Female,Divine,93,55,38,72,61,100,419,69.83,97.3,3.9,Architect,Biology,Mathematics,164,Average,Yes,Football,15,No,2,1,Dance
+S070013,Unnati Lall,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,39,75,68,85,92,60,419,69.83,81.8,6.1,Police Officer,Physics,Economics,165,Average,Yes,Cricket,3,Yes,14,10,Drama
+S070286,Hemal Halder,Hosteler,12 PCB,SecureStack,16,Female,Divine,69,66,78,40,70,95,418,69.67,94.9,6.0,Lawyer,Biology,Computer Science,166,Average,Yes,Hockey,4,No,1,0,Photography
+S070227,Owen Tak,Day Scholar,12 PCB,SecureStack,17,Male,Divine,58,39,91,65,96,68,417,69.5,89.5,4.2,Army Officer,Physics,Economics,167,Average,Yes,Cricket,3,No,4,4,Public Speaking
+S070078,Gauri Walia,Hosteler,12 PCB,StreamLogic,16,Female,Divine,96,35,91,49,54,92,417,69.5,83.2,2.5,Doctor,Biology,Computer Science,168,Average,No,,0,No,0,0,Debate
+S070362,Bimala Nagy,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,35,77,62,98,84,61,417,69.5,89.0,7.3,Police Officer,Physics,Computer Science,169,Average,Yes,Football,7,No,10,6,Public Speaking
+S070161,Omya Saxena,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,72,47,35,75,91,96,416,69.33,99.3,3.1,IAS Officer,Chemistry,Economics,170,Average,Yes,Badminton,9,No,4,4,Debate
+S070262,Gaurangi Divan,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,69,39,80,92,94,42,416,69.33,99.9,6.2,Scientist,Chemistry,Computer Science,171,Average,No,,0,No,0,0,Chess
+S070071,Jagrati Bandi,Hosteler,12 PCB,SecureStack,17,Female,Divine,42,70,62,93,88,61,416,69.33,81.1,3.8,Pilot,Biology,Computer Science,172,Average,Yes,Cricket,13,Yes,11,7,Painting
+S070350,Sathvik Manne,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,35,78,81,95,46,81,416,69.33,77.9,7.9,Software Engineer,Chemistry,Mathematics,173,Average,No,,0,No,0,0,Chess
+S070168,Damini Comar,Hosteler,12 PCB,SecureStack,16,Female,Divine,68,69,87,86,66,39,415,69.17,77.8,2.5,Data Analyst,Biology,Computer Science,174,Average,No,,0,No,0,0,Coding Club
+S070338,Damini Thaker,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,87,71,84,39,90,44,415,69.17,87.0,7.0,Data Analyst,Biology,Economics,175,Average,Yes,Tennis,12,No,4,3,Entrepreneurship Club
+S070042,Abhiram Mukherjee,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,98,71,45,46,90,65,415,69.17,95.8,5.8,Police Officer,Biology,Mathematics,176,Average,Yes,Basketball,5,Yes,11,9,Science Club
+S070243,Barkha Bhavsar,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,96,66,53,81,76,42,414,69.0,95.0,5.0,Architect,Biology,Computer Science,177,Average,No,,0,No,0,0,Coding Club
+S070323,Victor Grewal,Hosteler,12 PCB,StreamLogic,16,Female,Divine,48,35,99,87,59,86,414,69.0,85.2,5.6,Scientist,Physics,Economics,178,Average,No,,0,No,0,0,Coding Club
+S070149,Hiral Patla,Hosteler,12 PCB,CodeCanvas,17,Male,Paradise,42,87,78,65,60,82,414,69.0,88.4,4.3,Architect,Physics,Economics,179,Average,Yes,Cricket,3,No,8,3,Robotics Club
+S070223,Ethan Mital,Day Scholar,12 PCB,SecureStack,17,Female,Divine,39,83,57,97,100,38,414,69.0,85.1,2.4,Doctor,Biology,Economics,180,Average,No,,0,No,0,0,Robotics Club
+S070365,Qarin Pant,Day Scholar,12 PCB,SecureStack,16,Female,Divine,75,84,57,68,60,70,414,69.0,93.0,4.1,Lawyer,Chemistry,Computer Science,181,Average,No,,0,No,0,0,Coding Club
+S070392,Michael Grewal,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,76,90,56,35,97,60,414,69.0,70.6,3.9,Police Officer,Physics,Computer Science,182,Average,Yes,Football,8,No,3,3,Reading
+S070049,Raghav Sarraf,Day Scholar,12 PCB,SecureStack,17,Male,Divine,78,64,63,60,50,98,413,68.83,83.7,6.3,Lawyer,Chemistry,Economics,183,Average,Yes,Hockey,5,No,7,3,Painting
+S070134,Mason Taneja,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,78,55,54,63,82,81,413,68.83,86.7,5.7,Architect,Biology,Mathematics,184,Average,No,,0,No,0,0,Painting
+S070199,Siddharth Raja,Hosteler,12 PCB,SecureStack,16,Male,Paradise,82,88,88,68,37,49,412,68.67,79.4,1.2,Entrepreneur,Physics,Mathematics,185,Average,Yes,Kabaddi,11,Yes,14,10,Photography
+S070053,Devika Chadha,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,65,64,99,71,72,41,412,68.67,89.3,3.5,Teacher,Physics,Economics,186,Average,Yes,Cricket,6,No,8,7,Chess
+S070379,Wazir Subramanian,Hosteler,12 PCB,StreamLogic,17,Male,Passion,86,74,50,65,92,45,412,68.67,71.7,2.9,Scientist,Physics,Mathematics,187,Average,No,,0,No,0,0,Dance
+S070211,Chakrika Korpal,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,55,38,66,75,95,83,412,68.67,77.8,1.2,Army Officer,Biology,Economics,188,Average,Yes,Football,7,No,10,8,Music
+S070236,Gaurang Srinivasan,Day Scholar,12 PCB,SecureStack,17,Female,Divine,75,74,38,91,97,36,411,68.5,97.4,7.4,Scientist,Physics,Economics,189,Average,Yes,Badminton,12,No,10,7,Quiz Club
+S070124,Dhruv Roy,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,89,99,66,41,62,54,411,68.5,81.6,7.9,Architect,Chemistry,Economics,190,Average,Yes,Kabaddi,12,No,2,2,Volunteering
+S070336,Zaitra Chad,Hosteler,12 PCB,StreamLogic,17,Female,Divine,87,90,46,42,64,81,410,68.33,84.9,5.5,Architect,Physics,Computer Science,191,Average,Yes,Athletics,10,Yes,13,10,Music
+S070337,Madhav Agate,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,45,74,55,87,53,96,410,68.33,70.1,3.8,Software Engineer,Physics,Mathematics,192,Average,Yes,Basketball,8,No,3,3,Photography
+S070355,Devika Bansal,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,86,57,67,60,51,89,410,68.33,74.6,7.7,Entrepreneur,Physics,Economics,193,Average,No,,0,No,0,0,Coding Club
+S070140,Pratyush Pai,Hosteler,12 PCB,SecureStack,16,Female,Divine,60,96,53,54,90,56,409,68.17,80.3,2.3,Army Officer,Chemistry,Mathematics,194,Average,No,,0,No,0,0,Chess
+S070135,Hitesh Pathak,Hosteler,12 PCB,StreamLogic,16,Male,Petals,57,63,65,80,53,91,409,68.17,81.2,7.3,Pilot,Physics,Economics,195,Average,Yes,Kabaddi,10,No,9,3,Dance
+S070066,Bina Kota,Hosteler,12 PCB,SecureStack,17,Female,Divine,78,95,61,86,47,41,408,68.0,94.3,5.9,Software Engineer,Chemistry,Computer Science,196,Average,No,,0,No,0,0,Volunteering
+S070364,Ijaya Bhavsar,Day Scholar,12 PCB,SecureStack,17,Male,Divine,52,38,91,76,92,59,408,68.0,95.8,3.1,Doctor,Chemistry,Mathematics,197,Average,Yes,Football,6,No,2,2,Painting
+S070018,Timothy Parmar,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,61,48,75,83,98,43,408,68.0,73.3,7.7,Army Officer,Chemistry,Mathematics,198,Average,No,,0,No,0,0,Public Speaking
+S070085,Ubika Verma,Hosteler,12 PCB,StreamLogic,17,Male,Passion,92,63,58,49,63,83,408,68.0,78.9,3.3,Police Officer,Biology,Computer Science,199,Average,Yes,Cricket,3,No,7,4,Public Speaking
+S070399,Mahika Mohanty,Hosteler,12 PCB,CodeCanvas,16,Male,Passion,87,67,69,51,84,50,408,68.0,83.4,4.9,Teacher,Biology,Economics,200,Average,Yes,Basketball,8,Yes,11,4,Volunteering
+S070263,Oscar Wable,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,71,39,76,93,76,51,406,67.67,99.8,2.5,Software Engineer,Chemistry,Economics,201,Average,Yes,Basketball,7,No,9,5,Music
+S070380,Avni Saraf,Day Scholar,12 PCB,SecureStack,17,Male,Divine,87,65,95,45,63,50,405,67.5,73.2,6.1,Teacher,Chemistry,Economics,202,Average,Yes,Badminton,9,Yes,13,10,Music
+S070177,Jasmit Thakur,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,56,74,57,95,88,35,405,67.5,89.8,1.8,Entrepreneur,Chemistry,Computer Science,203,Average,Yes,Cricket,2,No,6,5,Debate
+S070371,Prisha Puri,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,89,58,50,74,97,37,405,67.5,95.1,7.7,Doctor,Biology,Computer Science,204,Average,Yes,Cricket,15,No,8,10,Photography
+S070247,Anamika Kakar,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,57,41,49,85,98,75,405,67.5,97.7,1.2,Doctor,Chemistry,Economics,205,Average,Yes,Football,4,No,7,5,Painting
+S070187,Manbir Zachariah,Hosteler,12 PCB,SecureStack,17,Female,Divine,44,49,80,70,65,96,404,67.33,84.5,2.8,Data Analyst,Chemistry,Economics,206,Average,No,,0,No,0,0,Entrepreneurship Club
+S070089,Edhitha Tata,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,60,95,67,77,62,43,404,67.33,94.1,2.9,Pilot,Chemistry,Economics,207,Average,No,,0,No,0,0,Music
+S070283,Jyoti Master,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,81,88,38,98,64,35,404,67.33,91.2,5.9,Doctor,Biology,Computer Science,208,Average,Yes,Football,7,No,10,9,Quiz Club
+S070009,Girik Guha,Day Scholar,12 PCB,SecureStack,17,Male,Divine,46,54,93,38,88,84,403,67.17,90.1,3.9,Architect,Chemistry,Economics,209,Average,Yes,Cricket,9,No,9,9,Photography
+S070295,Daksh Agrawal,Day Scholar,12 PCB,SecureStack,17,Male,Divine,85,87,48,41,75,67,403,67.17,93.5,3.3,Scientist,Chemistry,Computer Science,210,Average,No,,0,No,0,0,Public Speaking
+S070133,Saksham Dugar,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,98,96,45,52,43,69,403,67.17,71.9,5.1,Scientist,Biology,Computer Science,211,Average,Yes,Cricket,6,No,4,4,Science Club
+S070233,Odika Varghese,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,96,56,50,63,49,89,403,67.17,81.3,1.4,Lawyer,Physics,Economics,212,Average,No,,0,No,0,0,Entrepreneurship Club
+S070373,Megha Krishnamurthy,Day Scholar,12 PCB,SecureStack,17,Male,Divine,42,96,49,41,90,85,403,67.17,88.1,2.5,Pilot,Biology,Computer Science,213,Average,No,,0,No,0,0,Music
+S070324,Dakshesh Sood,Hosteler,12 PCB,StreamLogic,16,Female,Divine,36,83,86,99,43,55,402,67.0,79.3,7.1,Architect,Biology,Economics,214,Average,No,,0,No,0,0,Reading
+S070202,Bahadurjit Pillai,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,75,94,67,40,77,49,402,67.0,86.6,5.2,Scientist,Biology,Computer Science,215,Average,Yes,Basketball,2,No,1,1,Quiz Club
+S070104,Bhavika Sood,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,50,61,79,78,95,39,402,67.0,96.8,1.1,Police Officer,Chemistry,Mathematics,216,Average,Yes,Football,14,Yes,15,13,Reading
+S070375,Sara Shetty,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,94,69,88,43,54,54,402,67.0,85.4,6.3,Architect,Physics,Computer Science,217,Average,Yes,Cricket,7,Yes,15,8,Music
+S070214,Tanay Mani,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,72,51,44,45,89,100,401,66.83,71.6,4.6,Entrepreneur,Chemistry,Mathematics,218,Average,No,,0,No,0,0,Robotics Club
+S070282,Tejas Deol,Day Scholar,12 PCB,SecureStack,16,Female,Divine,91,63,46,63,96,42,401,66.83,99.6,5.9,IAS Officer,Physics,Mathematics,219,Average,Yes,Kabaddi,10,Yes,6,4,Public Speaking
+S070080,Zinal Sood,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,53,79,74,66,44,85,401,66.83,79.6,3.2,Teacher,Chemistry,Computer Science,220,Average,Yes,Athletics,8,No,2,2,Robotics Club
+S070311,Nandini Basu,Hosteler,12 PCB,SecureStack,16,Female,Divine,49,59,77,55,67,94,401,66.83,94.0,4.9,Architect,Physics,Computer Science,221,Average,Yes,Kabaddi,7,No,4,5,Music
+S070061,Vivaan Lalla,Hosteler,12 PCB,StreamLogic,16,Female,Divine,90,88,72,41,62,47,400,66.67,82.0,4.7,Data Analyst,Chemistry,Mathematics,222,Average,Yes,Badminton,8,No,4,4,Quiz Club
+S070322,Bahadurjit Dubey,Hosteler,12 PCB,StreamLogic,16,Male,Petals,93,38,46,56,72,94,399,66.5,88.9,4.3,Data Analyst,Physics,Economics,223,Average,No,,0,No,0,0,Volunteering
+S070186,Daniel Kalita,Hosteler,12 PCB,StreamLogic,16,Male,Paradise,85,86,70,36,55,66,398,66.33,86.1,7.1,Teacher,Biology,Economics,224,Average,Yes,Football,4,No,10,12,Coding Club
+S070275,Qushi Kannan,Hosteler,12 PCB,SecureStack,17,Female,Divine,66,36,57,92,95,52,398,66.33,87.3,6.7,Data Analyst,Biology,Computer Science,225,Average,No,,0,No,0,0,Painting
+S070290,Gunbir Prashad,Day Scholar,12 PCB,SecureStack,17,Male,Divine,98,48,49,73,47,83,398,66.33,98.9,1.1,Police Officer,Physics,Computer Science,226,Average,Yes,Cricket,11,No,4,2,Entrepreneurship Club
+S070208,Abhimanyu Naidu,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,62,44,61,91,44,95,397,66.17,87.2,7.5,IAS Officer,Chemistry,Economics,227,Average,Yes,Cricket,13,No,2,1,Entrepreneurship Club
+S070128,Nisha Savant,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,85,86,62,37,42,85,397,66.17,74.4,7.5,Lawyer,Chemistry,Economics,228,Average,Yes,Cricket,15,Yes,9,7,Music
+S070260,Sanya Murty,Hosteler,12 PCB,Innovixus Labs,16,Male,Petals,59,81,55,83,67,51,396,66.0,73.4,4.0,Lawyer,Chemistry,Mathematics,229,Average,Yes,Football,10,No,7,7,Photography
+S070030,Lucky Aurora,Hosteler,12 PCB,StreamLogic,17,Male,Paradise,63,68,90,76,42,57,396,66.0,85.3,4.0,Army Officer,Physics,Computer Science,230,Average,Yes,Cricket,10,Yes,5,4,Coding Club
+S070212,Utkarsh Dara,Day Scholar,12 PCB,SecureStack,16,Female,Divine,51,86,42,91,54,72,396,66.0,82.6,3.0,Pilot,Physics,Mathematics,231,Average,No,,0,No,0,0,Quiz Club
+S070158,Yashica Bhardwaj,Hosteler,12 PCB,SecureStack,16,Female,Divine,92,54,49,71,56,74,396,66.0,84.2,4.4,Architect,Chemistry,Economics,232,Average,Yes,Badminton,4,No,8,3,Public Speaking
+S070011,Jeremiah Rege,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,89,63,91,55,37,60,395,65.83,78.9,2.8,Pilot,Chemistry,Computer Science,233,Average,Yes,Cricket,14,No,9,10,Volunteering
+S070120,Liam Mandal,Hosteler,12 PCB,StreamLogic,17,Male,Petals,62,67,61,65,76,64,395,65.83,81.2,4.1,Doctor,Chemistry,Computer Science,234,Average,No,,0,No,0,0,Painting
+S070025,Meghana Dewan,Hosteler,12 PCB,StreamLogic,17,Male,Petals,36,61,88,36,83,91,395,65.83,73.3,7.1,Teacher,Chemistry,Economics,235,Average,Yes,Football,14,No,8,9,Coding Club
+S070280,Raagini Mangal,Hosteler,12 PCB,StreamLogic,17,Male,Petals,70,66,66,93,42,58,395,65.83,83.1,7.5,Teacher,Physics,Computer Science,236,Average,Yes,Cricket,10,No,1,0,Chess
+S070292,Jagvi Banik,Day Scholar,12 PCB,SecureStack,16,Male,Divine,53,86,98,37,42,79,395,65.83,79.9,1.9,Doctor,Physics,Economics,237,Average,Yes,Badminton,5,No,1,0,Quiz Club
+S070048,Tejas Sant,Hosteler,12 PCB,SecureStack,17,Male,Petals,94,56,82,38,56,66,392,65.33,89.2,6.2,Army Officer,Chemistry,Computer Science,238,Average,No,,0,No,0,0,Entrepreneurship Club
+S070393,Gagan Hayer,Hosteler,12 PCB,StreamLogic,16,Female,Divine,74,56,72,40,95,55,392,65.33,81.0,3.4,Software Engineer,Physics,Mathematics,239,Average,Yes,Football,10,Yes,15,15,Debate
+S070231,Vasana Tank,Day Scholar,12 PCB,SecureStack,16,Male,Divine,40,57,68,86,70,71,392,65.33,76.3,6.8,Entrepreneur,Biology,Mathematics,240,Average,No,,0,No,0,0,Volunteering
+S070035,Libni Bora,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,57,63,52,100,35,85,392,65.33,77.2,5.1,Architect,Physics,Computer Science,241,Average,Yes,Cricket,6,Yes,14,13,Quiz Club
+S070119,Jack Bhargava,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,89,79,51,73,60,40,392,65.33,83.7,5.1,Teacher,Physics,Computer Science,242,Average,No,,0,No,0,0,Volunteering
+S070036,Nikita Shroff,Day Scholar,12 PCB,SecureStack,17,Female,Divine,82,70,43,56,75,65,391,65.17,93.0,1.4,Entrepreneur,Chemistry,Computer Science,243,Average,Yes,Kabaddi,7,No,8,9,Debate
+S070003,Balveer Bajaj,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,42,93,43,51,85,77,391,65.17,95.5,5.4,Teacher,Physics,Mathematics,244,Average,No,,0,No,0,0,Coding Club
+S070335,Omisha Batta,Hosteler,12 PCB,StreamLogic,16,Male,Passion,64,87,62,65,52,60,390,65.0,74.7,5.5,Software Engineer,Chemistry,Economics,245,Average,Yes,Cricket,10,Yes,11,9,Public Speaking
+S070192,Daniel Sawhney,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,40,91,63,95,60,41,390,65.0,97.7,6.3,Doctor,Biology,Mathematics,246,Average,No,,0,No,0,0,Chess
+S070060,Aarav Acharya,Hosteler,12 PCB,SecureStack,17,Female,Divine,71,35,74,62,66,81,389,64.83,70.5,3.8,Data Analyst,Chemistry,Computer Science,247,Average,Yes,Football,2,No,8,6,Reading
+S070329,Ayushman Bera,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,57,77,65,91,48,51,389,64.83,70.7,8.0,Lawyer,Chemistry,Computer Science,248,Average,Yes,Cricket,12,No,9,4,Music
+S070228,Mekhala Gaba,Hosteler,12 PCB,SecureStack,17,Female,Divine,78,41,77,52,77,63,388,64.67,80.8,6.9,Software Engineer,Chemistry,Computer Science,249,Average,Yes,Athletics,10,No,3,3,Reading
+S070114,Sachi Ghosh,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,76,52,43,49,77,91,388,64.67,98.6,3.3,Teacher,Biology,Economics,250,Average,No,,0,No,0,0,Photography
+S070353,Aashi Dhar,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,54,47,100,45,75,67,388,64.67,99.2,4.5,Doctor,Chemistry,Economics,251,Average,Yes,Cricket,7,No,7,6,Robotics Club
+S070354,Oliver Merchant,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,97,42,82,38,91,38,388,64.67,89.2,7.5,Software Engineer,Physics,Mathematics,252,Average,Yes,Basketball,4,Yes,9,6,Chess
+S070330,Geetika Ravi,Hosteler,12 PCB,SecureStack,17,Female,Divine,65,91,60,44,71,56,387,64.5,90.1,3.7,Army Officer,Chemistry,Computer Science,253,Average,Yes,Tennis,12,Yes,9,7,Drama
+S070307,Zilmil Bail,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,35,71,71,94,41,75,387,64.5,77.9,1.1,Doctor,Physics,Economics,254,Average,No,,0,No,0,0,Painting
+S070032,Tanveer Gera,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,95,52,86,59,35,60,387,64.5,99.9,6.2,Architect,Chemistry,Mathematics,255,Average,No,,0,No,0,0,Debate
+S070216,Chandresh Mitter,Day Scholar,12 PCB,SecureStack,16,Female,Divine,75,36,90,39,76,71,387,64.5,90.7,2.5,Teacher,Biology,Economics,256,Average,No,,0,No,0,0,Photography
+S070193,Odika Deshmukh,Hosteler,12 PCB,StreamLogic,16,Male,Paradise,41,78,85,57,85,40,386,64.33,89.0,7.9,Police Officer,Chemistry,Computer Science,257,Average,Yes,Kabaddi,9,No,8,7,Science Club
+S070073,Ojas Saini,Hosteler,12 PCB,StreamLogic,16,Male,Paradise,50,41,89,74,40,91,385,64.17,87.5,4.7,Lawyer,Biology,Economics,258,Average,Yes,Tennis,9,No,4,4,Volunteering
+S070252,Nandini Brahmbhatt,Hosteler,12 PCB,SecureStack,17,Female,Divine,50,82,77,37,74,65,385,64.17,98.2,4.1,Pilot,Chemistry,Computer Science,259,Average,Yes,Cricket,5,No,2,1,Debate
+S070235,Ekani Bhakta,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,70,91,64,50,47,63,385,64.17,71.8,2.8,Teacher,Chemistry,Mathematics,260,Average,No,,0,No,0,0,Chess
+S070209,Jhalak Goswami,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,75,41,80,95,35,59,385,64.17,96.8,5.5,Architect,Chemistry,Computer Science,261,Average,Yes,Basketball,4,No,9,4,Dance
+S070185,Indira Sanghvi,Hosteler,12 PCB,CodeCanvas,16,Male,Passion,92,36,78,66,73,40,385,64.17,75.7,1.7,Scientist,Physics,Economics,262,Average,No,,0,No,0,0,Volunteering
+S070359,Aryan Raju,Hosteler,12 PCB,StreamLogic,16,Female,Divine,81,77,63,59,61,44,385,64.17,72.1,5.7,Data Analyst,Chemistry,Computer Science,263,Average,Yes,Volleyball,4,No,7,8,Chess
+S070384,Yashodhara Ganesh,Hosteler,12 PCB,Innovixus Labs,16,Male,Passion,95,41,38,78,79,54,385,64.17,77.6,5.5,Entrepreneur,Physics,Economics,264,Average,Yes,Athletics,10,Yes,11,8,Public Speaking
+S070245,Ranbir Dara,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,36,47,88,68,70,76,385,64.17,98.5,4.1,Entrepreneur,Biology,Economics,265,Average,Yes,Kabaddi,13,No,10,12,Reading
+S070294,Rushil Dara,Hosteler,12 PCB,SecureStack,17,Male,Passion,83,45,91,36,40,89,384,64.0,76.6,3.5,Pilot,Biology,Economics,266,Average,Yes,Football,15,Yes,5,5,Debate
+S070091,Gopal Wable,Day Scholar,12 PCB,SecureStack,16,Female,Divine,66,54,53,51,68,92,384,64.0,99.4,1.0,Teacher,Physics,Economics,267,Average,Yes,Cricket,10,Yes,9,5,Quiz Club
+S070088,Abhimanyu Bal,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,75,90,38,39,84,58,384,64.0,71.9,1.6,Pilot,Chemistry,Economics,268,Average,Yes,Hockey,2,No,4,4,Debate
+S070131,Gagan Sandal,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,46,58,84,47,76,72,383,63.83,70.3,5.6,IAS Officer,Biology,Mathematics,269,Average,Yes,Basketball,13,Yes,5,6,Science Club
+S070137,Noah Apte,Hosteler,12 PCB,StreamLogic,17,Male,Paradise,50,80,41,41,96,75,383,63.83,94.6,7.6,Teacher,Physics,Economics,270,Average,Yes,Volleyball,2,No,4,3,Quiz Club
+S070217,Baghyawati Mallick,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,65,48,36,98,40,96,383,63.83,83.6,3.6,Doctor,Physics,Economics,271,Average,Yes,Athletics,13,No,2,1,Coding Club
+S070150,Laban Narula,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,55,99,58,50,86,35,383,63.83,92.9,3.3,Doctor,Physics,Economics,272,Average,Yes,Swimming,4,No,5,3,Volunteering
+S070296,Chasmum Chaudhuri,Hosteler,12 PCB,StreamLogic,17,Male,Petals,93,79,49,35,35,92,383,63.83,75.4,3.0,Lawyer,Chemistry,Computer Science,273,Average,Yes,Cricket,6,No,10,8,Robotics Club
+S070397,Anvi Sekhon,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,38,77,66,99,58,44,382,63.67,89.6,6.4,IAS Officer,Chemistry,Computer Science,274,Average,No,,0,No,0,0,Coding Club
+S070171,Krishna Andra,Hosteler,12 PCB,StreamLogic,17,Male,Passion,41,47,83,67,76,68,382,63.67,99.9,3.6,Army Officer,Biology,Mathematics,275,Average,No,,0,No,0,0,Science Club
+S070367,Yadavi Dugar,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,51,37,96,80,48,70,382,63.67,82.4,7.7,IAS Officer,Physics,Computer Science,276,Average,Yes,Volleyball,11,No,10,11,Drama
+S070308,Pranav Bumb,Hosteler,12 PCB,SecureStack,17,Male,Passion,89,68,82,49,59,35,382,63.67,97.6,6.6,IAS Officer,Physics,Economics,277,Average,Yes,Cricket,5,No,9,6,Music
+S070189,Warjas Gandhi,Hosteler,12 PCB,StreamLogic,16,Male,Passion,98,51,53,78,48,53,381,63.5,98.3,6.4,Pilot,Biology,Computer Science,278,Average,Yes,Volleyball,15,Yes,5,2,Photography
+S070378,Eiravati Dutt,Hosteler,12 PCB,Innovixus Labs,17,Male,Paradise,62,84,92,54,46,43,381,63.5,83.4,6.1,Data Analyst,Chemistry,Mathematics,279,Average,No,,0,No,0,0,Entrepreneurship Club
+S070157,Ekbal Sangha,Hosteler,12 PCB,Innovixus Labs,17,Male,Passion,88,92,58,43,51,48,380,63.33,86.4,4.9,Software Engineer,Biology,Computer Science,280,Average,Yes,Badminton,13,No,10,11,Public Speaking
+S070056,Manya Koshy,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,97,56,48,42,41,96,380,63.33,77.7,5.0,Lawyer,Physics,Mathematics,281,Average,Yes,Football,3,No,10,5,Volunteering
+S070361,Bhavini Kohli,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,80,94,42,35,79,50,380,63.33,76.8,7.3,Lawyer,Physics,Computer Science,282,Average,No,,0,No,0,0,Debate
+S070278,Warinder Rattan,Hosteler,12 PCB,StreamLogic,17,Female,Divine,41,72,37,91,83,56,380,63.33,79.4,6.8,Lawyer,Biology,Economics,283,Average,Yes,Kabaddi,10,No,10,6,Reading
+S070200,Mitali Vig,Day Scholar,12 PCB,SecureStack,16,Male,Divine,58,35,90,56,57,84,380,63.33,72.3,3.7,Doctor,Biology,Computer Science,284,Average,Yes,Football,7,No,4,2,Dance
+S070020,Owen Tata,Hosteler,12 PCB,CodeCanvas,17,Female,Divine,58,75,92,39,64,52,380,63.33,90.4,7.9,Software Engineer,Chemistry,Mathematics,285,Average,Yes,Football,6,No,8,9,Robotics Club
+S070313,Aahana Yadav,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,68,40,70,82,43,77,380,63.33,76.5,6.4,IAS Officer,Chemistry,Economics,286,Average,Yes,Kabaddi,3,No,8,8,Science Club
+S070031,Jagdish Bumb,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,60,65,61,54,66,73,379,63.17,78.4,3.2,Data Analyst,Chemistry,Mathematics,287,Average,Yes,Volleyball,5,No,1,0,Science Club
+S070148,Rayaan Tara,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,43,63,70,73,58,72,379,63.17,95.8,6.2,Army Officer,Biology,Mathematics,288,Average,Yes,Football,15,Yes,6,4,Science Club
+S070105,Viraj Mallick,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,51,72,81,37,52,84,377,62.83,83.6,6.4,Doctor,Chemistry,Mathematics,289,Average,Yes,Hockey,11,No,2,2,Painting
+S070244,Kritika Dara,Day Scholar,12 PCB,SecureStack,17,Male,Divine,91,50,51,38,92,55,377,62.83,84.3,6.7,Teacher,Biology,Mathematics,290,Average,No,,0,No,0,0,Painting
+S070092,Ekani Pandey,Hosteler,12 PCB,StreamLogic,17,Male,Petals,91,44,69,40,67,66,377,62.83,86.6,6.4,Teacher,Biology,Computer Science,291,Average,Yes,Basketball,9,No,10,6,Coding Club
+S070194,Ekantika Handa,Day Scholar,12 PCB,SecureStack,17,Female,Divine,56,43,64,56,94,64,377,62.83,98.2,2.1,Teacher,Biology,Mathematics,292,Average,Yes,Volleyball,5,No,6,6,Dance
+S070248,Nidra Pathak,Day Scholar,12 PCB,SecureStack,17,Male,Divine,39,79,41,84,96,37,376,62.67,93.5,2.9,Architect,Chemistry,Computer Science,293,Average,No,,0,No,0,0,Coding Club
+S070006,Abeer Wagle,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,76,69,38,51,74,68,376,62.67,90.1,6.2,Pilot,Physics,Computer Science,294,Average,No,,0,No,0,0,Debate
+S070107,Falan Sood,Day Scholar,12 PCB,SecureStack,17,Female,Divine,95,96,52,41,47,45,376,62.67,70.0,2.6,Scientist,Biology,Economics,295,Average,Yes,Cricket,6,No,1,0,Photography
+S070312,Qadim Dayal,Day Scholar,12 PCB,SecureStack,17,Male,Divine,50,61,50,69,46,100,376,62.67,92.5,6.8,IAS Officer,Biology,Mathematics,296,Average,Yes,Badminton,14,No,9,3,Quiz Club
+S070154,Manya Shah,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,65,37,77,73,45,79,376,62.67,73.6,4.2,Scientist,Biology,Economics,297,Average,Yes,Badminton,2,No,9,9,Debate
+S070204,Amol Krishnan,Hosteler,12 PCB,SecureStack,17,Male,Petals,38,54,58,83,96,47,376,62.67,82.4,6.2,Police Officer,Biology,Computer Science,298,Average,No,,0,No,0,0,Dance
+S070086,Aishani Kakar,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,50,38,91,36,79,81,375,62.5,80.9,7.7,Pilot,Chemistry,Mathematics,299,Average,Yes,Football,5,No,3,1,Painting
+S070012,Zilmil Chadha,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,35,93,47,35,79,86,375,62.5,94.2,6.9,Teacher,Physics,Computer Science,300,Average,Yes,Hockey,15,Yes,15,7,Painting
+S070087,Nihal Sehgal,Day Scholar,12 PCB,StreamLogic,16,Female,Divine,69,72,46,51,59,78,375,62.5,98.0,3.2,Doctor,Physics,Mathematics,301,Average,Yes,Football,9,No,8,7,Volunteering
+S070300,Samarth Banerjee,Hosteler,12 PCB,StreamLogic,16,Male,Paradise,56,78,86,51,42,62,375,62.5,92.3,7.0,Pilot,Biology,Mathematics,302,Average,Yes,Cricket,10,Yes,10,12,Photography
+S070234,Owen Kota,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,43,82,48,64,44,92,373,62.17,91.4,4.8,Architect,Physics,Mathematics,303,Average,Yes,Tennis,15,Yes,10,10,Science Club
+S070400,Baghyawati Khare,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,68,78,44,39,84,60,373,62.17,72.1,2.0,Doctor,Physics,Economics,304,Average,No,,0,No,0,0,Painting
+S070063,Yug Ranganathan,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,52,85,40,79,59,58,373,62.17,78.7,7.1,Software Engineer,Biology,Computer Science,305,Average,No,,0,No,0,0,Drama
+S070351,Lucky Khalsa,Hosteler,12 PCB,SecureStack,17,Male,Passion,61,68,70,42,94,38,373,62.17,95.6,2.5,Lawyer,Physics,Computer Science,306,Average,No,,0,No,0,0,Volunteering
+S070178,Bhavika Luthra,Hosteler,12 PCB,Innovixus Labs,17,Male,Passion,50,59,80,59,71,54,373,62.17,80.2,1.6,Architect,Biology,Computer Science,307,Average,Yes,Cricket,6,Yes,9,4,Coding Club
+S070345,Chandani Parikh,Hosteler,12 PCB,SecureStack,16,Male,Passion,43,79,76,55,56,64,373,62.17,82.0,7.6,Software Engineer,Biology,Economics,308,Average,Yes,Cricket,7,Yes,5,3,Painting
+S070391,Veer Narasimhan,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,56,75,54,63,53,70,371,61.83,91.0,1.7,Doctor,Physics,Computer Science,309,Average,No,,0,No,0,0,Science Club
+S070169,Aachal Mitra,Day Scholar,12 PCB,SecureStack,17,Female,Divine,56,75,48,73,36,83,371,61.83,71.5,5.1,Teacher,Biology,Mathematics,310,Average,No,,0,No,0,0,Debate
+S070240,Eiravati Choudhury,Hosteler,12 PCB,StreamLogic,16,Female,Divine,48,77,78,63,38,66,370,61.67,91.8,6.9,Scientist,Physics,Mathematics,311,Average,No,,0,No,0,0,Photography
+S070366,Watika Ratti,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,77,35,91,42,76,49,370,61.67,72.7,7.4,IAS Officer,Biology,Mathematics,312,Average,Yes,Hockey,5,No,4,1,Volunteering
+S070181,Patrick Hegde,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,39,58,62,97,48,66,370,61.67,84.1,4.2,Pilot,Biology,Computer Science,313,Average,Yes,Badminton,7,No,4,4,Science Club
+S070349,Ansh Bala,Hosteler,12 PCB,StreamLogic,17,Male,Passion,68,51,50,51,99,51,370,61.67,85.2,7.7,Pilot,Biology,Mathematics,314,Average,Yes,Kabaddi,15,No,3,2,Public Speaking
+S070316,Faras Gokhale,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,46,52,75,43,63,90,369,61.5,96.1,4.0,Teacher,Chemistry,Computer Science,315,Average,Yes,Volleyball,14,Yes,15,8,Reading
+S070082,Januja Kamdar,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,79,39,58,85,43,65,369,61.5,91.0,7.1,IAS Officer,Biology,Mathematics,316,Average,No,,0,No,0,0,Chess
+S070195,Zarna Dey,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,76,67,39,49,72,66,369,61.5,93.1,3.6,Software Engineer,Physics,Mathematics,317,Average,Yes,Volleyball,7,No,2,1,Photography
+S070242,Qasim Mannan,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,82,51,40,96,53,47,369,61.5,94.8,4.1,Scientist,Biology,Computer Science,318,Average,Yes,Football,12,No,6,4,Coding Club
+S070141,Januja Kalla,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,71,75,41,76,56,49,368,61.33,79.6,5.4,IAS Officer,Chemistry,Mathematics,319,Average,No,,0,No,0,0,Robotics Club
+S070022,Qasim Bhatnagar,Hosteler,12 PCB,StreamLogic,17,Male,Passion,65,55,61,92,36,58,367,61.17,77.3,2.2,Software Engineer,Chemistry,Mathematics,320,Average,Yes,Football,4,No,5,3,Chess
+S070046,Pallavi Ratta,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,52,74,70,44,38,88,366,61.0,86.4,3.0,IAS Officer,Biology,Mathematics,321,Average,No,,0,No,0,0,Music
+S070001,Falan Nagy,Hosteler,12 PCB,StreamLogic,17,Male,Paradise,97,41,57,70,38,63,366,61.0,76.6,5.4,Police Officer,Physics,Economics,322,Average,Yes,Cricket,14,Yes,7,7,Photography
+S070109,Lakshit Baria,Hosteler,12 PCB,StreamLogic,17,Female,Divine,63,51,52,68,51,81,366,61.0,83.5,2.3,Pilot,Chemistry,Computer Science,323,Average,Yes,Badminton,6,No,1,1,Volunteering
+S070221,Aditya Parikh,Day Scholar,12 PCB,SecureStack,17,Female,Divine,37,80,56,37,76,80,366,61.0,84.5,5.0,Police Officer,Biology,Economics,324,Average,Yes,Football,3,No,9,7,Robotics Club
+S070051,Charvi Hari,Hosteler,12 PCB,StreamLogic,17,Female,Divine,49,91,85,35,50,55,365,60.83,75.0,7.8,IAS Officer,Biology,Computer Science,325,Average,Yes,Basketball,6,Yes,10,11,Debate
+S070382,Aarna Dasgupta,Hosteler,12 PCB,StreamLogic,16,Male,Petals,67,54,98,46,44,55,364,60.67,70.6,4.5,Data Analyst,Physics,Mathematics,326,Average,Yes,Football,10,No,3,2,Volunteering
+S070372,Dhriti Som,Hosteler,12 PCB,StreamLogic,16,Male,Passion,61,72,56,35,97,43,364,60.67,87.4,1.4,Data Analyst,Physics,Computer Science,327,Average,Yes,Football,13,No,8,5,Photography
+S070054,Bahadurjit Dhillon,Hosteler,12 PCB,Innovixus Labs,16,Female,Divine,80,37,59,63,38,87,364,60.67,78.6,3.9,Architect,Biology,Economics,328,Average,Yes,Badminton,11,No,8,8,Photography
+S070044,Ekalinga Sen,Day Scholar,12 PCB,SecureStack,17,Female,Divine,83,54,55,80,44,48,364,60.67,85.8,1.6,Lawyer,Physics,Computer Science,329,Average,Yes,Cricket,4,No,4,4,Dance
+S070047,Ayush Dar,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,79,42,57,70,54,62,364,60.67,78.0,2.8,Data Analyst,Chemistry,Mathematics,330,Average,Yes,Football,13,Yes,15,14,Debate
+S070045,Sanaya Gulati,Hosteler,12 PCB,StreamLogic,17,Male,Paradise,84,35,72,88,37,48,364,60.67,88.4,3.3,Pilot,Physics,Economics,331,Average,Yes,Badminton,3,No,8,9,Public Speaking
+S070224,Dalaja Bhakta,Day Scholar,12 PCB,SecureStack,16,Male,Divine,77,52,54,55,61,65,364,60.67,79.9,4.4,Scientist,Chemistry,Mathematics,332,Average,No,,0,No,0,0,Photography
+S070377,Christopher Mahal,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,67,99,58,64,36,39,363,60.5,97.0,2.8,Teacher,Physics,Computer Science,333,Average,Yes,Badminton,7,No,4,3,Painting
+S070370,Xalak Arora,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,73,45,42,78,35,90,363,60.5,93.8,6.6,Police Officer,Biology,Mathematics,334,Average,No,,0,No,0,0,Dance
+S070070,Riya Sami,Day Scholar,12 PCB,SecureStack,17,Female,Divine,56,68,43,86,38,72,363,60.5,90.3,4.9,Teacher,Chemistry,Mathematics,335,Average,Yes,Football,8,Yes,8,10,Painting
+S070174,Sudiksha Khosla,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,39,70,57,83,45,68,362,60.33,72.6,3.9,Software Engineer,Chemistry,Computer Science,336,Average,Yes,Cricket,13,Yes,6,6,Dance
+S070281,Raagini Sawhney,Day Scholar,12 PCB,SecureStack,16,Male,Divine,75,38,45,61,82,61,362,60.33,70.9,1.8,Entrepreneur,Physics,Computer Science,337,Average,Yes,Athletics,5,No,2,0,Robotics Club
+S070251,Krishna Raghavan,Hosteler,12 PCB,SecureStack,16,Female,Divine,45,59,40,95,77,45,361,60.17,75.1,7.2,Data Analyst,Chemistry,Mathematics,338,Average,Yes,Cricket,6,No,10,8,Chess
+S070072,Tripti Kadakia,Day Scholar,12 PCB,SecureStack,16,Male,Divine,67,67,47,69,74,35,359,59.83,92.4,2.9,Architect,Chemistry,Computer Science,339,Average,No,,0,No,0,0,Dance
+S070183,Hemani Pandya,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,54,72,69,59,44,60,358,59.67,80.4,7.2,Software Engineer,Physics,Computer Science,340,Average,No,,0,No,0,0,Chess
+S070179,Ekta Munshi,Hosteler,12 PCB,Innovixus Labs,17,Male,Paradise,67,50,81,79,44,36,357,59.5,97.9,7.1,Data Analyst,Biology,Computer Science,341,Average,No,,0,No,0,0,Public Speaking
+S070269,Osha Krishnan,Day Scholar,12 PCB,StreamLogic,16,Male,Divine,57,78,57,79,39,47,357,59.5,80.5,5.3,Army Officer,Biology,Computer Science,342,Average,Yes,Badminton,2,Yes,10,6,Volunteering
+S070237,Nandini Thakkar,Hosteler,12 PCB,Innovixus Labs,16,Male,Passion,47,50,100,38,57,64,356,59.33,94.2,2.0,Software Engineer,Chemistry,Computer Science,343,Average,Yes,Football,5,No,10,6,Public Speaking
+S070201,Chatresh Chopra,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,64,49,83,47,72,41,356,59.33,73.2,1.4,Software Engineer,Physics,Computer Science,344,Average,Yes,Cricket,12,Yes,13,8,Drama
+S070028,Matthew Ghosh,Hosteler,12 PCB,SecureStack,17,Female,Divine,88,41,49,81,48,48,355,59.17,92.1,4.3,Entrepreneur,Biology,Economics,345,Average,Yes,Football,2,Yes,12,11,Science Club
+S070287,Kiaan Dayal,Hosteler,12 PCB,StreamLogic,16,Female,Divine,45,75,66,43,49,76,354,59.0,94.9,2.1,Pilot,Physics,Mathematics,346,Average,No,,0,No,0,0,Chess
+S070246,Dakshesh Ravel,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,72,58,39,75,68,42,354,59.0,99.2,7.4,Architect,Chemistry,Computer Science,347,Average,Yes,Cricket,12,Yes,5,4,Dance
+S070358,Chandresh Sastry,Hosteler,12 PCB,Innovixus Labs,17,Male,Passion,53,37,47,88,80,48,353,58.83,75.0,7.5,Architect,Physics,Economics,348,Average,No,,0,No,0,0,Dance
+S070272,Pallavi Agrawal,Day Scholar,12 PCB,CodeCanvas,17,Male,Divine,88,68,40,66,43,48,353,58.83,99.8,7.3,Scientist,Chemistry,Computer Science,349,Average,No,,0,No,0,0,Robotics Club
+S070021,Tanveer Sridhar,Hosteler,12 PCB,StreamLogic,16,Female,Divine,75,44,60,74,37,62,352,58.67,86.0,3.0,Software Engineer,Biology,Economics,350,Average,Yes,Football,7,No,6,6,Public Speaking
+S070368,Irya Prakash,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,83,36,46,77,41,69,352,58.67,99.8,6.4,Architect,Biology,Computer Science,351,Average,No,,0,No,0,0,Volunteering
+S070052,Champak Nadig,Hosteler,12 PCB,CodeCanvas,17,Male,Passion,43,64,72,65,41,66,351,58.5,71.4,6.3,Doctor,Chemistry,Economics,352,Average,No,,0,No,0,0,Photography
+S070267,Yug Pradhan,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,57,71,60,81,40,42,351,58.5,94.1,4.0,Scientist,Chemistry,Computer Science,353,Average,Yes,Cricket,15,Yes,9,6,Public Speaking
+S070093,Ishwar Pillay,Day Scholar,12 PCB,SecureStack,17,Male,Divine,66,36,36,37,76,100,351,58.5,95.6,7.4,Doctor,Biology,Economics,354,Average,Yes,Athletics,3,No,3,2,Quiz Club
+S070100,Abhimanyu Saraf,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,51,51,63,37,95,53,350,58.33,81.6,1.7,Entrepreneur,Chemistry,Mathematics,355,Average,Yes,Football,9,Yes,14,15,Volunteering
+S070301,Yashvi Pradhan,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,39,43,86,56,41,85,350,58.33,71.9,7.3,Doctor,Physics,Computer Science,356,Average,Yes,Volleyball,6,No,3,1,Photography
+S070299,Maanav Kaul,Hosteler,12 PCB,Innovixus Labs,17,Male,Passion,94,70,41,48,56,40,349,58.17,94.2,5.8,Lawyer,Physics,Economics,357,Average,Yes,Football,10,No,2,1,Music
+S070057,Mohini Narula,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,50,97,67,36,38,60,348,58.0,81.8,5.8,Teacher,Physics,Computer Science,358,Average,Yes,Cricket,14,Yes,6,5,Chess
+S070304,Krishna Choudhary,Day Scholar,12 PCB,StreamLogic,17,Female,Divine,81,40,37,84,69,37,348,58.0,94.6,6.8,IAS Officer,Chemistry,Mathematics,359,Average,No,,0,No,0,0,Reading
+S070059,Bachittar Sami,Day Scholar,12 PCB,SecureStack,16,Male,Divine,95,68,48,53,35,48,347,57.83,83.1,5.2,Doctor,Physics,Mathematics,360,Average,Yes,Cricket,4,No,5,2,Music
+S070285,Hemang Pall,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,36,35,88,44,61,83,347,57.83,95.4,5.2,Entrepreneur,Biology,Mathematics,361,Average,Yes,Badminton,3,No,3,1,Painting
+S070340,Upasna Sidhu,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,73,55,35,75,58,51,347,57.83,90.6,6.8,Teacher,Chemistry,Mathematics,362,Average,No,,0,No,0,0,Public Speaking
+S070094,Frado Patel,Day Scholar,12 PCB,SecureStack,16,Male,Divine,37,59,62,71,38,78,345,57.5,90.8,7.3,Entrepreneur,Chemistry,Economics,363,Average,Yes,Football,2,Yes,5,4,Music
+S070023,Jackson Bassi,Day Scholar,12 PCB,SecureStack,17,Female,Divine,45,76,50,63,63,48,345,57.5,85.3,1.4,Entrepreneur,Chemistry,Computer Science,364,Average,No,,0,No,0,0,Drama
+S070165,Nirja Ram,Hosteler,12 PCB,CodeCanvas,16,Female,Divine,40,40,74,77,73,39,343,57.17,88.8,1.2,Software Engineer,Physics,Economics,365,Average,Yes,Kabaddi,9,Yes,12,5,Debate
+S070095,Girindra Khurana,Day Scholar,12 PCB,SecureStack,17,Male,Divine,90,39,58,48,65,43,343,57.17,91.0,5.0,Entrepreneur,Biology,Mathematics,366,Average,Yes,Cricket,14,Yes,6,3,Painting
+S070198,Rajeshri Raj,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,59,49,91,53,47,44,343,57.17,99.7,5.9,Doctor,Chemistry,Mathematics,367,Average,Yes,Football,4,Yes,14,6,Entrepreneurship Club
+S070305,Maanas Sehgal,Day Scholar,12 PCB,Innovixus Labs,17,Male,Divine,50,42,41,35,90,84,342,57.0,85.5,7.9,IAS Officer,Physics,Economics,368,Average,Yes,Cricket,10,No,2,1,Music
+S070077,Ranveer Nagarajan,Hosteler,12 PCB,Innovixus Labs,16,Male,Passion,42,55,79,83,42,40,341,56.83,76.0,1.7,Lawyer,Chemistry,Computer Science,369,Average,Yes,Basketball,8,Yes,12,6,Science Club
+S070319,Turvi Anand,Hosteler,12 PCB,StreamLogic,16,Male,Petals,84,35,53,76,38,54,340,56.67,77.8,1.2,Entrepreneur,Biology,Economics,370,Average,Yes,Kabaddi,15,No,9,4,Volunteering
+S070147,Avni Kala,Hosteler,12 PCB,Innovixus Labs,16,Male,Petals,38,42,76,36,75,71,338,56.33,83.1,3.7,Entrepreneur,Chemistry,Computer Science,371,Average,No,,0,No,0,0,Entrepreneurship Club
+S070279,Advaith Khanna,Day Scholar,12 PCB,Innovixus Labs,16,Female,Divine,63,44,100,41,53,37,338,56.33,77.9,5.9,Architect,Chemistry,Mathematics,372,Average,Yes,Cricket,2,No,1,1,Public Speaking
+S070270,Advay Prabhakar,Hosteler,12 PCB,Innovixus Labs,16,Male,Paradise,96,40,37,43,60,62,338,56.33,74.2,7.6,Army Officer,Chemistry,Mathematics,373,Average,Yes,Cricket,15,No,6,5,Chess
+S070220,Qabil Tella,Day Scholar,12 PCB,SecureStack,16,Female,Divine,41,67,35,62,95,37,337,56.17,85.6,5.3,Police Officer,Physics,Economics,374,Average,Yes,Badminton,15,Yes,7,8,Dance
+S070230,Sai Sehgal,Hosteler,12 PCB,SecureStack,16,Male,Petals,54,45,65,76,48,48,336,56.0,89.7,1.4,Teacher,Chemistry,Computer Science,375,Average,Yes,Basketball,10,No,2,1,Quiz Club
+S070284,Widisha Venkatesh,Hosteler,12 PCB,CodeCanvas,17,Male,Petals,96,40,45,35,47,72,335,55.83,74.7,6.8,Lawyer,Physics,Mathematics,376,Average,Yes,Cricket,6,No,7,4,Coding Club
+S070348,Pooja Dhaliwal,Hosteler,12 PCB,StreamLogic,17,Female,Divine,36,87,92,44,37,39,335,55.83,78.7,2.2,Data Analyst,Biology,Economics,377,Average,Yes,Football,13,Yes,13,14,Quiz Club
+S070050,Amrita Shroff,Hosteler,12 PCB,SecureStack,17,Male,Petals,56,72,57,55,35,58,333,55.5,93.6,2.3,Army Officer,Physics,Economics,378,Average,No,,0,No,0,0,Debate
+S070016,Praneel Patla,Day Scholar,12 PCB,SecureStack,16,Female,Divine,50,75,94,36,40,38,333,55.5,99.0,7.5,Teacher,Biology,Economics,379,Average,Yes,Cricket,3,No,1,1,Quiz Club
+S070342,Jatin Sinha,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,35,53,80,39,37,87,331,55.17,74.4,4.2,Police Officer,Chemistry,Mathematics,380,Average,No,,0,No,0,0,Debate
+S070153,Nikita Manda,Day Scholar,12 PCB,CodeCanvas,16,Male,Divine,55,38,45,37,91,64,330,55.0,82.1,2.0,IAS Officer,Biology,Computer Science,381,Average,Yes,Volleyball,3,No,7,5,Volunteering
+S070207,Praneel Narayan,Day Scholar,12 PCB,SecureStack,16,Male,Divine,49,46,43,68,55,68,329,54.83,78.8,6.6,Scientist,Chemistry,Computer Science,382,Average,Yes,Badminton,2,Yes,15,16,Painting
+S070116,Om Sharma,Hosteler,12 PCB,SecureStack,16,Female,Divine,96,54,52,37,40,50,329,54.83,72.9,2.8,Lawyer,Chemistry,Economics,383,Average,Yes,Football,7,No,9,10,Music
+S070110,Yadavi Keer,Day Scholar,12 PCB,SecureStack,17,Female,Divine,41,56,48,79,58,46,328,54.67,85.8,4.0,Lawyer,Biology,Economics,384,Average,Yes,Badminton,11,Yes,7,6,Science Club
+S070163,Hemangini Ghose,Hosteler,12 PCB,StreamLogic,17,Male,Passion,49,37,71,45,82,42,326,54.33,87.4,1.8,Police Officer,Biology,Economics,385,Average,No,,0,No,0,0,Photography
+S070271,Eshana Jha,Day Scholar,12 PCB,StreamLogic,17,Male,Divine,57,70,71,47,35,46,326,54.33,97.2,5.3,Pilot,Physics,Economics,386,Average,Yes,Football,10,Yes,8,9,Chess
+S070326,Harrison Tiwari,Hosteler,12 PCB,SecureStack,17,Female,Divine,62,50,40,42,62,68,324,54.0,96.6,2.8,Army Officer,Chemistry,Economics,387,Average,No,,0,No,0,0,Quiz Club
+S070118,Anay Dhar,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,47,36,100,36,35,68,322,53.67,97.0,2.9,Doctor,Chemistry,Economics,388,Average,Yes,Basketball,4,No,5,5,Science Club
+S070210,Brinda Sawhney,Day Scholar,12 PCB,SecureStack,16,Male,Divine,38,84,48,61,39,49,319,53.17,83.6,4.7,Software Engineer,Physics,Economics,389,Average,Yes,Kabaddi,6,Yes,7,4,Entrepreneurship Club
+S070298,Eesha Shankar,Day Scholar,12 PCB,Innovixus Labs,16,Male,Divine,50,68,61,36,54,49,318,53.0,83.6,2.2,Pilot,Physics,Computer Science,390,Average,Yes,Kabaddi,7,No,10,9,Chess
+S070138,Advika Karnik,Hosteler,12 PCB,StreamLogic,17,Female,Divine,36,75,36,48,35,88,318,53.0,94.1,2.8,Entrepreneur,Chemistry,Mathematics,391,Average,Yes,Cricket,6,No,7,6,Entrepreneurship Club
+S070019,Hemani Soman,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,80,43,48,46,40,60,317,52.83,95.8,1.1,Entrepreneur,Biology,Economics,392,Average,Yes,Football,12,Yes,12,10,Photography
+S070106,Max Sankaran,Hosteler,12 PCB,StreamLogic,17,Female,Divine,44,38,62,58,65,50,317,52.83,99.0,7.0,Doctor,Chemistry,Computer Science,393,Average,Yes,Football,9,No,1,0,Robotics Club
+S070385,Aarnav Bhagat,Day Scholar,12 PCB,CodeCanvas,16,Female,Divine,57,71,35,39,64,42,308,51.33,81.0,6.2,Doctor,Chemistry,Mathematics,394,Average,Yes,Basketball,11,Yes,11,6,Quiz Club
+S070389,Turvi Dube,Day Scholar,12 PCB,Innovixus Labs,17,Female,Divine,58,46,65,35,50,50,304,50.67,84.3,5.2,Architect,Physics,Computer Science,395,Average,Yes,Cricket,11,Yes,5,6,Dance
+S070010,Tamanna Madan,Day Scholar,12 PCB,SecureStack,16,Male,Divine,52,35,52,38,63,62,302,50.33,74.7,6.3,Teacher,Physics,Computer Science,396,Average,Yes,Cricket,6,No,6,5,Science Club
+S070387,Jacob Hegde,Hosteler,12 PCB,CodeCanvas,16,Male,Passion,44,39,45,36,52,86,302,50.33,77.9,5.4,Architect,Biology,Computer Science,397,Average,Yes,Badminton,12,Yes,9,10,Reading
+S070273,Gabriel Subramanian,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,45,53,38,59,64,42,301,50.17,99.5,5.8,Police Officer,Chemistry,Mathematics,398,Average,Yes,Football,15,No,10,7,Music
+S070024,Baljiwan Warrior,Day Scholar,12 PCB,CodeCanvas,17,Female,Divine,44,52,52,39,64,42,293,48.83,79.6,4.1,Scientist,Chemistry,Economics,399,Needs Improvement,Yes,Athletics,10,Yes,6,5,Volunteering
+S070249,Gayathri Sankar,Hosteler,12 PCB,Innovixus Labs,17,Female,Divine,41,36,40,72,39,37,265,44.17,77.6,3.5,Army Officer,Chemistry,Computer Science,400,Needs Improvement,Yes,Football,10,No,3,1,Photography

@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Maths_Marks,Physics_Marks,Chemistry_Marks,English_Marks,Physical_Education_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S030270,Lekha Sura,Hosteler,11 PCM,Veridata,16,Male,Passion,97,94,99,99,91,79,559,93.17,90.0,3.5,AI Engineer,Computer Science,English,1,Excellent,Yes,Badminton,9,No,9,11,Debate
+S030050,Upadhriti Sinha,Day Scholar,11 PCM,CyberForge,16,Female,Divine,93,92,91,84,94,81,535,89.17,90.0,1.9,Software Engineer,Chemistry,English,2,Excellent,No,,0,No,0,0,Painting
+S030328,Prisha Pandey,Hosteler,11 PCM,Veridata,15,Male,Petals,93,99,100,67,84,89,532,88.67,79.2,7.9,Civil Engineer,Chemistry,Hindi,3,Excellent,Yes,Cricket,8,Yes,12,15,Volunteering
+S030115,Logan Desai,Day Scholar,11 PCM,CyberForge,15,Female,Divine,95,100,97,84,52,95,523,87.17,90.7,7.8,Mechanical Engineer,Physics,Hindi,4,Excellent,Yes,Cricket,11,No,10,5,Photography
+S030069,Waida Shere,Hosteler,11 PCM,Syntec,16,Male,Petals,80,87,94,94,76,86,517,86.17,83.6,2.0,Mechanical Engineer,Computer Science,English,5,Excellent,Yes,Volleyball,13,No,1,0,Chess
+S030313,Avi Mistry,Day Scholar,11 PCM,Syntec,15,Male,Divine,83,83,70,90,90,98,514,85.67,79.8,4.1,Data Scientist,Physics,Hindi,6,Excellent,No,,0,No,0,0,Drama
+S030004,Ayush Kalita,Hosteler,11 PCM,Veridata,16,Female,Divine,96,96,79,59,86,92,508,84.67,88.6,4.8,AI Engineer,Mathematics,Physical Education,7,Good,Yes,Athletics,14,No,5,5,Quiz Club
+S030377,Jasmit Madan,Day Scholar,11 PCM,Quantix,15,Male,Divine,64,91,93,93,80,85,506,84.33,74.0,1.5,Robotics Engineer,Chemistry,Physical Education,8,Good,No,,0,No,0,0,Reading
+S030144,Avi Jain,Day Scholar,11 PCM,Quantix,16,Female,Divine,69,77,100,73,98,86,503,83.83,94.1,2.8,AI Engineer,Chemistry,English,9,Good,Yes,Volleyball,10,No,6,4,Debate
+S030089,Yachana Rau,Day Scholar,11 PCM,CyberForge,15,Female,Divine,76,93,85,56,97,96,503,83.83,72.3,1.8,Scientist,Physics,Physical Education,10,Good,Yes,Cricket,6,Yes,6,2,Music
+S030386,Nihal Kari,Day Scholar,11 PCM,Veridata,16,Female,Divine,98,77,93,86,69,77,500,83.33,99.0,4.1,Architect,Computer Science,Hindi,11,Good,Yes,Volleyball,8,No,6,7,Dance
+S030326,Darika Mangal,Day Scholar,11 PCM,CyberForge,15,Female,Divine,95,99,71,100,43,89,497,82.83,78.4,2.8,Software Engineer,Mathematics,Hindi,12,Good,Yes,Badminton,2,No,4,5,Drama
+S030118,Saanvi Acharya,Hosteler,11 PCM,Syntec,16,Female,Divine,98,82,66,85,96,69,496,82.67,74.4,5.2,Software Engineer,Physics,Hindi,13,Good,No,,0,No,0,0,Photography
+S030134,Manan Patil,Day Scholar,11 PCM,Veridata,15,Female,Divine,86,67,87,56,99,98,493,82.17,76.2,5.2,AI Engineer,Mathematics,English,14,Good,Yes,Badminton,6,No,3,3,Coding Club
+S030292,Arya Mukhopadhyay,Day Scholar,11 PCM,Veridata,15,Male,Divine,99,39,73,98,85,98,492,82.0,76.0,5.1,Mechanical Engineer,Computer Science,Hindi,15,Good,Yes,Football,5,No,8,5,Science Club
+S030320,Zayyan Handa,Hosteler,11 PCM,Quantix,16,Female,Divine,96,78,64,90,79,84,491,81.83,86.6,7.8,Mechanical Engineer,Mathematics,Hindi,16,Good,No,,0,No,0,0,Painting
+S030153,Kashish Kalla,Hosteler,11 PCM,Quantix,16,Male,Passion,77,75,65,96,90,87,490,81.67,98.1,2.5,Robotics Engineer,Physics,Hindi,17,Good,Yes,Volleyball,4,No,3,2,Chess
+S030165,Gayathri Butala,Hosteler,11 PCM,Veridata,15,Female,Divine,78,84,90,48,100,86,486,81.0,75.7,5.5,Scientist,Physics,Physical Education,18,Good,No,,0,No,0,0,Painting
+S030263,Maanav Yohannan,Day Scholar,11 PCM,Veridata,16,Female,Divine,94,76,68,81,69,96,484,80.67,74.6,5.0,Software Engineer,Mathematics,English,19,Good,No,,0,No,0,0,Dance
+S030048,Andrew Dutta,Day Scholar,11 PCM,CyberForge,15,Male,Divine,67,79,93,96,54,93,482,80.33,74.3,5.5,Robotics Engineer,Computer Science,Hindi,20,Good,Yes,Football,3,No,9,6,Quiz Club
+S030025,Daksha Raman,Day Scholar,11 PCM,Quantix,15,Male,Divine,69,41,93,91,98,90,482,80.33,70.7,4.1,Mechanical Engineer,Mathematics,Hindi,21,Good,No,,0,No,0,0,Coding Club
+S030255,Yagnesh Bora,Hosteler,11 PCM,Syntec,16,Male,Passion,89,88,42,76,99,88,482,80.33,78.4,7.0,Robotics Engineer,Computer Science,Physical Education,22,Good,Yes,Cricket,11,Yes,11,7,Reading
+S030157,Omisha Bal,Hosteler,11 PCM,Quantix,16,Male,Paradise,77,99,70,85,60,90,481,80.17,98.9,5.1,Architect,Computer Science,English,23,Good,Yes,Basketball,6,No,4,4,Science Club
+S030314,Tarak Bal,Day Scholar,11 PCM,CyberForge,16,Female,Divine,81,97,91,78,38,92,477,79.5,98.9,2.3,Mechanical Engineer,Physics,Hindi,24,Good,No,,0,No,0,0,Volunteering
+S030392,Urmi Bassi,Hosteler,11 PCM,CyberForge,16,Male,Passion,70,57,90,99,93,68,477,79.5,71.5,4.5,Pilot,Physics,Physical Education,25,Good,Yes,Volleyball,12,Yes,11,5,Dance
+S030051,Maanas Gole,Hosteler,11 PCM,Veridata,16,Male,Petals,59,81,94,87,82,74,477,79.5,74.2,1.8,Scientist,Mathematics,Physical Education,26,Good,No,,0,No,0,0,Robotics Club
+S030309,Quincy Mody,Hosteler,11 PCM,Syntec,16,Female,Divine,85,83,68,89,66,85,476,79.33,97.9,3.7,Civil Engineer,Physics,Hindi,27,Good,No,,0,No,0,0,Volunteering
+S030143,Advika Sami,Day Scholar,11 PCM,Veridata,16,Male,Divine,78,82,95,68,77,76,476,79.33,94.2,6.4,Software Engineer,Chemistry,English,28,Good,No,,0,No,0,0,Quiz Club
+S030125,Tarak Ramesh,Hosteler,11 PCM,Syntec,16,Female,Divine,97,90,78,76,37,98,476,79.33,88.2,3.6,Data Scientist,Computer Science,English,29,Good,Yes,Cricket,4,No,9,10,Music
+S030111,Amol Gola,Day Scholar,11 PCM,Syntec,15,Male,Divine,66,96,62,59,95,96,474,79.0,73.0,3.7,Architect,Physics,English,30,Good,No,,0,No,0,0,Chess
+S030096,Girindra Yohannan,Day Scholar,11 PCM,Veridata,16,Female,Divine,57,86,82,94,79,72,470,78.33,90.3,3.9,Electrical Engineer,Physics,Physical Education,31,Good,Yes,Football,15,Yes,6,4,Quiz Club
+S030212,Anita Sura,Day Scholar,11 PCM,Quantix,15,Female,Divine,95,98,68,71,50,88,470,78.33,81.8,5.3,Civil Engineer,Chemistry,English,32,Good,Yes,Tennis,5,Yes,6,7,Music
+S030178,Kavya Babu,Hosteler,11 PCM,Syntec,15,Male,Passion,80,59,66,97,97,70,469,78.17,77.6,4.0,Data Scientist,Physics,English,33,Good,Yes,Cricket,8,No,6,3,Debate
+S030371,Aishani Ranganathan,Hosteler,11 PCM,Veridata,15,Female,Divine,82,77,45,75,94,95,468,78.0,81.5,4.6,Mechanical Engineer,Mathematics,English,34,Good,Yes,Cricket,7,No,1,0,Robotics Club
+S030140,Rachana Savant,Hosteler,11 PCM,Quantix,15,Female,Divine,50,91,97,90,100,39,467,77.83,98.0,3.6,Electrical Engineer,Mathematics,English,35,Good,Yes,Badminton,15,Yes,8,9,Chess
+S030323,Watika Som,Hosteler,11 PCM,Veridata,16,Female,Divine,92,91,85,61,66,72,467,77.83,75.1,2.3,AI Engineer,Computer Science,Physical Education,36,Good,Yes,Cricket,14,Yes,11,8,Quiz Club
+S030033,Niharika Patla,Hosteler,11 PCM,Syntec,15,Male,Paradise,98,59,54,78,93,84,466,77.67,90.1,1.5,AI Engineer,Mathematics,English,37,Good,Yes,Badminton,11,Yes,13,6,Reading
+S030019,Faqid Varma,Hosteler,11 PCM,Syntec,16,Female,Divine,83,60,68,97,79,78,465,77.5,92.6,7.7,Architect,Physics,English,38,Good,Yes,Hockey,2,No,3,3,Drama
+S030013,Pranit Venkataraman,Hosteler,11 PCM,Quantix,16,Male,Petals,81,65,98,90,88,42,464,77.33,95.3,6.1,AI Engineer,Mathematics,Hindi,39,Good,Yes,Cricket,4,No,1,0,Painting
+S030243,Shravya Parsa,Hosteler,11 PCM,Syntec,15,Female,Divine,80,57,65,86,92,84,464,77.33,86.2,7.8,Electrical Engineer,Physics,Physical Education,40,Good,Yes,Cricket,10,No,5,2,Quiz Club
+S030256,Kevin Wali,Day Scholar,11 PCM,Veridata,15,Female,Divine,70,78,89,81,75,71,464,77.33,79.1,5.3,Electrical Engineer,Physics,Physical Education,41,Good,No,,0,No,0,0,Robotics Club
+S030023,Banjeet Bhasin,Hosteler,11 PCM,CyberForge,16,Female,Divine,87,58,86,84,68,81,464,77.33,81.1,7.3,Scientist,Mathematics,Physical Education,42,Good,Yes,Volleyball,8,No,5,2,Drama
+S030259,Aarini Sem,Day Scholar,11 PCM,Syntec,15,Male,Divine,73,71,84,84,97,53,462,77.0,82.7,7.3,Civil Engineer,Mathematics,Physical Education,43,Good,Yes,Badminton,13,Yes,6,3,Photography
+S030290,Zaid Wason,Day Scholar,11 PCM,Quantix,15,Male,Divine,86,88,89,47,74,77,461,76.83,93.9,1.4,Software Engineer,Computer Science,Physical Education,44,Good,No,,0,No,0,0,Coding Club
+S030302,Raksha Modi,Day Scholar,11 PCM,Quantix,16,Male,Divine,71,83,84,66,68,89,461,76.83,83.6,3.2,Pilot,Computer Science,English,45,Good,No,,0,No,0,0,Chess
+S030203,Bakhshi Dasgupta,Hosteler,11 PCM,Quantix,16,Female,Divine,95,98,66,59,83,59,460,76.67,78.0,2.1,Robotics Engineer,Chemistry,Physical Education,46,Good,Yes,Cricket,4,No,5,2,Volunteering
+S030244,Aayush Bora,Day Scholar,11 PCM,Syntec,15,Female,Divine,83,44,43,94,98,98,460,76.67,95.7,5.0,AI Engineer,Computer Science,Physical Education,47,Good,Yes,Badminton,6,Yes,10,7,Coding Club
+S030079,Abdul Prakash,Hosteler,11 PCM,Syntec,16,Female,Divine,82,94,53,92,83,55,459,76.5,73.2,2.9,Architect,Chemistry,Physical Education,48,Good,Yes,Hockey,14,Yes,14,11,Volunteering
+S030102,Manthan Bose,Day Scholar,11 PCM,CyberForge,16,Male,Divine,89,96,40,97,39,98,459,76.5,70.9,5.9,AI Engineer,Physics,Hindi,49,Good,Yes,Badminton,11,Yes,6,6,Volunteering
+S030238,Ekansh Panchal,Day Scholar,11 PCM,Syntec,16,Male,Divine,89,86,50,93,96,42,456,76.0,77.1,3.8,Robotics Engineer,Physics,Hindi,50,Good,Yes,Badminton,11,Yes,9,8,Coding Club
+S030397,Timothy Aurora,Hosteler,11 PCM,Veridata,15,Male,Petals,97,66,79,51,82,80,455,75.83,74.5,2.1,Civil Engineer,Chemistry,Physical Education,51,Good,No,,0,No,0,0,Music
+S030138,Nihal Sundaram,Day Scholar,11 PCM,CyberForge,15,Female,Divine,100,96,40,96,43,80,455,75.83,79.3,4.5,Scientist,Physics,English,52,Good,Yes,Football,6,No,9,7,Entrepreneurship Club
+S030145,Orinder Pandey,Day Scholar,11 PCM,Syntec,16,Male,Divine,54,47,99,81,87,86,454,75.67,79.0,2.7,Electrical Engineer,Computer Science,Physical Education,53,Good,No,,0,No,0,0,Chess
+S030180,Aditya Narayanan,Day Scholar,11 PCM,Syntec,16,Female,Divine,73,63,92,60,70,96,454,75.67,74.8,2.5,Scientist,Physics,English,54,Good,No,,0,No,0,0,Science Club
+S030072,George Ben,Day Scholar,11 PCM,Quantix,15,Female,Divine,90,90,55,97,42,80,454,75.67,98.6,5.9,Mechanical Engineer,Mathematics,English,55,Good,Yes,Cricket,9,No,10,11,Entrepreneurship Club
+S030306,Ayush Bora,Hosteler,11 PCM,Quantix,15,Male,Paradise,67,76,100,47,86,77,453,75.5,80.8,7.7,AI Engineer,Computer Science,English,56,Good,Yes,Badminton,4,No,8,5,Debate
+S030398,Yachana Manda,Hosteler,11 PCM,Veridata,15,Male,Paradise,71,81,95,63,80,63,453,75.5,82.7,1.6,Software Engineer,Physics,Hindi,57,Good,No,,0,No,0,0,Painting
+S030116,Gaurika Randhawa,Day Scholar,11 PCM,Veridata,16,Female,Divine,71,100,64,75,76,65,451,75.17,99.2,2.3,Mechanical Engineer,Computer Science,Hindi,58,Good,No,,0,No,0,0,Reading
+S030146,Oviya Chakrabarti,Day Scholar,11 PCM,Syntec,15,Male,Divine,42,90,86,90,54,88,450,75.0,80.0,3.6,Civil Engineer,Chemistry,Hindi,59,Good,Yes,Volleyball,14,Yes,13,13,Volunteering
+S030040,Atharv Raj,Hosteler,11 PCM,CyberForge,15,Female,Divine,69,87,36,88,87,83,450,75.0,94.5,4.4,AI Engineer,Physics,Physical Education,60,Good,Yes,Kabaddi,12,No,2,2,Drama
+S030225,Urmi Saxena,Hosteler,11 PCM,Syntec,15,Female,Divine,90,69,46,83,83,79,450,75.0,97.7,2.5,Mechanical Engineer,Computer Science,Hindi,61,Good,Yes,Badminton,5,No,4,4,Robotics Club
+S030112,Simon Menon,Hosteler,11 PCM,CyberForge,15,Male,Paradise,96,100,44,56,66,87,449,74.83,94.8,3.8,AI Engineer,Physics,Hindi,62,Good,Yes,Athletics,6,No,2,2,Coding Club
+S030301,Vinaya Korpal,Hosteler,11 PCM,CyberForge,15,Female,Divine,57,97,71,63,77,83,448,74.67,93.4,4.2,Architect,Chemistry,Hindi,63,Good,Yes,Football,5,Yes,7,3,Science Club
+S030135,Gagan Bobal,Day Scholar,11 PCM,Veridata,15,Female,Divine,83,73,82,38,75,97,448,74.67,76.5,6.4,Civil Engineer,Computer Science,Physical Education,64,Good,Yes,Cricket,4,No,7,5,Painting
+S030099,Mitesh Varghese,Day Scholar,11 PCM,Veridata,16,Female,Divine,85,85,63,79,87,48,447,74.5,74.7,5.9,Pilot,Physics,Physical Education,65,Good,Yes,Badminton,7,No,2,1,Science Club
+S030349,Vasana Bhardwaj,Day Scholar,11 PCM,CyberForge,15,Female,Divine,64,53,94,87,62,87,447,74.5,87.9,3.0,Electrical Engineer,Physics,Hindi,66,Good,Yes,Cricket,13,No,7,6,Painting
+S030172,Anusha Sunder,Hosteler,11 PCM,CyberForge,15,Male,Paradise,96,40,95,81,86,48,446,74.33,87.7,4.9,Data Scientist,Physics,Hindi,67,Good,Yes,Football,13,Yes,11,4,Quiz Club
+S030362,Ridhi Wason,Hosteler,11 PCM,CyberForge,15,Male,Passion,89,42,44,84,91,96,446,74.33,93.3,7.3,Electrical Engineer,Mathematics,Physical Education,68,Good,No,,0,No,0,0,Volunteering
+S030192,Krish Yadav,Day Scholar,11 PCM,CyberForge,16,Female,Divine,55,62,92,89,57,91,446,74.33,77.8,2.5,Electrical Engineer,Chemistry,Hindi,69,Good,Yes,Cricket,9,No,6,3,Music
+S030387,Siddharth Nadig,Day Scholar,11 PCM,Veridata,15,Female,Divine,99,83,43,90,61,70,446,74.33,75.3,3.0,Mechanical Engineer,Physics,Physical Education,70,Good,Yes,Football,11,Yes,15,9,Dance
+S030160,Yash Murthy,Hosteler,11 PCM,Quantix,15,Female,Divine,99,74,41,98,62,71,445,74.17,97.8,3.7,Civil Engineer,Chemistry,Physical Education,71,Good,Yes,Basketball,4,Yes,7,7,Dance
+S030289,Radha Korpal,Day Scholar,11 PCM,Quantix,15,Female,Divine,90,85,90,54,45,80,444,74.0,94.9,5.9,AI Engineer,Physics,English,72,Good,No,,0,No,0,0,Debate
+S030022,Ekaja Bhalla,Hosteler,11 PCM,Veridata,15,Female,Divine,98,63,63,66,63,91,444,74.0,70.4,2.7,Scientist,Computer Science,Hindi,73,Good,Yes,Volleyball,10,No,3,3,Drama
+S030158,Chatura Hayre,Day Scholar,11 PCM,Veridata,16,Female,Divine,37,87,43,95,88,94,444,74.0,95.0,2.6,Data Scientist,Mathematics,Physical Education,74,Good,Yes,Badminton,15,Yes,9,9,Dance
+S030393,Vaishnavi Joshi,Day Scholar,11 PCM,Syntec,16,Female,Divine,53,63,91,94,92,51,444,74.0,90.5,3.8,Robotics Engineer,Computer Science,English,75,Good,Yes,Cricket,12,Yes,13,10,Science Club
+S030151,Yash Hegde,Day Scholar,11 PCM,CyberForge,16,Male,Divine,39,85,78,55,95,92,444,74.0,78.8,5.9,Mechanical Engineer,Computer Science,English,76,Good,Yes,Basketball,11,No,8,4,Photography
+S030287,Amara Kalita,Day Scholar,11 PCM,Quantix,15,Female,Divine,70,97,73,60,86,57,443,73.83,70.7,5.0,Data Scientist,Mathematics,Physical Education,77,Good,Yes,Volleyball,10,No,7,3,Quiz Club
+S030288,Jeevika Din,Day Scholar,11 PCM,Quantix,15,Female,Divine,89,89,67,98,38,61,442,73.67,80.0,8.0,Pilot,Computer Science,English,78,Good,Yes,Badminton,5,No,10,6,Photography
+S030093,Gauri Kapur,Day Scholar,11 PCM,Syntec,15,Male,Divine,83,38,39,98,90,94,442,73.67,99.2,5.0,Architect,Physics,Hindi,79,Good,No,,0,No,0,0,Science Club
+S030233,Vedhika Acharya,Hosteler,11 PCM,Veridata,16,Male,Passion,49,63,89,65,100,75,441,73.5,84.9,5.0,Civil Engineer,Computer Science,English,80,Good,Yes,Football,10,No,4,2,Drama
+S030035,Indira Hora,Day Scholar,11 PCM,Syntec,16,Male,Divine,76,52,92,60,72,89,441,73.5,81.3,4.4,Robotics Engineer,Physics,Hindi,81,Good,Yes,Cricket,10,Yes,14,20,Debate
+S030005,Kalpit Som,Day Scholar,11 PCM,CyberForge,16,Female,Divine,58,67,78,97,93,47,440,73.33,71.9,3.6,Mechanical Engineer,Chemistry,English,82,Good,Yes,Volleyball,7,Yes,12,11,Entrepreneurship Club
+S030218,Azaan Dixit,Day Scholar,11 PCM,Quantix,15,Male,Divine,97,89,53,61,68,72,440,73.33,77.3,7.3,Electrical Engineer,Computer Science,English,83,Good,Yes,Cricket,3,No,5,5,Quiz Club
+S030147,Rajeshri Parmer,Day Scholar,11 PCM,Veridata,16,Female,Divine,62,86,90,65,71,66,440,73.33,74.8,3.3,Software Engineer,Physics,English,84,Good,Yes,Cricket,15,No,1,0,Public Speaking
+S030068,Kritika Kar,Day Scholar,11 PCM,Syntec,16,Male,Divine,81,43,68,75,92,80,439,73.17,85.0,6.3,Mechanical Engineer,Chemistry,English,85,Good,Yes,Hockey,8,Yes,8,6,Debate
+S030126,Udant Mall,Hosteler,11 PCM,CyberForge,15,Female,Divine,62,75,80,86,70,66,439,73.17,81.4,7.1,Software Engineer,Chemistry,Physical Education,86,Good,No,,0,No,0,0,Robotics Club
+S030383,Ekavir Chandra,Day Scholar,11 PCM,Quantix,16,Female,Divine,54,47,100,100,40,98,439,73.17,74.4,2.7,Electrical Engineer,Physics,Physical Education,87,Good,No,,0,No,0,0,Chess
+S030066,Bhavani Kakar,Hosteler,11 PCM,CyberForge,15,Male,Paradise,76,64,55,85,72,87,439,73.17,82.8,6.8,Architect,Physics,Physical Education,88,Good,Yes,Football,4,No,4,3,Entrepreneurship Club
+S030097,Manan Chad,Hosteler,11 PCM,CyberForge,15,Female,Divine,77,80,94,92,56,40,439,73.17,88.0,4.8,Civil Engineer,Chemistry,English,89,Good,No,,0,No,0,0,Debate
+S030267,Naksh Shere,Day Scholar,11 PCM,Quantix,16,Female,Divine,98,63,55,85,72,66,439,73.17,77.8,2.8,AI Engineer,Physics,English,90,Good,Yes,Football,15,No,6,5,Painting
+S030296,Atharv Goda,Hosteler,11 PCM,Syntec,15,Male,Passion,100,99,92,53,49,45,438,73.0,91.9,4.8,Mechanical Engineer,Mathematics,Physical Education,91,Good,Yes,Football,14,Yes,6,4,Robotics Club
+S030017,Tara Prasad,Day Scholar,11 PCM,CyberForge,15,Female,Divine,66,70,92,41,76,93,438,73.0,76.3,6.4,Scientist,Mathematics,Physical Education,92,Good,Yes,Kabaddi,6,No,6,4,Coding Club
+S030361,Aishani Batra,Hosteler,11 PCM,Quantix,16,Female,Divine,80,79,66,82,78,53,438,73.0,81.6,1.2,Electrical Engineer,Computer Science,Physical Education,93,Good,Yes,Football,6,No,4,3,Science Club
+S030104,Sachi Sachar,Hosteler,11 PCM,Syntec,15,Female,Divine,95,39,76,74,92,62,438,73.0,70.3,1.9,Mechanical Engineer,Computer Science,English,94,Good,Yes,Hockey,11,No,10,5,Entrepreneurship Club
+S030351,Om Mani,Hosteler,11 PCM,CyberForge,15,Male,Passion,72,62,81,91,67,65,438,73.0,82.6,1.4,Pilot,Computer Science,English,95,Good,Yes,Football,2,No,5,3,Coding Club
+S030106,Girik Sekhon,Hosteler,11 PCM,Veridata,16,Male,Paradise,60,96,97,66,35,84,438,73.0,71.3,2.3,Architect,Computer Science,English,96,Good,Yes,Cricket,15,No,6,6,Dance
+S030053,Chavvi Gandhi,Day Scholar,11 PCM,Veridata,16,Male,Divine,60,54,87,75,94,66,436,72.67,79.5,7.5,Pilot,Physics,Physical Education,97,Good,Yes,Badminton,8,No,3,3,Robotics Club
+S030366,Warda Sawhney,Hosteler,11 PCM,Veridata,15,Female,Divine,80,66,35,87,100,67,435,72.5,74.5,7.3,Data Scientist,Computer Science,Hindi,98,Good,Yes,Cricket,2,No,1,0,Entrepreneurship Club
+S030166,Guneet Sahota,Day Scholar,11 PCM,Quantix,16,Male,Divine,93,84,76,82,60,40,435,72.5,75.6,5.0,Civil Engineer,Mathematics,Physical Education,99,Good,Yes,Cricket,13,No,2,1,Music
+S030327,Pavani Rout,Hosteler,11 PCM,Quantix,15,Female,Divine,61,81,43,95,62,92,434,72.33,89.3,5.6,Data Scientist,Chemistry,Physical Education,100,Good,Yes,Badminton,15,Yes,5,3,Quiz Club
+S030315,Hemal Bhatnagar,Hosteler,11 PCM,CyberForge,16,Male,Passion,68,86,83,51,58,88,434,72.33,71.6,3.8,Mechanical Engineer,Mathematics,English,101,Good,Yes,Cricket,6,No,10,4,Public Speaking
+S030076,Adya Swaminathan,Day Scholar,11 PCM,Quantix,16,Male,Divine,53,76,45,97,94,69,434,72.33,81.7,2.4,Robotics Engineer,Chemistry,Hindi,102,Good,Yes,Cricket,4,No,2,2,Painting
+S030273,William Tailor,Hosteler,11 PCM,Quantix,15,Male,Petals,88,95,45,61,98,46,433,72.17,81.9,5.4,Robotics Engineer,Physics,English,103,Good,Yes,Badminton,11,Yes,10,11,Music
+S030372,Hritik Garg,Hosteler,11 PCM,CyberForge,16,Female,Divine,43,83,54,100,96,57,433,72.17,98.8,3.2,Civil Engineer,Physics,Physical Education,104,Good,No,,0,No,0,0,Coding Club
+S030113,Jagrati Brar,Hosteler,11 PCM,Syntec,16,Female,Divine,59,82,85,92,63,51,432,72.0,89.4,6.3,Scientist,Chemistry,Physical Education,105,Good,Yes,Basketball,5,No,4,3,Quiz Club
+S030061,Sachi Raj,Day Scholar,11 PCM,CyberForge,16,Female,Divine,78,51,79,68,59,97,432,72.0,72.5,4.1,Architect,Mathematics,Physical Education,106,Good,No,,0,No,0,0,Volunteering
+S030283,Upkaar Shere,Day Scholar,11 PCM,Syntec,15,Female,Divine,82,71,89,57,66,67,432,72.0,74.1,6.7,Scientist,Computer Science,English,107,Good,No,,0,No,0,0,Robotics Club
+S030295,Tanish Dhaliwal,Hosteler,11 PCM,Quantix,16,Male,Paradise,94,41,100,93,56,48,432,72.0,71.6,2.1,Architect,Mathematics,English,108,Good,Yes,Cricket,6,No,9,5,Coding Club
+S030294,Zilmil Savant,Day Scholar,11 PCM,Quantix,15,Female,Divine,58,61,100,72,49,92,432,72.0,91.3,7.4,Electrical Engineer,Computer Science,Physical Education,109,Good,No,,0,No,0,0,Chess
+S030338,Ekaraj Varghese,Day Scholar,11 PCM,Quantix,16,Female,Divine,36,64,90,50,95,97,432,72.0,70.9,6.6,Mechanical Engineer,Chemistry,Hindi,110,Good,Yes,Athletics,4,No,1,0,Music
+S030381,Leena Radhakrishnan,Day Scholar,11 PCM,Syntec,16,Male,Divine,90,85,60,74,59,63,431,71.83,70.3,5.5,Data Scientist,Chemistry,Hindi,111,Good,No,,0,No,0,0,Reading
+S030304,Dev Agate,Hosteler,11 PCM,Veridata,16,Female,Divine,40,90,52,68,85,96,431,71.83,88.1,1.5,Robotics Engineer,Physics,English,112,Good,Yes,Badminton,5,Yes,13,14,Public Speaking
+S030119,Jacob Upadhyay,Hosteler,11 PCM,Syntec,15,Female,Divine,43,59,67,98,93,70,430,71.67,78.0,7.9,Pilot,Physics,Hindi,113,Good,Yes,Badminton,7,No,6,4,Chess
+S030299,Kavya Dugar,Day Scholar,11 PCM,CyberForge,15,Male,Divine,86,46,45,55,100,98,430,71.67,88.0,4.0,AI Engineer,Chemistry,Hindi,114,Good,Yes,Badminton,15,Yes,15,8,Painting
+S030293,Kalpit Cheema,Hosteler,11 PCM,CyberForge,15,Female,Divine,87,83,47,54,62,97,430,71.67,84.6,5.0,Software Engineer,Chemistry,English,115,Good,Yes,Cricket,11,No,10,8,Photography
+S030070,Tanmayi Chawla,Day Scholar,11 PCM,Veridata,15,Male,Divine,83,54,86,81,36,90,430,71.67,87.8,2.3,AI Engineer,Physics,Hindi,116,Good,No,,0,No,0,0,Dance
+S030059,Oscar Sankar,Hosteler,11 PCM,CyberForge,15,Female,Divine,41,65,74,68,92,90,430,71.67,78.2,8.0,Data Scientist,Physics,Hindi,117,Good,Yes,Football,4,Yes,12,5,Chess
+S030032,Ayaan Dutta,Hosteler,11 PCM,Quantix,15,Female,Divine,91,57,99,54,91,38,430,71.67,94.2,3.2,Data Scientist,Physics,Hindi,118,Good,No,,0,No,0,0,Quiz Club
+S030221,Jagat Arya,Day Scholar,11 PCM,Veridata,15,Female,Divine,93,46,72,53,81,84,429,71.5,79.9,1.7,Architect,Mathematics,Physical Education,119,Good,No,,0,No,0,0,Chess
+S030052,Umang Taneja,Hosteler,11 PCM,Veridata,16,Female,Divine,60,62,78,55,84,90,429,71.5,70.7,2.4,Scientist,Chemistry,Hindi,120,Good,Yes,Athletics,3,No,5,5,Chess
+S030223,Hredhaan Sawhney,Hosteler,11 PCM,CyberForge,15,Female,Divine,93,88,38,91,57,62,429,71.5,85.6,2.5,AI Engineer,Mathematics,Physical Education,121,Good,No,,0,No,0,0,Entrepreneurship Club
+S030343,Barkha Acharya,Day Scholar,11 PCM,Quantix,16,Female,Divine,51,48,79,72,82,97,429,71.5,83.1,4.5,Architect,Chemistry,English,122,Good,Yes,Football,10,No,7,4,Volunteering
+S030169,Hema Rama,Day Scholar,11 PCM,CyberForge,16,Female,Divine,87,44,81,44,98,74,428,71.33,70.7,7.9,Architect,Chemistry,Physical Education,123,Good,No,,0,No,0,0,Reading
+S030087,Bhavika Garde,Day Scholar,11 PCM,Syntec,15,Female,Divine,85,50,71,92,38,92,428,71.33,75.5,1.3,Scientist,Chemistry,English,124,Good,No,,0,No,0,0,Painting
+S030071,David Oak,Hosteler,11 PCM,Veridata,16,Female,Divine,69,78,60,37,98,85,427,71.17,94.9,7.0,Pilot,Chemistry,English,125,Good,Yes,Badminton,6,No,6,6,Volunteering
+S030280,Hitesh Sundaram,Hosteler,11 PCM,Quantix,16,Female,Divine,96,64,98,70,42,56,426,71.0,91.6,7.7,Robotics Engineer,Computer Science,Physical Education,126,Good,No,,0,No,0,0,Debate
+S030325,Ayushman Raman,Day Scholar,11 PCM,CyberForge,15,Male,Divine,99,53,69,64,77,64,426,71.0,71.1,7.4,Civil Engineer,Physics,Physical Education,127,Good,No,,0,No,0,0,Photography
+S030108,Joshua Sane,Day Scholar,11 PCM,Quantix,15,Male,Divine,95,39,70,90,89,43,426,71.0,77.9,7.6,Robotics Engineer,Computer Science,Hindi,128,Good,Yes,Badminton,15,Yes,15,19,Chess
+S030249,Rachit Parmer,Hosteler,11 PCM,CyberForge,16,Male,Passion,82,48,63,99,48,85,425,70.83,70.8,5.5,Software Engineer,Mathematics,Hindi,129,Good,Yes,Badminton,11,No,5,4,Photography
+S030128,Upma Raghavan,Hosteler,11 PCM,Veridata,15,Female,Divine,69,81,68,96,55,56,425,70.83,95.4,7.9,AI Engineer,Physics,English,130,Good,Yes,Badminton,14,Yes,9,4,Debate
+S030200,Veda Aggarwal,Hosteler,11 PCM,Veridata,16,Female,Divine,81,70,54,86,83,50,424,70.67,74.5,2.9,Robotics Engineer,Mathematics,Hindi,131,Good,Yes,Cricket,10,No,9,11,Chess
+S030286,Niharika Luthra,Day Scholar,11 PCM,Quantix,15,Male,Divine,45,60,100,40,87,92,424,70.67,71.6,6.0,Civil Engineer,Physics,English,132,Good,Yes,Badminton,8,No,1,0,Quiz Club
+S030183,Aryan Sinha,Hosteler,11 PCM,CyberForge,16,Female,Divine,96,59,58,48,74,89,424,70.67,87.6,5.4,Electrical Engineer,Mathematics,English,133,Good,Yes,Badminton,9,Yes,12,6,Dance
+S030237,Nimrat Raghavan,Day Scholar,11 PCM,Veridata,16,Female,Divine,91,64,89,64,66,49,423,70.5,82.3,3.4,AI Engineer,Computer Science,Physical Education,134,Good,Yes,Kabaddi,15,No,7,8,Photography
+S030055,Wazir Bera,Day Scholar,11 PCM,Veridata,15,Female,Divine,95,78,57,72,73,47,422,70.33,74.9,1.8,Civil Engineer,Computer Science,English,135,Good,No,,0,No,0,0,Reading
+S030018,Mahika Dayal,Day Scholar,11 PCM,CyberForge,16,Female,Divine,57,98,46,77,80,64,422,70.33,73.0,6.1,Architect,Mathematics,Physical Education,136,Good,Yes,Athletics,15,No,9,4,Science Club
+S030207,Januja Kara,Hosteler,11 PCM,CyberForge,15,Male,Petals,48,82,65,99,57,70,421,70.17,84.0,6.8,Data Scientist,Mathematics,English,137,Good,Yes,Cricket,9,No,4,3,Robotics Club
+S030390,Harita Mitra,Hosteler,11 PCM,Quantix,16,Male,Paradise,88,49,73,75,74,62,421,70.17,87.0,2.5,Pilot,Chemistry,English,138,Good,Yes,Badminton,13,Yes,7,7,Public Speaking
+S030388,Christopher Swamy,Day Scholar,11 PCM,CyberForge,16,Female,Divine,100,46,78,58,86,53,421,70.17,87.3,3.8,Software Engineer,Chemistry,English,139,Good,No,,0,No,0,0,Photography
+S030248,Dhruv Samra,Hosteler,11 PCM,Veridata,16,Female,Divine,68,45,76,58,78,96,421,70.17,81.7,7.8,Civil Engineer,Computer Science,Physical Education,140,Good,Yes,Tennis,11,No,1,0,Music
+S030123,Urmi Bhalla,Hosteler,11 PCM,Veridata,16,Male,Paradise,87,63,65,93,56,57,421,70.17,73.2,2.7,Robotics Engineer,Computer Science,Physical Education,141,Good,Yes,Cricket,12,No,7,5,Debate
+S030010,Amaira Kota,Hosteler,11 PCM,Veridata,16,Female,Divine,88,85,59,66,79,44,421,70.17,74.2,3.8,Data Scientist,Chemistry,English,142,Good,Yes,Cricket,4,No,8,5,Music
+S030088,Isaac Dash,Hosteler,11 PCM,Veridata,15,Female,Divine,73,81,94,41,64,67,420,70.0,79.3,2.5,Robotics Engineer,Mathematics,English,143,Good,No,,0,No,0,0,Coding Club
+S030352,Rishi Balay,Day Scholar,11 PCM,CyberForge,15,Female,Divine,59,63,67,73,99,59,420,70.0,79.5,2.6,AI Engineer,Computer Science,English,144,Good,Yes,Badminton,9,Yes,6,5,Chess
+S030058,Daksh Sidhu,Day Scholar,11 PCM,Veridata,16,Male,Divine,72,45,80,98,37,88,420,70.0,95.5,2.3,Civil Engineer,Physics,Hindi,145,Good,Yes,Basketball,2,No,8,7,Dance
+S030078,Garima Sunder,Hosteler,11 PCM,Syntec,15,Male,Passion,42,59,99,71,66,83,420,70.0,78.9,2.4,Robotics Engineer,Physics,English,146,Good,Yes,Kabaddi,7,No,7,3,Volunteering
+S030227,Banjeet Rau,Hosteler,11 PCM,Syntec,16,Male,Paradise,96,63,35,35,100,90,419,69.83,71.9,1.4,Scientist,Chemistry,English,147,Average,Yes,Basketball,4,No,5,2,Science Club
+S030057,Garima Dugar,Day Scholar,11 PCM,Quantix,15,Male,Divine,37,97,79,78,45,82,418,69.67,74.0,3.1,Mechanical Engineer,Chemistry,English,148,Average,Yes,Cricket,14,No,3,2,Reading
+S030001,Gauri Mall,Day Scholar,11 PCM,Syntec,15,Female,Divine,67,51,76,81,47,96,418,69.67,73.8,4.6,Data Scientist,Chemistry,Physical Education,149,Average,Yes,Cricket,2,No,8,9,Debate
+S030020,Vaishnavi Sarma,Day Scholar,11 PCM,Quantix,15,Male,Divine,99,72,57,85,44,60,417,69.5,91.3,7.4,Electrical Engineer,Mathematics,English,150,Average,Yes,Basketball,9,Yes,9,8,Public Speaking
+S030358,Amruta Rajagopalan,Day Scholar,11 PCM,Quantix,16,Female,Divine,78,39,91,71,40,98,417,69.5,91.1,6.9,Data Scientist,Physics,Hindi,151,Average,Yes,Football,2,No,4,5,Reading
+S030181,Imaran Barad,Day Scholar,11 PCM,CyberForge,15,Female,Divine,63,100,53,49,69,82,416,69.33,78.2,5.6,Robotics Engineer,Computer Science,English,152,Average,Yes,Cricket,13,No,9,7,Painting
+S030077,Mitali Srinivas,Day Scholar,11 PCM,Veridata,16,Male,Divine,66,63,35,76,80,96,416,69.33,98.7,4.4,Robotics Engineer,Chemistry,Physical Education,153,Average,Yes,Kabaddi,4,No,6,2,Debate
+S030399,Zinal Kannan,Hosteler,11 PCM,Syntec,15,Female,Divine,41,93,40,100,58,84,416,69.33,92.9,6.6,Software Engineer,Computer Science,English,154,Average,Yes,Badminton,11,No,5,5,Coding Club
+S030274,Yoshita Choudhary,Hosteler,11 PCM,Quantix,15,Male,Petals,93,87,94,52,41,49,416,69.33,73.4,3.8,Scientist,Chemistry,English,155,Average,Yes,Football,8,No,8,5,Reading
+S030374,Geetika Kanda,Hosteler,11 PCM,Veridata,15,Male,Passion,46,70,70,97,70,62,415,69.17,72.0,7.8,Electrical Engineer,Chemistry,Physical Education,156,Average,No,,0,No,0,0,Chess
+S030027,Bhavini Sankaran,Day Scholar,11 PCM,Quantix,16,Female,Divine,64,100,87,53,75,35,414,69.0,87.6,6.4,Pilot,Physics,Physical Education,157,Average,Yes,Badminton,6,No,3,1,Drama
+S030229,Ekiya Devan,Hosteler,11 PCM,Veridata,16,Female,Divine,60,91,87,53,41,82,414,69.0,78.1,7.3,Software Engineer,Computer Science,Physical Education,158,Average,No,,0,No,0,0,Chess
+S030230,Triveni Purohit,Day Scholar,11 PCM,Veridata,15,Female,Divine,55,42,92,52,86,87,414,69.0,80.3,4.9,AI Engineer,Computer Science,Physical Education,159,Average,No,,0,No,0,0,Coding Club
+S030356,Joshua Lata,Hosteler,11 PCM,Quantix,15,Male,Petals,38,86,82,64,75,69,414,69.0,99.9,7.3,Electrical Engineer,Chemistry,Hindi,160,Average,Yes,Cricket,14,No,5,2,Painting
+S030355,Reva Natt,Hosteler,11 PCM,CyberForge,16,Male,Paradise,94,99,84,47,37,53,414,69.0,91.1,4.1,Civil Engineer,Physics,Physical Education,161,Average,Yes,Football,11,No,10,10,Drama
+S030095,Ganga Chakraborty,Hosteler,11 PCM,Syntec,15,Female,Divine,41,71,81,46,82,93,414,69.0,81.2,7.3,Mechanical Engineer,Chemistry,Hindi,162,Average,Yes,Cricket,3,No,3,2,Quiz Club
+S030271,Hardik Kata,Hosteler,11 PCM,Quantix,16,Male,Paradise,70,73,65,84,45,76,413,68.83,72.0,6.8,Software Engineer,Chemistry,Physical Education,163,Average,Yes,Football,15,Yes,12,11,Science Club
+S030139,Nicholas Sarma,Hosteler,11 PCM,Syntec,16,Female,Divine,38,100,62,82,38,92,412,68.67,94.0,4.2,Mechanical Engineer,Mathematics,Hindi,164,Average,No,,0,No,0,0,Science Club
+S030353,Sara Apte,Day Scholar,11 PCM,Syntec,16,Male,Divine,77,41,92,91,70,41,412,68.67,83.5,3.3,Scientist,Mathematics,Hindi,165,Average,Yes,Football,6,No,2,1,Dance
+S030073,Logan Kothari,Day Scholar,11 PCM,CyberForge,16,Male,Divine,62,88,97,36,74,55,412,68.67,90.5,4.0,AI Engineer,Chemistry,Physical Education,166,Average,Yes,Football,11,No,1,1,Quiz Club
+S030161,Bhavika Magar,Hosteler,11 PCM,Quantix,15,Male,Petals,89,45,77,66,96,37,410,68.33,97.9,6.1,AI Engineer,Mathematics,Physical Education,167,Average,Yes,Cricket,13,Yes,9,7,Painting
+S030250,Kamya Taneja,Hosteler,11 PCM,Veridata,16,Female,Divine,76,97,71,68,63,35,410,68.33,88.8,1.8,Pilot,Physics,English,168,Average,Yes,Football,5,Yes,8,5,Science Club
+S030341,Bhanumati Roy,Day Scholar,11 PCM,Quantix,15,Female,Divine,46,52,97,72,84,58,409,68.17,86.3,6.6,AI Engineer,Chemistry,Hindi,169,Average,Yes,Badminton,6,No,10,9,Volunteering
+S030105,Jhalak Chand,Day Scholar,11 PCM,Veridata,16,Male,Divine,70,84,41,67,50,97,409,68.17,78.8,2.1,Robotics Engineer,Mathematics,Hindi,170,Average,Yes,Cricket,2,No,5,3,Entrepreneurship Club
+S030232,Balhaar Oza,Day Scholar,11 PCM,Syntec,15,Male,Divine,80,56,60,79,86,48,409,68.17,83.9,2.4,Data Scientist,Physics,English,171,Average,Yes,Football,8,No,5,4,Public Speaking
+S030275,Wriddhish Madan,Hosteler,11 PCM,Quantix,16,Male,Passion,52,78,91,66,60,62,409,68.17,87.2,4.0,Data Scientist,Chemistry,Physical Education,172,Average,Yes,Cricket,6,No,2,2,Quiz Club
+S030174,Rachit Shetty,Hosteler,11 PCM,Syntec,16,Male,Passion,62,84,59,72,79,52,408,68.0,97.3,3.0,Pilot,Physics,Physical Education,173,Average,Yes,Volleyball,3,Yes,15,15,Chess
+S030332,Bina Puri,Day Scholar,11 PCM,Quantix,15,Female,Divine,49,40,38,100,96,84,407,67.83,86.4,6.7,Robotics Engineer,Mathematics,Hindi,174,Average,Yes,Cricket,11,Yes,5,4,Drama
+S030321,Darpan Deol,Day Scholar,11 PCM,CyberForge,16,Male,Divine,51,50,64,99,76,67,407,67.83,71.4,5.7,Data Scientist,Mathematics,Hindi,175,Average,Yes,Cricket,10,Yes,7,6,Science Club
+S030177,Chatura Balan,Hosteler,11 PCM,Syntec,16,Female,Divine,92,53,53,50,82,76,406,67.67,89.8,5.8,Civil Engineer,Chemistry,Physical Education,176,Average,No,,0,No,0,0,Robotics Club
+S030198,Yash Varghese,Hosteler,11 PCM,Veridata,15,Female,Divine,45,53,96,71,97,44,406,67.67,94.7,3.0,Robotics Engineer,Physics,Hindi,177,Average,Yes,Basketball,4,No,3,3,Painting
+S030367,Warinder Bahri,Hosteler,11 PCM,Syntec,16,Female,Divine,52,35,71,77,93,77,405,67.5,95.7,7.0,Scientist,Chemistry,Physical Education,178,Average,No,,0,No,0,0,Debate
+S030260,Aarush Prabhakar,Hosteler,11 PCM,CyberForge,15,Female,Divine,35,51,81,100,56,82,405,67.5,98.5,1.5,Architect,Chemistry,Physical Education,179,Average,Yes,Kabaddi,11,Yes,10,12,Music
+S030082,Aadi Khalsa,Hosteler,11 PCM,Quantix,16,Male,Paradise,55,65,46,81,80,78,405,67.5,80.3,1.5,Mechanical Engineer,Physics,Physical Education,180,Average,Yes,Basketball,9,Yes,6,5,Dance
+S030075,Frado Shroff,Day Scholar,11 PCM,Veridata,15,Female,Divine,78,77,59,51,76,64,405,67.5,84.7,4.3,Robotics Engineer,Mathematics,Physical Education,181,Average,No,,0,No,0,0,Dance
+S030081,Kiaan Nadkarni,Day Scholar,11 PCM,Quantix,15,Female,Divine,85,57,76,39,71,76,404,67.33,91.7,6.0,Mechanical Engineer,Physics,English,182,Average,No,,0,No,0,0,Music
+S030319,Kabir Lad,Day Scholar,11 PCM,Veridata,16,Female,Divine,36,69,92,52,87,68,404,67.33,72.3,6.1,Civil Engineer,Physics,English,183,Average,Yes,Hockey,3,No,4,2,Music
+S030034,Varenya Atwal,Day Scholar,11 PCM,Quantix,15,Male,Divine,59,86,40,80,42,96,403,67.17,89.9,3.2,Architect,Computer Science,Physical Education,184,Average,Yes,Cricket,15,No,9,11,Debate
+S030369,Teerth Kamdar,Hosteler,11 PCM,Quantix,15,Male,Passion,94,94,38,51,35,91,403,67.17,94.0,6.9,Electrical Engineer,Physics,English,185,Average,Yes,Cricket,14,Yes,10,9,Painting
+S030205,Neelima Sura,Day Scholar,11 PCM,Syntec,15,Male,Divine,67,45,94,40,84,72,402,67.0,80.6,6.3,Pilot,Physics,English,186,Average,Yes,Hockey,10,No,8,5,Photography
+S030012,Bhavya Malhotra,Day Scholar,11 PCM,Syntec,15,Male,Divine,69,40,83,67,49,94,402,67.0,96.3,5.8,Robotics Engineer,Mathematics,English,187,Average,No,,0,No,0,0,Debate
+S030219,Panini Kala,Day Scholar,11 PCM,Veridata,16,Female,Divine,65,96,52,87,40,62,402,67.0,88.4,1.9,Pilot,Mathematics,Hindi,188,Average,Yes,Cricket,6,No,1,0,Volunteering
+S030364,Yashica Ratta,Hosteler,11 PCM,CyberForge,16,Male,Paradise,79,36,44,98,62,83,402,67.0,73.9,3.7,AI Engineer,Physics,Hindi,189,Average,No,,0,No,0,0,Robotics Club
+S030208,Omya Khatri,Hosteler,11 PCM,Veridata,16,Female,Divine,72,65,61,62,61,80,401,66.83,87.6,7.2,Mechanical Engineer,Computer Science,Physical Education,190,Average,Yes,Cricket,12,Yes,9,4,Dance
+S030002,Daksha Sandal,Hosteler,11 PCM,Veridata,16,Male,Petals,86,71,48,66,63,67,401,66.83,79.9,7.8,Mechanical Engineer,Mathematics,English,191,Average,Yes,Cricket,11,Yes,7,7,Quiz Club
+S030127,Rishi Sathe,Day Scholar,11 PCM,Syntec,16,Male,Divine,37,84,79,81,83,37,401,66.83,91.7,7.4,AI Engineer,Computer Science,Hindi,192,Average,Yes,Cricket,10,No,7,3,Entrepreneurship Club
+S030199,Mitali Bajwa,Day Scholar,11 PCM,Quantix,15,Female,Divine,40,99,90,94,38,40,401,66.83,89.9,7.2,Electrical Engineer,Mathematics,Physical Education,193,Average,Yes,Basketball,4,No,3,3,Quiz Club
+S030184,Deepa Patel,Day Scholar,11 PCM,Syntec,15,Female,Divine,60,66,76,40,78,80,400,66.67,86.0,4.5,Software Engineer,Physics,Physical Education,194,Average,No,,0,No,0,0,Science Club
+S030117,Dhruv Din,Day Scholar,11 PCM,Veridata,16,Female,Divine,59,52,72,59,81,76,399,66.5,87.5,2.2,Scientist,Chemistry,English,195,Average,No,,0,No,0,0,Science Club
+S030045,Eta Sane,Day Scholar,11 PCM,Syntec,15,Male,Divine,99,43,63,58,59,77,399,66.5,96.1,1.5,Robotics Engineer,Mathematics,Physical Education,196,Average,Yes,Badminton,5,No,3,3,Music
+S030103,Charles Soni,Day Scholar,11 PCM,CyberForge,15,Female,Divine,38,83,39,97,46,95,398,66.33,72.5,6.1,Mechanical Engineer,Computer Science,Hindi,197,Average,No,,0,No,0,0,Science Club
+S030185,Chandresh Maharaj,Hosteler,11 PCM,Syntec,15,Male,Petals,52,64,87,40,61,94,398,66.33,73.1,7.9,Scientist,Computer Science,Physical Education,198,Average,No,,0,No,0,0,Drama
+S030368,Hamsini Mallick,Day Scholar,11 PCM,Veridata,15,Female,Divine,56,85,40,64,65,88,398,66.33,96.5,2.0,Mechanical Engineer,Mathematics,Physical Education,199,Average,No,,0,No,0,0,Public Speaking
+S030226,Jeevika Manda,Hosteler,11 PCM,Syntec,15,Male,Paradise,75,78,50,67,59,69,398,66.33,77.2,6.6,Software Engineer,Mathematics,Physical Education,200,Average,No,,0,No,0,0,Volunteering
+S030235,Sneha Goswami,Day Scholar,11 PCM,Quantix,16,Female,Divine,71,41,65,92,61,67,397,66.17,84.1,1.8,AI Engineer,Computer Science,Physical Education,201,Average,Yes,Badminton,10,No,6,7,Entrepreneurship Club
+S030329,Chameli Acharya,Day Scholar,11 PCM,Quantix,16,Male,Divine,92,52,67,83,64,39,397,66.17,91.3,2.2,Software Engineer,Chemistry,Physical Education,202,Average,No,,0,No,0,0,Robotics Club
+S030124,Rajeshri Sankaran,Day Scholar,11 PCM,Syntec,15,Female,Divine,62,64,47,45,87,91,396,66.0,92.2,3.7,Mechanical Engineer,Computer Science,English,203,Average,Yes,Football,5,Yes,14,13,Dance
+S030136,Matthew Khanna,Day Scholar,11 PCM,CyberForge,16,Male,Divine,85,66,53,37,64,91,396,66.0,82.0,6.0,AI Engineer,Chemistry,Hindi,204,Average,No,,0,No,0,0,Public Speaking
+S030266,Jairaj Parsa,Day Scholar,11 PCM,Veridata,15,Male,Divine,65,53,65,56,76,81,396,66.0,79.6,7.6,Software Engineer,Computer Science,English,205,Average,Yes,Cricket,10,No,7,7,Chess
+S030336,Aarush Pandey,Hosteler,11 PCM,CyberForge,15,Male,Petals,85,82,73,46,46,63,395,65.83,94.2,4.8,Electrical Engineer,Computer Science,Physical Education,206,Average,Yes,Basketball,10,Yes,9,10,Dance
+S030026,Balvan Dhaliwal,Hosteler,11 PCM,Syntec,15,Male,Petals,80,43,70,67,38,97,395,65.83,99.6,2.5,AI Engineer,Mathematics,Physical Education,207,Average,Yes,Athletics,11,No,3,2,Coding Club
+S030182,Hemani Iyengar,Hosteler,11 PCM,Veridata,15,Male,Paradise,71,67,66,58,98,35,395,65.83,79.8,5.8,Robotics Engineer,Computer Science,Physical Education,208,Average,Yes,Kabaddi,11,No,4,2,Volunteering
+S030100,Rushil Krishnan,Day Scholar,11 PCM,Veridata,15,Male,Divine,53,44,74,65,86,73,395,65.83,98.5,2.3,Mechanical Engineer,Physics,Hindi,209,Average,Yes,Kabaddi,6,No,5,3,Public Speaking
+S030337,Samaksh Varty,Day Scholar,11 PCM,Veridata,16,Female,Divine,40,36,82,59,90,88,395,65.83,86.6,3.6,Civil Engineer,Computer Science,English,210,Average,No,,0,No,0,0,Public Speaking
+S030131,Robert Pillay,Day Scholar,11 PCM,Veridata,15,Male,Divine,57,50,94,82,57,54,394,65.67,93.6,3.3,Pilot,Mathematics,Physical Education,211,Average,Yes,Football,15,No,9,8,Coding Club
+S030038,Nihal Bawa,Hosteler,11 PCM,Syntec,15,Male,Paradise,93,58,63,75,44,61,394,65.67,87.1,5.3,Mechanical Engineer,Computer Science,English,212,Average,Yes,Kabaddi,3,No,9,10,Reading
+S030175,Hemangini Barman,Day Scholar,11 PCM,Veridata,15,Female,Divine,98,35,49,86,59,67,394,65.67,94.4,5.1,Robotics Engineer,Chemistry,Physical Education,213,Average,Yes,Cricket,13,No,2,2,Photography
+S030382,Ekaraj Mutti,Hosteler,11 PCM,Veridata,16,Male,Paradise,84,52,90,50,46,72,394,65.67,76.5,3.9,Data Scientist,Mathematics,Physical Education,214,Average,Yes,Cricket,13,Yes,10,6,Quiz Club
+S030042,Mugdha Rama,Day Scholar,11 PCM,Veridata,15,Female,Divine,71,71,68,48,50,85,393,65.5,86.6,4.5,Scientist,Physics,Hindi,215,Average,No,,0,No,0,0,Dance
+S030245,Faqid Chaudhry,Hosteler,11 PCM,Veridata,15,Male,Passion,60,98,39,75,35,86,393,65.5,81.1,5.9,Scientist,Mathematics,Hindi,216,Average,Yes,Badminton,10,Yes,6,6,Painting
+S030179,Siya Setty,Day Scholar,11 PCM,CyberForge,15,Female,Divine,61,87,49,71,53,71,392,65.33,82.8,1.1,Pilot,Physics,Physical Education,217,Average,Yes,Kabaddi,6,No,9,3,Science Club
+S030345,Christopher Gill,Day Scholar,11 PCM,Quantix,15,Female,Divine,57,99,55,76,70,35,392,65.33,84.6,5.6,Mechanical Engineer,Chemistry,English,218,Average,No,,0,No,0,0,Chess
+S030024,Jack Kalla,Hosteler,11 PCM,Syntec,16,Female,Divine,52,76,66,51,47,99,391,65.17,73.1,6.8,Pilot,Mathematics,Physical Education,219,Average,Yes,Basketball,11,Yes,5,5,Robotics Club
+S030378,Siddharth Ramesh,Day Scholar,11 PCM,Veridata,15,Male,Divine,44,95,73,83,40,55,390,65.0,98.3,1.2,Architect,Mathematics,English,220,Average,Yes,Cricket,11,No,4,3,Volunteering
+S030242,Vedhika Sahni,Day Scholar,11 PCM,CyberForge,16,Female,Divine,51,73,78,100,43,45,390,65.0,83.6,4.8,Mechanical Engineer,Physics,Physical Education,221,Average,No,,0,No,0,0,Dance
+S030074,Yahvi Nadig,Day Scholar,11 PCM,Syntec,16,Female,Divine,82,51,82,95,43,37,390,65.0,82.5,2.5,AI Engineer,Chemistry,Hindi,222,Average,No,,0,No,0,0,Dance
+S030029,Guneet Sem,Day Scholar,11 PCM,Veridata,16,Female,Divine,52,78,58,47,74,80,389,64.83,96.4,4.5,AI Engineer,Mathematics,Hindi,223,Average,No,,0,No,0,0,Science Club
+S030384,Abeer Chatterjee,Day Scholar,11 PCM,Syntec,15,Female,Divine,63,60,78,65,52,71,389,64.83,96.7,5.7,Architect,Chemistry,English,224,Average,Yes,Cricket,12,No,1,0,Chess
+S030014,Damini Butala,Day Scholar,11 PCM,Veridata,16,Female,Divine,45,36,47,97,66,98,389,64.83,90.0,1.7,Electrical Engineer,Computer Science,Physical Education,225,Average,Yes,Swimming,4,Yes,15,17,Painting
+S030162,Nihal Singh,Day Scholar,11 PCM,CyberForge,16,Female,Divine,55,89,61,55,81,47,388,64.67,99.9,5.8,Architect,Physics,English,226,Average,Yes,Kabaddi,9,No,2,1,Dance
+S030168,Xalak Ramakrishnan,Day Scholar,11 PCM,Quantix,16,Male,Divine,66,74,89,72,39,48,388,64.67,89.9,8.0,Architect,Computer Science,English,227,Average,No,,0,No,0,0,Volunteering
+S030389,Nathaniel Varghese,Hosteler,11 PCM,Veridata,16,Male,Passion,70,52,65,82,50,69,388,64.67,73.7,6.7,Pilot,Mathematics,Physical Education,228,Average,Yes,Kabaddi,7,No,2,1,Quiz Club
+S030163,Yahvi Dubey,Hosteler,11 PCM,Quantix,16,Male,Paradise,43,69,57,49,92,78,388,64.67,85.3,4.4,Software Engineer,Mathematics,English,229,Average,Yes,Cricket,7,Yes,9,4,Robotics Club
+S030215,Harita Parmer,Hosteler,11 PCM,Syntec,16,Female,Divine,87,40,81,37,78,65,388,64.67,82.9,7.8,AI Engineer,Physics,English,230,Average,Yes,Badminton,5,Yes,8,6,Volunteering
+S030201,Abhiram Sawhney,Day Scholar,11 PCM,Quantix,16,Male,Divine,74,56,83,40,40,95,388,64.67,76.2,3.9,Software Engineer,Computer Science,Physical Education,231,Average,No,,0,No,0,0,Robotics Club
+S030391,Zansi Shanker,Hosteler,11 PCM,Quantix,16,Male,Petals,50,98,80,56,53,50,387,64.5,91.9,4.1,Architect,Mathematics,Hindi,232,Average,No,,0,No,0,0,Volunteering
+S030303,Abhiram Basak,Day Scholar,11 PCM,Syntec,16,Male,Divine,48,84,53,55,80,66,386,64.33,86.3,1.9,Electrical Engineer,Chemistry,Hindi,233,Average,Yes,Hockey,15,Yes,13,10,Chess
+S030021,Fariq Kadakia,Day Scholar,11 PCM,CyberForge,15,Female,Divine,85,52,84,48,72,45,386,64.33,83.3,1.3,AI Engineer,Chemistry,Physical Education,234,Average,Yes,Cricket,15,No,5,5,Photography
+S030311,Vedant Chaudry,Hosteler,11 PCM,Syntec,16,Male,Passion,45,89,42,64,85,61,386,64.33,77.5,7.8,Mechanical Engineer,Physics,Physical Education,235,Average,No,,0,No,0,0,Robotics Club
+S030049,Eiravati Sachdev,Day Scholar,11 PCM,Syntec,15,Male,Divine,37,90,73,53,40,93,386,64.33,99.6,1.9,Mechanical Engineer,Chemistry,Hindi,236,Average,No,,0,No,0,0,Public Speaking
+S030363,Tarak Lala,Hosteler,11 PCM,Quantix,16,Male,Petals,59,71,74,82,63,37,386,64.33,84.7,3.6,Mechanical Engineer,Mathematics,Hindi,237,Average,Yes,Badminton,8,No,7,7,Music
+S030206,Onveer Setty,Hosteler,11 PCM,Quantix,16,Female,Divine,82,78,58,72,59,37,386,64.33,81.3,3.9,Robotics Engineer,Mathematics,Physical Education,238,Average,No,,0,No,0,0,Entrepreneurship Club
+S030285,Jalsa Bhandari,Hosteler,11 PCM,Quantix,15,Female,Divine,89,40,36,47,81,92,385,64.17,87.8,7.1,Pilot,Mathematics,Physical Education,239,Average,Yes,Cricket,13,Yes,6,6,Dance
+S030101,Vedhika Jhaveri,Hosteler,11 PCM,CyberForge,16,Male,Paradise,44,43,67,92,50,89,385,64.17,70.3,5.2,Data Scientist,Computer Science,Hindi,240,Average,Yes,Volleyball,14,Yes,7,7,Quiz Club
+S030065,Praneel Sangha,Hosteler,11 PCM,Veridata,16,Female,Divine,91,58,99,35,45,57,385,64.17,74.3,4.8,Architect,Physics,Physical Education,241,Average,No,,0,No,0,0,Painting
+S030222,Neelima Chandran,Hosteler,11 PCM,Syntec,15,Male,Paradise,48,58,63,72,53,90,384,64.0,82.2,5.9,Data Scientist,Computer Science,English,242,Average,Yes,Badminton,14,No,1,1,Debate
+S030036,Madhavi Borah,Day Scholar,11 PCM,Quantix,16,Female,Divine,74,98,71,42,40,59,384,64.0,96.8,6.2,Civil Engineer,Chemistry,Physical Education,243,Average,Yes,Cricket,2,No,7,5,Photography
+S030164,Rachit Anne,Hosteler,11 PCM,Quantix,15,Female,Divine,80,57,84,59,67,37,384,64.0,74.9,3.4,Pilot,Chemistry,Hindi,244,Average,Yes,Kabaddi,12,Yes,11,9,Photography
+S030090,Maanav Dey,Hosteler,11 PCM,Quantix,16,Male,Passion,35,73,91,83,55,47,384,64.0,76.5,2.3,Mechanical Engineer,Mathematics,English,245,Average,Yes,Football,10,No,2,0,Public Speaking
+S030297,Warjas Chander,Hosteler,11 PCM,Syntec,16,Male,Petals,86,68,73,52,55,50,384,64.0,85.7,6.2,AI Engineer,Computer Science,Physical Education,246,Average,Yes,Kabaddi,11,No,10,8,Drama
+S030060,Dhruv Vohra,Hosteler,11 PCM,Syntec,16,Male,Petals,36,37,73,83,60,95,384,64.0,71.1,5.7,Pilot,Mathematics,Hindi,247,Average,Yes,Cricket,12,Yes,5,6,Photography
+S030262,Omkaar Mitter,Day Scholar,11 PCM,Syntec,16,Female,Divine,55,61,94,79,38,56,383,63.83,85.6,1.6,Robotics Engineer,Chemistry,English,248,Average,Yes,Cricket,7,No,3,3,Public Speaking
+S030039,Hredhaan Natarajan,Day Scholar,11 PCM,CyberForge,16,Male,Divine,35,65,77,57,84,64,382,63.67,71.3,2.0,AI Engineer,Mathematics,Hindi,249,Average,Yes,Football,2,No,3,3,Entrepreneurship Club
+S030204,Daksha Sule,Day Scholar,11 PCM,Veridata,16,Female,Divine,56,74,87,73,55,37,382,63.67,92.7,1.9,Software Engineer,Computer Science,English,250,Average,No,,0,No,0,0,Quiz Club
+S030348,Onveer Jani,Hosteler,11 PCM,Quantix,15,Male,Paradise,40,39,94,44,90,75,382,63.67,98.7,2.8,Robotics Engineer,Mathematics,Physical Education,251,Average,Yes,Football,4,No,4,3,Quiz Club
+S030141,Tanmayi Uppal,Hosteler,11 PCM,CyberForge,15,Male,Paradise,84,70,85,63,40,40,382,63.67,98.6,2.4,Software Engineer,Chemistry,Hindi,252,Average,No,,0,No,0,0,Reading
+S030110,Jacob Mohan,Hosteler,11 PCM,Quantix,15,Male,Paradise,53,73,52,85,36,82,381,63.5,73.4,5.7,AI Engineer,Physics,Hindi,253,Average,Yes,Cricket,6,No,9,7,Photography
+S030307,Banjeet Sethi,Hosteler,11 PCM,CyberForge,15,Female,Divine,47,89,75,39,59,72,381,63.5,93.6,3.9,Mechanical Engineer,Computer Science,Physical Education,254,Average,Yes,Tennis,5,Yes,15,16,Debate
+S030155,Mitali Kuruvilla,Day Scholar,11 PCM,Syntec,15,Male,Divine,89,75,58,35,56,67,380,63.33,84.6,7.9,Data Scientist,Physics,English,255,Average,Yes,Cricket,8,No,1,0,Drama
+S030247,Sathvik Palla,Hosteler,11 PCM,CyberForge,16,Female,Divine,52,80,72,58,66,52,380,63.33,94.9,2.6,Architect,Physics,Hindi,256,Average,Yes,Cricket,9,No,7,7,Quiz Club
+S030312,Ladli Lanka,Day Scholar,11 PCM,Quantix,16,Female,Divine,82,42,83,97,35,41,380,63.33,94.2,3.1,Pilot,Mathematics,English,257,Average,Yes,Cricket,9,No,5,3,Reading
+S030360,Anika Hans,Day Scholar,11 PCM,CyberForge,15,Female,Divine,51,39,62,89,40,99,380,63.33,72.2,3.1,Pilot,Physics,English,258,Average,Yes,Badminton,14,No,3,3,Entrepreneurship Club
+S030264,Anita Seshadri,Day Scholar,11 PCM,Syntec,15,Male,Divine,83,65,48,85,41,58,380,63.33,89.4,2.2,Mechanical Engineer,Chemistry,English,259,Average,Yes,Basketball,15,No,9,6,Public Speaking
+S030346,Bhanumati Sawhney,Day Scholar,11 PCM,CyberForge,15,Female,Divine,65,46,52,88,44,84,379,63.17,84.4,1.4,Architect,Physics,English,260,Average,No,,0,No,0,0,Entrepreneurship Club
+S030400,Ekantika Hayre,Hosteler,11 PCM,Veridata,15,Male,Passion,50,54,85,47,80,63,379,63.17,98.9,4.5,Software Engineer,Mathematics,Physical Education,261,Average,Yes,Basketball,2,Yes,10,8,Quiz Club
+S030214,Widisha Chopra,Hosteler,11 PCM,Syntec,16,Male,Petals,55,62,99,53,44,65,378,63.0,80.1,3.9,Data Scientist,Mathematics,English,262,Average,No,,0,No,0,0,Quiz Club
+S030317,Yashasvi Shan,Day Scholar,11 PCM,Quantix,15,Female,Divine,86,52,75,43,84,38,378,63.0,75.3,6.0,Architect,Physics,Hindi,263,Average,Yes,Badminton,7,No,4,3,Robotics Club
+S030322,Varsha Sawhney,Day Scholar,11 PCM,Veridata,15,Female,Divine,94,78,53,60,44,49,378,63.0,74.6,6.0,Software Engineer,Mathematics,Physical Education,264,Average,No,,0,No,0,0,Dance
+S030148,Jyoti Kaul,Hosteler,11 PCM,Quantix,15,Male,Petals,36,54,89,98,46,54,377,62.83,84.1,1.2,Architect,Mathematics,Physical Education,265,Average,No,,0,No,0,0,Photography
+S030376,Arin Pillai,Hosteler,11 PCM,Syntec,16,Male,Paradise,82,59,40,51,99,46,377,62.83,96.6,3.9,Civil Engineer,Chemistry,English,266,Average,Yes,Cricket,2,No,7,5,Music
+S030008,Riya Toor,Hosteler,11 PCM,Syntec,16,Male,Petals,63,54,89,60,70,41,377,62.83,81.7,4.7,Pilot,Computer Science,Hindi,267,Average,Yes,Football,10,No,9,6,Photography
+S030342,Aadhya Kaur,Day Scholar,11 PCM,Syntec,16,Male,Divine,52,90,69,57,55,53,376,62.67,85.4,1.5,Civil Engineer,Mathematics,Physical Education,268,Average,No,,0,No,0,0,Volunteering
+S030278,Robert Mane,Hosteler,11 PCM,Syntec,15,Male,Petals,79,51,98,37,47,64,376,62.67,74.3,2.3,Architect,Mathematics,Physical Education,269,Average,Yes,Cricket,10,No,6,5,Drama
+S030028,Logan Mistry,Hosteler,11 PCM,Quantix,16,Female,Divine,59,66,57,58,38,98,376,62.67,72.7,7.6,Robotics Engineer,Computer Science,Hindi,270,Average,Yes,Volleyball,15,Yes,8,5,Dance
+S030037,Saanvi Subramanian,Hosteler,11 PCM,Quantix,16,Female,Divine,38,41,73,84,59,80,375,62.5,92.2,4.7,Pilot,Mathematics,Physical Education,271,Average,Yes,Cricket,10,No,3,1,Coding Club
+S030006,Jagdish Pant,Day Scholar,11 PCM,Syntec,16,Male,Divine,49,50,72,51,79,74,375,62.5,86.6,7.6,Data Scientist,Chemistry,Hindi,272,Average,Yes,Kabaddi,3,No,2,0,Entrepreneurship Club
+S030308,Aadi Sandal,Hosteler,11 PCM,Veridata,15,Female,Divine,51,68,40,35,86,94,374,62.33,78.1,4.1,Mechanical Engineer,Physics,English,273,Average,Yes,Football,11,No,10,10,Painting
+S030086,Faqid Swamy,Day Scholar,11 PCM,Syntec,15,Male,Divine,62,54,35,71,69,82,373,62.17,95.0,6.3,Civil Engineer,Mathematics,English,274,Average,Yes,Cricket,13,Yes,9,4,Dance
+S030305,Samarth Barad,Hosteler,11 PCM,Syntec,15,Female,Divine,62,49,66,80,55,61,373,62.17,77.0,4.3,Mechanical Engineer,Physics,Hindi,275,Average,Yes,Football,8,No,3,2,Entrepreneurship Club
+S030380,Jasmit Ravi,Day Scholar,11 PCM,Syntec,16,Female,Divine,40,84,64,85,54,45,372,62.0,80.9,3.1,Software Engineer,Mathematics,Hindi,276,Average,Yes,Basketball,13,Yes,10,5,Photography
+S030335,Harita Boase,Day Scholar,11 PCM,Syntec,16,Female,Divine,83,91,44,77,37,40,372,62.0,99.2,5.7,Scientist,Mathematics,English,277,Average,Yes,Football,13,Yes,11,13,Drama
+S030064,Anirudh Mukhopadhyay,Hosteler,11 PCM,Veridata,16,Male,Passion,64,61,41,45,84,76,371,61.83,94.5,6.0,Robotics Engineer,Chemistry,Hindi,278,Average,Yes,Football,8,Yes,12,6,Entrepreneurship Club
+S030209,Ijaya Gupta,Hosteler,11 PCM,Veridata,15,Male,Paradise,46,47,93,94,50,41,371,61.83,87.8,5.4,Software Engineer,Computer Science,English,279,Average,Yes,Volleyball,14,No,2,1,Chess
+S030217,Januja Deo,Hosteler,11 PCM,CyberForge,16,Female,Divine,76,62,47,57,62,67,371,61.83,71.6,4.0,Electrical Engineer,Chemistry,Hindi,280,Average,Yes,Badminton,12,No,6,4,Debate
+S030252,Ekavir Handa,Day Scholar,11 PCM,Veridata,16,Female,Divine,48,76,76,60,48,62,370,61.67,88.6,2.5,Software Engineer,Computer Science,Physical Education,281,Average,Yes,Basketball,11,Yes,6,3,Debate
+S030170,Harrison Dutta,Hosteler,11 PCM,CyberForge,15,Male,Petals,47,81,49,47,68,77,369,61.5,75.5,2.5,Software Engineer,Chemistry,English,282,Average,Yes,Cricket,7,No,7,5,Robotics Club
+S030122,Vamakshi Chand,Hosteler,11 PCM,Veridata,15,Female,Divine,54,37,75,63,56,84,369,61.5,98.6,1.6,Scientist,Mathematics,Hindi,283,Average,Yes,Cricket,3,No,10,10,Robotics Club
+S030254,Alexander Gour,Day Scholar,11 PCM,CyberForge,16,Female,Divine,50,95,42,51,96,35,369,61.5,73.9,6.9,Pilot,Mathematics,Hindi,284,Average,Yes,Cricket,3,No,3,3,Entrepreneurship Club
+S030251,Vivaan Bhattacharyya,Day Scholar,11 PCM,Quantix,15,Female,Divine,56,41,60,77,65,69,368,61.33,95.2,2.5,Robotics Engineer,Physics,Hindi,285,Average,No,,0,No,0,0,Coding Club
+S030258,Mekhala Ghose,Hosteler,11 PCM,Syntec,15,Male,Passion,75,43,61,35,76,78,368,61.33,85.7,5.4,Robotics Engineer,Chemistry,Physical Education,286,Average,No,,0,No,0,0,Coding Club
+S030253,Maya Chakrabarti,Hosteler,11 PCM,Quantix,16,Male,Passion,92,75,40,37,69,54,367,61.17,98.5,6.5,Data Scientist,Mathematics,English,287,Average,No,,0,No,0,0,Entrepreneurship Club
+S030152,Ekanta Dhar,Day Scholar,11 PCM,Quantix,15,Female,Divine,61,65,94,54,54,39,367,61.17,87.6,1.8,Software Engineer,Computer Science,English,288,Average,Yes,Football,9,Yes,7,4,Robotics Club
+S030120,Divya Barad,Day Scholar,11 PCM,Quantix,15,Female,Divine,75,50,52,58,50,81,366,61.0,95.4,2.9,Robotics Engineer,Mathematics,English,289,Average,Yes,Volleyball,3,Yes,5,5,Reading
+S030195,Lavanya Sood,Day Scholar,11 PCM,Quantix,16,Female,Divine,61,52,63,46,53,91,366,61.0,91.6,4.8,AI Engineer,Computer Science,English,290,Average,No,,0,No,0,0,Dance
+S030129,Eesha Prasad,Hosteler,11 PCM,CyberForge,15,Male,Paradise,41,67,45,67,92,54,366,61.0,95.8,2.9,Data Scientist,Chemistry,Hindi,291,Average,No,,0,No,0,0,Public Speaking
+S030339,Aadi Kashyap,Hosteler,11 PCM,Quantix,15,Female,Divine,93,83,37,65,51,37,366,61.0,82.9,5.9,AI Engineer,Computer Science,Physical Education,292,Average,No,,0,No,0,0,Robotics Club
+S030030,Lohit Natarajan,Hosteler,11 PCM,Quantix,15,Male,Passion,45,78,92,47,67,37,366,61.0,90.5,1.7,Scientist,Physics,English,293,Average,No,,0,No,0,0,Music
+S030333,Nakul Anand,Day Scholar,11 PCM,Quantix,16,Male,Divine,42,65,72,75,66,45,365,60.83,78.3,6.5,AI Engineer,Chemistry,English,294,Average,Yes,Badminton,3,Yes,8,4,Quiz Club
+S030171,Ekiya More,Day Scholar,11 PCM,CyberForge,16,Female,Divine,45,73,73,47,86,40,364,60.67,72.8,3.3,Mechanical Engineer,Chemistry,English,295,Average,No,,0,No,0,0,Debate
+S030063,Barkha Naik,Hosteler,11 PCM,Veridata,15,Female,Divine,54,93,77,48,50,42,364,60.67,97.5,7.5,Architect,Physics,Physical Education,296,Average,Yes,Cricket,9,Yes,15,16,Robotics Club
+S030016,Vasudha Pandit,Day Scholar,11 PCM,Quantix,16,Male,Divine,90,38,62,58,38,77,363,60.5,97.6,6.6,AI Engineer,Mathematics,Hindi,297,Average,Yes,Football,4,No,5,2,Science Club
+S030220,Amruta Sandal,Hosteler,11 PCM,Syntec,16,Male,Petals,82,43,72,71,58,37,363,60.5,87.5,2.2,Scientist,Computer Science,Physical Education,298,Average,No,,0,No,0,0,Entrepreneurship Club
+S030316,Jagdish Balakrishnan,Hosteler,11 PCM,CyberForge,15,Male,Petals,89,55,58,50,57,54,363,60.5,98.9,6.6,Mechanical Engineer,Computer Science,Physical Education,299,Average,Yes,Football,2,Yes,14,6,Dance
+S030281,Netra Borde,Day Scholar,11 PCM,CyberForge,16,Male,Divine,64,51,51,71,48,78,363,60.5,98.6,2.1,Scientist,Chemistry,Physical Education,300,Average,Yes,Badminton,15,No,7,6,Painting
+S030282,Zaid Sant,Hosteler,11 PCM,Syntec,16,Female,Divine,66,42,50,37,81,86,362,60.33,81.1,7.3,Scientist,Physics,Hindi,301,Average,No,,0,No,0,0,Public Speaking
+S030188,Rachana Loke,Day Scholar,11 PCM,Syntec,16,Female,Divine,47,46,99,64,70,35,361,60.17,98.0,6.3,Software Engineer,Chemistry,English,302,Average,Yes,Football,8,No,9,4,Science Club
+S030137,Pushti Chad,Day Scholar,11 PCM,Quantix,16,Male,Divine,41,66,53,47,72,82,361,60.17,84.0,3.7,Scientist,Physics,Physical Education,303,Average,Yes,Volleyball,4,Yes,6,4,Public Speaking
+S030067,Tanish Baral,Day Scholar,11 PCM,Quantix,16,Female,Divine,55,43,42,43,98,79,360,60.0,72.4,6.4,AI Engineer,Physics,Physical Education,304,Average,Yes,Cricket,10,No,9,7,Painting
+S030094,Bina Randhawa,Day Scholar,11 PCM,Syntec,15,Female,Divine,60,69,38,69,59,65,360,60.0,99.9,1.3,Architect,Computer Science,Physical Education,305,Average,Yes,Cricket,4,No,4,1,Painting
+S030194,Ubika Joshi,Hosteler,11 PCM,CyberForge,15,Male,Paradise,65,41,100,44,65,45,360,60.0,77.8,3.3,Scientist,Chemistry,English,306,Average,No,,0,No,0,0,Robotics Club
+S030224,Barkha Sagar,Hosteler,11 PCM,Veridata,16,Male,Petals,37,71,35,79,87,50,359,59.83,80.2,4.8,Scientist,Computer Science,Physical Education,307,Average,Yes,Football,6,No,9,3,Coding Club
+S030098,Ekalinga Barman,Hosteler,11 PCM,CyberForge,15,Female,Divine,88,49,99,40,48,35,359,59.83,92.2,5.8,Robotics Engineer,Computer Science,English,308,Average,Yes,Cricket,9,No,4,3,Entrepreneurship Club
+S030003,Owen Savant,Day Scholar,11 PCM,Veridata,15,Female,Divine,82,53,39,84,41,60,359,59.83,74.3,1.2,Electrical Engineer,Chemistry,Hindi,309,Average,Yes,Football,8,No,8,4,Reading
+S030159,Anita Radhakrishnan,Hosteler,11 PCM,Veridata,16,Male,Petals,67,85,68,35,64,40,359,59.83,77.2,1.0,Civil Engineer,Physics,Hindi,310,Average,Yes,Cricket,6,No,10,8,Coding Club
+S030186,Keya Natarajan,Hosteler,11 PCM,Quantix,16,Male,Petals,62,62,82,47,39,67,359,59.83,73.6,3.0,Mechanical Engineer,Computer Science,English,311,Average,Yes,Kabaddi,9,Yes,10,6,Chess
+S030395,Aditya Prasad,Day Scholar,11 PCM,Syntec,15,Male,Divine,57,51,43,74,58,75,358,59.67,73.6,1.2,Electrical Engineer,Chemistry,Physical Education,312,Average,Yes,Badminton,7,No,6,4,Debate
+S030083,Yauvani Sibal,Day Scholar,11 PCM,CyberForge,15,Female,Divine,54,46,61,92,55,49,357,59.5,77.2,5.5,Mechanical Engineer,Physics,English,313,Average,Yes,Kabaddi,11,No,4,2,Quiz Club
+S030190,Balendra Kale,Hosteler,11 PCM,Syntec,15,Female,Divine,52,39,50,61,81,73,356,59.33,90.6,6.8,Civil Engineer,Computer Science,Hindi,314,Average,No,,0,No,0,0,Entrepreneurship Club
+S030234,Amruta Batta,Hosteler,11 PCM,CyberForge,15,Male,Passion,44,72,74,68,41,56,355,59.17,74.2,3.8,Architect,Physics,English,315,Average,Yes,Cricket,3,No,10,5,Drama
+S030347,Keya Murthy,Day Scholar,11 PCM,Veridata,16,Male,Divine,35,57,94,48,46,75,355,59.17,72.4,7.2,Data Scientist,Chemistry,Hindi,316,Average,No,,0,No,0,0,Entrepreneurship Club
+S030197,Baljiwan Khalsa,Day Scholar,11 PCM,CyberForge,16,Male,Divine,47,91,82,42,38,54,354,59.0,81.4,1.8,Civil Engineer,Mathematics,Hindi,317,Average,Yes,Volleyball,2,No,4,1,Chess
+S030011,Lipika Oza,Hosteler,11 PCM,Syntec,15,Female,Divine,70,76,36,50,74,48,354,59.0,89.8,3.1,Pilot,Computer Science,English,318,Average,Yes,Badminton,11,Yes,13,9,Drama
+S030009,Yamini Ray,Hosteler,11 PCM,Quantix,15,Female,Divine,73,35,44,67,74,61,354,59.0,92.7,2.0,Electrical Engineer,Chemistry,English,319,Average,Yes,Cricket,3,Yes,10,9,Robotics Club
+S030365,Rachita Pandya,Hosteler,11 PCM,CyberForge,15,Female,Divine,42,58,54,63,63,74,354,59.0,72.1,6.2,AI Engineer,Physics,Physical Education,320,Average,No,,0,No,0,0,Entrepreneurship Club
+S030239,Rushil Ravel,Day Scholar,11 PCM,CyberForge,15,Male,Divine,53,45,56,58,63,79,354,59.0,72.6,3.8,Software Engineer,Physics,Hindi,321,Average,Yes,Cricket,8,No,6,2,Dance
+S030031,Yashodhara Bassi,Day Scholar,11 PCM,Syntec,15,Female,Divine,74,38,82,43,57,59,353,58.83,86.1,7.8,Pilot,Chemistry,Physical Education,322,Average,Yes,Kabaddi,14,No,9,9,Dance
+S030240,Pushti Acharya,Hosteler,11 PCM,Veridata,16,Female,Divine,68,86,54,44,57,44,353,58.83,87.0,7.8,Scientist,Physics,Physical Education,323,Average,Yes,Cricket,9,No,1,0,Robotics Club
+S030176,Darsh Kar,Hosteler,11 PCM,Quantix,15,Male,Paradise,40,44,85,52,62,70,353,58.83,89.6,6.0,Scientist,Computer Science,English,324,Average,No,,0,No,0,0,Volunteering
+S030379,Gavin Choudhry,Day Scholar,11 PCM,Syntec,15,Female,Divine,55,54,45,60,50,88,352,58.67,85.0,3.6,AI Engineer,Mathematics,Hindi,325,Average,Yes,Badminton,3,Yes,7,6,Volunteering
+S030272,Forum Purohit,Hosteler,11 PCM,Syntec,16,Male,Paradise,56,79,38,46,73,60,352,58.67,89.6,6.1,AI Engineer,Physics,Physical Education,326,Average,Yes,Cricket,15,Yes,6,6,Volunteering
+S030324,Hemang Banik,Hosteler,11 PCM,Quantix,16,Male,Passion,80,36,42,43,84,66,351,58.5,79.9,5.4,Robotics Engineer,Computer Science,Physical Education,327,Average,Yes,Badminton,12,No,10,8,Painting
+S030150,Vasudha Khalsa,Hosteler,11 PCM,Syntec,16,Female,Divine,69,72,44,71,52,43,351,58.5,74.7,6.4,Mechanical Engineer,Physics,Hindi,328,Average,Yes,Cricket,12,No,3,2,Painting
+S030156,Janya Vala,Day Scholar,11 PCM,CyberForge,16,Male,Divine,70,60,58,88,39,36,351,58.5,94.0,3.6,Robotics Engineer,Physics,Hindi,329,Average,Yes,Badminton,11,No,9,6,Entrepreneurship Club
+S030276,Qarin Mannan,Hosteler,11 PCM,Quantix,16,Male,Passion,73,48,54,71,57,47,350,58.33,70.7,4.9,Civil Engineer,Chemistry,Hindi,330,Average,Yes,Volleyball,11,No,10,12,Dance
+S030394,Kamala Jayaraman,Day Scholar,11 PCM,Quantix,16,Male,Divine,42,40,80,54,91,43,350,58.33,79.8,4.6,Data Scientist,Physics,English,331,Average,Yes,Badminton,10,Yes,7,4,Photography
+S030044,Finn Deep,Hosteler,11 PCM,Veridata,16,Male,Paradise,75,40,36,54,78,67,350,58.33,83.9,7.3,Electrical Engineer,Computer Science,Hindi,332,Average,No,,0,No,0,0,Reading
+S030173,Tejas Kulkarni,Hosteler,11 PCM,Veridata,16,Male,Petals,48,37,95,62,51,56,349,58.17,70.2,4.7,AI Engineer,Chemistry,Hindi,333,Average,Yes,Football,14,Yes,8,7,Coding Club
+S030109,Waida Chander,Hosteler,11 PCM,CyberForge,16,Male,Paradise,38,55,46,58,60,92,349,58.17,84.3,7.8,Mechanical Engineer,Computer Science,English,334,Average,Yes,Badminton,15,Yes,8,4,Quiz Club
+S030132,Eiravati Sarna,Hosteler,11 PCM,Veridata,16,Male,Passion,52,56,41,95,54,51,349,58.17,87.2,3.0,Electrical Engineer,Computer Science,English,335,Average,Yes,Badminton,10,Yes,15,17,Music
+S030210,Lohit Tiwari,Day Scholar,11 PCM,Quantix,16,Male,Divine,76,63,40,87,39,44,349,58.17,92.8,3.3,Civil Engineer,Physics,Hindi,336,Average,No,,0,No,0,0,Dance
+S030396,Aarnav Sarma,Hosteler,11 PCM,Veridata,16,Male,Passion,46,98,56,39,60,50,349,58.17,88.7,3.5,Data Scientist,Computer Science,English,337,Average,Yes,Kabaddi,13,No,6,6,Robotics Club
+S030041,Bhavika Mody,Hosteler,11 PCM,Veridata,16,Female,Divine,92,51,63,44,49,49,348,58.0,72.0,4.8,Pilot,Mathematics,Physical Education,338,Average,No,,0,No,0,0,Coding Club
+S030277,Anthony Mukherjee,Day Scholar,11 PCM,Veridata,16,Male,Divine,52,54,71,83,51,37,348,58.0,99.8,3.4,Robotics Engineer,Physics,Physical Education,339,Average,No,,0,No,0,0,Public Speaking
+S030114,Chandresh Hari,Day Scholar,11 PCM,Veridata,15,Female,Divine,44,90,38,88,43,45,348,58.0,81.1,3.8,Civil Engineer,Mathematics,Hindi,340,Average,No,,0,No,0,0,Quiz Club
+S030213,Advika Saxena,Day Scholar,11 PCM,Veridata,16,Male,Divine,44,50,71,48,72,63,348,58.0,85.9,3.4,Scientist,Chemistry,Hindi,341,Average,Yes,Kabaddi,6,No,9,4,Painting
+S030167,Ekalinga Ramakrishnan,Day Scholar,11 PCM,Quantix,15,Female,Divine,35,75,94,45,52,47,348,58.0,84.2,4.9,Robotics Engineer,Mathematics,English,342,Average,No,,0,No,0,0,Chess
+S030373,Praneel Contractor,Hosteler,11 PCM,CyberForge,15,Male,Petals,96,55,35,41,57,62,346,57.67,88.8,6.9,Software Engineer,Chemistry,Physical Education,343,Average,Yes,Cricket,2,No,3,1,Robotics Club
+S030246,Bishakha Nair,Day Scholar,11 PCM,Veridata,16,Female,Divine,93,39,38,50,56,70,346,57.67,95.6,2.9,Robotics Engineer,Computer Science,Hindi,344,Average,No,,0,No,0,0,Music
+S030056,Urvi Deol,Day Scholar,11 PCM,Veridata,16,Female,Divine,66,49,53,91,47,40,346,57.67,84.2,4.3,Civil Engineer,Mathematics,Hindi,345,Average,No,,0,No,0,0,Chess
+S030092,Gabriel Kumer,Day Scholar,11 PCM,CyberForge,16,Male,Divine,57,36,49,46,65,93,346,57.67,70.7,4.9,AI Engineer,Chemistry,English,346,Average,Yes,Badminton,3,No,6,4,Drama
+S030189,Aachal Balay,Hosteler,11 PCM,Veridata,15,Male,Petals,70,59,57,55,64,40,345,57.5,94.8,2.4,Data Scientist,Computer Science,English,347,Average,Yes,Volleyball,10,No,8,5,Public Speaking
+S030193,Vamakshi Chandra,Day Scholar,11 PCM,Quantix,16,Female,Divine,94,46,49,51,41,64,345,57.5,81.8,5.5,Civil Engineer,Physics,Physical Education,348,Average,Yes,Basketball,8,No,5,4,Public Speaking
+S030300,Chameli Dhillon,Day Scholar,11 PCM,CyberForge,15,Female,Divine,41,69,40,80,64,50,344,57.33,93.7,4.0,AI Engineer,Computer Science,English,349,Average,No,,0,No,0,0,Dance
+S030241,Arya Shan,Hosteler,11 PCM,CyberForge,15,Female,Divine,90,71,37,55,51,39,343,57.17,98.5,5.8,AI Engineer,Computer Science,Physical Education,350,Average,Yes,Cricket,11,No,4,1,Volunteering
+S030334,Dhriti Bahl,Day Scholar,11 PCM,Quantix,16,Female,Divine,87,75,47,39,35,60,343,57.17,95.1,3.8,Robotics Engineer,Physics,Hindi,351,Average,Yes,Basketball,6,Yes,8,4,Quiz Club
+S030284,Mason Golla,Hosteler,11 PCM,Quantix,16,Male,Petals,42,50,100,50,39,61,342,57.0,86.6,1.7,Data Scientist,Mathematics,English,352,Average,Yes,Cricket,14,No,5,4,Volunteering
+S030318,Matthew Rajan,Day Scholar,11 PCM,Syntec,16,Female,Divine,42,35,36,48,95,85,341,56.83,99.7,1.9,Civil Engineer,Chemistry,Physical Education,353,Average,Yes,Volleyball,2,No,5,3,Coding Club
+S030265,Anita Sane,Hosteler,11 PCM,Veridata,16,Female,Divine,58,38,76,58,57,54,341,56.83,96.4,7.7,Civil Engineer,Mathematics,Physical Education,354,Average,Yes,Athletics,9,Yes,15,8,Coding Club
+S030062,Zashil Palan,Hosteler,11 PCM,Veridata,15,Male,Paradise,48,66,44,57,82,43,340,56.67,93.4,7.0,Scientist,Physics,Physical Education,355,Average,Yes,Badminton,13,No,6,5,Entrepreneurship Club
+S030359,Balveer Sachar,Hosteler,11 PCM,Veridata,16,Female,Divine,64,43,41,36,85,71,340,56.67,93.2,1.1,Mechanical Engineer,Physics,English,356,Average,Yes,Volleyball,4,No,7,4,Dance
+S030268,Udyati Sha,Day Scholar,11 PCM,Quantix,16,Female,Divine,35,58,57,91,43,55,339,56.5,77.4,7.3,Electrical Engineer,Computer Science,Physical Education,357,Average,No,,0,No,0,0,Photography
+S030043,Theodore Pau,Hosteler,11 PCM,Quantix,15,Female,Divine,49,64,39,84,58,45,339,56.5,83.1,3.6,Mechanical Engineer,Computer Science,Physical Education,358,Average,No,,0,No,0,0,Reading
+S030015,Ryan Borra,Hosteler,11 PCM,Syntec,16,Female,Divine,48,47,47,50,65,81,338,56.33,91.5,1.3,Civil Engineer,Computer Science,Physical Education,359,Average,No,,0,No,0,0,Coding Club
+S030279,Chandran Tiwari,Day Scholar,11 PCM,Veridata,15,Female,Divine,74,51,62,38,68,44,337,56.17,74.2,4.4,Robotics Engineer,Computer Science,English,360,Average,No,,0,No,0,0,Quiz Club
+S030269,Saumya Nori,Hosteler,11 PCM,Quantix,15,Male,Passion,76,52,66,51,54,38,337,56.17,93.8,3.8,Pilot,Chemistry,English,361,Average,Yes,Football,8,No,2,1,Photography
+S030330,Mohini Agrawal,Day Scholar,11 PCM,Syntec,15,Male,Divine,55,65,65,48,54,49,336,56.0,81.8,6.7,Civil Engineer,Chemistry,English,362,Average,Yes,Football,6,No,4,2,Science Club
+S030236,Hredhaan Bhalla,Hosteler,11 PCM,Veridata,15,Female,Divine,58,44,36,55,46,97,336,56.0,88.8,2.8,Software Engineer,Chemistry,Physical Education,363,Average,Yes,Cricket,12,Yes,15,9,Debate
+S030107,Priya Chahal,Hosteler,11 PCM,Syntec,16,Female,Divine,47,56,52,51,38,91,335,55.83,93.8,4.0,AI Engineer,Mathematics,Physical Education,364,Average,No,,0,No,0,0,Music
+S030007,Faris Chatterjee,Hosteler,11 PCM,CyberForge,15,Male,Petals,63,37,60,80,54,41,335,55.83,90.8,8.0,Architect,Mathematics,English,365,Average,Yes,Cricket,13,Yes,15,13,Quiz Club
+S030354,Sudiksha Yogi,Hosteler,11 PCM,Quantix,16,Male,Petals,58,36,39,77,76,48,334,55.67,88.9,3.2,Civil Engineer,Physics,English,366,Average,No,,0,No,0,0,Entrepreneurship Club
+S030385,Kala Rajagopal,Day Scholar,11 PCM,Syntec,16,Male,Divine,60,39,65,44,45,81,334,55.67,70.8,7.9,Software Engineer,Mathematics,Hindi,367,Average,Yes,Cricket,15,No,5,5,Painting
+S030149,Zansi Mani,Hosteler,11 PCM,Quantix,15,Female,Divine,40,56,74,77,47,39,333,55.5,88.4,6.8,Software Engineer,Chemistry,Hindi,368,Average,Yes,Badminton,12,No,3,1,Public Speaking
+S030046,Reyansh Kata,Hosteler,11 PCM,Veridata,16,Male,Petals,75,42,49,43,87,37,333,55.5,81.1,2.0,Electrical Engineer,Chemistry,English,369,Average,No,,0,No,0,0,Painting
+S030187,Ishani Sampath,Day Scholar,11 PCM,Syntec,16,Male,Divine,65,50,46,67,65,40,333,55.5,86.2,5.6,Data Scientist,Computer Science,English,370,Average,No,,0,No,0,0,Music
+S030370,Dev Mangal,Day Scholar,11 PCM,Syntec,15,Male,Divine,56,47,56,43,80,50,332,55.33,90.6,5.0,Civil Engineer,Physics,English,371,Average,Yes,Hockey,13,Yes,8,9,Chess
+S030191,Jagrati Shroff,Hosteler,11 PCM,Veridata,15,Male,Passion,39,57,88,48,45,55,332,55.33,74.6,1.8,Data Scientist,Chemistry,Hindi,372,Average,Yes,Football,8,No,10,4,Drama
+S030231,Imaran Lalla,Day Scholar,11 PCM,CyberForge,15,Female,Divine,41,55,43,68,37,85,329,54.83,99.1,2.4,Pilot,Chemistry,English,373,Average,No,,0,No,0,0,Chess
+S030154,Zilmil Choudhury,Day Scholar,11 PCM,Syntec,15,Male,Divine,59,79,43,41,39,67,328,54.67,94.4,4.2,Robotics Engineer,Mathematics,Hindi,374,Average,Yes,Basketball,7,No,7,3,Chess
+S030310,Hemang Solanki,Day Scholar,11 PCM,Quantix,16,Female,Divine,75,41,49,50,52,58,325,54.17,99.8,2.7,Architect,Physics,Hindi,375,Average,No,,0,No,0,0,Chess
+S030091,Akshay Kara,Day Scholar,11 PCM,CyberForge,16,Female,Divine,37,73,39,50,73,53,325,54.17,97.9,7.2,Robotics Engineer,Physics,Physical Education,376,Average,Yes,Volleyball,15,Yes,7,9,Painting
+S030228,Victor Dhaliwal,Hosteler,11 PCM,CyberForge,15,Male,Petals,77,38,41,43,83,42,324,54.0,78.8,5.2,Software Engineer,Physics,Hindi,377,Average,Yes,Badminton,13,No,5,5,Music
+S030350,Maya Dash,Hosteler,11 PCM,CyberForge,16,Male,Passion,60,74,45,62,44,39,324,54.0,71.4,3.5,AI Engineer,Computer Science,English,378,Average,Yes,Cricket,4,No,5,5,Quiz Club
+S030133,Nimrat Kalita,Hosteler,11 PCM,Syntec,16,Male,Paradise,40,43,83,52,35,71,324,54.0,90.3,3.8,AI Engineer,Computer Science,Physical Education,379,Average,Yes,Athletics,15,No,8,5,Dance
+S030340,Jagdish Chaudhry,Day Scholar,11 PCM,Quantix,16,Male,Divine,36,73,45,35,82,52,323,53.83,80.8,4.6,Data Scientist,Computer Science,Hindi,380,Average,Yes,Basketball,12,Yes,8,7,Robotics Club
+S030047,Hritik Murty,Hosteler,11 PCM,Quantix,16,Female,Divine,42,84,50,63,39,44,322,53.67,98.1,5.5,Robotics Engineer,Computer Science,Hindi,381,Average,Yes,Cricket,6,No,6,4,Robotics Club
+S030130,Harshil Manda,Hosteler,11 PCM,Syntec,16,Female,Divine,43,64,46,41,57,71,322,53.67,96.8,2.7,Software Engineer,Physics,English,382,Average,Yes,Football,9,No,8,7,Drama
+S030216,Ati Nagarajan,Day Scholar,11 PCM,Syntec,16,Male,Divine,37,40,59,42,61,81,320,53.33,96.5,1.6,Electrical Engineer,Computer Science,English,383,Average,Yes,Cricket,12,No,9,9,Robotics Club
+S030291,Upkaar Kara,Hosteler,11 PCM,CyberForge,15,Female,Divine,67,39,37,68,65,43,319,53.17,79.5,5.7,Scientist,Mathematics,English,384,Average,No,,0,No,0,0,Volunteering
+S030261,Chaitaly Dar,Hosteler,11 PCM,Quantix,15,Male,Paradise,43,51,60,53,35,74,316,52.67,81.3,1.1,Robotics Engineer,Chemistry,Hindi,385,Average,No,,0,No,0,0,Drama
+S030084,Vasudha Chhabra,Day Scholar,11 PCM,CyberForge,16,Male,Divine,40,40,63,64,54,52,313,52.17,81.6,5.4,Data Scientist,Physics,Physical Education,386,Average,Yes,Cricket,9,Yes,10,12,Public Speaking
+S030054,Rishi Sahota,Hosteler,11 PCM,CyberForge,15,Male,Paradise,37,36,41,77,46,75,312,52.0,92.3,7.7,Architect,Physics,Hindi,387,Average,No,,0,No,0,0,Science Club
+S030080,Chaitanya Sheth,Day Scholar,11 PCM,CyberForge,16,Female,Divine,55,51,76,37,50,41,310,51.67,81.1,3.2,Data Scientist,Physics,Physical Education,388,Average,Yes,Cricket,4,No,1,0,Music
+S030085,Isaiah Nayak,Day Scholar,11 PCM,Veridata,15,Female,Divine,38,88,43,40,60,39,308,51.33,87.5,1.1,Software Engineer,Mathematics,Physical Education,389,Average,Yes,Badminton,14,Yes,14,6,Music
+S030357,Urishilla Varty,Day Scholar,11 PCM,CyberForge,15,Female,Divine,42,36,55,88,41,45,307,51.17,80.1,7.0,Civil Engineer,Mathematics,Physical Education,390,Average,No,,0,No,0,0,Robotics Club
+S030121,Zaitra Dutt,Day Scholar,11 PCM,CyberForge,16,Male,Divine,61,40,42,36,49,78,306,51.0,82.9,2.6,Electrical Engineer,Mathematics,Physical Education,391,Average,Yes,Athletics,10,No,3,2,Drama
+S030344,Raagini Patla,Day Scholar,11 PCM,CyberForge,16,Female,Divine,35,37,41,43,86,63,305,50.83,78.3,1.4,Software Engineer,Chemistry,English,392,Average,Yes,Badminton,7,Yes,6,4,Music
+S030202,Barkha Ghosh,Hosteler,11 PCM,Quantix,16,Female,Divine,58,51,43,42,69,41,304,50.67,77.6,4.7,Electrical Engineer,Physics,Hindi,393,Average,No,,0,No,0,0,Robotics Club
+S030142,Darsh Purohit,Day Scholar,11 PCM,CyberForge,16,Male,Divine,67,61,35,43,55,39,300,50.0,93.6,2.5,Mechanical Engineer,Computer Science,English,394,Average,Yes,Cricket,11,No,10,11,Dance
+S030375,Onkar Sagar,Hosteler,11 PCM,Veridata,15,Male,Petals,36,51,39,61,41,70,298,49.67,95.6,1.9,Mechanical Engineer,Computer Science,Hindi,395,Needs Improvement,No,,0,No,0,0,Drama
+S030331,Guneet Basu,Hosteler,11 PCM,Veridata,15,Male,Paradise,53,50,40,49,36,58,286,47.67,96.7,1.1,AI Engineer,Computer Science,Hindi,396,Needs Improvement,Yes,Badminton,9,Yes,9,4,Dance
+S030298,Udyati Mallick,Day Scholar,11 PCM,Syntec,16,Female,Divine,36,57,42,38,68,40,281,46.83,79.6,5.7,Electrical Engineer,Chemistry,Hindi,397,Needs Improvement,Yes,Cricket,6,No,3,2,Debate
+S030211,Riya Buch,Hosteler,11 PCM,CyberForge,16,Female,Divine,36,58,61,38,38,48,279,46.5,73.4,1.9,Robotics Engineer,Physics,English,398,Needs Improvement,No,,0,No,0,0,Volunteering
+S030257,Lajita Doshi,Day Scholar,11 PCM,CyberForge,16,Female,Divine,38,52,35,40,40,54,259,43.17,89.2,5.1,Architect,Physics,English,399,Needs Improvement,Yes,Football,4,No,4,1,Reading
+S030196,Madhavi Narasimhan,Day Scholar,11 PCM,Quantix,16,Female,Divine,38,39,36,38,38,38,227,37.83,74.9,6.2,Scientist,Physics,English,400,Needs Improvement,Yes,Football,12,Yes,5,5,Robotics Club

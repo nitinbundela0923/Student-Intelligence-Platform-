@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Biology_Marks,Physics_Marks,Chemistry_Marks,English_Marks,Physical_Education_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S040235,Lakshmi Banik,Hosteler,11 PCB,Salesforce,15,Male,Paradise,76,96,86,100,94,98,550,91.67,81.2,6.5,Nutritionist,Chemistry,Mathematics,1,Excellent,No,,0,No,0,0,Chess
+S040311,Zarna Rastogi,Hosteler,11 PCB,Microsoft,15,Female,Divine,88,97,76,93,100,87,541,90.17,80.1,5.8,Surgeon,Chemistry,Computer Science,2,Excellent,No,,0,No,0,0,Science Club
+S040392,Chaitanya Chaudhary,Hosteler,11 PCB,Amazon,16,Male,Petals,92,98,89,88,89,78,534,89.0,75.3,4.3,Doctor,Biology,Mathematics,3,Excellent,Yes,Badminton,6,No,5,3,Volunteering
+S040215,Gopal Saraf,Hosteler,11 PCB,TCS,15,Female,Divine,37,100,92,100,99,90,518,86.33,85.1,3.3,Physiotherapist,Biology,Computer Science,4,Excellent,Yes,Football,5,No,8,9,Public Speaking
+S040170,Chandran Khanna,Day Scholar,11 PCB,Microsoft,16,Male,Divine,99,94,98,78,79,67,515,85.83,95.5,5.1,Pharmacist,Biology,Economics,5,Excellent,Yes,Basketball,9,Yes,10,6,Volunteering
+S040140,Lakshmi Tata,Hosteler,11 PCB,Salesforce,16,Female,Divine,91,87,91,100,69,72,510,85.0,94.9,5.6,Pharmacist,Biology,Economics,6,Excellent,Yes,Basketball,2,No,3,3,Reading
+S040325,Udarsh Venkatesh,Hosteler,11 PCB,Amazon,15,Male,Paradise,91,89,63,88,97,80,508,84.67,84.2,4.2,Dentist,Chemistry,Mathematics,7,Good,No,,0,No,0,0,Dance
+S040102,Chaman Vyas,Hosteler,11 PCB,TCS,15,Male,Paradise,99,70,100,93,69,75,506,84.33,95.7,2.7,Surgeon,Physics,Economics,8,Good,Yes,Tennis,12,No,5,4,Debate
+S040160,Ikshita Jain,Hosteler,11 PCB,Microsoft,16,Female,Divine,97,99,89,50,75,95,505,84.17,79.6,6.4,Nutritionist,Biology,Economics,9,Good,Yes,Athletics,13,No,3,3,Drama
+S040307,Sanaya Wadhwa,Hosteler,11 PCB,Salesforce,15,Female,Divine,86,61,99,68,100,91,505,84.17,85.8,7.0,Microbiologist,Physics,Computer Science,10,Good,Yes,Kabaddi,14,No,2,1,Volunteering
+S040289,Charita Dave,Day Scholar,11 PCB,TCS,16,Female,Divine,80,75,92,99,87,70,503,83.83,90.0,4.7,Surgeon,Chemistry,Computer Science,11,Good,No,,0,No,0,0,Public Speaking
+S040013,Ronith Dhillon,Day Scholar,11 PCB,Salesforce,16,Female,Divine,74,74,90,98,86,73,495,82.5,97.7,7.2,Psychologist,Chemistry,Mathematics,12,Good,Yes,Cricket,15,No,4,2,Reading
+S040296,Nirja Ramaswamy,Day Scholar,11 PCB,Amazon,16,Male,Divine,61,80,83,97,73,100,494,82.33,84.9,5.5,Nurse,Physics,Computer Science,13,Good,No,,0,No,0,0,Debate
+S040012,Vasudha Rastogi,Hosteler,11 PCB,TCS,16,Female,Divine,79,97,83,69,71,93,492,82.0,70.2,1.3,Doctor,Chemistry,Economics,14,Good,No,,0,No,0,0,Music
+S040179,Kevin Sandal,Day Scholar,11 PCB,Microsoft,16,Male,Divine,88,92,85,77,56,93,491,81.83,80.7,2.4,Doctor,Chemistry,Economics,15,Good,Yes,Basketball,13,Yes,11,6,Public Speaking
+S040208,Upkaar Rege,Hosteler,11 PCB,TCS,15,Male,Petals,78,64,99,78,75,96,490,81.67,72.7,6.1,Surgeon,Chemistry,Economics,16,Good,No,,0,No,0,0,Painting
+S040017,Ekani Boase,Day Scholar,11 PCB,Microsoft,16,Female,Divine,77,85,79,71,87,90,489,81.5,99.2,6.3,Pharmacist,Physics,Mathematics,17,Good,Yes,Football,8,Yes,13,5,Science Club
+S040048,Frado Lal,Day Scholar,11 PCB,Amazon,15,Male,Divine,54,90,88,98,86,73,489,81.5,92.9,1.8,Pharmacist,Chemistry,Economics,18,Good,Yes,Football,12,Yes,6,3,Reading
+S040347,Mahika Buch,Hosteler,11 PCB,Amazon,16,Female,Divine,71,87,77,99,89,66,489,81.5,93.5,3.8,Microbiologist,Biology,Computer Science,19,Good,Yes,Badminton,6,No,1,0,Dance
+S040361,Madhav Kalita,Hosteler,11 PCB,TCS,16,Female,Divine,97,44,62,90,95,100,488,81.33,81.4,7.0,Psychologist,Physics,Mathematics,20,Good,Yes,Tennis,4,No,10,5,Public Speaking
+S040395,Jhalak Om,Hosteler,11 PCB,Salesforce,15,Male,Paradise,83,71,100,82,88,63,487,81.17,72.5,6.9,Doctor,Chemistry,Mathematics,21,Good,No,,0,No,0,0,Chess
+S040120,Eiravati Loke,Day Scholar,11 PCB,Salesforce,16,Female,Divine,96,89,100,88,51,62,486,81.0,100.0,7.4,Microbiologist,Physics,Computer Science,22,Good,Yes,Athletics,15,No,4,3,Dance
+S040241,Anthony Andra,Day Scholar,11 PCB,Microsoft,16,Male,Divine,87,87,47,90,77,96,484,80.67,95.5,1.0,Pharmacist,Chemistry,Computer Science,23,Good,Yes,Badminton,11,No,6,7,Drama
+S040087,Matthew Wali,Day Scholar,11 PCB,Microsoft,15,Female,Divine,91,56,82,97,77,79,482,80.33,95.3,1.4,Nutritionist,Biology,Computer Science,24,Good,Yes,Football,5,Yes,12,11,Drama
+S040332,Vasatika Tripathi,Day Scholar,11 PCB,Microsoft,15,Female,Divine,66,91,98,90,89,47,481,80.17,91.0,6.6,Microbiologist,Biology,Mathematics,25,Good,Yes,Football,2,No,9,9,Photography
+S040216,Vrishti Aurora,Hosteler,11 PCB,Salesforce,16,Female,Divine,88,61,73,56,100,99,477,79.5,70.7,6.9,Nurse,Biology,Economics,26,Good,Yes,Football,4,No,7,2,Drama
+S040043,Atharv Kulkarni,Day Scholar,11 PCB,TCS,15,Female,Divine,64,69,58,92,98,95,476,79.33,74.8,3.5,Pharmacist,Biology,Computer Science,27,Good,No,,0,No,0,0,Drama
+S040301,Vasatika Raghavan,Day Scholar,11 PCB,Microsoft,15,Female,Divine,70,56,93,88,96,72,475,79.17,95.5,4.1,Biotechnologist,Chemistry,Computer Science,28,Good,No,,0,No,0,0,Drama
+S040245,Omaja Ram,Hosteler,11 PCB,Microsoft,15,Female,Divine,69,98,90,38,91,88,474,79.0,79.5,1.5,Psychologist,Physics,Computer Science,29,Good,Yes,Tennis,15,No,7,4,Quiz Club
+S040074,Chandresh Ram,Day Scholar,11 PCB,TCS,15,Female,Divine,74,96,84,73,71,76,474,79.0,88.0,3.3,Physiotherapist,Biology,Economics,30,Good,Yes,Volleyball,11,No,7,5,Chess
+S040023,Yagnesh Karpe,Day Scholar,11 PCB,Amazon,16,Female,Divine,80,85,59,77,78,95,474,79.0,99.1,1.6,Doctor,Physics,Mathematics,31,Good,Yes,Cricket,5,No,8,8,Debate
+S040394,Sachi Parekh,Hosteler,11 PCB,Microsoft,15,Female,Divine,84,96,89,61,77,66,473,78.83,76.0,4.4,Dentist,Chemistry,Economics,32,Good,Yes,Kabaddi,3,Yes,8,5,Chess
+S040034,Priya Kunda,Hosteler,11 PCB,Microsoft,16,Female,Divine,95,98,76,68,87,48,472,78.67,71.5,3.5,Nurse,Biology,Economics,33,Good,Yes,Cricket,4,Yes,14,10,Dance
+S040021,Rishi Bhandari,Day Scholar,11 PCB,Microsoft,15,Female,Divine,59,71,87,82,78,95,472,78.67,71.1,1.1,Veterinarian,Chemistry,Economics,34,Good,Yes,Swimming,3,No,10,8,Coding Club
+S040010,Falguni Jani,Day Scholar,11 PCB,Microsoft,15,Female,Divine,38,93,78,95,88,80,472,78.67,98.2,5.8,Physiotherapist,Biology,Mathematics,35,Good,Yes,Football,6,No,4,5,Painting
+S040041,Chameli Hans,Day Scholar,11 PCB,TCS,15,Female,Divine,73,91,37,74,99,98,472,78.67,78.1,1.1,Dentist,Biology,Computer Science,36,Good,Yes,Cricket,3,Yes,6,6,Entrepreneurship Club
+S040117,Andrew Naik,Hosteler,11 PCB,Amazon,15,Male,Petals,69,74,92,95,58,83,471,78.5,90.2,3.9,Pharmacist,Chemistry,Mathematics,37,Good,Yes,Football,10,No,1,1,Dance
+S040305,Sathvik Sekhon,Day Scholar,11 PCB,Microsoft,15,Female,Divine,44,91,88,98,75,75,471,78.5,99.7,7.1,Veterinarian,Physics,Economics,38,Good,Yes,Football,5,No,2,2,Public Speaking
+S040061,Mugdha Rajan,Day Scholar,11 PCB,Amazon,15,Male,Divine,83,82,86,84,56,80,471,78.5,79.7,2.4,Surgeon,Physics,Economics,39,Good,No,,0,No,0,0,Science Club
+S040317,Abha Ray,Hosteler,11 PCB,Microsoft,15,Male,Passion,98,81,92,55,53,91,470,78.33,85.3,7.7,Surgeon,Physics,Mathematics,40,Good,Yes,Cricket,15,No,9,7,Reading
+S040299,Jhalak Bandi,Day Scholar,11 PCB,Amazon,16,Female,Divine,90,93,81,81,49,74,468,78.0,92.1,8.0,Nurse,Physics,Mathematics,41,Good,Yes,Tennis,9,No,8,3,Debate
+S040063,Tristan Bhavsar,Hosteler,11 PCB,Salesforce,15,Female,Divine,87,89,73,43,91,85,468,78.0,86.9,4.9,Surgeon,Chemistry,Computer Science,42,Good,Yes,Kabaddi,15,Yes,14,8,Drama
+S040214,Ronith Raju,Day Scholar,11 PCB,Amazon,15,Male,Divine,96,91,62,37,86,95,467,77.83,75.5,2.3,Veterinarian,Chemistry,Economics,43,Good,Yes,Badminton,14,Yes,12,11,Dance
+S040026,Chaman Dayal,Hosteler,11 PCB,Amazon,16,Male,Passion,64,92,88,99,85,38,466,77.67,91.3,7.3,Veterinarian,Chemistry,Computer Science,44,Good,No,,0,No,0,0,Photography
+S040342,Chasmum Kalla,Day Scholar,11 PCB,Microsoft,16,Female,Divine,95,66,70,81,57,95,464,77.33,82.1,6.4,Psychologist,Physics,Mathematics,45,Good,Yes,Kabaddi,5,Yes,14,10,Volunteering
+S040400,Bahadurjit Viswanathan,Day Scholar,11 PCB,TCS,16,Female,Divine,91,100,72,89,55,56,463,77.17,91.2,6.8,Physiotherapist,Chemistry,Computer Science,46,Good,Yes,Kabaddi,10,Yes,15,15,Volunteering
+S040172,Eiravati Soman,Hosteler,11 PCB,Salesforce,15,Male,Passion,82,97,89,50,97,48,463,77.17,71.7,3.1,Doctor,Physics,Computer Science,47,Good,Yes,Football,11,Yes,13,12,Reading
+S040341,Januja Sandhu,Hosteler,11 PCB,TCS,15,Female,Divine,57,68,100,90,89,59,463,77.17,92.4,6.1,Biotechnologist,Chemistry,Mathematics,48,Good,Yes,Cricket,3,Yes,5,3,Coding Club
+S040104,Wakeeta Balasubramanian,Day Scholar,11 PCB,Salesforce,16,Male,Divine,61,99,43,99,98,61,461,76.83,89.6,3.5,Microbiologist,Biology,Economics,49,Good,No,,0,No,0,0,Coding Club
+S040248,Vedant Chaudhuri,Day Scholar,11 PCB,Amazon,16,Male,Divine,92,68,69,85,81,66,461,76.83,71.4,4.4,Surgeon,Biology,Mathematics,50,Good,Yes,Football,7,No,1,0,Dance
+S040153,Aarnav Varughese,Hosteler,11 PCB,Amazon,15,Male,Paradise,71,36,81,80,94,99,461,76.83,75.1,2.8,Nurse,Biology,Mathematics,51,Good,Yes,Hockey,5,Yes,12,11,Reading
+S040136,Qarin Mann,Day Scholar,11 PCB,Salesforce,15,Male,Divine,89,90,76,63,68,74,460,76.67,99.1,3.1,Surgeon,Biology,Computer Science,52,Good,Yes,Badminton,14,No,10,10,Drama
+S040391,Arjun Srinivas,Day Scholar,11 PCB,Salesforce,15,Male,Divine,77,83,72,91,71,66,460,76.67,93.5,1.8,Microbiologist,Chemistry,Mathematics,53,Good,Yes,Cricket,7,No,10,10,Coding Club
+S040255,Vincent Kant,Hosteler,11 PCB,TCS,16,Male,Paradise,75,63,95,35,95,96,459,76.5,91.3,3.1,Physiotherapist,Physics,Economics,54,Good,Yes,Football,6,No,6,5,Science Club
+S040060,Turvi Deshmukh,Day Scholar,11 PCB,Microsoft,16,Female,Divine,49,93,99,49,80,88,458,76.33,80.5,4.5,Nutritionist,Physics,Economics,55,Good,No,,0,No,0,0,Photography
+S040328,Fariq Sandhu,Day Scholar,11 PCB,Salesforce,16,Female,Divine,77,80,55,58,97,91,458,76.33,94.4,3.1,Psychologist,Biology,Mathematics,56,Good,No,,0,No,0,0,Science Club
+S040132,Ekalinga Kurian,Hosteler,11 PCB,Microsoft,15,Female,Divine,94,64,80,59,87,74,458,76.33,80.3,4.2,Veterinarian,Chemistry,Mathematics,57,Good,No,,0,No,0,0,Volunteering
+S040270,George Chokshi,Day Scholar,11 PCB,Amazon,15,Female,Divine,68,93,85,35,82,94,457,76.17,99.1,8.0,Psychologist,Chemistry,Economics,58,Good,Yes,Football,5,No,6,4,Volunteering
+S040169,Hemangini Sastry,Hosteler,11 PCB,Amazon,16,Female,Divine,88,45,76,92,89,67,457,76.17,75.8,5.6,Pharmacist,Chemistry,Computer Science,59,Good,Yes,Football,5,No,8,8,Dance
+S040050,Warhi Wali,Day Scholar,11 PCB,Microsoft,15,Female,Divine,86,71,86,74,50,90,457,76.17,78.9,2.3,Surgeon,Biology,Economics,60,Good,Yes,Athletics,5,No,2,2,Dance
+S040045,George Varghese,Hosteler,11 PCB,Salesforce,15,Male,Petals,75,75,86,64,90,66,456,76.0,89.4,2.2,Doctor,Physics,Computer Science,61,Good,Yes,Volleyball,11,No,2,0,Entrepreneurship Club
+S040258,Urvashi Balasubramanian,Day Scholar,11 PCB,Amazon,16,Male,Divine,97,92,35,62,84,86,456,76.0,97.8,1.4,Nutritionist,Biology,Computer Science,62,Good,Yes,Football,14,No,9,11,Coding Club
+S040152,Karan Joshi,Hosteler,11 PCB,Amazon,15,Female,Divine,51,60,84,67,96,97,455,75.83,84.6,6.9,Pharmacist,Chemistry,Computer Science,63,Good,Yes,Cricket,3,Yes,8,6,Quiz Club
+S040345,Mitesh Nigam,Day Scholar,11 PCB,Microsoft,16,Female,Divine,90,75,64,78,61,87,455,75.83,92.4,2.1,Physiotherapist,Physics,Computer Science,64,Good,Yes,Football,10,No,3,1,Robotics Club
+S040139,Lucky Sagar,Day Scholar,11 PCB,Salesforce,16,Male,Divine,58,85,92,35,100,85,455,75.83,98.0,7.5,Surgeon,Biology,Mathematics,65,Good,Yes,Volleyball,9,No,4,3,Dance
+S040368,Devansh Narasimhan,Day Scholar,11 PCB,Salesforce,15,Male,Divine,100,88,58,68,40,100,454,75.67,96.3,1.0,Pharmacist,Chemistry,Economics,66,Good,Yes,Basketball,3,No,7,8,Quiz Club
+S040030,Aradhana Pai,Day Scholar,11 PCB,Salesforce,16,Male,Divine,87,94,91,43,50,89,454,75.67,98.0,1.1,Surgeon,Biology,Computer Science,67,Good,Yes,Badminton,12,Yes,5,2,Entrepreneurship Club
+S040084,Shivani Nadig,Hosteler,11 PCB,TCS,15,Female,Divine,96,91,83,55,85,43,453,75.5,76.3,3.8,Nurse,Physics,Economics,68,Good,Yes,Cricket,5,No,1,0,Music
+S040036,Azad Balay,Day Scholar,11 PCB,Microsoft,15,Female,Divine,71,67,99,53,66,97,453,75.5,83.5,6.4,Physiotherapist,Biology,Mathematics,69,Good,Yes,Athletics,11,Yes,9,8,Painting
+S040343,Vansha Chadha,Day Scholar,11 PCB,Microsoft,16,Female,Divine,82,77,43,69,97,84,452,75.33,93.6,7.1,Biotechnologist,Biology,Economics,70,Good,No,,0,No,0,0,Coding Club
+S040167,Azad Mody,Hosteler,11 PCB,Microsoft,16,Female,Divine,86,95,88,52,80,51,452,75.33,91.7,6.9,Nutritionist,Biology,Computer Science,71,Good,Yes,Badminton,5,Yes,14,11,Chess
+S040196,Neel Sankaran,Day Scholar,11 PCB,Microsoft,16,Male,Divine,86,56,73,92,57,87,451,75.17,96.4,5.5,Veterinarian,Biology,Mathematics,72,Good,Yes,Volleyball,11,Yes,14,13,Dance
+S040064,Imaran Sankar,Day Scholar,11 PCB,Microsoft,16,Female,Divine,80,71,86,70,44,100,451,75.17,73.4,4.2,Dentist,Chemistry,Economics,73,Good,No,,0,No,0,0,Reading
+S040040,Mohammed Deo,Hosteler,11 PCB,Microsoft,15,Male,Paradise,83,57,83,76,68,83,450,75.0,92.2,1.0,Veterinarian,Biology,Mathematics,74,Good,No,,0,No,0,0,Robotics Club
+S040186,Laksh Chad,Hosteler,11 PCB,Salesforce,16,Male,Paradise,66,98,86,60,44,96,450,75.0,87.6,2.9,Veterinarian,Biology,Computer Science,75,Good,Yes,Badminton,2,No,4,4,Dance
+S040222,Samaksh Sama,Day Scholar,11 PCB,Salesforce,16,Male,Divine,49,88,95,99,35,84,450,75.0,89.9,5.7,Pharmacist,Physics,Economics,76,Good,Yes,Badminton,5,Yes,12,18,Entrepreneurship Club
+S040365,Yamini Mitter,Day Scholar,11 PCB,Amazon,16,Female,Divine,89,84,71,99,63,42,448,74.67,73.2,7.9,Nutritionist,Chemistry,Computer Science,77,Good,No,,0,No,0,0,Entrepreneurship Club
+S040109,Hemal Srivastava,Hosteler,11 PCB,Microsoft,15,Female,Divine,95,54,84,67,87,61,448,74.67,81.2,7.9,Physiotherapist,Biology,Mathematics,78,Good,No,,0,No,0,0,Reading
+S040378,Ekanta Dey,Hosteler,11 PCB,Microsoft,16,Female,Divine,41,84,77,88,93,65,448,74.67,92.7,3.6,Nutritionist,Biology,Computer Science,79,Good,Yes,Kabaddi,6,Yes,14,15,Photography
+S040083,Meghana Sibal,Day Scholar,11 PCB,Amazon,16,Male,Divine,63,96,100,41,47,100,447,74.5,82.7,4.3,Nutritionist,Chemistry,Computer Science,80,Good,No,,0,No,0,0,Coding Club
+S040277,Tanay Bansal,Hosteler,11 PCB,Salesforce,15,Male,Passion,92,94,94,62,61,44,447,74.5,98.6,3.8,Surgeon,Physics,Computer Science,81,Good,Yes,Cricket,5,No,4,5,Drama
+S040366,Yochana Gade,Day Scholar,11 PCB,Microsoft,16,Female,Divine,61,81,81,99,72,53,447,74.5,89.1,1.6,Psychologist,Chemistry,Computer Science,82,Good,No,,0,No,0,0,Quiz Club
+S040386,Vidhi Gola,Hosteler,11 PCB,Amazon,16,Male,Passion,65,57,86,83,61,95,447,74.5,76.6,1.9,Nutritionist,Biology,Mathematics,83,Good,Yes,Volleyball,15,No,1,1,Music
+S040007,Samarth Pant,Hosteler,11 PCB,Salesforce,15,Female,Divine,76,92,98,80,58,42,446,74.33,94.3,1.1,Dentist,Chemistry,Mathematics,84,Good,No,,0,No,0,0,Drama
+S040287,Manan Karan,Day Scholar,11 PCB,TCS,16,Female,Divine,86,74,94,69,85,38,446,74.33,90.6,5.4,Microbiologist,Chemistry,Mathematics,85,Good,Yes,Kabaddi,5,No,4,4,Painting
+S040171,Ayaan Barman,Hosteler,11 PCB,Microsoft,15,Female,Divine,58,96,61,86,51,93,445,74.17,71.8,2.2,Pharmacist,Chemistry,Mathematics,86,Good,Yes,Cricket,10,No,6,6,Music
+S040001,Arin Seth,Day Scholar,11 PCB,Microsoft,15,Female,Divine,96,60,76,91,68,51,442,73.67,99.4,7.7,Dentist,Biology,Mathematics,87,Good,No,,0,No,0,0,Science Club
+S040099,Libni Saran,Day Scholar,11 PCB,Amazon,16,Male,Divine,76,61,77,73,87,68,442,73.67,98.9,1.3,Biotechnologist,Physics,Mathematics,88,Good,No,,0,No,0,0,Public Speaking
+S040285,Maanas Thakkar,Day Scholar,11 PCB,Salesforce,15,Female,Divine,73,57,55,78,85,94,442,73.67,95.4,6.4,Nurse,Biology,Mathematics,89,Good,No,,0,No,0,0,Entrepreneurship Club
+S040138,Vrinda Anand,Hosteler,11 PCB,Salesforce,15,Female,Divine,68,65,79,88,45,97,442,73.67,74.9,3.2,Physiotherapist,Physics,Economics,90,Good,Yes,Cricket,6,Yes,10,12,Coding Club
+S040027,Oeshi Amble,Hosteler,11 PCB,TCS,15,Male,Petals,46,97,91,71,43,94,442,73.67,99.8,3.1,Nutritionist,Biology,Mathematics,91,Good,No,,0,No,0,0,Photography
+S040024,Aishani Bail,Day Scholar,11 PCB,Salesforce,15,Male,Divine,81,73,59,68,76,85,442,73.67,72.5,2.6,Microbiologist,Physics,Computer Science,92,Good,Yes,Cricket,11,Yes,13,8,Entrepreneurship Club
+S040005,Shravya Dhar,Day Scholar,11 PCB,TCS,16,Female,Divine,64,95,81,84,43,75,442,73.67,71.4,3.2,Pharmacist,Biology,Mathematics,93,Good,Yes,Badminton,14,No,6,4,Quiz Club
+S040151,Megha Lad,Hosteler,11 PCB,Amazon,16,Female,Divine,95,52,94,42,64,94,441,73.5,73.2,1.2,Nutritionist,Biology,Economics,94,Good,No,,0,No,0,0,Quiz Club
+S040191,Bhavika Rege,Day Scholar,11 PCB,TCS,15,Female,Divine,94,52,68,94,51,82,441,73.5,74.6,1.7,Veterinarian,Biology,Economics,95,Good,Yes,Badminton,5,No,7,8,Painting
+S040280,Dominic Datta,Day Scholar,11 PCB,Microsoft,15,Male,Divine,93,88,52,82,35,90,440,73.33,95.3,2.7,Doctor,Biology,Economics,96,Good,No,,0,No,0,0,Photography
+S040275,Avni Loke,Hosteler,11 PCB,TCS,15,Male,Petals,96,77,76,45,77,69,440,73.33,96.9,1.4,Pharmacist,Chemistry,Computer Science,97,Good,Yes,Cricket,12,Yes,9,5,Robotics Club
+S040380,Tanish Shanker,Day Scholar,11 PCB,Salesforce,16,Male,Divine,86,55,85,72,69,73,440,73.33,95.8,2.3,Doctor,Physics,Computer Science,98,Good,Yes,Volleyball,7,No,4,2,Drama
+S040264,Yashawini Sangha,Hosteler,11 PCB,Amazon,16,Female,Divine,56,82,54,50,98,98,438,73.0,91.0,3.7,Veterinarian,Chemistry,Mathematics,99,Good,Yes,Cricket,15,No,10,12,Debate
+S040097,Aarush Shah,Hosteler,11 PCB,Salesforce,15,Female,Divine,85,40,52,100,65,95,437,72.83,83.7,7.0,Nurse,Physics,Computer Science,100,Good,No,,0,No,0,0,Painting
+S040058,Dhruv Bora,Hosteler,11 PCB,Salesforce,16,Male,Petals,100,63,79,58,94,43,437,72.83,91.2,6.3,Physiotherapist,Chemistry,Computer Science,101,Good,No,,0,No,0,0,Chess
+S040290,Janaki Sura,Day Scholar,11 PCB,TCS,15,Female,Divine,80,47,57,67,95,90,436,72.67,70.2,3.7,Surgeon,Chemistry,Economics,102,Good,Yes,Cricket,2,No,2,2,Dance
+S040052,Agastya Pillay,Day Scholar,11 PCB,Salesforce,16,Female,Divine,100,49,46,95,92,54,436,72.67,87.3,4.7,Pharmacist,Physics,Economics,103,Good,No,,0,No,0,0,Music
+S040042,Bachittar Dora,Day Scholar,11 PCB,Microsoft,16,Female,Divine,44,75,59,92,98,67,435,72.5,82.8,5.6,Psychologist,Physics,Economics,104,Good,Yes,Athletics,9,No,5,5,Robotics Club
+S040056,Harrison Viswanathan,Hosteler,11 PCB,TCS,15,Male,Petals,84,61,62,96,87,45,435,72.5,96.5,7.7,Veterinarian,Biology,Computer Science,105,Good,No,,0,No,0,0,Quiz Club
+S040079,Tara Chatterjee,Day Scholar,11 PCB,TCS,16,Female,Divine,95,64,81,62,80,53,435,72.5,96.2,6.1,Pharmacist,Biology,Computer Science,106,Good,No,,0,No,0,0,Coding Club
+S040310,Jeet Varughese,Hosteler,11 PCB,Salesforce,16,Female,Divine,53,84,64,63,70,100,434,72.33,88.2,4.2,Nutritionist,Biology,Economics,107,Good,Yes,Badminton,2,No,9,5,Drama
+S040176,Onveer Johal,Hosteler,11 PCB,Amazon,16,Male,Passion,93,58,67,70,83,63,434,72.33,74.8,3.0,Biotechnologist,Chemistry,Mathematics,108,Good,Yes,Badminton,4,No,2,1,Robotics Club
+S040210,Vincent Nagarajan,Day Scholar,11 PCB,Amazon,16,Female,Divine,70,62,93,41,85,83,434,72.33,95.3,7.7,Nurse,Chemistry,Computer Science,109,Good,Yes,Football,2,No,8,7,Robotics Club
+S040188,Harinakshi Nadig,Day Scholar,11 PCB,Salesforce,16,Male,Divine,51,89,70,95,75,54,434,72.33,81.5,7.3,Nutritionist,Physics,Mathematics,110,Good,Yes,Football,10,Yes,12,12,Music
+S040319,Mohini Sarraf,Day Scholar,11 PCB,TCS,16,Female,Divine,66,90,84,38,94,61,433,72.17,93.8,6.9,Biotechnologist,Chemistry,Mathematics,111,Good,Yes,Badminton,6,Yes,15,15,Reading
+S040206,Peter Mani,Day Scholar,11 PCB,Microsoft,16,Male,Divine,56,63,69,79,89,77,433,72.17,87.2,4.1,Dentist,Biology,Computer Science,112,Good,No,,0,No,0,0,Robotics Club
+S040374,Jagdish Sule,Day Scholar,11 PCB,Salesforce,16,Male,Divine,51,100,47,68,71,95,432,72.0,78.6,7.2,Physiotherapist,Physics,Mathematics,113,Good,No,,0,No,0,0,Painting
+S040281,Omkaar Das,Day Scholar,11 PCB,TCS,16,Female,Divine,68,87,44,71,92,69,431,71.83,89.4,2.5,Dentist,Biology,Economics,114,Good,Yes,Swimming,9,No,2,2,Reading
+S040261,Neha Raghavan,Day Scholar,11 PCB,Amazon,15,Female,Divine,94,81,64,49,58,85,431,71.83,88.7,4.7,Pharmacist,Biology,Computer Science,115,Good,Yes,Tennis,9,No,5,6,Dance
+S040091,Dhruv Kara,Hosteler,11 PCB,TCS,15,Female,Divine,89,89,61,63,82,46,430,71.67,92.6,4.3,Microbiologist,Physics,Computer Science,116,Good,No,,0,No,0,0,Photography
+S040344,Hemal Baral,Day Scholar,11 PCB,Microsoft,16,Female,Divine,73,48,69,95,82,63,430,71.67,95.5,5.9,Microbiologist,Chemistry,Computer Science,117,Good,No,,0,No,0,0,Music
+S040130,Vidhi Gill,Day Scholar,11 PCB,Amazon,15,Female,Divine,69,86,90,91,53,41,430,71.67,86.5,2.9,Physiotherapist,Biology,Economics,118,Good,Yes,Cricket,10,Yes,10,9,Science Club
+S040252,Vedika Lalla,Hosteler,11 PCB,Amazon,16,Male,Paradise,59,94,73,68,37,99,430,71.67,84.6,4.5,Psychologist,Physics,Computer Science,119,Good,Yes,Basketball,9,Yes,14,10,Volunteering
+S040340,Timothy Chana,Hosteler,11 PCB,Microsoft,16,Male,Paradise,67,77,87,71,77,51,430,71.67,75.6,3.8,Nurse,Physics,Computer Science,120,Good,Yes,Tennis,6,No,8,5,Drama
+S040269,Onveer Chaudhari,Day Scholar,11 PCB,Microsoft,16,Female,Divine,50,45,85,90,73,86,429,71.5,79.9,7.2,Psychologist,Biology,Mathematics,121,Good,No,,0,No,0,0,Volunteering
+S040267,Siya Zacharia,Day Scholar,11 PCB,Salesforce,15,Male,Divine,98,47,75,89,41,79,429,71.5,81.2,2.3,Nurse,Biology,Mathematics,122,Good,Yes,Cricket,4,No,8,7,Debate
+S040300,Veda Jain,Hosteler,11 PCB,Salesforce,15,Male,Petals,51,75,85,100,70,48,429,71.5,77.3,6.4,Veterinarian,Chemistry,Mathematics,123,Good,Yes,Football,8,No,10,9,Photography
+S040194,Charvi Vyas,Day Scholar,11 PCB,Salesforce,15,Female,Divine,59,56,76,90,96,52,429,71.5,70.5,4.6,Pharmacist,Chemistry,Mathematics,124,Good,Yes,Football,7,No,1,0,Volunteering
+S040353,Harita Bhatti,Hosteler,11 PCB,TCS,15,Female,Divine,87,92,38,87,63,62,429,71.5,88.0,1.2,Dentist,Biology,Mathematics,125,Good,Yes,Cricket,11,Yes,11,5,Robotics Club
+S040382,Hitesh Kumar,Day Scholar,11 PCB,Salesforce,16,Female,Divine,66,85,48,76,78,75,428,71.33,95.4,5.1,Microbiologist,Chemistry,Mathematics,126,Good,No,,0,No,0,0,Photography
+S040080,Tara Sinha,Day Scholar,11 PCB,Amazon,16,Male,Divine,73,93,60,68,72,61,427,71.17,76.9,4.6,Biotechnologist,Biology,Mathematics,127,Good,No,,0,No,0,0,Drama
+S040114,Daksh Dey,Hosteler,11 PCB,Amazon,16,Male,Paradise,48,61,83,40,100,95,427,71.17,84.9,2.3,Surgeon,Chemistry,Computer Science,128,Good,Yes,Badminton,8,No,9,9,Debate
+S040035,Amaira Ganesan,Hosteler,11 PCB,Microsoft,16,Female,Divine,95,53,78,99,43,58,426,71.0,88.0,6.6,Doctor,Physics,Computer Science,129,Good,Yes,Cricket,11,Yes,6,6,Reading
+S040015,Qushi Sarkar,Day Scholar,11 PCB,TCS,15,Female,Divine,89,58,94,91,45,49,426,71.0,87.1,3.7,Surgeon,Biology,Mathematics,130,Good,Yes,Football,6,No,2,2,Reading
+S040388,Bakhshi Mohanty,Hosteler,11 PCB,Amazon,15,Male,Paradise,82,63,97,97,45,42,426,71.0,89.4,2.3,Dentist,Physics,Computer Science,131,Good,Yes,Badminton,14,Yes,14,10,Drama
+S040375,Harini Dhar,Hosteler,11 PCB,Salesforce,15,Male,Petals,100,63,37,84,63,79,426,71.0,90.2,2.6,Nutritionist,Physics,Mathematics,132,Good,No,,0,No,0,0,Quiz Club
+S040268,Aryan Choudhary,Day Scholar,11 PCB,TCS,15,Male,Divine,74,91,68,42,83,68,426,71.0,72.9,6.7,Dentist,Physics,Mathematics,133,Good,Yes,Badminton,10,Yes,10,7,Quiz Club
+S040389,William Dara,Hosteler,11 PCB,Salesforce,15,Female,Divine,83,53,58,78,83,70,425,70.83,85.4,3.6,Nutritionist,Chemistry,Mathematics,134,Good,No,,0,No,0,0,Volunteering
+S040062,Aditya Aurora,Day Scholar,11 PCB,TCS,15,Male,Divine,76,63,69,90,36,91,425,70.83,87.4,5.3,Nurse,Chemistry,Economics,135,Good,No,,0,No,0,0,Photography
+S040273,Vrishti Sharaf,Day Scholar,11 PCB,TCS,15,Male,Divine,56,91,95,65,55,63,425,70.83,71.4,2.7,Psychologist,Biology,Economics,136,Good,Yes,Badminton,6,No,3,3,Photography
+S040072,Ladli Wali,Day Scholar,11 PCB,Salesforce,15,Female,Divine,89,86,82,56,73,39,425,70.83,93.6,1.9,Surgeon,Chemistry,Economics,137,Good,Yes,Athletics,9,Yes,5,4,Photography
+S040349,Eesha Merchant,Hosteler,11 PCB,Amazon,16,Male,Paradise,37,98,61,95,51,83,425,70.83,90.7,6.4,Nurse,Biology,Computer Science,138,Good,No,,0,No,0,0,Painting
+S040011,Darpan Savant,Day Scholar,11 PCB,Microsoft,15,Male,Divine,77,74,59,38,100,77,425,70.83,73.7,1.3,Nurse,Physics,Mathematics,139,Good,Yes,Badminton,6,Yes,11,12,Painting
+S040166,Anay Saxena,Hosteler,11 PCB,Salesforce,16,Female,Divine,92,88,89,67,52,36,424,70.67,90.5,2.0,Psychologist,Physics,Mathematics,140,Good,Yes,Athletics,11,Yes,9,11,Reading
+S040094,Libni Chaudry,Hosteler,11 PCB,Salesforce,15,Male,Passion,62,94,61,86,43,78,424,70.67,81.4,3.8,Biotechnologist,Biology,Mathematics,141,Good,Yes,Kabaddi,11,Yes,13,11,Robotics Club
+S040180,Kiaan Patil,Hosteler,11 PCB,Salesforce,16,Female,Divine,92,35,99,90,73,35,424,70.67,99.8,6.3,Microbiologist,Biology,Mathematics,142,Good,Yes,Badminton,13,Yes,13,14,Science Club
+S040362,Jason Murthy,Hosteler,11 PCB,Microsoft,15,Male,Paradise,98,73,49,83,50,71,424,70.67,89.2,1.8,Physiotherapist,Biology,Mathematics,143,Good,No,,0,No,0,0,Reading
+S040396,Eesha Desai,Hosteler,11 PCB,Amazon,15,Male,Paradise,66,93,78,66,54,66,423,70.5,74.3,4.1,Microbiologist,Physics,Economics,144,Good,Yes,Athletics,13,No,10,4,Quiz Club
+S040195,Rushil Deshpande,Day Scholar,11 PCB,Microsoft,15,Male,Divine,74,62,75,82,45,85,423,70.5,75.2,7.1,Doctor,Biology,Economics,145,Good,No,,0,No,0,0,Robotics Club
+S040352,Veer Dasgupta,Hosteler,11 PCB,Amazon,15,Female,Divine,73,36,62,85,68,99,423,70.5,75.4,3.9,Nutritionist,Physics,Computer Science,146,Good,Yes,Cricket,7,Yes,13,19,Quiz Club
+S040126,Maanas Srivastava,Day Scholar,11 PCB,Salesforce,15,Male,Divine,54,65,52,98,60,93,422,70.33,81.6,4.8,Surgeon,Chemistry,Economics,147,Good,Yes,Football,2,No,4,4,Photography
+S040203,Upadhriti Oommen,Hosteler,11 PCB,Microsoft,16,Male,Passion,79,70,71,49,60,93,422,70.33,84.1,7.3,Nutritionist,Chemistry,Computer Science,148,Good,No,,0,No,0,0,Entrepreneurship Club
+S040306,Maanas Shankar,Day Scholar,11 PCB,TCS,16,Male,Divine,61,94,100,43,80,43,421,70.17,88.1,4.9,Microbiologist,Chemistry,Economics,149,Good,No,,0,No,0,0,Volunteering
+S040323,Lavanya Kumer,Hosteler,11 PCB,Salesforce,16,Female,Divine,84,58,49,59,88,83,421,70.17,73.7,6.2,Physiotherapist,Chemistry,Computer Science,150,Good,Yes,Badminton,14,No,9,7,Entrepreneurship Club
+S040096,Yash Wason,Day Scholar,11 PCB,Salesforce,15,Female,Divine,66,46,77,84,83,65,421,70.17,80.7,6.5,Nutritionist,Biology,Computer Science,151,Good,Yes,Football,6,No,8,9,Science Club
+S040397,Jagdish Modi,Day Scholar,11 PCB,Microsoft,16,Female,Divine,61,51,96,68,48,97,421,70.17,82.4,5.0,Veterinarian,Biology,Economics,152,Good,No,,0,No,0,0,Debate
+S040348,Champak Parsa,Hosteler,11 PCB,Amazon,15,Female,Divine,44,88,47,80,63,99,421,70.17,81.8,6.5,Surgeon,Physics,Computer Science,153,Good,Yes,Volleyball,5,No,7,7,Coding Club
+S040376,Lila Kota,Hosteler,11 PCB,TCS,16,Male,Paradise,91,67,65,86,36,75,420,70.0,98.7,7.4,Physiotherapist,Physics,Economics,154,Good,No,,0,No,0,0,Coding Club
+S040161,Nakul Garde,Day Scholar,11 PCB,Salesforce,15,Male,Divine,98,77,47,52,64,82,420,70.0,80.2,2.8,Nurse,Physics,Mathematics,155,Good,No,,0,No,0,0,Music
+S040089,Ira Wadhwa,Hosteler,11 PCB,Microsoft,15,Female,Divine,89,98,55,85,48,45,420,70.0,89.1,2.5,Dentist,Chemistry,Computer Science,156,Good,Yes,Football,4,Yes,15,6,Drama
+S040379,Ayaan Uppal,Hosteler,11 PCB,TCS,15,Female,Divine,91,88,46,63,88,43,419,69.83,74.2,2.5,Biotechnologist,Physics,Computer Science,157,Average,No,,0,No,0,0,Entrepreneurship Club
+S040077,Warda Seth,Day Scholar,11 PCB,Microsoft,16,Male,Divine,76,76,76,56,58,74,416,69.33,74.2,7.0,Doctor,Chemistry,Mathematics,158,Average,No,,0,No,0,0,Chess
+S040039,Nicholas Bobal,Hosteler,11 PCB,Microsoft,15,Female,Divine,57,57,53,98,84,67,416,69.33,86.7,2.3,Physiotherapist,Chemistry,Computer Science,159,Average,No,,0,No,0,0,Chess
+S040070,Sarthak Subramanian,Day Scholar,11 PCB,Salesforce,15,Female,Divine,92,41,99,96,37,50,415,69.17,82.4,5.5,Microbiologist,Biology,Mathematics,160,Average,No,,0,No,0,0,Music
+S040363,Kritika Sarma,Hosteler,11 PCB,Salesforce,15,Male,Passion,62,77,41,87,90,58,415,69.17,82.2,2.8,Dentist,Chemistry,Mathematics,161,Average,Yes,Volleyball,11,Yes,5,2,Music
+S040131,Nidra Chander,Hosteler,11 PCB,Salesforce,15,Male,Paradise,63,100,92,71,35,54,415,69.17,71.0,3.4,Microbiologist,Chemistry,Computer Science,162,Average,Yes,Badminton,15,Yes,5,2,Reading
+S040088,Vasudha Kakar,Hosteler,11 PCB,Amazon,16,Female,Divine,52,73,59,92,45,94,415,69.17,92.5,4.7,Surgeon,Chemistry,Mathematics,163,Average,Yes,Football,6,No,5,2,Reading
+S040315,Amara Sunder,Day Scholar,11 PCB,TCS,16,Male,Divine,92,92,41,53,64,73,415,69.17,82.8,3.0,Nutritionist,Chemistry,Economics,164,Average,No,,0,No,0,0,Debate
+S040330,Nilima Gola,Hosteler,11 PCB,TCS,16,Male,Passion,95,65,64,43,67,81,415,69.17,91.9,5.9,Physiotherapist,Physics,Computer Science,165,Average,Yes,Volleyball,5,No,3,2,Dance
+S040286,Nakul Chaudhuri,Day Scholar,11 PCB,Amazon,16,Male,Divine,96,42,77,72,43,84,414,69.0,90.9,7.9,Nutritionist,Physics,Economics,166,Average,No,,0,No,0,0,Painting
+S040302,Eta Parmar,Hosteler,11 PCB,Microsoft,16,Male,Petals,46,82,46,46,94,99,413,68.83,93.4,7.2,Microbiologist,Chemistry,Economics,167,Average,Yes,Cricket,6,Yes,10,7,Quiz Club
+S040282,Tara Hegde,Day Scholar,11 PCB,TCS,15,Female,Divine,44,67,99,89,39,75,413,68.83,96.0,5.2,Psychologist,Biology,Computer Science,168,Average,Yes,Football,12,No,1,0,Science Club
+S040381,Jagvi Dada,Hosteler,11 PCB,Amazon,15,Male,Petals,53,67,57,62,73,100,412,68.67,78.2,4.2,Pharmacist,Chemistry,Mathematics,169,Average,Yes,Cricket,4,No,1,0,Robotics Club
+S040107,Anusha Comar,Day Scholar,11 PCB,Amazon,15,Male,Divine,92,94,52,35,69,70,412,68.67,71.7,5.8,Dentist,Physics,Computer Science,170,Average,Yes,Volleyball,4,No,5,3,Quiz Club
+S040256,Upkaar Sarma,Hosteler,11 PCB,Microsoft,16,Male,Paradise,91,43,72,84,44,78,412,68.67,82.6,6.5,Veterinarian,Chemistry,Mathematics,171,Average,Yes,Hockey,7,No,5,5,Dance
+S040298,Saumya Rajagopal,Hosteler,11 PCB,Microsoft,15,Female,Divine,77,70,37,94,59,74,411,68.5,76.8,4.9,Dentist,Physics,Computer Science,172,Average,No,,0,No,0,0,Coding Club
+S040320,Chaitaly Mandal,Day Scholar,11 PCB,Salesforce,15,Male,Divine,80,71,45,97,69,49,411,68.5,83.3,3.4,Microbiologist,Biology,Mathematics,173,Average,Yes,Cricket,15,No,2,2,Robotics Club
+S040399,Nisha Anne,Day Scholar,11 PCB,Salesforce,16,Male,Divine,58,70,75,79,63,66,411,68.5,90.2,3.2,Microbiologist,Physics,Computer Science,174,Average,Yes,Badminton,11,Yes,5,6,Chess
+S040231,Panini Puri,Day Scholar,11 PCB,Microsoft,15,Male,Divine,82,70,37,66,86,69,410,68.33,80.6,6.0,Doctor,Chemistry,Mathematics,175,Average,Yes,Badminton,3,No,1,0,Chess
+S040046,Bina Mannan,Hosteler,11 PCB,TCS,15,Male,Passion,83,44,77,68,100,38,410,68.33,75.8,6.1,Psychologist,Physics,Economics,176,Average,Yes,Kabaddi,6,No,10,10,Painting
+S040082,Bhavani Sehgal,Day Scholar,11 PCB,TCS,15,Male,Divine,95,60,36,71,90,58,410,68.33,79.4,1.9,Veterinarian,Chemistry,Computer Science,177,Average,Yes,Volleyball,12,Yes,6,7,Science Club
+S040211,Anthony Pal,Day Scholar,11 PCB,TCS,15,Female,Divine,51,84,64,86,43,82,410,68.33,85.6,6.7,Biotechnologist,Physics,Mathematics,178,Average,Yes,Cricket,10,No,6,5,Chess
+S040192,Shivani Chaudhari,Day Scholar,11 PCB,Amazon,16,Female,Divine,49,58,35,73,96,98,409,68.17,84.8,3.7,Doctor,Biology,Mathematics,179,Average,Yes,Badminton,4,No,1,1,Public Speaking
+S040200,Balvan Mody,Hosteler,11 PCB,Amazon,16,Female,Divine,40,88,37,53,94,97,409,68.17,82.0,3.8,Surgeon,Biology,Computer Science,180,Average,Yes,Badminton,9,Yes,13,15,Public Speaking
+S040251,Kashish Balan,Hosteler,11 PCB,Salesforce,15,Male,Passion,76,55,78,46,83,71,409,68.17,96.0,6.1,Veterinarian,Physics,Computer Science,181,Average,Yes,Cricket,3,No,10,7,Reading
+S040291,Vidhi Guha,Hosteler,11 PCB,TCS,16,Female,Divine,72,42,80,44,88,83,409,68.17,79.8,2.1,Physiotherapist,Chemistry,Computer Science,182,Average,No,,0,No,0,0,Coding Club
+S040237,Odika Peri,Hosteler,11 PCB,Microsoft,15,Male,Paradise,43,72,73,41,94,86,409,68.17,98.7,3.1,Pharmacist,Biology,Computer Science,183,Average,Yes,Football,9,No,2,1,Science Club
+S040112,Victor Ranganathan,Hosteler,11 PCB,Salesforce,15,Female,Divine,85,88,52,43,81,60,409,68.17,70.3,4.3,Doctor,Chemistry,Mathematics,184,Average,Yes,Football,7,No,10,8,Public Speaking
+S040309,Yash Wable,Hosteler,11 PCB,Salesforce,15,Female,Divine,100,52,38,97,35,86,408,68.0,96.2,1.3,Pharmacist,Biology,Mathematics,185,Average,Yes,Cricket,8,No,8,4,Quiz Club
+S040053,Ira Bajaj,Hosteler,11 PCB,Amazon,15,Male,Petals,37,42,63,90,89,87,408,68.0,91.2,1.4,Psychologist,Biology,Economics,186,Average,Yes,Kabaddi,4,Yes,8,9,Entrepreneurship Club
+S040244,Reva Kamdar,Hosteler,11 PCB,TCS,15,Male,Petals,96,59,61,93,40,59,408,68.0,94.3,7.0,Surgeon,Chemistry,Computer Science,187,Average,No,,0,No,0,0,Coding Club
+S040105,Jagdish Deshmukh,Hosteler,11 PCB,Microsoft,15,Male,Passion,71,95,92,36,67,47,408,68.0,88.2,5.4,Surgeon,Chemistry,Mathematics,188,Average,Yes,Volleyball,10,No,8,7,Reading
+S040385,Arunima Salvi,Hosteler,11 PCB,Microsoft,15,Female,Divine,46,91,55,47,97,72,408,68.0,94.9,1.2,Biotechnologist,Chemistry,Computer Science,189,Average,Yes,Cricket,13,No,10,8,Robotics Club
+S040121,Zaid Rajagopal,Day Scholar,11 PCB,Amazon,15,Female,Divine,68,38,100,64,91,46,407,67.83,84.7,5.3,Surgeon,Biology,Mathematics,190,Average,Yes,Badminton,6,No,1,0,Volunteering
+S040198,Karan Mitra,Day Scholar,11 PCB,Amazon,16,Male,Divine,78,41,81,90,59,58,407,67.83,95.1,5.5,Microbiologist,Physics,Mathematics,191,Average,Yes,Cricket,3,No,8,5,Debate
+S040168,Hemal Som,Day Scholar,11 PCB,Microsoft,16,Male,Divine,85,64,57,42,77,82,407,67.83,70.2,6.5,Dentist,Physics,Mathematics,192,Average,Yes,Basketball,5,No,3,2,Entrepreneurship Club
+S040149,Pahal Shanker,Hosteler,11 PCB,TCS,15,Female,Divine,48,84,54,80,41,99,406,67.67,87.5,3.0,Dentist,Physics,Computer Science,193,Average,Yes,Football,14,No,9,5,Entrepreneurship Club
+S040134,Aayush Dewan,Day Scholar,11 PCB,Amazon,15,Male,Divine,57,63,42,68,89,87,406,67.67,72.6,4.9,Nutritionist,Biology,Computer Science,194,Average,No,,0,No,0,0,Drama
+S040103,Aadi Chandra,Hosteler,11 PCB,Salesforce,15,Female,Divine,97,50,93,69,60,37,406,67.67,93.7,6.3,Biotechnologist,Physics,Mathematics,195,Average,Yes,Cricket,4,No,1,0,Entrepreneurship Club
+S040038,Triya Balan,Hosteler,11 PCB,Amazon,16,Female,Divine,97,72,39,63,54,80,405,67.5,90.8,2.2,Microbiologist,Physics,Mathematics,196,Average,Yes,Tennis,15,No,7,7,Public Speaking
+S040233,Xalak Handa,Day Scholar,11 PCB,Microsoft,15,Female,Divine,44,51,82,74,97,57,405,67.5,98.5,2.3,Dentist,Chemistry,Mathematics,197,Average,Yes,Cricket,6,Yes,11,9,Quiz Club
+S040219,Sachi Andra,Hosteler,11 PCB,Microsoft,16,Male,Passion,46,93,35,89,74,68,405,67.5,87.6,2.1,Physiotherapist,Physics,Economics,198,Average,Yes,Football,2,No,2,1,Drama
+S040257,Abeer Bora,Hosteler,11 PCB,Amazon,15,Female,Divine,66,76,83,35,81,64,405,67.5,92.5,1.5,Microbiologist,Chemistry,Mathematics,199,Average,Yes,Football,6,Yes,6,7,Coding Club
+S040003,Ayush Badal,Hosteler,11 PCB,Amazon,16,Female,Divine,84,66,96,66,43,49,404,67.33,81.9,6.6,Psychologist,Biology,Mathematics,200,Average,Yes,Kabaddi,6,Yes,6,5,Coding Club
+S040111,Krishna Varghese,Hosteler,11 PCB,Microsoft,15,Female,Divine,41,95,36,54,86,92,404,67.33,98.0,2.1,Nurse,Biology,Economics,201,Average,Yes,Cricket,6,No,2,2,Public Speaking
+S040304,Elijah Khosla,Hosteler,11 PCB,TCS,16,Male,Paradise,64,95,42,39,89,75,404,67.33,71.7,7.2,Pharmacist,Chemistry,Computer Science,202,Average,Yes,Badminton,15,Yes,15,13,Coding Club
+S040313,Ronith Keer,Hosteler,11 PCB,Microsoft,15,Female,Divine,70,70,68,40,74,82,404,67.33,99.2,3.2,Microbiologist,Chemistry,Mathematics,203,Average,No,,0,No,0,0,Debate
+S040100,Om Bhandari,Day Scholar,11 PCB,Microsoft,16,Male,Divine,62,36,68,53,97,88,404,67.33,74.0,7.0,Pharmacist,Chemistry,Economics,204,Average,Yes,Football,14,No,4,5,Reading
+S040314,Fariq Goel,Hosteler,11 PCB,TCS,16,Male,Paradise,76,41,60,86,91,49,403,67.17,94.6,6.4,Physiotherapist,Biology,Economics,205,Average,Yes,Cricket,6,Yes,12,12,Chess
+S040232,Wakeeta Gaba,Day Scholar,11 PCB,Salesforce,15,Female,Divine,86,87,54,60,51,64,402,67.0,81.4,6.6,Nurse,Physics,Economics,206,Average,Yes,Badminton,11,No,7,6,Entrepreneurship Club
+S040142,Zashil Chopra,Hosteler,11 PCB,Amazon,16,Female,Divine,74,88,83,54,49,54,402,67.0,93.7,4.0,Nutritionist,Physics,Economics,207,Average,No,,0,No,0,0,Volunteering
+S040265,Hemang Arya,Hosteler,11 PCB,Salesforce,15,Female,Divine,74,89,38,92,36,72,401,66.83,92.7,7.3,Nutritionist,Biology,Mathematics,208,Average,Yes,Badminton,13,Yes,8,6,Photography
+S040209,Sai Golla,Hosteler,11 PCB,TCS,16,Male,Petals,63,96,44,68,89,41,401,66.83,95.4,5.4,Veterinarian,Chemistry,Mathematics,209,Average,Yes,Cricket,2,No,2,2,Public Speaking
+S040157,Jalsa Barad,Hosteler,11 PCB,Amazon,15,Male,Petals,52,71,72,99,43,63,400,66.67,79.0,1.7,Biotechnologist,Physics,Mathematics,210,Average,Yes,Cricket,15,No,4,4,Photography
+S040108,Saanvi Chopra,Hosteler,11 PCB,TCS,15,Male,Paradise,69,82,65,44,42,96,398,66.33,98.6,7.5,Microbiologist,Chemistry,Economics,211,Average,No,,0,No,0,0,Music
+S040351,Fariq Ghosh,Day Scholar,11 PCB,TCS,16,Female,Divine,58,76,70,53,56,84,397,66.17,92.5,2.4,Biotechnologist,Physics,Mathematics,212,Average,No,,0,No,0,0,Quiz Club
+S040229,Rachit Bakshi,Hosteler,11 PCB,TCS,16,Male,Paradise,63,93,81,66,36,58,397,66.17,82.2,6.7,Surgeon,Biology,Economics,213,Average,No,,0,No,0,0,Public Speaking
+S040279,Zaitra Batta,Hosteler,11 PCB,TCS,15,Female,Divine,39,95,73,41,51,98,397,66.17,90.3,7.1,Pharmacist,Chemistry,Economics,214,Average,Yes,Football,5,Yes,14,11,Coding Club
+S040164,Pahal Shroff,Day Scholar,11 PCB,Microsoft,15,Male,Divine,42,62,47,97,75,74,397,66.17,93.3,7.2,Pharmacist,Biology,Computer Science,215,Average,No,,0,No,0,0,Reading
+S040173,Yauvani Srivastava,Day Scholar,11 PCB,Amazon,16,Male,Divine,69,86,64,39,82,57,397,66.17,98.7,1.1,Surgeon,Biology,Mathematics,216,Average,Yes,Swimming,4,No,4,2,Drama
+S040143,Nandini Balasubramanian,Hosteler,11 PCB,TCS,15,Female,Divine,80,67,57,37,86,70,397,66.17,93.0,1.7,Veterinarian,Chemistry,Mathematics,217,Average,No,,0,No,0,0,Volunteering
+S040213,Ishwar Bhargava,Day Scholar,11 PCB,Microsoft,16,Male,Divine,87,89,39,78,39,64,396,66.0,78.0,4.0,Doctor,Biology,Mathematics,218,Average,Yes,Badminton,3,No,6,2,Coding Club
+S040207,Raagini Amble,Day Scholar,11 PCB,Salesforce,15,Female,Divine,63,83,52,88,40,70,396,66.0,75.9,4.0,Psychologist,Biology,Economics,219,Average,Yes,Football,5,Yes,14,14,Photography
+S040318,Ekansh Dua,Hosteler,11 PCB,TCS,15,Male,Passion,82,73,55,64,64,57,395,65.83,81.3,7.9,Microbiologist,Biology,Economics,220,Average,Yes,Football,4,No,1,0,Science Club
+S040028,Zashil Mutti,Day Scholar,11 PCB,TCS,15,Male,Divine,41,55,55,70,89,85,395,65.83,83.5,3.4,Pharmacist,Biology,Mathematics,221,Average,Yes,Athletics,15,No,10,11,Science Club
+S040127,Libni Desai,Day Scholar,11 PCB,Amazon,16,Male,Divine,96,68,84,66,40,41,395,65.83,90.5,2.7,Psychologist,Biology,Economics,222,Average,Yes,Athletics,15,No,7,6,Volunteering
+S040193,Vivaan Malhotra,Hosteler,11 PCB,TCS,16,Male,Petals,90,80,47,80,42,56,395,65.83,91.5,5.7,Pharmacist,Chemistry,Mathematics,223,Average,Yes,Cricket,14,Yes,13,13,Photography
+S040316,Zehaan Sachar,Hosteler,11 PCB,Salesforce,15,Female,Divine,64,89,89,73,37,43,395,65.83,98.1,5.3,Doctor,Biology,Computer Science,224,Average,Yes,Hockey,4,No,3,2,Dance
+S040065,Ekalinga Bali,Hosteler,11 PCB,TCS,16,Female,Divine,86,48,83,72,38,68,395,65.83,70.3,5.2,Surgeon,Chemistry,Mathematics,225,Average,No,,0,No,0,0,Painting
+S040217,Nihal Mandal,Hosteler,11 PCB,Amazon,16,Female,Divine,52,50,93,42,68,89,394,65.67,90.5,4.1,Nutritionist,Chemistry,Mathematics,226,Average,Yes,Basketball,6,No,4,2,Coding Club
+S040123,Madhavi Konda,Day Scholar,11 PCB,TCS,16,Female,Divine,40,99,55,50,63,87,394,65.67,83.0,2.0,Doctor,Biology,Mathematics,227,Average,Yes,Kabaddi,12,No,3,2,Quiz Club
+S040346,Luke Batra,Hosteler,11 PCB,Salesforce,16,Female,Divine,73,48,78,95,45,55,394,65.67,98.5,6.2,Pharmacist,Biology,Computer Science,228,Average,No,,0,No,0,0,Photography
+S040145,Bhavya Deep,Day Scholar,11 PCB,Amazon,15,Female,Divine,37,86,86,68,37,79,393,65.5,99.8,2.3,Surgeon,Chemistry,Computer Science,229,Average,No,,0,No,0,0,Public Speaking
+S040106,Gagan Babu,Hosteler,11 PCB,Microsoft,15,Female,Divine,58,51,85,52,79,68,393,65.5,97.7,1.5,Doctor,Biology,Mathematics,230,Average,Yes,Football,3,No,5,5,Chess
+S040004,Aradhana Bava,Day Scholar,11 PCB,Amazon,15,Male,Divine,75,64,74,50,76,54,393,65.5,76.6,3.7,Veterinarian,Physics,Mathematics,231,Average,No,,0,No,0,0,Debate
+S040184,Udant Vora,Hosteler,11 PCB,Salesforce,15,Male,Paradise,59,55,72,66,85,55,392,65.33,70.2,4.8,Surgeon,Physics,Economics,232,Average,Yes,Football,13,No,5,5,Debate
+S040069,Vidhi Subramanian,Day Scholar,11 PCB,Salesforce,16,Female,Divine,86,48,80,61,37,80,392,65.33,72.9,2.8,Microbiologist,Biology,Computer Science,233,Average,No,,0,No,0,0,Debate
+S040367,Vedika Loke,Day Scholar,11 PCB,Salesforce,15,Male,Divine,86,81,38,68,83,36,392,65.33,89.9,1.6,Pharmacist,Biology,Mathematics,234,Average,No,,0,No,0,0,Reading
+S040090,Girindra Walia,Hosteler,11 PCB,Amazon,15,Male,Petals,66,97,45,70,78,36,392,65.33,95.0,4.1,Physiotherapist,Biology,Computer Science,235,Average,Yes,Badminton,8,No,5,4,Volunteering
+S040242,Xavier Datta,Hosteler,11 PCB,TCS,16,Female,Divine,55,75,63,44,59,96,392,65.33,72.9,1.4,Nutritionist,Chemistry,Mathematics,236,Average,Yes,Kabaddi,11,No,3,1,Public Speaking
+S040205,Sanya Kadakia,Hosteler,11 PCB,Amazon,15,Female,Divine,46,98,59,57,73,58,391,65.17,78.6,2.5,Biotechnologist,Chemistry,Computer Science,237,Average,Yes,Swimming,3,No,7,7,Entrepreneurship Club
+S040393,Nitesh Sama,Hosteler,11 PCB,Amazon,15,Male,Petals,46,76,96,42,87,44,391,65.17,74.0,1.5,Pharmacist,Chemistry,Computer Science,238,Average,Yes,Kabaddi,15,No,1,1,Photography
+S040178,Yahvi Goswami,Hosteler,11 PCB,Microsoft,16,Female,Divine,98,58,46,55,50,84,391,65.17,89.6,3.1,Microbiologist,Chemistry,Mathematics,239,Average,No,,0,No,0,0,Entrepreneurship Club
+S040324,Qarin Saraf,Hosteler,11 PCB,Microsoft,15,Male,Paradise,75,85,65,70,57,39,391,65.17,74.0,5.9,Dentist,Chemistry,Economics,240,Average,Yes,Football,3,No,10,9,Public Speaking
+S040383,Gavin Walla,Day Scholar,11 PCB,Amazon,15,Female,Divine,36,55,70,56,82,92,391,65.17,99.9,2.5,Psychologist,Physics,Computer Science,241,Average,Yes,Badminton,5,No,8,3,Entrepreneurship Club
+S040144,Triya Tank,Hosteler,11 PCB,TCS,16,Male,Passion,66,35,89,64,74,63,391,65.17,85.0,7.0,Psychologist,Physics,Mathematics,242,Average,No,,0,No,0,0,Quiz Club
+S040159,Aditya Mannan,Day Scholar,11 PCB,Amazon,15,Female,Divine,66,64,77,64,74,46,391,65.17,79.8,6.7,Biotechnologist,Chemistry,Computer Science,243,Average,No,,0,No,0,0,Robotics Club
+S040331,Daksha Wable,Hosteler,11 PCB,Salesforce,16,Female,Divine,54,80,46,49,68,93,390,65.0,76.4,1.9,Pharmacist,Chemistry,Mathematics,244,Average,No,,0,No,0,0,Entrepreneurship Club
+S040115,Bhavini Kapadia,Day Scholar,11 PCB,Amazon,16,Female,Divine,49,98,49,56,43,95,390,65.0,77.7,2.7,Biotechnologist,Biology,Mathematics,245,Average,No,,0,No,0,0,Chess
+S040037,Samuel Mammen,Hosteler,11 PCB,TCS,16,Male,Paradise,41,50,93,100,40,65,389,64.83,94.2,6.2,Nurse,Physics,Mathematics,246,Average,Yes,Badminton,2,No,10,5,Music
+S040073,Vaishnavi Doshi,Day Scholar,11 PCB,Amazon,15,Female,Divine,52,75,89,57,58,58,389,64.83,80.0,2.5,Pharmacist,Chemistry,Mathematics,247,Average,Yes,Cricket,15,No,6,4,Public Speaking
+S040359,Faras Sharaf,Hosteler,11 PCB,Amazon,16,Male,Petals,83,42,45,76,96,47,389,64.83,73.5,7.1,Surgeon,Physics,Economics,248,Average,Yes,Cricket,11,No,10,9,Entrepreneurship Club
+S040118,Chanchal Kale,Hosteler,11 PCB,TCS,16,Male,Passion,87,45,94,73,38,52,389,64.83,94.8,3.5,Surgeon,Chemistry,Mathematics,249,Average,Yes,Football,4,No,5,4,Debate
+S040227,Varenya Sarkar,Hosteler,11 PCB,TCS,16,Male,Petals,50,93,42,57,88,59,389,64.83,78.1,3.3,Nutritionist,Chemistry,Economics,250,Average,Yes,Football,10,Yes,14,17,Quiz Club
+S040322,Zayyan Misra,Day Scholar,11 PCB,TCS,15,Male,Divine,92,71,38,51,51,86,389,64.83,99.1,6.4,Nurse,Biology,Computer Science,251,Average,Yes,Badminton,6,No,3,2,Music
+S040303,Azad Oak,Day Scholar,11 PCB,Microsoft,15,Female,Divine,37,88,54,65,52,93,389,64.83,89.6,1.8,Veterinarian,Physics,Economics,252,Average,No,,0,No,0,0,Volunteering
+S040250,Victor Choudhry,Hosteler,11 PCB,TCS,16,Male,Petals,61,83,85,55,40,65,389,64.83,90.5,3.0,Nurse,Physics,Computer Science,253,Average,Yes,Cricket,3,No,1,0,Coding Club
+S040225,Madhav Batra,Hosteler,11 PCB,Microsoft,16,Female,Divine,72,73,76,38,37,93,389,64.83,98.5,2.3,Nurse,Physics,Computer Science,254,Average,No,,0,No,0,0,Public Speaking
+S040019,Nachiket Nadkarni,Hosteler,11 PCB,Salesforce,15,Female,Divine,56,53,63,41,77,99,389,64.83,88.2,4.3,Biotechnologist,Physics,Economics,255,Average,Yes,Badminton,13,No,1,0,Debate
+S040234,Pratyush Singh,Day Scholar,11 PCB,Salesforce,16,Male,Divine,51,36,84,88,85,44,388,64.67,75.3,7.2,Doctor,Physics,Economics,256,Average,Yes,Football,3,No,4,1,Public Speaking
+S040218,Mohammed Sandal,Hosteler,11 PCB,Amazon,15,Male,Paradise,86,55,36,95,59,57,388,64.67,84.7,4.9,Nutritionist,Physics,Computer Science,257,Average,Yes,Athletics,6,No,7,4,Painting
+S040150,Shivani More,Hosteler,11 PCB,TCS,15,Female,Divine,50,44,61,91,78,63,387,64.5,91.2,1.2,Nutritionist,Physics,Economics,258,Average,Yes,Cricket,7,Yes,8,10,Reading
+S040212,Maya Raju,Hosteler,11 PCB,Amazon,16,Male,Passion,95,56,49,36,74,77,387,64.5,89.5,6.9,Nutritionist,Biology,Computer Science,259,Average,Yes,Cricket,13,Yes,9,10,Drama
+S040204,Charita Kamdar,Hosteler,11 PCB,TCS,16,Female,Divine,89,61,67,72,58,40,387,64.5,94.3,4.3,Surgeon,Biology,Economics,260,Average,No,,0,No,0,0,Coding Club
+S040266,Raksha Mallick,Day Scholar,11 PCB,TCS,15,Male,Divine,43,81,99,81,38,44,386,64.33,90.4,1.5,Doctor,Physics,Economics,261,Average,No,,0,No,0,0,Volunteering
+S040018,Tanish Mistry,Day Scholar,11 PCB,TCS,16,Female,Divine,44,74,50,85,66,66,385,64.17,87.3,3.0,Nurse,Chemistry,Computer Science,262,Average,No,,0,No,0,0,Debate
+S040372,Laban Mann,Day Scholar,11 PCB,Amazon,16,Male,Divine,59,75,91,53,56,51,385,64.17,78.7,5.5,Veterinarian,Chemistry,Economics,263,Average,Yes,Cricket,4,No,9,5,Debate
+S040334,Edhitha Iyengar,Hosteler,11 PCB,Salesforce,16,Male,Passion,44,93,47,40,86,75,385,64.17,73.9,6.3,Surgeon,Chemistry,Economics,264,Average,No,,0,No,0,0,Quiz Club
+S040329,Isaac Bajwa,Hosteler,11 PCB,TCS,16,Female,Divine,57,77,78,43,61,69,385,64.17,96.3,3.8,Pharmacist,Biology,Economics,265,Average,Yes,Hockey,9,No,3,3,Public Speaking
+S040364,Abhimanyu Varkey,Hosteler,11 PCB,TCS,16,Female,Divine,98,74,44,35,52,81,384,64.0,91.6,1.5,Pharmacist,Physics,Economics,266,Average,Yes,Tennis,2,Yes,11,6,Chess
+S040002,Meghana Dhar,Hosteler,11 PCB,Microsoft,16,Male,Petals,72,67,54,79,54,58,384,64.0,82.2,3.6,Pharmacist,Chemistry,Mathematics,267,Average,Yes,Badminton,14,Yes,13,10,Volunteering
+S040086,Ekbal Srinivasan,Hosteler,11 PCB,TCS,15,Male,Petals,78,55,47,45,87,72,384,64.0,89.5,3.7,Microbiologist,Physics,Computer Science,268,Average,No,,0,No,0,0,Reading
+S040141,Jasmit Banik,Day Scholar,11 PCB,Salesforce,16,Male,Divine,36,39,87,48,100,73,383,63.83,99.2,1.9,Biotechnologist,Chemistry,Mathematics,269,Average,No,,0,No,0,0,Photography
+S040254,Dalbir Panchal,Day Scholar,11 PCB,Amazon,15,Female,Divine,41,78,55,86,65,58,383,63.83,87.8,3.8,Dentist,Chemistry,Economics,270,Average,No,,0,No,0,0,Photography
+S040162,Jalsa Om,Hosteler,11 PCB,Salesforce,16,Female,Divine,64,84,37,54,72,72,383,63.83,93.2,4.0,Nurse,Chemistry,Mathematics,271,Average,Yes,Cricket,11,Yes,5,5,Dance
+S040155,Yochana Balasubramanian,Day Scholar,11 PCB,Amazon,16,Female,Divine,43,90,50,66,81,53,383,63.83,71.6,1.8,Dentist,Chemistry,Mathematics,272,Average,Yes,Badminton,3,No,7,5,Debate
+S040327,Yashvi Sem,Day Scholar,11 PCB,Microsoft,16,Female,Divine,74,52,83,41,49,84,383,63.83,92.5,3.7,Physiotherapist,Physics,Economics,273,Average,Yes,Basketball,4,No,9,7,Dance
+S040230,Kiaan Soman,Day Scholar,11 PCB,Microsoft,16,Female,Divine,35,51,72,66,83,75,382,63.67,71.3,3.5,Biotechnologist,Chemistry,Economics,274,Average,Yes,Kabaddi,2,No,5,2,Reading
+S040009,Pushti Tiwari,Day Scholar,11 PCB,Salesforce,16,Female,Divine,86,39,95,62,44,56,382,63.67,96.8,2.6,Pharmacist,Biology,Mathematics,275,Average,Yes,Cricket,15,Yes,9,7,Painting
+S040078,Gautami Gokhale,Day Scholar,11 PCB,Amazon,15,Female,Divine,82,45,92,43,42,78,382,63.67,80.9,5.2,Surgeon,Chemistry,Computer Science,276,Average,Yes,Cricket,5,No,9,4,Debate
+S040387,Abdul Rege,Hosteler,11 PCB,Microsoft,15,Male,Petals,55,99,40,73,80,35,382,63.67,71.4,1.7,Biotechnologist,Biology,Mathematics,277,Average,Yes,Football,5,Yes,6,7,Painting
+S040377,Kamala Gulati,Hosteler,11 PCB,TCS,16,Female,Divine,70,58,35,88,90,41,382,63.67,96.8,4.6,Microbiologist,Chemistry,Mathematics,278,Average,Yes,Cricket,5,No,5,5,Volunteering
+S040174,Widisha Pall,Hosteler,11 PCB,TCS,16,Male,Petals,87,36,47,69,58,85,382,63.67,94.9,1.4,Surgeon,Biology,Mathematics,279,Average,Yes,Hockey,8,No,10,7,Science Club
+S040288,Waida Ganesan,Hosteler,11 PCB,Amazon,15,Male,Petals,91,54,60,85,50,41,381,63.5,82.5,3.7,Doctor,Biology,Mathematics,280,Average,Yes,Cricket,15,Yes,9,7,Robotics Club
+S040175,Pratyush Deshmukh,Day Scholar,11 PCB,Amazon,16,Female,Divine,37,62,45,86,59,92,381,63.5,90.6,7.6,Nutritionist,Physics,Mathematics,281,Average,No,,0,No,0,0,Dance
+S040312,Indali Karpe,Hosteler,11 PCB,TCS,16,Male,Paradise,62,47,76,77,78,40,380,63.33,90.3,1.2,Microbiologist,Physics,Mathematics,282,Average,Yes,Kabaddi,6,No,6,5,Quiz Club
+S040101,Panini Vig,Day Scholar,11 PCB,Salesforce,15,Female,Divine,93,49,64,75,62,37,380,63.33,82.6,3.8,Doctor,Physics,Economics,283,Average,Yes,Basketball,10,No,9,9,Dance
+S040369,Bina Dyal,Day Scholar,11 PCB,Salesforce,15,Male,Divine,47,97,52,53,35,95,379,63.17,75.8,6.0,Surgeon,Chemistry,Economics,284,Average,No,,0,No,0,0,Chess
+S040272,Oni Kumer,Hosteler,11 PCB,Microsoft,15,Female,Divine,52,61,86,72,68,40,379,63.17,79.7,6.3,Pharmacist,Chemistry,Computer Science,285,Average,Yes,Cricket,15,No,1,0,Dance
+S040135,Kamya Kala,Hosteler,11 PCB,Amazon,15,Male,Paradise,57,60,51,89,43,79,379,63.17,70.9,7.3,Dentist,Physics,Computer Science,286,Average,Yes,Basketball,5,No,9,5,Photography
+S040031,Yagnesh Pai,Day Scholar,11 PCB,Amazon,15,Female,Divine,66,42,57,70,82,61,378,63.0,98.2,2.2,Nurse,Physics,Economics,287,Average,Yes,Athletics,5,No,10,4,Quiz Club
+S040124,Hema Upadhyay,Hosteler,11 PCB,Microsoft,15,Male,Petals,97,53,36,80,77,35,378,63.0,70.1,1.1,Biotechnologist,Physics,Computer Science,288,Average,Yes,Tennis,14,No,7,3,Public Speaking
+S040223,Bina Zachariah,Hosteler,11 PCB,Microsoft,16,Male,Passion,67,53,100,46,77,35,378,63.0,93.2,1.8,Biotechnologist,Physics,Mathematics,289,Average,Yes,Badminton,9,No,1,0,Robotics Club
+S040384,Fiyaz Bhavsar,Day Scholar,11 PCB,Microsoft,15,Female,Divine,58,63,45,76,52,84,378,63.0,78.4,7.4,Pharmacist,Physics,Computer Science,290,Average,Yes,Cricket,10,No,10,10,Dance
+S040071,Pranav Nadig,Day Scholar,11 PCB,TCS,16,Male,Divine,82,50,41,64,69,72,378,63.0,73.9,5.2,Nurse,Chemistry,Computer Science,291,Average,Yes,Basketball,4,Yes,6,6,Music
+S040335,Nidra Sha,Hosteler,11 PCB,Microsoft,15,Male,Passion,60,66,44,82,68,57,377,62.83,82.1,1.4,Doctor,Biology,Mathematics,292,Average,Yes,Swimming,14,No,8,9,Quiz Club
+S040183,Raghav Saran,Hosteler,11 PCB,Microsoft,16,Female,Divine,49,63,78,71,77,39,377,62.83,87.4,6.7,Dentist,Chemistry,Economics,293,Average,Yes,Badminton,3,Yes,5,3,Photography
+S040075,Jyoti Varkey,Day Scholar,11 PCB,TCS,15,Male,Divine,35,97,45,52,71,77,377,62.83,73.0,5.9,Nurse,Biology,Mathematics,294,Average,Yes,Badminton,15,Yes,10,4,Volunteering
+S040283,Rachit Rana,Day Scholar,11 PCB,Amazon,15,Female,Divine,62,51,51,63,67,83,377,62.83,73.0,6.0,Doctor,Physics,Economics,295,Average,Yes,Kabaddi,11,Yes,9,10,Science Club
+S040238,Nitara Ramanathan,Hosteler,11 PCB,Salesforce,15,Male,Passion,50,37,61,98,76,54,376,62.67,71.0,5.3,Nurse,Physics,Computer Science,296,Average,No,,0,No,0,0,Painting
+S040262,Darpan Sura,Day Scholar,11 PCB,TCS,16,Female,Divine,72,76,67,69,52,40,376,62.67,92.4,7.7,Physiotherapist,Physics,Computer Science,297,Average,Yes,Volleyball,9,Yes,14,9,Volunteering
+S040055,Aryan Kadakia,Day Scholar,11 PCB,Salesforce,16,Male,Divine,55,88,56,42,42,92,375,62.5,74.9,4.2,Biotechnologist,Biology,Mathematics,298,Average,Yes,Cricket,5,No,10,7,Public Speaking
+S040249,Aditya Guha,Hosteler,11 PCB,TCS,15,Female,Divine,66,36,74,75,74,50,375,62.5,99.8,2.7,Physiotherapist,Biology,Mathematics,299,Average,Yes,Kabaddi,8,Yes,12,6,Reading
+S040187,Jack Dugar,Day Scholar,11 PCB,Microsoft,16,Male,Divine,46,61,92,78,47,51,375,62.5,83.4,5.9,Nurse,Chemistry,Computer Science,300,Average,Yes,Cricket,5,No,8,6,Public Speaking
+S040243,Girik Wadhwa,Hosteler,11 PCB,Amazon,15,Male,Passion,79,42,63,88,46,57,375,62.5,90.9,6.8,Microbiologist,Physics,Economics,301,Average,Yes,Cricket,3,Yes,8,5,Painting
+S040066,Keya Garde,Hosteler,11 PCB,Amazon,16,Female,Divine,50,39,55,86,52,93,375,62.5,82.0,4.9,Nutritionist,Biology,Economics,302,Average,Yes,Athletics,6,No,7,8,Science Club
+S040240,Anay Dar,Day Scholar,11 PCB,Salesforce,15,Female,Divine,48,68,86,51,39,82,374,62.33,96.4,1.6,Biotechnologist,Biology,Economics,303,Average,Yes,Badminton,8,No,2,1,Quiz Club
+S040148,Pranav Hegde,Hosteler,11 PCB,Amazon,15,Male,Paradise,70,39,36,61,73,95,374,62.33,73.2,5.8,Dentist,Physics,Computer Science,304,Average,Yes,Football,9,No,1,1,Drama
+S040398,Janaki Banerjee,Hosteler,11 PCB,Salesforce,16,Male,Paradise,47,70,38,84,80,55,374,62.33,78.8,4.0,Pharmacist,Chemistry,Mathematics,305,Average,No,,0,No,0,0,Painting
+S040116,Lucky Kala,Day Scholar,11 PCB,Amazon,15,Female,Divine,51,58,81,53,46,85,374,62.33,80.3,2.5,Physiotherapist,Chemistry,Mathematics,306,Average,No,,0,No,0,0,Volunteering
+S040163,Frederick Lal,Day Scholar,11 PCB,Amazon,16,Male,Divine,43,91,48,38,93,61,374,62.33,73.7,3.7,Pharmacist,Physics,Computer Science,307,Average,Yes,Athletics,8,Yes,11,6,Debate
+S040339,Meghana Krishnan,Hosteler,11 PCB,Microsoft,15,Male,Paradise,61,67,74,61,63,47,373,62.17,89.3,3.5,Doctor,Chemistry,Mathematics,308,Average,Yes,Badminton,2,No,1,0,Painting
+S040199,Quincy Bhandari,Hosteler,11 PCB,Microsoft,15,Male,Petals,45,63,66,82,60,57,373,62.17,78.9,4.2,Psychologist,Physics,Mathematics,309,Average,Yes,Cricket,7,No,3,2,Photography
+S040247,Qadim Aurora,Day Scholar,11 PCB,TCS,15,Male,Divine,80,84,59,67,39,44,373,62.17,80.3,4.8,Microbiologist,Physics,Economics,310,Average,Yes,Cricket,14,No,8,8,Music
+S040147,Ekapad Kunda,Hosteler,11 PCB,Microsoft,15,Female,Divine,47,99,84,41,42,60,373,62.17,100.0,2.4,Doctor,Chemistry,Economics,311,Average,Yes,Badminton,15,No,4,3,Dance
+S040326,Finn Oommen,Day Scholar,11 PCB,Microsoft,15,Female,Divine,86,50,70,72,38,56,372,62.0,93.3,3.5,Veterinarian,Chemistry,Computer Science,312,Average,No,,0,No,0,0,Painting
+S040224,Advay Dhingra,Day Scholar,11 PCB,Amazon,15,Female,Divine,40,92,41,61,38,100,372,62.0,83.6,3.8,Doctor,Biology,Economics,313,Average,Yes,Volleyball,10,No,5,5,Chess
+S040165,Nisha Chhabra,Day Scholar,11 PCB,TCS,16,Female,Divine,58,84,41,55,57,77,372,62.0,90.6,3.8,Doctor,Chemistry,Mathematics,314,Average,Yes,Football,3,No,7,7,Entrepreneurship Club
+S040185,Meghana Sura,Hosteler,11 PCB,TCS,16,Male,Paradise,69,69,46,55,42,91,372,62.0,79.4,7.1,Psychologist,Physics,Mathematics,315,Average,Yes,Volleyball,3,No,10,8,Photography
+S040008,Hardik Dhawan,Hosteler,11 PCB,Amazon,15,Male,Petals,98,47,52,46,54,74,371,61.83,87.1,6.3,Biotechnologist,Physics,Computer Science,316,Average,No,,0,No,0,0,Debate
+S040295,Warinder Wadhwa,Day Scholar,11 PCB,Microsoft,16,Female,Divine,52,69,78,54,69,49,371,61.83,81.7,2.9,Microbiologist,Chemistry,Computer Science,317,Average,Yes,Cricket,3,No,2,1,Drama
+S040220,Ishwar Ravi,Hosteler,11 PCB,TCS,16,Male,Petals,65,76,73,37,49,71,371,61.83,83.5,8.0,Microbiologist,Biology,Mathematics,318,Average,Yes,Cricket,15,Yes,9,10,Volunteering
+S040154,Hitesh Pandey,Day Scholar,11 PCB,Salesforce,16,Male,Divine,58,55,50,85,39,84,371,61.83,95.4,2.8,Dentist,Biology,Computer Science,319,Average,Yes,Basketball,3,No,7,4,Entrepreneurship Club
+S040006,Finn Lal,Day Scholar,11 PCB,TCS,16,Male,Divine,46,89,69,44,44,78,370,61.67,78.1,5.0,Doctor,Physics,Economics,320,Average,Yes,Cricket,11,No,7,7,Volunteering
+S040156,Rayaan Oommen,Hosteler,11 PCB,Amazon,16,Female,Divine,35,96,36,62,60,81,370,61.67,96.8,2.1,Microbiologist,Physics,Economics,321,Average,Yes,Badminton,12,Yes,6,3,Reading
+S040068,Bimala Kulkarni,Day Scholar,11 PCB,Salesforce,16,Female,Divine,48,79,88,65,36,54,370,61.67,97.5,1.3,Surgeon,Biology,Economics,322,Average,Yes,Cricket,11,No,9,7,Painting
+S040110,Chandani Hari,Hosteler,11 PCB,Amazon,15,Female,Divine,68,62,57,88,47,48,370,61.67,75.8,3.7,Dentist,Biology,Economics,323,Average,No,,0,No,0,0,Coding Club
+S040201,Dhriti Halder,Hosteler,11 PCB,TCS,15,Female,Divine,85,71,62,80,36,36,370,61.67,83.9,2.4,Surgeon,Biology,Computer Science,324,Average,Yes,Badminton,15,No,6,2,Coding Club
+S040336,Tanmayi Seshadri,Day Scholar,11 PCB,Amazon,15,Female,Divine,77,37,76,52,56,71,369,61.5,78.7,2.1,Psychologist,Chemistry,Computer Science,325,Average,No,,0,No,0,0,Music
+S040202,Jhalak Wali,Hosteler,11 PCB,Amazon,16,Female,Divine,63,49,61,60,87,49,369,61.5,78.5,1.7,Surgeon,Chemistry,Mathematics,326,Average,Yes,Cricket,14,No,5,5,Coding Club
+S040321,Zehaan Jani,Day Scholar,11 PCB,Salesforce,16,Male,Divine,44,71,47,64,73,70,369,61.5,91.0,1.4,Nutritionist,Chemistry,Economics,327,Average,Yes,Badminton,3,No,7,4,Quiz Club
+S040190,Gaurangi Sastry,Day Scholar,11 PCB,Microsoft,15,Male,Divine,80,36,75,47,69,61,368,61.33,87.5,1.7,Pharmacist,Physics,Mathematics,328,Average,No,,0,No,0,0,Reading
+S040221,Ansh Sathe,Day Scholar,11 PCB,Microsoft,16,Female,Divine,59,35,82,68,55,69,368,61.33,89.8,2.7,Nurse,Physics,Mathematics,329,Average,No,,0,No,0,0,Drama
+S040333,Logan Khanna,Day Scholar,11 PCB,Amazon,15,Male,Divine,66,45,74,61,45,76,367,61.17,77.5,4.0,Surgeon,Chemistry,Mathematics,330,Average,No,,0,No,0,0,Debate
+S040292,Indrajit Subramaniam,Day Scholar,11 PCB,Salesforce,15,Male,Divine,72,35,53,60,60,87,367,61.17,85.4,2.6,Psychologist,Chemistry,Mathematics,331,Average,No,,0,No,0,0,Quiz Club
+S040263,Finn Ganesh,Hosteler,11 PCB,TCS,16,Female,Divine,100,46,50,37,50,84,367,61.17,85.9,3.0,Pharmacist,Chemistry,Computer Science,332,Average,No,,0,No,0,0,Debate
+S040093,Chakrika Mall,Day Scholar,11 PCB,TCS,15,Male,Divine,79,50,66,89,40,42,366,61.0,95.7,6.0,Psychologist,Chemistry,Computer Science,333,Average,Yes,Swimming,12,Yes,13,12,Dance
+S040278,Zayan Mand,Day Scholar,11 PCB,Amazon,16,Male,Divine,35,61,81,41,65,83,366,61.0,88.4,2.2,Psychologist,Chemistry,Mathematics,334,Average,Yes,Volleyball,15,No,1,0,Painting
+S040137,Daniel Pal,Hosteler,11 PCB,Microsoft,15,Female,Divine,73,84,38,48,46,77,366,61.0,81.0,6.0,Doctor,Physics,Computer Science,335,Average,Yes,Football,6,No,2,1,Quiz Club
+S040177,Pavani Anne,Hosteler,11 PCB,TCS,16,Male,Petals,39,85,76,68,42,55,365,60.83,73.3,5.2,Psychologist,Biology,Mathematics,336,Average,Yes,Football,11,No,7,8,Music
+S040125,Rudra Divan,Day Scholar,11 PCB,Amazon,15,Male,Divine,86,93,65,49,35,35,363,60.5,77.6,3.8,Surgeon,Biology,Economics,337,Average,Yes,Hockey,12,No,9,9,Public Speaking
+S040122,Faris Hayer,Day Scholar,11 PCB,Microsoft,16,Female,Divine,40,41,86,60,85,51,363,60.5,99.4,3.0,Nurse,Physics,Computer Science,338,Average,Yes,Cricket,13,No,1,1,Science Club
+S040113,Chaitanya Shetty,Hosteler,11 PCB,Microsoft,16,Male,Passion,66,52,77,36,38,94,363,60.5,72.7,6.3,Nutritionist,Physics,Computer Science,339,Average,No,,0,No,0,0,Quiz Club
+S040390,Jeet Buch,Hosteler,11 PCB,Microsoft,15,Female,Divine,64,35,71,79,62,52,363,60.5,98.9,5.6,Psychologist,Chemistry,Economics,340,Average,Yes,Volleyball,14,Yes,7,8,Drama
+S040293,Bakhshi Sani,Day Scholar,11 PCB,TCS,15,Male,Divine,37,66,87,59,40,73,362,60.33,97.5,4.6,Psychologist,Biology,Mathematics,341,Average,Yes,Badminton,2,No,3,3,Drama
+S040226,Ekapad Sant,Hosteler,11 PCB,Salesforce,16,Male,Passion,35,89,49,84,49,56,362,60.33,81.8,1.1,Microbiologist,Physics,Mathematics,342,Average,Yes,Badminton,8,No,4,3,Coding Club
+S040129,Tanveer Salvi,Day Scholar,11 PCB,TCS,16,Male,Divine,36,43,81,61,76,65,362,60.33,82.3,4.1,Veterinarian,Physics,Economics,343,Average,Yes,Football,9,No,7,6,Photography
+S040054,Dhriti Venkatesh,Day Scholar,11 PCB,Amazon,16,Male,Divine,59,85,59,47,35,76,361,60.17,94.3,2.9,Physiotherapist,Biology,Economics,344,Average,Yes,Badminton,4,Yes,10,8,Dance
+S040308,Nitesh Sabharwal,Hosteler,11 PCB,Amazon,16,Female,Divine,54,65,86,48,58,49,360,60.0,92.1,4.8,Pharmacist,Biology,Mathematics,345,Average,No,,0,No,0,0,Dance
+S040358,Yashvi Johal,Day Scholar,11 PCB,Amazon,16,Female,Divine,68,54,42,61,75,60,360,60.0,71.8,4.3,Nutritionist,Chemistry,Economics,346,Average,Yes,Football,7,Yes,15,10,Coding Club
+S040081,Advay Ravi,Hosteler,11 PCB,Amazon,16,Male,Passion,45,43,60,65,58,89,360,60.0,85.2,7.2,Veterinarian,Biology,Computer Science,347,Average,Yes,Athletics,14,No,7,5,Music
+S040049,Abhiram Shanker,Day Scholar,11 PCB,Microsoft,16,Male,Divine,74,74,52,35,40,84,359,59.83,83.3,4.7,Pharmacist,Chemistry,Economics,348,Average,No,,0,No,0,0,Entrepreneurship Club
+S040076,Harita Deo,Day Scholar,11 PCB,Microsoft,16,Male,Divine,51,58,46,43,95,65,358,59.67,84.8,4.0,Physiotherapist,Physics,Economics,349,Average,No,,0,No,0,0,Coding Club
+S040016,Zayan Pandey,Day Scholar,11 PCB,Microsoft,16,Female,Divine,36,57,82,79,49,55,358,59.67,82.4,2.4,Nurse,Biology,Mathematics,350,Average,Yes,Badminton,12,No,10,11,Science Club
+S040355,Gayathri Hayer,Day Scholar,11 PCB,Amazon,15,Female,Divine,61,70,47,71,40,68,357,59.5,98.7,7.1,Dentist,Physics,Mathematics,351,Average,Yes,Badminton,13,No,9,6,Public Speaking
+S040182,Timothy Golla,Hosteler,11 PCB,Microsoft,15,Male,Paradise,79,59,66,61,57,35,357,59.5,80.7,1.3,Nutritionist,Physics,Computer Science,352,Average,Yes,Cricket,14,Yes,9,8,Volunteering
+S040133,Dayamai Kar,Hosteler,11 PCB,Microsoft,16,Male,Petals,52,77,48,49,88,43,357,59.5,80.4,1.1,Nutritionist,Biology,Mathematics,353,Average,Yes,Cricket,3,No,7,2,Dance
+S040057,Vanya Dass,Hosteler,11 PCB,Microsoft,15,Female,Divine,66,90,74,48,35,44,357,59.5,89.9,6.5,Physiotherapist,Biology,Economics,354,Average,Yes,Football,9,Yes,15,9,Quiz Club
+S040033,Leela Parmer,Day Scholar,11 PCB,Amazon,16,Male,Divine,55,55,51,72,41,82,356,59.33,94.4,6.1,Biotechnologist,Physics,Economics,355,Average,Yes,Badminton,14,Yes,8,3,Drama
+S040360,Yutika Karan,Hosteler,11 PCB,TCS,15,Female,Divine,52,73,94,35,55,46,355,59.17,73.6,6.9,Veterinarian,Physics,Computer Science,356,Average,Yes,Basketball,4,No,10,10,Chess
+S040354,Dominic Sarin,Hosteler,11 PCB,Microsoft,15,Female,Divine,49,86,66,69,39,45,354,59.0,76.9,7.8,Surgeon,Chemistry,Economics,357,Average,Yes,Tennis,2,No,2,2,Chess
+S040350,Janya Pandit,Day Scholar,11 PCB,Microsoft,15,Female,Divine,37,52,84,70,61,50,354,59.0,99.4,3.8,Doctor,Physics,Computer Science,358,Average,Yes,Badminton,4,Yes,13,14,Drama
+S040085,Warinder Ratti,Day Scholar,11 PCB,Amazon,15,Female,Divine,90,68,78,41,38,39,354,59.0,86.0,4.9,Biotechnologist,Biology,Economics,359,Average,No,,0,No,0,0,Entrepreneurship Club
+S040236,Devansh Comar,Day Scholar,11 PCB,Microsoft,15,Male,Divine,57,41,67,66,47,76,354,59.0,99.3,5.2,Psychologist,Biology,Computer Science,360,Average,Yes,Swimming,4,Yes,5,4,Volunteering
+S040189,Yuvraj Tiwari,Hosteler,11 PCB,TCS,15,Female,Divine,92,64,38,35,55,69,353,58.83,78.1,2.3,Psychologist,Biology,Computer Science,361,Average,No,,0,No,0,0,Science Club
+S040098,Udant Halder,Day Scholar,11 PCB,Salesforce,16,Female,Divine,35,78,66,72,57,45,353,58.83,77.7,6.7,Surgeon,Biology,Mathematics,362,Average,Yes,Football,15,No,6,3,Reading
+S040067,Hiral Chandra,Day Scholar,11 PCB,Amazon,16,Male,Divine,67,80,48,63,35,59,352,58.67,84.5,5.7,Surgeon,Physics,Mathematics,363,Average,No,,0,No,0,0,Public Speaking
+S040284,Bhavika Gokhale,Hosteler,11 PCB,Amazon,15,Male,Passion,71,78,64,67,37,35,352,58.67,90.6,4.1,Microbiologist,Biology,Mathematics,364,Average,No,,0,No,0,0,Chess
+S040371,Ekiya Lanka,Hosteler,11 PCB,Amazon,15,Female,Divine,35,69,46,39,69,92,350,58.33,81.2,6.5,Pharmacist,Biology,Computer Science,365,Average,Yes,Badminton,3,Yes,15,18,Public Speaking
+S040025,Avni Kale,Hosteler,11 PCB,Microsoft,15,Male,Passion,58,59,87,55,52,39,350,58.33,79.3,3.0,Microbiologist,Chemistry,Mathematics,366,Average,Yes,Cricket,12,No,3,3,Photography
+S040095,Oliver Banik,Day Scholar,11 PCB,TCS,16,Female,Divine,66,61,80,65,42,35,349,58.17,99.3,7.8,Physiotherapist,Biology,Computer Science,367,Average,Yes,Hockey,5,No,6,5,Public Speaking
+S040044,Siya Bassi,Day Scholar,11 PCB,Microsoft,15,Male,Divine,79,45,53,52,38,82,349,58.17,87.8,1.8,Dentist,Chemistry,Mathematics,368,Average,Yes,Cricket,14,Yes,11,8,Painting
+S040059,Timothy Nair,Day Scholar,11 PCB,Amazon,16,Female,Divine,47,40,89,82,56,35,349,58.17,77.4,1.5,Veterinarian,Chemistry,Economics,369,Average,Yes,Football,6,No,4,2,Music
+S040014,Sarthak Tandon,Day Scholar,11 PCB,Salesforce,15,Female,Divine,89,39,67,77,39,37,348,58.0,80.6,5.9,Surgeon,Biology,Mathematics,370,Average,No,,0,No,0,0,Coding Club
+S040246,Kala Bahl,Day Scholar,11 PCB,Salesforce,15,Female,Divine,44,44,95,39,80,46,348,58.0,98.8,2.2,Pharmacist,Physics,Computer Science,371,Average,No,,0,No,0,0,Painting
+S040020,Kamya Ghose,Hosteler,11 PCB,Amazon,15,Female,Divine,66,55,48,36,92,51,348,58.0,73.5,4.4,Veterinarian,Chemistry,Computer Science,372,Average,Yes,Badminton,11,No,8,5,Robotics Club
+S040228,Urvashi Dube,Day Scholar,11 PCB,TCS,15,Male,Divine,77,97,35,45,57,36,347,57.83,78.9,5.6,Physiotherapist,Biology,Computer Science,373,Average,No,,0,No,0,0,Public Speaking
+S040274,Aarnav Narain,Day Scholar,11 PCB,TCS,16,Male,Divine,35,43,89,59,64,57,347,57.83,74.1,7.7,Dentist,Physics,Mathematics,374,Average,Yes,Hockey,3,No,10,8,Dance
+S040239,Charita Mutti,Day Scholar,11 PCB,Amazon,15,Female,Divine,55,52,72,36,77,54,346,57.67,77.0,6.8,Biotechnologist,Physics,Computer Science,375,Average,No,,0,No,0,0,Reading
+S040370,Jalsa Anne,Hosteler,11 PCB,Amazon,16,Male,Paradise,53,53,58,57,54,71,346,57.67,84.1,7.1,Microbiologist,Biology,Computer Science,376,Average,Yes,Cricket,11,No,9,11,Public Speaking
+S040259,Faraj Naik,Hosteler,11 PCB,Salesforce,16,Female,Divine,90,36,82,40,51,46,345,57.5,95.1,5.4,Physiotherapist,Biology,Mathematics,377,Average,No,,0,No,0,0,Photography
+S040146,Edhitha Raj,Day Scholar,11 PCB,Amazon,16,Male,Divine,45,58,66,38,50,86,343,57.17,88.3,7.7,Psychologist,Biology,Mathematics,378,Average,Yes,Basketball,11,No,1,1,Coding Club
+S040276,Qarin Tank,Hosteler,11 PCB,Microsoft,15,Male,Petals,63,50,38,35,85,71,342,57.0,90.2,2.3,Nutritionist,Physics,Economics,379,Average,No,,0,No,0,0,Coding Club
+S040032,Jonathan Mitra,Day Scholar,11 PCB,Amazon,15,Female,Divine,56,65,38,62,69,51,341,56.83,86.2,4.2,Microbiologist,Physics,Mathematics,380,Average,No,,0,No,0,0,Photography
+S040128,Hamsini Pandit,Day Scholar,11 PCB,TCS,16,Male,Divine,45,47,45,75,46,82,340,56.67,85.0,6.3,Doctor,Biology,Mathematics,381,Average,Yes,Football,6,No,6,7,Debate
+S040297,Aryan Kaur,Day Scholar,11 PCB,TCS,15,Male,Divine,40,52,90,35,56,67,340,56.67,89.5,6.7,Nutritionist,Biology,Mathematics,382,Average,Yes,Cricket,8,No,7,7,Robotics Club
+S040181,Vritti Gara,Hosteler,11 PCB,TCS,15,Male,Petals,56,40,56,58,44,82,336,56.0,88.6,3.0,Microbiologist,Physics,Mathematics,383,Average,No,,0,No,0,0,Drama
+S040197,Aarav Gara,Day Scholar,11 PCB,Salesforce,15,Male,Divine,46,71,57,36,36,88,334,55.67,94.9,4.1,Physiotherapist,Chemistry,Computer Science,384,Average,Yes,Cricket,15,No,1,0,Photography
+S040356,Megha Talwar,Hosteler,11 PCB,Amazon,15,Male,Passion,46,48,86,36,71,45,332,55.33,95.5,5.6,Nutritionist,Biology,Mathematics,385,Average,No,,0,No,0,0,Drama
+S040092,Jackson Sha,Hosteler,11 PCB,Amazon,15,Male,Petals,85,37,50,50,65,45,332,55.33,98.8,4.7,Surgeon,Chemistry,Computer Science,386,Average,No,,0,No,0,0,Coding Club
+S040158,Yamini Gupta,Day Scholar,11 PCB,Salesforce,16,Male,Divine,64,40,53,47,82,44,330,55.0,91.6,6.3,Dentist,Chemistry,Economics,387,Average,Yes,Football,12,Yes,8,6,Quiz Club
+S040051,Adya Mani,Hosteler,11 PCB,Amazon,15,Female,Divine,57,44,59,58,37,74,329,54.83,78.5,5.3,Physiotherapist,Biology,Mathematics,388,Average,Yes,Badminton,8,No,8,5,Entrepreneurship Club
+S040338,Samarth Chad,Hosteler,11 PCB,Microsoft,15,Male,Passion,39,39,75,64,51,58,326,54.33,81.2,2.0,Surgeon,Biology,Economics,389,Average,No,,0,No,0,0,Dance
+S040357,Yahvi Chakrabarti,Day Scholar,11 PCB,TCS,15,Female,Divine,50,86,39,44,40,66,325,54.17,73.7,6.9,Surgeon,Chemistry,Economics,390,Average,Yes,Badminton,14,No,5,2,Dance
+S040337,Shivansh Thakur,Hosteler,11 PCB,Salesforce,16,Male,Passion,44,67,75,53,37,47,323,53.83,96.8,2.4,Microbiologist,Biology,Mathematics,391,Average,Yes,Football,12,Yes,5,6,Volunteering
+S040022,Amol Joshi,Day Scholar,11 PCB,Microsoft,16,Female,Divine,83,43,53,63,41,38,321,53.5,73.2,6.5,Dentist,Physics,Computer Science,392,Average,Yes,Basketball,8,No,9,7,Robotics Club
+S040253,Chanakya Dar,Hosteler,11 PCB,Microsoft,15,Male,Paradise,50,46,71,63,45,46,321,53.5,94.3,3.7,Physiotherapist,Chemistry,Economics,393,Average,Yes,Football,15,No,8,7,Robotics Club
+S040029,Omya Chaudhuri,Hosteler,11 PCB,Salesforce,15,Male,Petals,64,36,52,37,52,77,318,53.0,76.5,7.1,Physiotherapist,Biology,Mathematics,394,Average,Yes,Cricket,7,No,5,5,Painting
+S040119,Shivansh Sarkar,Hosteler,11 PCB,Microsoft,16,Female,Divine,51,48,48,49,75,46,317,52.83,86.2,3.8,Psychologist,Physics,Economics,395,Average,Yes,Football,5,No,3,2,Photography
+S040294,Xalak Mallick,Day Scholar,11 PCB,TCS,15,Male,Divine,41,63,38,70,43,62,317,52.83,87.5,4.0,Pharmacist,Physics,Computer Science,396,Average,Yes,Hockey,7,No,7,3,Debate
+S040047,Qasim Bhasin,Hosteler,11 PCB,Amazon,15,Male,Passion,63,55,43,45,57,54,317,52.83,93.5,3.6,Veterinarian,Physics,Economics,397,Average,No,,0,No,0,0,Coding Club
+S040260,Aarna Bora,Hosteler,11 PCB,TCS,15,Male,Petals,50,56,42,65,38,53,304,50.67,70.7,2.8,Pharmacist,Physics,Mathematics,398,Average,Yes,Hockey,7,Yes,8,5,Quiz Club
+S040271,Xiti Kalla,Day Scholar,11 PCB,TCS,16,Male,Divine,66,35,47,58,55,38,299,49.83,84.7,2.5,Nutritionist,Physics,Economics,399,Needs Improvement,Yes,Badminton,7,No,9,8,Debate
+S040373,Ayaan Bhasin,Day Scholar,11 PCB,TCS,15,Male,Divine,65,38,51,37,44,38,273,45.5,88.7,7.4,Nutritionist,Biology,Computer Science,400,Needs Improvement,Yes,Badminton,3,No,7,6,Reading

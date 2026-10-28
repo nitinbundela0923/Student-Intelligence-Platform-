@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Business_Marks,Accountancy_Marks,Economics_Marks,English_Marks,Physical_Education_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S080223,Netra Ghose,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,72,89,91,81,85,95,513,85.5,93.2,3.3,Tax Consultant,Economics,Physics,1,Excellent,Yes,Cricket,11,Yes,11,13,Photography
+S080001,Naksh Mittal,Hosteler,12 Commerce,PixelForge,16,Female,Divine,74,58,97,99,82,98,508,84.67,77.4,5.6,Company Secretary,Economics,Chemistry,2,Good,Yes,Kabaddi,2,No,6,5,Painting
+S080293,Abeer Das,Day Scholar,12 Commerce,TechShield,17,Male,Divine,94,86,95,92,58,79,504,84.0,89.4,3.1,Chartered Accountant,Business Studies,Chemistry,3,Good,No,,0,No,0,0,Public Speaking
+S080162,Ayushman Atwal,Hosteler,12 Commerce,PixelForge,17,Female,Divine,74,96,84,62,99,88,503,83.83,89.0,1.6,Stock Market Analyst,Entrepreneurship,Chemistry,4,Good,Yes,Football,12,No,3,1,Music
+S080082,Simon Vasa,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,85,92,96,73,85,66,497,82.83,93.3,1.5,Business Analyst,Business Studies,Chemistry,5,Good,Yes,Football,7,Yes,5,6,Music
+S080081,William Kohli,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,98,96,93,35,95,80,497,82.83,75.7,5.6,Financial Analyst,Business Studies,Biology,6,Good,Yes,Swimming,7,No,9,5,Debate
+S080248,Alka Magar,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,67,68,98,85,80,99,497,82.83,72.0,4.9,Financial Analyst,Entrepreneurship,Biology,7,Good,Yes,Badminton,10,No,2,2,Painting
+S080088,Avni Arora,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,100,69,53,94,89,88,493,82.17,84.4,6.7,Investment Banker,Business Studies,Physics,8,Good,No,,0,No,0,0,Music
+S080251,Sara Mann,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,89,100,84,40,92,86,491,81.83,98.1,2.2,Stock Market Analyst,Economics,Chemistry,9,Good,Yes,Badminton,3,No,1,0,Quiz Club
+S080021,Triya Gulati,Hosteler,12 Commerce,TechShield,16,Male,Petals,100,71,60,90,79,89,489,81.5,70.3,7.2,Company Secretary,Entrepreneurship,Physics,10,Good,Yes,Badminton,12,No,10,5,Coding Club
+S080292,Dipta Vig,Hosteler,12 Commerce,DevFlow,16,Female,Divine,94,96,99,38,82,77,486,81.0,96.7,7.8,Tax Consultant,Business Studies,Chemistry,11,Good,No,,0,No,0,0,Volunteering
+S080221,Darika Parmar,Hosteler,12 Commerce,PixelForge,16,Female,Divine,50,96,90,91,77,82,486,81.0,78.4,6.8,Stock Market Analyst,Business Studies,Biology,12,Good,Yes,Cricket,10,Yes,5,5,Debate
+S080299,Osha Sheth,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,78,100,71,83,61,92,485,80.83,83.9,4.9,Marketing Manager,Accountancy,Biology,13,Good,No,,0,No,0,0,Entrepreneurship Club
+S080294,Hamsini Dewan,Day Scholar,12 Commerce,TechShield,16,Male,Divine,90,72,83,92,56,92,485,80.83,76.5,3.9,Company Secretary,Accountancy,Chemistry,14,Good,Yes,Badminton,5,No,8,4,Chess
+S080216,Bina Hari,Hosteler,12 Commerce,PixelForge,17,Male,Petals,58,96,85,96,62,87,484,80.67,76.9,6.6,Auditor,Economics,Physics,15,Good,Yes,Tennis,8,Yes,5,4,Science Club
+S080353,Gautami Mand,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,89,97,100,62,74,60,482,80.33,88.5,1.8,Bank Manager,Entrepreneurship,Chemistry,16,Good,Yes,Football,4,No,9,8,Coding Club
+S080044,Yadavi Vohra,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,73,81,95,99,48,86,482,80.33,70.3,4.7,Chartered Accountant,Economics,Physics,17,Good,Yes,Badminton,13,No,7,5,Painting
+S080247,Sneha Raj,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,92,81,80,77,65,86,481,80.17,75.4,1.3,Chartered Accountant,Economics,Chemistry,18,Good,No,,0,No,0,0,Public Speaking
+S080156,Hemal Yadav,Day Scholar,12 Commerce,TechShield,16,Female,Divine,69,99,96,56,86,74,480,80.0,76.7,1.4,Company Secretary,Economics,Chemistry,19,Good,Yes,Basketball,13,Yes,7,7,Public Speaking
+S080256,Omaja Sama,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,80,93,53,77,93,82,478,79.67,98.7,8.0,Financial Analyst,Accountancy,Physics,20,Good,Yes,Football,14,No,10,7,Debate
+S080231,Ekansh Verma,Hosteler,12 Commerce,TechShield,17,Male,Petals,77,91,78,63,94,74,477,79.5,92.6,1.7,Financial Analyst,Economics,Physics,21,Good,Yes,Cricket,12,No,9,8,Chess
+S080393,Rushil Karan,Hosteler,12 Commerce,PixelForge,17,Male,Passion,82,92,94,35,91,83,477,79.5,72.8,5.7,Marketing Manager,Economics,Physics,22,Good,Yes,Cricket,10,No,9,9,Painting
+S080099,Maya Chatterjee,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,81,82,79,83,53,99,477,79.5,81.1,6.6,Auditor,Business Studies,Physics,23,Good,Yes,Cricket,8,No,2,0,Volunteering
+S080226,Siya Iyengar,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,79,97,80,49,86,86,477,79.5,85.0,3.8,Chartered Accountant,Economics,Biology,24,Good,Yes,Kabaddi,12,Yes,14,8,Quiz Club
+S080301,Yatin Din,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,64,91,61,86,84,89,475,79.17,79.3,6.3,Marketing Manager,Accountancy,Physics,25,Good,Yes,Football,13,Yes,15,15,Science Club
+S080349,Udant Date,Hosteler,12 Commerce,SyntaSphere,17,Male,Petals,48,83,91,92,75,84,473,78.83,98.9,1.1,Financial Analyst,Business Studies,Biology,26,Good,Yes,Football,11,Yes,12,10,Entrepreneurship Club
+S080024,Jackson Raval,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,79,74,95,60,75,89,472,78.67,94.3,5.8,Stock Market Analyst,Economics,Physics,27,Good,Yes,Cricket,15,Yes,15,7,Quiz Club
+S080354,Matthew Bassi,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,100,81,100,85,53,53,472,78.67,76.8,5.8,Tax Consultant,Entrepreneurship,Chemistry,28,Good,Yes,Football,11,Yes,5,3,Quiz Club
+S080059,Ishwar Batra,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,78,99,64,87,44,100,472,78.67,78.7,4.8,Stock Market Analyst,Business Studies,Physics,29,Good,Yes,Hockey,8,No,6,5,Painting
+S080121,Vasatika Salvi,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,79,74,89,77,59,94,472,78.67,80.3,3.2,Marketing Manager,Entrepreneurship,Biology,30,Good,Yes,Tennis,3,No,2,1,Drama
+S080035,Gopal Sood,Hosteler,12 Commerce,PixelForge,17,Female,Divine,80,97,72,74,79,70,472,78.67,87.7,7.9,Bank Manager,Economics,Physics,31,Good,Yes,Football,3,No,9,6,Painting
+S080244,Ekaraj Nori,Hosteler,12 Commerce,TechShield,17,Female,Divine,77,89,51,92,66,95,470,78.33,81.5,2.8,Financial Analyst,Business Studies,Chemistry,32,Good,Yes,Hockey,6,No,3,1,Volunteering
+S080337,Mason Iyer,Hosteler,12 Commerce,TechShield,17,Female,Divine,83,93,88,81,80,44,469,78.17,87.6,3.8,Economist,Business Studies,Physics,33,Good,Yes,Badminton,3,Yes,13,6,Dance
+S080286,Rehaan Tara,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,64,85,54,77,92,97,469,78.17,70.8,4.5,Auditor,Entrepreneurship,Chemistry,34,Good,Yes,Cricket,5,Yes,8,4,Debate
+S080252,Warhi Gola,Hosteler,12 Commerce,PixelForge,17,Female,Divine,49,79,92,93,59,96,468,78.0,96.7,1.9,Business Analyst,Business Studies,Physics,35,Good,Yes,Cricket,12,Yes,8,5,Public Speaking
+S080217,Andrew Dyal,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,86,98,89,36,78,80,467,77.83,89.5,3.4,Chartered Accountant,Accountancy,Biology,36,Good,Yes,Volleyball,3,Yes,8,8,Chess
+S080199,Tarak Mukherjee,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,83,72,71,55,99,87,467,77.83,84.0,5.6,Investment Banker,Entrepreneurship,Biology,37,Good,No,,0,No,0,0,Music
+S080034,Lajita Andra,Hosteler,12 Commerce,PixelForge,16,Female,Divine,48,90,95,94,86,53,466,77.67,92.0,3.3,Stock Market Analyst,Accountancy,Biology,38,Good,No,,0,No,0,0,Robotics Club
+S080351,Shivani Oza,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,64,94,51,83,96,78,466,77.67,83.2,6.7,Bank Manager,Economics,Physics,39,Good,Yes,Basketball,7,No,6,5,Public Speaking
+S080381,Nachiket Ramaswamy,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,89,60,92,57,79,88,465,77.5,86.3,7.4,Entrepreneur,Entrepreneurship,Chemistry,40,Good,Yes,Cricket,10,Yes,9,5,Music
+S080064,Aayush Mand,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,43,86,82,92,81,81,465,77.5,79.0,3.6,Business Analyst,Accountancy,Physics,41,Good,No,,0,No,0,0,Reading
+S080246,Ubika Kothari,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,58,63,83,96,81,84,465,77.5,81.1,2.8,Investment Banker,Accountancy,Physics,42,Good,Yes,Cricket,6,No,10,7,Music
+S080229,Gabriel Sheth,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,99,86,67,62,59,92,465,77.5,75.7,5.2,Financial Analyst,Accountancy,Physics,43,Good,Yes,Cricket,5,No,1,1,Robotics Club
+S080022,David Purohit,Hosteler,12 Commerce,PixelForge,17,Male,Passion,78,64,71,97,83,72,465,77.5,78.7,2.0,Entrepreneur,Accountancy,Biology,44,Good,Yes,Cricket,5,No,10,8,Entrepreneurship Club
+S080055,Maya Dhar,Day Scholar,12 Commerce,TechShield,16,Male,Divine,51,71,92,74,99,77,464,77.33,76.4,4.1,Company Secretary,Entrepreneurship,Biology,45,Good,Yes,Volleyball,10,No,10,4,Photography
+S080309,Frado Tak,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,88,41,87,92,64,91,463,77.17,71.0,5.0,Company Secretary,Accountancy,Biology,46,Good,Yes,Cricket,14,Yes,8,3,Entrepreneurship Club
+S080155,Zarna D’Alia,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,79,92,81,80,79,52,463,77.17,86.7,7.6,Bank Manager,Economics,Physics,47,Good,No,,0,No,0,0,Quiz Club
+S080119,Chaaya Pant,Hosteler,12 Commerce,DevFlow,16,Male,Petals,47,93,88,89,64,82,463,77.17,80.0,7.5,Company Secretary,Business Studies,Biology,48,Good,Yes,Athletics,11,No,9,9,Debate
+S080126,Watika Dubey,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,66,76,90,42,98,91,463,77.17,84.6,3.1,Entrepreneur,Accountancy,Biology,49,Good,Yes,Cricket,4,No,2,1,Drama
+S080058,Pratyush Raju,Hosteler,12 Commerce,DevFlow,17,Male,Passion,82,88,45,99,69,80,463,77.17,84.5,4.4,Entrepreneur,Economics,Biology,50,Good,Yes,Athletics,14,No,9,7,Entrepreneurship Club
+S080052,Laban Manda,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,89,79,66,75,66,88,463,77.17,98.4,6.4,Auditor,Entrepreneurship,Physics,51,Good,Yes,Badminton,2,Yes,6,7,Entrepreneurship Club
+S080211,Darpan Andra,Day Scholar,12 Commerce,TechShield,17,Female,Divine,68,57,96,66,90,85,462,77.0,86.5,7.2,Business Analyst,Economics,Physics,52,Good,Yes,Athletics,13,Yes,11,7,Coding Club
+S080276,Ekantika Devi,Hosteler,12 Commerce,PixelForge,16,Male,Petals,53,76,76,96,100,60,461,76.83,84.3,2.5,Chartered Accountant,Business Studies,Physics,53,Good,Yes,Kabaddi,10,No,4,2,Entrepreneurship Club
+S080115,Gabriel Cherian,Hosteler,12 Commerce,TechShield,17,Male,Paradise,54,85,94,79,78,68,458,76.33,76.1,6.0,Stock Market Analyst,Entrepreneurship,Chemistry,54,Good,Yes,Athletics,9,No,4,4,Music
+S080273,Harrison Manda,Hosteler,12 Commerce,PixelForge,17,Female,Divine,68,87,70,77,76,80,458,76.33,87.1,2.5,Economist,Accountancy,Chemistry,55,Good,No,,0,No,0,0,Quiz Club
+S080152,Alexander Nanda,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,89,41,81,95,97,55,458,76.33,84.5,4.2,Marketing Manager,Accountancy,Biology,56,Good,Yes,Badminton,14,No,2,1,Chess
+S080112,Chatresh Chandra,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,42,79,85,69,94,89,458,76.33,83.6,3.6,Company Secretary,Accountancy,Physics,57,Good,No,,0,No,0,0,Music
+S080263,Utkarsh Sood,Hosteler,12 Commerce,PixelForge,17,Female,Divine,88,73,74,74,99,49,457,76.17,97.9,2.4,Bank Manager,Entrepreneurship,Chemistry,58,Good,Yes,Badminton,2,Yes,14,17,Reading
+S080042,Tanveer Pathak,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,94,96,64,79,74,50,457,76.17,98.0,6.6,Company Secretary,Economics,Chemistry,59,Good,Yes,Cricket,3,No,8,7,Coding Club
+S080386,Keya Nayak,Hosteler,12 Commerce,DevFlow,17,Male,Petals,71,68,83,52,98,83,455,75.83,98.7,1.7,Marketing Manager,Entrepreneurship,Chemistry,60,Good,Yes,Cricket,7,No,5,5,Robotics Club
+S080051,Anusha Chowdhury,Hosteler,12 Commerce,DevFlow,16,Female,Divine,57,100,66,91,63,77,454,75.67,93.3,7.2,Business Analyst,Entrepreneurship,Biology,61,Good,No,,0,No,0,0,Entrepreneurship Club
+S080020,Ikshita Chadha,Hosteler,12 Commerce,TechShield,17,Female,Divine,93,78,50,55,84,94,454,75.67,94.1,3.0,Tax Consultant,Entrepreneurship,Biology,62,Good,No,,0,No,0,0,Dance
+S080255,Unnati Swaminathan,Hosteler,12 Commerce,TechShield,17,Male,Passion,94,58,51,67,98,86,454,75.67,71.3,5.8,Auditor,Entrepreneurship,Chemistry,63,Good,Yes,Badminton,12,Yes,14,9,Debate
+S080072,Samesh Barman,Hosteler,12 Commerce,DevFlow,16,Male,Passion,58,78,86,84,97,51,454,75.67,81.4,2.5,Entrepreneur,Economics,Chemistry,64,Good,Yes,Cricket,7,No,9,8,Debate
+S080065,Bimala Gaba,Hosteler,12 Commerce,DevFlow,17,Female,Divine,78,85,42,78,75,96,454,75.67,73.5,5.0,Auditor,Accountancy,Biology,65,Good,No,,0,No,0,0,Public Speaking
+S080016,Isaiah Jhaveri,Hosteler,12 Commerce,DevFlow,16,Male,Paradise,84,63,81,96,70,60,454,75.67,87.6,7.1,Financial Analyst,Accountancy,Physics,66,Good,Yes,Football,5,Yes,10,8,Quiz Club
+S080174,Januja Kadakia,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,82,88,63,63,77,81,454,75.67,77.2,3.6,Stock Market Analyst,Accountancy,Biology,67,Good,No,,0,No,0,0,Robotics Club
+S080329,Wazir Bakshi,Hosteler,12 Commerce,DevFlow,17,Male,Petals,53,87,99,70,76,68,453,75.5,94.7,6.2,Company Secretary,Business Studies,Biology,68,Good,No,,0,No,0,0,Public Speaking
+S080069,Niharika Virk,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,86,83,41,49,100,94,453,75.5,78.7,3.0,Chartered Accountant,Business Studies,Chemistry,69,Good,Yes,Football,10,No,9,7,Coding Club
+S080304,Peter Chauhan,Day Scholar,12 Commerce,TechShield,16,Female,Divine,91,93,38,93,42,95,452,75.33,95.0,5.4,Tax Consultant,Economics,Physics,70,Good,No,,0,No,0,0,Quiz Club
+S080043,Yauvani Mutti,Hosteler,12 Commerce,TechShield,16,Male,Petals,47,85,100,76,57,86,451,75.17,84.2,6.1,Financial Analyst,Economics,Physics,71,Good,No,,0,No,0,0,Robotics Club
+S080102,Tripti Barad,Day Scholar,12 Commerce,TechShield,16,Male,Divine,72,78,88,55,75,83,451,75.17,96.9,7.4,Business Analyst,Accountancy,Biology,72,Good,No,,0,No,0,0,Volunteering
+S080076,Theodore Pandya,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,70,50,65,84,84,97,450,75.0,95.2,5.2,Company Secretary,Entrepreneurship,Biology,73,Good,Yes,Cricket,4,Yes,5,2,Painting
+S080356,Yashoda Mody,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,78,99,51,68,87,65,448,74.67,91.1,4.6,Financial Analyst,Economics,Physics,74,Good,Yes,Badminton,12,No,1,0,Drama
+S080142,Warinder Agrawal,Hosteler,12 Commerce,SyntaSphere,16,Male,Paradise,94,83,85,56,49,81,448,74.67,80.5,7.8,Company Secretary,Accountancy,Chemistry,75,Good,Yes,Badminton,9,No,3,3,Painting
+S080107,Anusha Pandit,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,58,91,78,88,81,52,448,74.67,73.2,5.8,Bank Manager,Accountancy,Biology,76,Good,Yes,Cricket,6,No,2,2,Robotics Club
+S080339,Lavanya Prabhu,Day Scholar,12 Commerce,TechShield,17,Male,Divine,54,90,60,50,98,94,446,74.33,91.2,2.9,Business Analyst,Business Studies,Physics,77,Good,No,,0,No,0,0,Quiz Club
+S080129,Dev Dada,Hosteler,12 Commerce,PixelForge,16,Female,Divine,83,52,91,96,61,63,446,74.33,80.1,1.7,Economist,Entrepreneurship,Chemistry,78,Good,Yes,Basketball,10,Yes,7,8,Science Club
+S080254,Henry Balakrishnan,Day Scholar,12 Commerce,TechShield,17,Male,Divine,89,88,50,89,56,74,446,74.33,84.4,7.5,Tax Consultant,Accountancy,Biology,79,Good,Yes,Swimming,13,No,7,6,Coding Club
+S080253,Sai Sharaf,Hosteler,12 Commerce,PixelForge,17,Female,Divine,83,95,45,65,98,60,446,74.33,70.6,5.5,Entrepreneur,Accountancy,Biology,80,Good,No,,0,No,0,0,Robotics Club
+S080346,Michael Ganesan,Hosteler,12 Commerce,TechShield,16,Female,Divine,63,88,94,72,84,45,446,74.33,82.9,1.1,Investment Banker,Business Studies,Physics,81,Good,Yes,Badminton,3,No,10,4,Coding Club
+S080191,Vrinda Baral,Hosteler,12 Commerce,DevFlow,17,Male,Petals,69,78,96,81,79,42,445,74.17,94.3,4.3,Entrepreneur,Business Studies,Biology,82,Good,Yes,Volleyball,10,No,1,0,Public Speaking
+S080050,Yachana Lala,Hosteler,12 Commerce,SyntaSphere,16,Male,Petals,98,74,36,95,55,87,445,74.17,70.1,5.9,Entrepreneur,Accountancy,Chemistry,83,Good,No,,0,No,0,0,Public Speaking
+S080326,Nakul Hegde,Day Scholar,12 Commerce,TechShield,16,Male,Divine,49,80,58,84,88,86,445,74.17,86.3,1.2,Financial Analyst,Economics,Chemistry,84,Good,No,,0,No,0,0,Quiz Club
+S080287,Upadhriti Balay,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,45,79,93,100,45,82,444,74.0,72.7,3.2,Tax Consultant,Economics,Physics,85,Good,Yes,Basketball,7,Yes,6,5,Science Club
+S080297,Ikbal Behl,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,74,87,97,40,97,49,444,74.0,96.9,6.5,Business Analyst,Economics,Chemistry,86,Good,No,,0,No,0,0,Reading
+S080149,Udarsh Kapur,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,45,98,71,61,76,92,443,73.83,89.7,5.3,Stock Market Analyst,Economics,Biology,87,Good,Yes,Cricket,12,Yes,15,8,Painting
+S080382,Leela Singh,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,98,97,35,76,50,87,443,73.83,81.9,5.2,Tax Consultant,Entrepreneurship,Chemistry,88,Good,Yes,Cricket,15,Yes,14,9,Quiz Club
+S080183,Falan Rout,Day Scholar,12 Commerce,TechShield,16,Female,Divine,71,42,93,93,81,62,442,73.67,97.2,1.0,Tax Consultant,Accountancy,Biology,89,Good,Yes,Cricket,11,Yes,12,8,Photography
+S080388,Niharika Kalla,Hosteler,12 Commerce,DevFlow,17,Female,Divine,90,79,63,79,78,53,442,73.67,89.6,3.3,Company Secretary,Accountancy,Biology,90,Good,Yes,Cricket,3,No,7,3,Debate
+S080271,Faraj Sekhon,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,61,73,81,60,69,98,442,73.67,71.8,7.0,Auditor,Accountancy,Physics,91,Good,Yes,Volleyball,15,Yes,15,16,Music
+S080324,Idika Narasimhan,Day Scholar,12 Commerce,TechShield,16,Male,Divine,66,67,44,91,77,96,441,73.5,84.7,3.6,Tax Consultant,Business Studies,Physics,92,Good,Yes,Hockey,9,No,7,8,Coding Club
+S080325,Charles Swamy,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,65,90,90,36,98,62,441,73.5,71.4,2.4,Investment Banker,Entrepreneurship,Biology,93,Good,Yes,Football,13,Yes,12,6,Drama
+S080170,Siya Misra,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,85,70,44,86,57,98,440,73.33,79.9,1.7,Marketing Manager,Economics,Biology,94,Good,Yes,Athletics,13,No,6,6,Chess
+S080363,Neel Badami,Hosteler,12 Commerce,TechShield,17,Male,Passion,99,59,38,67,98,79,440,73.33,79.4,7.5,Stock Market Analyst,Economics,Physics,95,Good,Yes,Basketball,13,Yes,12,14,Dance
+S080177,Kabir Kibe,Day Scholar,12 Commerce,TechShield,16,Female,Divine,79,76,39,85,76,85,440,73.33,74.9,2.2,Financial Analyst,Accountancy,Chemistry,96,Good,Yes,Badminton,4,No,10,8,Dance
+S080157,Triya Sahota,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,68,78,66,65,71,91,439,73.17,87.5,5.4,Investment Banker,Economics,Chemistry,97,Good,Yes,Cricket,9,No,6,2,Painting
+S080359,Dayita Naidu,Day Scholar,12 Commerce,TechShield,17,Male,Divine,67,94,90,83,64,41,439,73.17,87.1,5.3,Economist,Accountancy,Biology,98,Good,Yes,Basketball,10,Yes,14,12,Chess
+S080017,Indali Chada,Hosteler,12 Commerce,PixelForge,17,Female,Divine,85,53,83,97,81,40,439,73.17,82.9,2.7,Bank Manager,Economics,Chemistry,99,Good,No,,0,No,0,0,Reading
+S080165,Balhaar Hora,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,89,76,82,47,56,88,438,73.0,71.0,4.6,Business Analyst,Business Studies,Physics,100,Good,Yes,Badminton,2,No,5,2,Music
+S080277,Yutika Narayanan,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,87,74,80,61,42,93,437,72.83,98.4,1.5,Tax Consultant,Economics,Physics,101,Good,Yes,Football,11,No,2,1,Volunteering
+S080012,Megha Bajaj,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,39,94,98,53,97,55,436,72.67,80.9,5.9,Stock Market Analyst,Accountancy,Chemistry,102,Good,No,,0,No,0,0,Coding Club
+S080230,Omya Kurian,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,91,87,45,73,73,67,436,72.67,90.1,6.4,Marketing Manager,Entrepreneurship,Biology,103,Good,Yes,Football,11,Yes,6,7,Photography
+S080347,Vyanjana Kibe,Hosteler,12 Commerce,TechShield,17,Female,Divine,96,65,83,95,45,51,435,72.5,84.5,3.9,Financial Analyst,Business Studies,Physics,104,Good,Yes,Volleyball,14,No,1,1,Debate
+S080366,Oscar Dixit,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,72,50,97,96,59,61,435,72.5,98.1,6.0,Tax Consultant,Entrepreneurship,Physics,105,Good,Yes,Football,12,Yes,13,12,Chess
+S080171,Onveer Dhaliwal,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,47,95,51,60,83,99,435,72.5,77.9,6.2,Entrepreneur,Economics,Physics,106,Good,Yes,Cricket,6,No,2,1,Chess
+S080352,Chandran Bedi,Hosteler,12 Commerce,PixelForge,16,Female,Divine,80,42,80,85,60,87,434,72.33,85.3,5.5,Chartered Accountant,Business Studies,Physics,107,Good,Yes,Badminton,14,No,4,1,Coding Club
+S080193,Gaurang Lad,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,66,81,83,81,40,83,434,72.33,83.7,7.6,Financial Analyst,Business Studies,Chemistry,108,Good,No,,0,No,0,0,Entrepreneurship Club
+S080093,Gunbir Din,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,62,78,68,58,78,90,434,72.33,94.2,5.5,Chartered Accountant,Accountancy,Physics,109,Good,Yes,Badminton,9,Yes,8,9,Music
+S080091,Umang Kannan,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,82,52,62,67,89,82,434,72.33,82.9,1.4,Entrepreneur,Business Studies,Biology,110,Good,Yes,Cricket,10,No,4,4,Debate
+S080118,Viraj Hora,Day Scholar,12 Commerce,TechShield,16,Male,Divine,73,64,42,85,75,94,433,72.17,72.8,1.9,Bank Manager,Entrepreneurship,Biology,111,Good,Yes,Cricket,3,Yes,13,10,Painting
+S080139,Ranbir Bhandari,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,76,51,88,75,92,51,433,72.17,77.1,7.1,Business Analyst,Entrepreneurship,Physics,112,Good,No,,0,No,0,0,Dance
+S080372,Kevin Kari,Hosteler,12 Commerce,DevFlow,17,Female,Divine,63,62,58,91,84,75,433,72.17,86.2,1.4,Company Secretary,Economics,Biology,113,Good,No,,0,No,0,0,Dance
+S080095,Zarna Sandhu,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,41,79,75,69,88,79,431,71.83,71.8,5.3,Financial Analyst,Accountancy,Physics,114,Good,Yes,Athletics,6,No,10,11,Photography
+S080084,Lucky Kari,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,73,38,67,86,85,81,430,71.67,83.6,6.4,Auditor,Entrepreneurship,Chemistry,115,Good,Yes,Cricket,13,Yes,8,7,Chess
+S080280,Finn Oza,Hosteler,12 Commerce,PixelForge,16,Female,Divine,76,81,90,45,69,69,430,71.67,89.9,6.0,Stock Market Analyst,Entrepreneurship,Physics,116,Good,Yes,Cricket,3,Yes,15,13,Debate
+S080018,Urvi Tella,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,37,63,67,82,81,100,430,71.67,95.8,3.0,Entrepreneur,Accountancy,Physics,117,Good,No,,0,No,0,0,Robotics Club
+S080313,Udarsh Golla,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,57,87,38,78,90,80,430,71.67,98.5,5.8,Financial Analyst,Economics,Physics,118,Good,Yes,Football,10,No,2,1,Volunteering
+S080338,Zinal Kuruvilla,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,74,79,48,72,65,92,430,71.67,75.9,5.8,Tax Consultant,Economics,Biology,119,Good,Yes,Football,5,No,9,6,Volunteering
+S080284,Dalbir Krishnan,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,66,58,63,59,84,99,429,71.5,78.8,3.2,Economist,Business Studies,Physics,120,Good,Yes,Basketball,13,No,6,2,Quiz Club
+S080242,Nandini Wagle,Hosteler,12 Commerce,TechShield,17,Female,Divine,88,73,78,44,91,55,429,71.5,92.3,4.3,Bank Manager,Entrepreneurship,Physics,121,Good,Yes,Volleyball,14,Yes,9,9,Music
+S080063,Leena Bala,Hosteler,12 Commerce,DevFlow,17,Female,Divine,98,99,61,61,45,65,429,71.5,71.0,5.7,Tax Consultant,Economics,Physics,122,Good,Yes,Football,4,No,10,11,Chess
+S080079,Krish Bajaj,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,42,77,67,93,55,95,429,71.5,83.7,7.9,Economist,Business Studies,Biology,123,Good,Yes,Hockey,11,No,10,4,Drama
+S080167,Veer Keer,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,79,75,98,44,48,84,428,71.33,78.1,2.5,Investment Banker,Economics,Biology,124,Good,No,,0,No,0,0,Debate
+S080083,Arin Chatterjee,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,87,43,86,64,63,85,428,71.33,77.3,7.6,Business Analyst,Entrepreneurship,Physics,125,Good,Yes,Badminton,6,No,7,3,Science Club
+S080364,Neelima Rajagopalan,Hosteler,12 Commerce,PixelForge,16,Female,Divine,60,61,66,74,88,78,427,71.17,76.2,3.0,Investment Banker,Accountancy,Biology,126,Good,Yes,Badminton,8,No,10,10,Science Club
+S080007,Tristan Patel,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,80,91,74,84,35,62,426,71.0,90.6,1.7,Financial Analyst,Entrepreneurship,Biology,127,Good,No,,0,No,0,0,Painting
+S080392,Hemani Dugal,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,76,69,39,94,91,57,426,71.0,71.0,3.6,Stock Market Analyst,Economics,Physics,128,Good,Yes,Football,11,Yes,13,9,Reading
+S080321,Manan Krishnamurthy,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,56,65,92,58,70,85,426,71.0,99.5,6.7,Marketing Manager,Economics,Biology,129,Good,No,,0,No,0,0,Volunteering
+S080031,Shivansh Bera,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,94,36,56,100,90,50,426,71.0,85.6,5.4,Marketing Manager,Economics,Physics,130,Good,Yes,Football,6,Yes,8,8,Painting
+S080192,Samarth Bhalla,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,96,35,88,43,90,73,425,70.83,90.4,3.0,Business Analyst,Business Studies,Biology,131,Good,No,,0,No,0,0,Public Speaking
+S080348,Faris Mahal,Hosteler,12 Commerce,TechShield,16,Male,Passion,73,35,84,92,52,89,425,70.83,95.6,2.9,Stock Market Analyst,Entrepreneurship,Physics,132,Good,No,,0,No,0,0,Painting
+S080182,Dev Kaur,Day Scholar,12 Commerce,TechShield,16,Male,Divine,64,55,76,83,49,97,424,70.67,87.7,7.3,Auditor,Economics,Chemistry,133,Good,Yes,Cricket,15,No,1,0,Drama
+S080056,Geetika Mittal,Day Scholar,12 Commerce,TechShield,16,Male,Divine,63,51,92,93,87,38,424,70.67,88.3,5.6,Bank Manager,Accountancy,Biology,134,Good,No,,0,No,0,0,Dance
+S080078,Vihaan Mander,Day Scholar,12 Commerce,TechShield,16,Female,Divine,68,94,70,58,93,41,424,70.67,80.9,2.9,Auditor,Entrepreneurship,Biology,135,Good,Yes,Football,14,No,10,11,Robotics Club
+S080397,Damyanti Doctor,Hosteler,12 Commerce,DevFlow,17,Female,Divine,68,68,59,79,89,60,423,70.5,80.8,7.1,Bank Manager,Accountancy,Physics,136,Good,Yes,Kabaddi,10,No,10,8,Dance
+S080048,Arin Dada,Hosteler,12 Commerce,PixelForge,16,Female,Divine,61,64,95,51,55,97,423,70.5,80.9,7.3,Entrepreneur,Business Studies,Chemistry,137,Good,No,,0,No,0,0,Music
+S080335,Qarin Pradhan,Day Scholar,12 Commerce,TechShield,17,Female,Divine,35,78,94,76,54,86,423,70.5,97.2,4.4,Financial Analyst,Accountancy,Physics,138,Good,Yes,Cricket,11,No,9,10,Photography
+S080295,Naksh Anand,Hosteler,12 Commerce,DevFlow,16,Male,Petals,71,98,75,41,80,58,423,70.5,72.9,2.0,Investment Banker,Accountancy,Biology,139,Good,No,,0,No,0,0,Robotics Club
+S080106,Tara Sabharwal,Hosteler,12 Commerce,TechShield,17,Male,Petals,85,67,51,90,45,85,423,70.5,78.2,1.5,Marketing Manager,Entrepreneurship,Biology,140,Good,Yes,Football,11,No,9,11,Drama
+S080037,Pooja Shankar,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,58,87,64,56,95,62,422,70.33,98.4,4.4,Economist,Business Studies,Biology,141,Good,No,,0,No,0,0,Public Speaking
+S080302,Mason Tata,Day Scholar,12 Commerce,TechShield,17,Male,Divine,43,56,97,91,63,72,422,70.33,78.6,3.9,Company Secretary,Economics,Chemistry,142,Good,Yes,Cricket,4,No,8,3,Public Speaking
+S080092,Orinder Sarkar,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,93,57,90,68,73,41,422,70.33,91.2,4.6,Chartered Accountant,Accountancy,Chemistry,143,Good,No,,0,No,0,0,Drama
+S080169,Gauri Dhingra,Hosteler,12 Commerce,DevFlow,16,Male,Passion,35,97,84,64,72,70,422,70.33,78.4,3.9,Company Secretary,Entrepreneurship,Physics,144,Good,No,,0,No,0,0,Painting
+S080330,Bakhshi Batra,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,100,62,53,74,38,95,422,70.33,93.5,5.3,Investment Banker,Accountancy,Biology,145,Good,No,,0,No,0,0,Photography
+S080005,Yutika Borah,Hosteler,12 Commerce,SyntaSphere,16,Male,Paradise,44,99,42,73,64,100,422,70.33,71.4,5.1,Tax Consultant,Entrepreneurship,Chemistry,146,Good,Yes,Football,5,Yes,6,2,Dance
+S080057,Vasudha Vyas,Day Scholar,12 Commerce,TechShield,17,Male,Divine,41,89,81,95,72,44,422,70.33,89.3,7.7,Investment Banker,Entrepreneurship,Biology,147,Good,No,,0,No,0,0,Photography
+S080395,Yashvi Anne,Hosteler,12 Commerce,PixelForge,17,Female,Divine,52,88,49,82,84,67,422,70.33,96.6,7.0,Tax Consultant,Entrepreneurship,Chemistry,148,Good,Yes,Badminton,4,No,7,4,Public Speaking
+S080342,Indrajit Sood,Hosteler,12 Commerce,PixelForge,17,Female,Divine,62,75,89,60,72,63,421,70.17,98.9,5.2,Bank Manager,Entrepreneurship,Physics,149,Good,Yes,Cricket,9,Yes,15,8,Painting
+S080220,Omaja Sachdeva,Hosteler,12 Commerce,TechShield,17,Female,Divine,50,99,49,74,61,87,420,70.0,88.3,2.7,Auditor,Entrepreneurship,Chemistry,150,Good,Yes,Cricket,9,No,3,3,Entrepreneurship Club
+S080036,Jasmit Patla,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,95,61,74,66,49,75,420,70.0,84.9,5.3,Company Secretary,Entrepreneurship,Biology,151,Good,No,,0,No,0,0,Debate
+S080070,Naksh Narayanan,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,91,68,77,48,52,84,420,70.0,96.0,5.3,Bank Manager,Business Studies,Biology,152,Good,Yes,Football,6,No,7,5,Science Club
+S080245,Ayushman More,Hosteler,12 Commerce,PixelForge,16,Female,Divine,71,79,49,59,92,69,419,69.83,86.0,6.5,Bank Manager,Economics,Biology,153,Average,Yes,Cricket,8,No,7,3,Robotics Club
+S080067,Dalbir Dass,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,94,46,100,45,72,62,419,69.83,96.0,7.8,Auditor,Entrepreneurship,Chemistry,154,Average,Yes,Cricket,3,Yes,9,3,Drama
+S080389,Jairaj Hayer,Hosteler,12 Commerce,PixelForge,16,Male,Petals,46,98,73,93,66,43,419,69.83,78.6,5.3,Economist,Business Studies,Chemistry,155,Average,Yes,Tennis,4,No,4,3,Volunteering
+S080240,Samarth Doshi,Hosteler,12 Commerce,TechShield,17,Male,Passion,59,75,96,84,42,63,419,69.83,76.3,8.0,Marketing Manager,Economics,Physics,156,Average,Yes,Cricket,11,No,9,6,Drama
+S080235,Saumya Handa,Hosteler,12 Commerce,TechShield,16,Female,Divine,64,86,59,60,67,83,419,69.83,85.7,8.0,Business Analyst,Entrepreneurship,Physics,157,Average,Yes,Athletics,7,Yes,8,5,Reading
+S080300,Urvashi Pall,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,93,43,43,98,68,74,419,69.83,71.8,6.1,Marketing Manager,Economics,Physics,158,Average,Yes,Badminton,12,Yes,14,13,Debate
+S080319,Raksha Bhat,Hosteler,12 Commerce,TechShield,16,Male,Passion,83,44,84,39,74,95,419,69.83,71.5,7.8,Chartered Accountant,Economics,Chemistry,159,Average,Yes,Basketball,9,No,1,0,Drama
+S080261,Indali More,Day Scholar,12 Commerce,TechShield,16,Male,Divine,80,92,95,40,64,47,418,69.67,80.8,4.7,Tax Consultant,Economics,Biology,160,Average,Yes,Cricket,14,No,5,2,Coding Club
+S080049,Kashvi Bahri,Hosteler,12 Commerce,PixelForge,16,Male,Paradise,46,60,85,97,43,87,418,69.67,77.3,3.2,Stock Market Analyst,Entrepreneurship,Chemistry,161,Average,Yes,Football,11,No,6,3,Robotics Club
+S080113,Owen Chaudhuri,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,94,75,70,97,45,37,418,69.67,85.9,4.8,Company Secretary,Economics,Physics,162,Average,Yes,Football,14,Yes,14,9,Public Speaking
+S080127,Ria Chaudry,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,84,53,47,97,72,65,418,69.67,78.6,3.1,Tax Consultant,Business Studies,Physics,163,Average,Yes,Basketball,3,No,3,3,Robotics Club
+S080341,Advay Modi,Hosteler,12 Commerce,DevFlow,16,Male,Petals,81,65,76,36,99,61,418,69.67,84.2,1.2,Marketing Manager,Business Studies,Biology,164,Average,Yes,Badminton,6,No,6,4,Drama
+S080023,Ishwar Walia,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,78,62,43,72,81,82,418,69.67,98.7,7.7,Business Analyst,Business Studies,Biology,165,Average,Yes,Cricket,13,No,9,11,Drama
+S080062,Anita Chadha,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,62,97,67,46,55,90,417,69.5,79.6,7.0,Tax Consultant,Entrepreneurship,Physics,166,Average,No,,0,No,0,0,Volunteering
+S080104,Abeer Sankar,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,94,71,61,37,86,68,417,69.5,99.9,2.3,Entrepreneur,Accountancy,Physics,167,Average,Yes,Athletics,8,No,2,1,Entrepreneurship Club
+S080232,Dhruv Kaur,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,71,56,97,78,55,60,417,69.5,91.7,5.6,Company Secretary,Accountancy,Physics,168,Average,Yes,Basketball,13,No,9,8,Photography
+S080373,Omya Sehgal,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,56,65,81,79,77,58,416,69.33,70.0,7.5,Business Analyst,Economics,Chemistry,169,Average,Yes,Basketball,9,No,6,2,Dance
+S080172,Ethan Mittal,Hosteler,12 Commerce,DevFlow,17,Female,Divine,53,66,77,71,95,54,416,69.33,71.1,3.2,Bank Manager,Business Studies,Physics,170,Average,Yes,Volleyball,9,No,10,9,Reading
+S080334,Aradhana Rattan,Hosteler,12 Commerce,DevFlow,17,Male,Petals,85,78,43,89,35,86,416,69.33,95.0,6.5,Investment Banker,Business Studies,Physics,171,Average,No,,0,No,0,0,Chess
+S080238,Triveni Sahota,Day Scholar,12 Commerce,TechShield,16,Male,Divine,79,69,46,100,61,60,415,69.17,79.1,4.4,Economist,Business Studies,Chemistry,172,Average,No,,0,No,0,0,Quiz Club
+S080343,Yashodhara Oommen,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,68,92,45,80,68,62,415,69.17,79.7,1.8,Chartered Accountant,Business Studies,Biology,173,Average,Yes,Cricket,2,Yes,6,5,Quiz Club
+S080234,Akshay Dayal,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,51,82,88,81,51,62,415,69.17,91.1,7.4,Stock Market Analyst,Economics,Biology,174,Average,Yes,Football,2,No,9,6,Science Club
+S080159,Aadi Bir,Hosteler,12 Commerce,SyntaSphere,17,Male,Petals,48,85,50,60,91,81,415,69.17,86.9,2.1,Stock Market Analyst,Accountancy,Biology,175,Average,No,,0,No,0,0,Volunteering
+S080306,Sai Mani,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,92,51,68,41,81,81,414,69.0,79.8,6.9,Business Analyst,Entrepreneurship,Chemistry,176,Average,No,,0,No,0,0,Quiz Club
+S080131,Aarush Gour,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,49,87,57,43,96,82,414,69.0,73.1,3.6,Marketing Manager,Economics,Chemistry,177,Average,Yes,Cricket,15,Yes,7,3,Robotics Club
+S080029,Krishna Mohanty,Hosteler,12 Commerce,PixelForge,17,Male,Petals,55,89,80,90,48,52,414,69.0,78.5,2.9,Investment Banker,Entrepreneurship,Chemistry,178,Average,Yes,Volleyball,12,Yes,12,15,Robotics Club
+S080358,Varsha Wable,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,74,53,81,98,68,39,413,68.83,98.5,3.6,Marketing Manager,Entrepreneurship,Physics,179,Average,Yes,Volleyball,10,No,9,11,Painting
+S080136,Lakshit Goel,Hosteler,12 Commerce,PixelForge,16,Male,Petals,99,65,75,67,71,36,413,68.83,83.8,1.5,Company Secretary,Entrepreneurship,Biology,180,Average,Yes,Football,5,No,4,3,Entrepreneurship Club
+S080307,Vasatika Bhattacharyya,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,76,54,86,74,54,69,413,68.83,79.2,4.5,Tax Consultant,Business Studies,Physics,181,Average,Yes,Athletics,5,Yes,14,8,Debate
+S080074,Krishna Atwal,Hosteler,12 Commerce,TechShield,16,Female,Divine,51,51,69,84,96,62,413,68.83,87.7,4.3,Business Analyst,Entrepreneurship,Biology,182,Average,Yes,Football,5,No,2,1,Dance
+S080311,Madhav Bhavsar,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,79,51,62,85,67,68,412,68.67,97.2,1.2,Tax Consultant,Business Studies,Physics,183,Average,Yes,Cricket,9,No,3,3,Music
+S080101,Aditya Saxena,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,58,100,66,92,60,36,412,68.67,94.4,5.4,Marketing Manager,Economics,Chemistry,184,Average,Yes,Football,12,Yes,12,9,Music
+S080377,Amrita Ram,Day Scholar,12 Commerce,TechShield,16,Female,Divine,76,80,49,54,90,62,411,68.5,89.3,4.5,Auditor,Entrepreneurship,Biology,185,Average,No,,0,No,0,0,Chess
+S080290,Yagnesh Sandhu,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,77,97,49,66,48,72,409,68.17,74.1,3.6,Financial Analyst,Business Studies,Physics,186,Average,Yes,Cricket,7,No,2,2,Science Club
+S080105,Samuel Deol,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,69,36,96,65,47,96,409,68.17,73.6,2.3,Investment Banker,Entrepreneurship,Chemistry,187,Average,Yes,Badminton,4,No,6,2,Music
+S080195,Aadi Narasimhan,Day Scholar,12 Commerce,TechShield,17,Female,Divine,88,99,38,68,41,75,409,68.17,84.5,2.7,Entrepreneur,Economics,Physics,188,Average,Yes,Cricket,12,No,1,0,Drama
+S080038,Reva Ganesan,Hosteler,12 Commerce,DevFlow,17,Male,Passion,87,86,76,48,68,43,408,68.0,75.7,7.2,Investment Banker,Business Studies,Physics,189,Average,Yes,Volleyball,5,Yes,9,7,Dance
+S080210,Zehaan Dubey,Hosteler,12 Commerce,SyntaSphere,17,Male,Petals,92,74,44,77,67,54,408,68.0,89.1,3.1,Marketing Manager,Accountancy,Physics,190,Average,Yes,Football,6,Yes,5,5,Reading
+S080368,Sai Dalal,Hosteler,12 Commerce,PixelForge,16,Male,Petals,42,54,65,65,86,96,408,68.0,93.9,5.7,Marketing Manager,Entrepreneurship,Biology,191,Average,Yes,Badminton,15,Yes,7,5,Music
+S080262,Imaran Bose,Hosteler,12 Commerce,TechShield,16,Male,Paradise,43,69,62,77,74,82,407,67.83,93.6,7.1,Chartered Accountant,Business Studies,Chemistry,192,Average,Yes,Cricket,6,No,4,3,Reading
+S080203,Simon Lala,Day Scholar,12 Commerce,TechShield,17,Male,Divine,82,36,62,46,81,100,407,67.83,71.2,3.9,Auditor,Entrepreneurship,Chemistry,193,Average,Yes,Cricket,15,Yes,12,14,Robotics Club
+S080318,Vedant Tripathi,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,49,56,88,48,85,81,407,67.83,73.9,5.1,Entrepreneur,Entrepreneurship,Physics,194,Average,Yes,Football,13,No,9,3,Chess
+S080148,Hitesh Kade,Hosteler,12 Commerce,PixelForge,17,Female,Divine,40,57,88,58,85,79,407,67.83,89.7,7.9,Economist,Accountancy,Chemistry,195,Average,Yes,Badminton,11,No,6,6,Debate
+S080257,Vrinda Srivastava,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,43,63,91,65,67,78,407,67.83,99.9,4.3,Chartered Accountant,Accountancy,Chemistry,196,Average,Yes,Football,15,No,5,2,Public Speaking
+S080227,Vidhi Vig,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,63,71,86,44,90,53,407,67.83,99.6,5.8,Company Secretary,Business Studies,Chemistry,197,Average,Yes,Cricket,15,No,2,0,Dance
+S080207,Vrishti Loke,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,62,50,39,98,60,98,407,67.83,74.4,4.1,Entrepreneur,Accountancy,Biology,198,Average,No,,0,No,0,0,Robotics Club
+S080332,Vamakshi Hora,Day Scholar,12 Commerce,TechShield,17,Female,Divine,51,58,96,81,68,52,406,67.67,77.0,1.9,Business Analyst,Business Studies,Physics,199,Average,Yes,Football,9,No,9,11,Volunteering
+S080249,Nidhi Kata,Day Scholar,12 Commerce,TechShield,16,Male,Divine,42,69,65,100,77,53,406,67.67,95.5,3.5,Financial Analyst,Business Studies,Chemistry,200,Average,No,,0,No,0,0,Science Club
+S080214,Chaitaly Sura,Day Scholar,12 Commerce,TechShield,16,Male,Divine,93,57,42,58,66,90,406,67.67,94.9,3.7,Chartered Accountant,Accountancy,Physics,201,Average,No,,0,No,0,0,Robotics Club
+S080355,Oeshi Vohra,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,47,44,94,49,90,82,406,67.67,87.9,3.3,Financial Analyst,Economics,Chemistry,202,Average,Yes,Badminton,10,Yes,6,4,Quiz Club
+S080030,Gopal Issac,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,80,83,56,77,41,68,405,67.5,92.3,1.5,Auditor,Business Studies,Biology,203,Average,Yes,Cricket,6,No,9,5,Science Club
+S080135,Barkha Shan,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,80,74,87,48,68,47,404,67.33,71.0,1.7,Company Secretary,Business Studies,Biology,204,Average,Yes,Hockey,8,No,6,3,Coding Club
+S080045,Lopa Cherian,Hosteler,12 Commerce,TechShield,16,Male,Passion,71,86,58,56,90,43,404,67.33,77.9,3.6,Company Secretary,Entrepreneurship,Physics,205,Average,Yes,Hockey,9,No,7,4,Robotics Club
+S080375,Tanveer Kaur,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,48,92,93,77,41,52,403,67.17,92.4,5.4,Stock Market Analyst,Business Studies,Biology,206,Average,No,,0,No,0,0,Dance
+S080186,Robert Bhattacharyya,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,60,58,73,59,99,54,403,67.17,83.0,5.2,Economist,Business Studies,Physics,207,Average,Yes,Badminton,9,Yes,10,11,Public Speaking
+S080265,Ira Sharaf,Hosteler,12 Commerce,DevFlow,17,Female,Divine,78,41,90,96,56,42,403,67.17,74.0,1.8,Company Secretary,Accountancy,Physics,208,Average,Yes,Cricket,14,No,3,3,Quiz Club
+S080137,Falak Goda,Day Scholar,12 Commerce,TechShield,17,Male,Divine,84,99,78,59,35,47,402,67.0,78.1,5.0,Marketing Manager,Accountancy,Biology,209,Average,No,,0,No,0,0,Music
+S080387,Yoshita Sane,Hosteler,12 Commerce,DevFlow,17,Female,Divine,75,47,51,77,70,82,402,67.0,76.7,5.4,Investment Banker,Economics,Biology,210,Average,No,,0,No,0,0,Chess
+S080124,Pratyush Sandhu,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,88,44,46,81,79,64,402,67.0,72.7,1.9,Investment Banker,Accountancy,Chemistry,211,Average,Yes,Badminton,3,No,4,3,Reading
+S080160,Anjali Parikh,Hosteler,12 Commerce,PixelForge,16,Male,Petals,54,71,44,93,94,46,402,67.0,95.8,6.0,Tax Consultant,Entrepreneurship,Biology,212,Average,Yes,Cricket,11,Yes,12,7,Coding Club
+S080385,Aarav Kale,Hosteler,12 Commerce,PixelForge,16,Female,Divine,88,53,94,77,35,55,402,67.0,75.4,2.2,Economist,Business Studies,Biology,213,Average,Yes,Swimming,4,Yes,7,3,Painting
+S080212,Kala Batra,Hosteler,12 Commerce,TechShield,17,Male,Petals,94,53,69,59,37,89,401,66.83,84.9,4.6,Marketing Manager,Entrepreneurship,Chemistry,214,Average,No,,0,No,0,0,Painting
+S080219,Devika Pandit,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,62,88,43,85,41,82,401,66.83,87.9,6.3,Investment Banker,Accountancy,Chemistry,215,Average,Yes,Football,14,No,4,3,Chess
+S080185,Reva Kashyap,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,43,97,60,89,58,53,400,66.67,94.3,5.7,Business Analyst,Entrepreneurship,Biology,216,Average,No,,0,No,0,0,Public Speaking
+S080205,Joshua Kurian,Hosteler,12 Commerce,PixelForge,16,Male,Paradise,78,64,84,49,48,77,400,66.67,72.4,6.0,Marketing Manager,Entrepreneurship,Physics,217,Average,No,,0,No,0,0,Drama
+S080340,Jairaj Sandhu,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,51,48,96,59,100,46,400,66.67,77.7,2.4,Auditor,Economics,Physics,218,Average,Yes,Badminton,12,No,3,2,Quiz Club
+S080033,Mitali Soni,Hosteler,12 Commerce,DevFlow,16,Male,Petals,40,78,59,36,90,97,400,66.67,92.0,4.8,Bank Manager,Business Studies,Biology,219,Average,Yes,Cricket,9,No,10,7,Drama
+S080268,Wahab Narayanan,Hosteler,12 Commerce,PixelForge,16,Male,Passion,35,80,98,68,60,58,399,66.5,73.6,7.9,Financial Analyst,Economics,Biology,220,Average,No,,0,No,0,0,Debate
+S080369,Raksha Prashad,Hosteler,12 Commerce,DevFlow,17,Female,Divine,80,89,74,69,43,43,398,66.33,78.8,6.5,Marketing Manager,Entrepreneurship,Physics,221,Average,Yes,Cricket,6,No,6,6,Quiz Club
+S080122,Qarin Dayal,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,63,82,46,84,84,39,398,66.33,99.2,5.6,Stock Market Analyst,Accountancy,Physics,222,Average,No,,0,No,0,0,Science Club
+S080320,Chaaya Srivastava,Hosteler,12 Commerce,DevFlow,17,Female,Divine,40,68,60,97,94,39,398,66.33,83.8,7.2,Stock Market Analyst,Accountancy,Physics,223,Average,Yes,Cricket,6,No,8,8,Painting
+S080370,Vidhi Raju,Hosteler,12 Commerce,DevFlow,16,Female,Divine,74,37,55,64,99,68,397,66.17,76.8,4.3,Financial Analyst,Accountancy,Chemistry,224,Average,Yes,Basketball,15,Yes,12,20,Chess
+S080222,Jack Narasimhan,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,92,80,51,57,76,41,397,66.17,71.1,2.4,Stock Market Analyst,Accountancy,Physics,225,Average,No,,0,No,0,0,Coding Club
+S080250,Anita Parsa,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,38,51,94,65,75,74,397,66.17,94.1,1.4,Business Analyst,Economics,Biology,226,Average,Yes,Basketball,13,Yes,15,9,Science Club
+S080218,Advik Pant,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,58,81,41,99,39,79,397,66.17,97.8,3.2,Bank Manager,Economics,Physics,227,Average,Yes,Football,8,No,9,5,Entrepreneurship Club
+S080004,Devansh Gole,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,68,69,61,97,52,49,396,66.0,82.9,6.5,Tax Consultant,Entrepreneurship,Chemistry,228,Average,Yes,Cricket,14,No,10,10,Science Club
+S080350,Sai Doctor,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,66,50,92,77,76,35,396,66.0,95.1,4.0,Tax Consultant,Business Studies,Biology,229,Average,Yes,Cricket,7,Yes,11,11,Debate
+S080322,Garima Balasubramanian,Hosteler,12 Commerce,DevFlow,16,Female,Divine,45,39,86,75,85,65,395,65.83,90.2,4.4,Entrepreneur,Accountancy,Physics,230,Average,No,,0,No,0,0,Chess
+S080308,Samaksh Suri,Hosteler,12 Commerce,PixelForge,17,Male,Paradise,70,44,35,88,72,86,395,65.83,74.9,3.4,Economist,Accountancy,Biology,231,Average,Yes,Cricket,12,No,6,5,Public Speaking
+S080213,Chandresh Pillay,Hosteler,12 Commerce,DevFlow,17,Male,Passion,35,100,52,67,41,99,394,65.67,72.5,5.9,Marketing Manager,Business Studies,Biology,232,Average,Yes,Cricket,14,Yes,15,6,Photography
+S080241,Arin Suri,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,70,45,80,46,90,63,394,65.67,83.1,6.0,Economist,Business Studies,Biology,233,Average,Yes,Badminton,11,Yes,10,4,Reading
+S080315,Vansha Gade,Day Scholar,12 Commerce,TechShield,17,Male,Divine,97,72,56,85,39,45,394,65.67,99.5,5.8,Company Secretary,Entrepreneurship,Physics,234,Average,Yes,Badminton,7,No,3,2,Coding Club
+S080344,Ayush Kala,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,52,67,78,40,57,100,394,65.67,83.8,5.7,Financial Analyst,Accountancy,Biology,235,Average,Yes,Swimming,13,No,10,11,Debate
+S080380,Arya Mody,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,79,85,55,43,56,76,394,65.67,96.2,1.5,Financial Analyst,Entrepreneurship,Chemistry,236,Average,No,,0,No,0,0,Photography
+S080158,Divya Konda,Hosteler,12 Commerce,TechShield,16,Female,Divine,71,50,74,82,39,77,393,65.5,93.0,4.4,Company Secretary,Economics,Biology,237,Average,Yes,Cricket,9,Yes,11,10,Robotics Club
+S080275,Tanvi Kaur,Day Scholar,12 Commerce,TechShield,16,Female,Divine,38,81,54,44,99,77,393,65.5,77.8,8.0,Entrepreneur,Economics,Physics,238,Average,Yes,Basketball,14,No,10,8,Robotics Club
+S080187,Mitesh Dada,Hosteler,12 Commerce,DevFlow,17,Male,Petals,45,60,99,76,57,55,392,65.33,88.0,1.2,Chartered Accountant,Entrepreneurship,Biology,239,Average,Yes,Badminton,12,No,2,1,Music
+S080190,Omisha Lad,Day Scholar,12 Commerce,TechShield,17,Female,Divine,49,80,60,78,64,61,392,65.33,93.6,1.6,Auditor,Accountancy,Chemistry,240,Average,No,,0,No,0,0,Dance
+S080323,Harita Wadhwa,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,49,58,79,56,93,57,392,65.33,87.9,7.6,Marketing Manager,Business Studies,Biology,241,Average,Yes,Cricket,9,No,10,7,Chess
+S080068,Zaitra Tara,Day Scholar,12 Commerce,TechShield,16,Female,Divine,85,37,84,59,69,58,392,65.33,81.2,2.6,Financial Analyst,Business Studies,Biology,242,Average,No,,0,No,0,0,Coding Club
+S080345,Vrishti Dugar,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,57,82,72,60,48,73,392,65.33,91.9,3.4,Auditor,Business Studies,Biology,243,Average,Yes,Cricket,12,No,3,3,Coding Club
+S080233,Imaran Mand,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,97,86,35,87,40,46,391,65.17,98.4,4.0,Financial Analyst,Entrepreneurship,Biology,244,Average,No,,0,No,0,0,Volunteering
+S080298,Vasatika Arya,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,65,42,60,98,50,76,391,65.17,70.3,3.8,Chartered Accountant,Business Studies,Chemistry,245,Average,Yes,Football,7,No,3,3,Dance
+S080259,Umang Deol,Hosteler,12 Commerce,DevFlow,16,Female,Divine,49,61,47,85,73,75,390,65.0,75.8,7.2,Company Secretary,Economics,Chemistry,246,Average,Yes,Cricket,12,Yes,14,15,Photography
+S080394,Kavya Mistry,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,47,56,68,61,83,75,390,65.0,86.1,2.1,Stock Market Analyst,Accountancy,Biology,247,Average,Yes,Cricket,4,No,10,11,Drama
+S080303,Bhavika Tailor,Day Scholar,12 Commerce,TechShield,17,Male,Divine,65,66,48,48,75,88,390,65.0,95.6,1.8,Tax Consultant,Economics,Chemistry,248,Average,Yes,Basketball,13,Yes,5,3,Drama
+S080237,Omaja Vig,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,98,89,37,44,80,42,390,65.0,97.9,2.9,Chartered Accountant,Accountancy,Physics,249,Average,Yes,Football,7,No,7,5,Science Club
+S080390,Divya Sawhney,Hosteler,12 Commerce,TechShield,17,Male,Paradise,75,35,71,76,84,48,389,64.83,71.8,6.9,Financial Analyst,Entrepreneurship,Chemistry,250,Average,Yes,Hockey,11,No,1,0,Public Speaking
+S080175,Urvashi Bakshi,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,61,91,73,84,40,40,389,64.83,84.6,7.7,Company Secretary,Accountancy,Chemistry,251,Average,Yes,Cricket,2,No,8,7,Dance
+S080128,Yash Koshy,Hosteler,12 Commerce,TechShield,16,Female,Divine,73,96,38,57,77,48,389,64.83,86.8,5.1,Chartered Accountant,Economics,Chemistry,252,Average,No,,0,No,0,0,Public Speaking
+S080374,Tanay Gala,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,97,53,35,92,69,42,388,64.67,94.0,6.8,Entrepreneur,Entrepreneurship,Physics,253,Average,Yes,Cricket,3,No,7,4,Public Speaking
+S080288,Jeet Kunda,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,66,75,52,52,47,96,388,64.67,86.6,2.0,Company Secretary,Entrepreneurship,Biology,254,Average,Yes,Badminton,13,No,7,3,Robotics Club
+S080094,Onkar Seth,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,77,44,66,67,40,94,388,64.67,85.1,6.1,Marketing Manager,Economics,Biology,255,Average,Yes,Football,6,No,6,2,Reading
+S080215,Devika Sahni,Hosteler,12 Commerce,TechShield,17,Female,Divine,76,49,52,83,86,42,388,64.67,93.3,7.8,Financial Analyst,Economics,Physics,256,Average,Yes,Badminton,4,No,3,2,Entrepreneurship Club
+S080360,Chameli Agrawal,Hosteler,12 Commerce,DevFlow,17,Male,Passion,80,47,71,37,97,56,388,64.67,98.5,3.9,Business Analyst,Accountancy,Chemistry,257,Average,Yes,Basketball,3,Yes,15,16,Reading
+S080166,Abha Bhagat,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,74,48,56,65,68,76,387,64.5,75.3,3.6,Tax Consultant,Accountancy,Biology,258,Average,Yes,Basketball,7,No,3,2,Volunteering
+S080181,Harshil Mall,Hosteler,12 Commerce,SyntaSphere,16,Male,Paradise,51,92,56,55,68,65,387,64.5,89.2,6.9,Economist,Accountancy,Biology,259,Average,Yes,Volleyball,2,No,8,5,Chess
+S080026,Lila Thakkar,Day Scholar,12 Commerce,TechShield,16,Male,Divine,35,91,72,49,97,42,386,64.33,75.0,3.5,Financial Analyst,Economics,Physics,260,Average,No,,0,No,0,0,Science Club
+S080282,Samaksh Venkataraman,Hosteler,12 Commerce,DevFlow,16,Male,Passion,39,86,78,52,87,44,386,64.33,81.6,6.5,Marketing Manager,Economics,Biology,261,Average,Yes,Athletics,12,No,4,1,Debate
+S080077,Rachit Verma,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,89,64,45,73,50,65,386,64.33,92.4,7.3,Investment Banker,Accountancy,Biology,262,Average,Yes,Cricket,10,Yes,6,4,Drama
+S080196,Anvi Kalla,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,60,54,38,90,75,69,386,64.33,99.3,5.4,Stock Market Analyst,Business Studies,Chemistry,263,Average,Yes,Kabaddi,14,Yes,13,9,Photography
+S080208,Aadi Gandhi,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,57,73,37,90,39,89,385,64.17,93.0,2.6,Auditor,Entrepreneurship,Physics,264,Average,No,,0,No,0,0,Public Speaking
+S080143,Ladli Chadha,Hosteler,12 Commerce,SyntaSphere,16,Male,Passion,52,56,74,54,87,62,385,64.17,79.2,2.2,Auditor,Business Studies,Biology,265,Average,Yes,Kabaddi,10,Yes,12,13,Painting
+S080331,Adweta Badami,Hosteler,12 Commerce,PixelForge,16,Female,Divine,99,38,99,38,42,68,384,64.0,76.9,6.1,Economist,Business Studies,Chemistry,266,Average,No,,0,No,0,0,Music
+S080096,Advik Sura,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,62,91,54,77,65,35,384,64.0,79.5,2.9,Financial Analyst,Business Studies,Biology,267,Average,Yes,Badminton,9,No,3,2,Painting
+S080236,Jagat Handa,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,77,63,58,63,44,79,384,64.0,84.4,4.3,Economist,Accountancy,Biology,268,Average,No,,0,No,0,0,Drama
+S080028,Guneet Oak,Hosteler,12 Commerce,TechShield,16,Female,Divine,92,39,79,69,56,49,384,64.0,88.4,2.5,Bank Manager,Entrepreneurship,Biology,269,Average,No,,0,No,0,0,Dance
+S080008,Peter Grewal,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,37,74,57,66,52,98,384,64.0,96.2,4.7,Financial Analyst,Business Studies,Physics,270,Average,Yes,Cricket,13,No,7,5,Public Speaking
+S080379,Tripti Saini,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,71,88,55,47,61,62,384,64.0,87.3,6.0,Company Secretary,Business Studies,Biology,271,Average,Yes,Basketball,11,Yes,12,7,Public Speaking
+S080123,Maya Luthra,Hosteler,12 Commerce,TechShield,16,Female,Divine,80,42,91,44,79,47,383,63.83,74.2,1.4,Company Secretary,Entrepreneurship,Chemistry,272,Average,Yes,Kabaddi,9,Yes,14,16,Volunteering
+S080206,Zayan Kannan,Hosteler,12 Commerce,PixelForge,17,Female,Divine,82,59,68,49,39,85,382,63.67,98.9,1.1,Tax Consultant,Entrepreneurship,Physics,273,Average,No,,0,No,0,0,Robotics Club
+S080184,Jairaj Kumar,Hosteler,12 Commerce,DevFlow,17,Female,Divine,41,85,66,65,83,42,382,63.67,98.5,7.4,Bank Manager,Entrepreneurship,Chemistry,274,Average,Yes,Hockey,9,Yes,13,8,Reading
+S080075,Aishani Sinha,Hosteler,12 Commerce,SyntaSphere,16,Male,Paradise,74,77,68,38,55,70,382,63.67,86.8,6.2,Entrepreneur,Entrepreneurship,Biology,275,Average,Yes,Hockey,9,No,5,6,Public Speaking
+S080285,Harinakshi Dash,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,68,42,75,60,100,36,381,63.5,70.2,6.3,Bank Manager,Business Studies,Biology,276,Average,Yes,Volleyball,2,No,10,8,Quiz Club
+S080204,Lekha Vasa,Day Scholar,12 Commerce,TechShield,16,Male,Divine,49,68,64,79,44,77,381,63.5,87.0,1.8,Bank Manager,Entrepreneurship,Chemistry,277,Average,Yes,Volleyball,9,No,10,5,Volunteering
+S080163,Jonathan Tandon,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,75,42,72,59,45,88,381,63.5,91.8,7.3,Economist,Accountancy,Biology,278,Average,No,,0,No,0,0,Debate
+S080312,Utkarsh Ahuja,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,86,39,73,42,87,53,380,63.33,72.9,3.5,Stock Market Analyst,Economics,Physics,279,Average,No,,0,No,0,0,Entrepreneurship Club
+S080027,Fitan Tella,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,46,92,88,58,58,38,380,63.33,97.8,4.4,Chartered Accountant,Accountancy,Physics,280,Average,Yes,Basketball,7,Yes,6,4,Reading
+S080147,Kritika Aggarwal,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,77,68,45,44,50,95,379,63.17,80.1,4.6,Tax Consultant,Entrepreneurship,Chemistry,281,Average,Yes,Kabaddi,2,No,4,5,Chess
+S080116,Farhan Balasubramanian,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,61,52,78,45,48,95,379,63.17,71.6,6.9,Tax Consultant,Business Studies,Physics,282,Average,Yes,Cricket,6,No,2,1,Robotics Club
+S080053,Watika Sibal,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,47,45,78,90,55,64,379,63.17,84.9,1.2,Tax Consultant,Economics,Chemistry,283,Average,No,,0,No,0,0,Reading
+S080120,Praneel Kohli,Hosteler,12 Commerce,TechShield,17,Female,Divine,44,36,92,35,85,87,379,63.17,82.6,6.2,Company Secretary,Accountancy,Chemistry,284,Average,Yes,Football,8,Yes,5,2,Painting
+S080014,Chameli Narang,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,50,97,66,39,81,44,377,62.83,76.2,5.6,Chartered Accountant,Entrepreneurship,Chemistry,285,Average,Yes,Basketball,4,No,10,11,Reading
+S080243,Aarna Khosla,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,38,45,98,67,46,83,377,62.83,96.9,1.4,Bank Manager,Business Studies,Chemistry,286,Average,Yes,Hockey,15,Yes,7,3,Entrepreneurship Club
+S080110,Zilmil Gole,Day Scholar,12 Commerce,TechShield,16,Female,Divine,70,95,49,39,83,41,377,62.83,82.9,7.7,Stock Market Analyst,Entrepreneurship,Chemistry,287,Average,Yes,Basketball,13,No,6,4,Dance
+S080015,Shivani Nazareth,Hosteler,12 Commerce,DevFlow,17,Male,Petals,54,72,35,96,74,46,377,62.83,87.0,5.8,Entrepreneur,Economics,Physics,288,Average,Yes,Cricket,4,No,5,4,Music
+S080180,Yauvani Krish,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,77,73,52,53,68,54,377,62.83,77.2,2.0,Company Secretary,Accountancy,Physics,289,Average,Yes,Football,14,No,3,2,Debate
+S080032,Prisha Sunder,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,77,53,36,66,58,87,377,62.83,86.1,7.8,Financial Analyst,Accountancy,Chemistry,290,Average,Yes,Kabaddi,3,Yes,14,10,Reading
+S080130,Wahab Mahajan,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,69,35,67,48,91,67,377,62.83,82.8,6.0,Financial Analyst,Economics,Chemistry,291,Average,Yes,Football,15,Yes,5,5,Science Club
+S080154,Quincy Chaudhry,Hosteler,12 Commerce,SyntaSphere,17,Male,Petals,54,55,59,36,75,96,375,62.5,77.5,7.9,Financial Analyst,Business Studies,Biology,292,Average,Yes,Football,11,No,3,3,Painting
+S080269,Gopal Chauhan,Hosteler,12 Commerce,TechShield,17,Male,Petals,95,48,83,41,43,65,375,62.5,72.0,5.5,Marketing Manager,Business Studies,Physics,293,Average,Yes,Badminton,8,No,1,1,Music
+S080305,Upasna Kashyap,Hosteler,12 Commerce,TechShield,16,Male,Paradise,97,60,48,68,48,54,375,62.5,98.8,5.1,Economist,Business Studies,Biology,294,Average,Yes,Football,8,Yes,9,5,Robotics Club
+S080272,Anika Ramachandran,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,77,60,38,80,63,57,375,62.5,92.4,7.5,Investment Banker,Accountancy,Chemistry,295,Average,Yes,Cricket,3,No,9,11,Dance
+S080296,Sai Karan,Hosteler,12 Commerce,PixelForge,17,Female,Divine,51,82,63,65,52,61,374,62.33,77.0,1.8,Bank Manager,Entrepreneurship,Chemistry,296,Average,Yes,Badminton,13,Yes,9,6,Photography
+S080357,Sanya Gulati,Hosteler,12 Commerce,DevFlow,16,Female,Divine,73,63,45,74,50,68,373,62.17,80.7,3.2,Investment Banker,Entrepreneurship,Chemistry,297,Average,Yes,Basketball,4,Yes,6,7,Music
+S080041,Zashil Dutta,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,50,90,53,87,50,43,373,62.17,83.8,7.5,Business Analyst,Accountancy,Chemistry,298,Average,No,,0,No,0,0,Robotics Club
+S080279,Triveni Mahajan,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,48,52,59,67,99,48,373,62.17,90.4,2.2,Economist,Business Studies,Biology,299,Average,Yes,Kabaddi,11,No,3,1,Robotics Club
+S080328,Radhika More,Hosteler,12 Commerce,DevFlow,16,Male,Petals,39,65,63,92,46,68,373,62.17,76.5,4.3,Financial Analyst,Business Studies,Chemistry,300,Average,Yes,Cricket,15,Yes,7,9,Robotics Club
+S080002,Rohan Chaudhari,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,57,75,39,84,73,44,372,62.0,79.6,4.8,Company Secretary,Accountancy,Biology,301,Average,Yes,Football,5,Yes,15,10,Photography
+S080040,Onveer Kata,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,67,62,94,66,40,43,372,62.0,85.8,2.8,Economist,Accountancy,Physics,302,Average,No,,0,No,0,0,Robotics Club
+S080108,Fiyaz Bansal,Hosteler,12 Commerce,DevFlow,16,Male,Petals,84,45,63,57,46,77,372,62.0,71.8,7.7,Marketing Manager,Accountancy,Biology,303,Average,Yes,Cricket,4,No,7,2,Dance
+S080060,Vanya Roy,Hosteler,12 Commerce,DevFlow,17,Female,Divine,71,51,69,69,76,35,371,61.83,95.0,3.7,Company Secretary,Business Studies,Physics,304,Average,No,,0,No,0,0,Entrepreneurship Club
+S080151,Frado Varghese,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,58,72,71,96,39,35,371,61.83,73.5,5.8,Chartered Accountant,Entrepreneurship,Physics,305,Average,Yes,Swimming,15,No,5,3,Reading
+S080378,Tejas Gade,Hosteler,12 Commerce,TechShield,17,Male,Petals,37,58,55,79,48,94,371,61.83,83.1,4.7,Tax Consultant,Business Studies,Physics,306,Average,Yes,Volleyball,13,No,4,2,Quiz Club
+S080134,Chandresh Wason,Hosteler,12 Commerce,TechShield,16,Female,Divine,51,67,81,51,71,50,371,61.83,89.9,7.2,Marketing Manager,Economics,Physics,307,Average,Yes,Cricket,13,Yes,11,10,Entrepreneurship Club
+S080367,Gaurika Dua,Hosteler,12 Commerce,DevFlow,16,Male,Petals,55,46,84,37,90,59,371,61.83,72.0,7.5,Chartered Accountant,Accountancy,Biology,308,Average,Yes,Football,9,No,3,3,Robotics Club
+S080178,Zashil Tank,Hosteler,12 Commerce,TechShield,16,Male,Paradise,86,65,43,48,39,89,370,61.67,92.2,2.7,Company Secretary,Economics,Biology,309,Average,Yes,Volleyball,10,Yes,8,7,Entrepreneurship Club
+S080114,Pooja Sarraf,Hosteler,12 Commerce,DevFlow,16,Male,Petals,35,71,75,62,59,68,370,61.67,77.9,6.7,Financial Analyst,Accountancy,Chemistry,310,Average,No,,0,No,0,0,Drama
+S080089,Jyoti Rama,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,90,74,54,37,46,69,370,61.67,83.4,7.7,Investment Banker,Entrepreneurship,Biology,311,Average,Yes,Basketball,3,No,10,8,Photography
+S080194,Vasana Bal,Day Scholar,12 Commerce,TechShield,16,Male,Divine,68,48,49,42,82,80,369,61.5,89.6,7.8,Bank Manager,Entrepreneurship,Biology,312,Average,No,,0,No,0,0,Debate
+S080239,Mason Dalal,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,74,63,52,40,60,80,369,61.5,83.3,4.0,Economist,Economics,Chemistry,313,Average,Yes,Football,5,No,9,6,Entrepreneurship Club
+S080080,Ekalinga Tella,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,83,35,65,92,56,38,369,61.5,82.4,7.6,Economist,Accountancy,Biology,314,Average,Yes,Football,7,No,10,10,Public Speaking
+S080383,Nirja Murthy,Hosteler,12 Commerce,TechShield,17,Female,Divine,47,82,35,75,52,77,368,61.33,70.1,7.1,Financial Analyst,Economics,Chemistry,315,Average,No,,0,No,0,0,Drama
+S080145,Balendra Jani,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,86,62,47,90,45,38,368,61.33,98.8,4.9,Bank Manager,Business Studies,Physics,316,Average,Yes,Kabaddi,6,No,7,6,Volunteering
+S080202,Avni Sama,Hosteler,12 Commerce,PixelForge,16,Male,Passion,61,37,88,72,42,68,368,61.33,72.2,4.2,Chartered Accountant,Business Studies,Physics,317,Average,Yes,Cricket,10,No,6,7,Entrepreneurship Club
+S080317,Praneel Chahal,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,40,69,71,38,85,65,368,61.33,78.4,5.8,Investment Banker,Economics,Chemistry,318,Average,No,,0,No,0,0,Drama
+S080009,Lakshit Madan,Hosteler,12 Commerce,TechShield,16,Female,Divine,38,68,49,83,79,51,368,61.33,96.3,1.6,Bank Manager,Accountancy,Physics,319,Average,Yes,Volleyball,12,No,9,8,Debate
+S080168,Avni Palla,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,60,52,98,42,54,61,367,61.17,77.7,7.3,Chartered Accountant,Business Studies,Biology,320,Average,Yes,Cricket,4,No,6,4,Public Speaking
+S080176,Aarna Dhillon,Day Scholar,12 Commerce,TechShield,17,Male,Divine,84,35,71,36,73,67,366,61.0,70.8,4.2,Bank Manager,Accountancy,Chemistry,321,Average,Yes,Kabaddi,10,Yes,14,14,Entrepreneurship Club
+S080371,Jagdish Lad,Hosteler,12 Commerce,TechShield,16,Female,Divine,40,38,59,81,96,52,366,61.0,88.4,2.6,Business Analyst,Accountancy,Chemistry,322,Average,No,,0,No,0,0,Coding Club
+S080266,Tanish Kade,Hosteler,12 Commerce,SyntaSphere,17,Male,Petals,40,48,82,35,82,79,366,61.0,99.5,1.6,Economist,Accountancy,Biology,323,Average,No,,0,No,0,0,Entrepreneurship Club
+S080100,Maanas Kapadia,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,61,44,38,79,45,99,366,61.0,86.4,4.7,Business Analyst,Accountancy,Biology,324,Average,Yes,Athletics,11,No,2,1,Science Club
+S080150,Amaira Walla,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,99,38,69,89,36,35,366,61.0,90.8,4.9,Bank Manager,Business Studies,Chemistry,325,Average,Yes,Kabaddi,10,No,4,5,Robotics Club
+S080310,Omisha Naik,Day Scholar,12 Commerce,SyntaSphere,16,Female,Divine,59,57,42,82,35,89,364,60.67,81.9,5.0,Stock Market Analyst,Economics,Biology,326,Average,Yes,Football,6,No,6,4,Volunteering
+S080224,Frado Das,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,71,60,52,98,35,48,364,60.67,83.7,1.3,Stock Market Analyst,Business Studies,Chemistry,327,Average,No,,0,No,0,0,Debate
+S080161,Jason Nair,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,59,83,41,68,35,77,363,60.5,73.0,2.8,Marketing Manager,Economics,Chemistry,328,Average,Yes,Swimming,10,No,5,6,Painting
+S080085,Ronith Prabhu,Hosteler,12 Commerce,TechShield,17,Female,Divine,67,78,71,48,51,48,363,60.5,75.1,7.3,Tax Consultant,Accountancy,Biology,329,Average,No,,0,No,0,0,Debate
+S080399,Vihaan Suri,Day Scholar,12 Commerce,TechShield,16,Male,Divine,65,56,70,45,91,36,363,60.5,74.3,4.5,Stock Market Analyst,Entrepreneurship,Physics,330,Average,Yes,Cricket,14,Yes,14,13,Photography
+S080258,Janani Bains,Hosteler,12 Commerce,PixelForge,16,Female,Divine,58,43,49,77,45,91,363,60.5,83.5,1.2,Economist,Entrepreneurship,Biology,331,Average,No,,0,No,0,0,Painting
+S080336,Niharika Gade,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,54,59,50,46,68,86,363,60.5,95.8,6.4,Investment Banker,Entrepreneurship,Biology,332,Average,No,,0,No,0,0,Painting
+S080146,Theodore Khurana,Day Scholar,12 Commerce,TechShield,17,Male,Divine,46,69,42,73,43,89,362,60.33,88.8,2.1,Financial Analyst,Business Studies,Chemistry,333,Average,No,,0,No,0,0,Volunteering
+S080019,Yamini Jani,Hosteler,12 Commerce,PixelForge,16,Male,Paradise,62,56,35,47,83,79,362,60.33,82.2,1.1,Business Analyst,Accountancy,Chemistry,334,Average,No,,0,No,0,0,Painting
+S080109,Vivaan Nagy,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,69,61,39,83,38,72,362,60.33,72.9,4.4,Financial Analyst,Business Studies,Chemistry,335,Average,Yes,Basketball,15,Yes,14,11,Quiz Club
+S080164,Yochana Rao,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,59,43,52,88,37,82,361,60.17,79.0,2.0,Chartered Accountant,Economics,Chemistry,336,Average,Yes,Cricket,13,Yes,14,17,Music
+S080384,Jasmit Saini,Day Scholar,12 Commerce,TechShield,16,Female,Divine,40,41,73,85,87,35,361,60.17,85.2,6.5,Auditor,Economics,Physics,337,Average,Yes,Cricket,3,Yes,13,8,Chess
+S080066,Ishaan Pillay,Day Scholar,12 Commerce,TechShield,17,Female,Divine,49,87,43,78,59,45,361,60.17,82.2,6.6,Stock Market Analyst,Economics,Chemistry,338,Average,Yes,Basketball,5,No,10,9,Entrepreneurship Club
+S080333,Nihal Mangat,Hosteler,12 Commerce,TechShield,16,Male,Passion,79,65,53,75,41,47,360,60.0,93.3,2.3,Marketing Manager,Economics,Chemistry,339,Average,Yes,Hockey,14,Yes,14,10,Public Speaking
+S080117,Jackson Ramesh,Hosteler,12 Commerce,PixelForge,17,Female,Divine,84,63,66,38,41,68,360,60.0,96.4,1.6,Chartered Accountant,Economics,Biology,340,Average,Yes,Basketball,13,Yes,10,11,Chess
+S080362,Nathaniel Saxena,Day Scholar,12 Commerce,TechShield,16,Male,Divine,40,43,46,73,91,67,360,60.0,88.5,1.4,Stock Market Analyst,Economics,Chemistry,341,Average,No,,0,No,0,0,Chess
+S080391,Lohit Dhaliwal,Day Scholar,12 Commerce,SyntaSphere,16,Male,Divine,72,80,69,56,46,37,360,60.0,70.5,4.6,Entrepreneur,Accountancy,Biology,342,Average,No,,0,No,0,0,Quiz Club
+S080144,Waida Natarajan,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,76,79,46,41,53,64,359,59.83,80.9,4.7,Chartered Accountant,Entrepreneurship,Physics,343,Average,Yes,Football,12,Yes,11,13,Debate
+S080013,Ekansh Memon,Day Scholar,12 Commerce,TechShield,16,Male,Divine,64,65,61,81,38,49,358,59.67,82.6,3.3,Chartered Accountant,Accountancy,Chemistry,344,Average,No,,0,No,0,0,Chess
+S080198,Bhavna Pandey,Day Scholar,12 Commerce,TechShield,17,Male,Divine,65,44,58,55,81,55,358,59.67,87.6,3.0,Auditor,Entrepreneurship,Physics,345,Average,Yes,Basketball,2,No,1,0,Science Club
+S080133,Yashoda Bobal,Day Scholar,12 Commerce,TechShield,17,Female,Divine,73,49,63,66,50,57,358,59.67,71.4,4.8,Economist,Business Studies,Chemistry,346,Average,Yes,Swimming,2,No,8,5,Music
+S080281,Ria Lall,Hosteler,12 Commerce,PixelForge,17,Male,Petals,59,51,50,77,53,67,357,59.5,94.2,1.8,Marketing Manager,Economics,Biology,347,Average,Yes,Cricket,12,No,1,1,Music
+S080132,Veer Pau,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,38,76,35,37,80,91,357,59.5,91.3,7.7,Marketing Manager,Entrepreneurship,Chemistry,348,Average,Yes,Cricket,3,Yes,5,4,Public Speaking
+S080400,Jagat Narain,Day Scholar,12 Commerce,PixelForge,16,Male,Divine,40,100,43,59,57,57,356,59.33,75.4,1.4,Investment Banker,Economics,Biology,349,Average,Yes,Cricket,13,No,5,5,Entrepreneurship Club
+S080197,Ranveer Chanda,Hosteler,12 Commerce,PixelForge,16,Male,Passion,44,79,54,69,59,50,355,59.17,80.1,6.9,Chartered Accountant,Business Studies,Biology,350,Average,Yes,Cricket,9,No,3,3,Coding Club
+S080270,Sneha Rout,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,61,85,38,38,44,88,354,59.0,92.7,3.4,Marketing Manager,Entrepreneurship,Physics,351,Average,Yes,Swimming,11,Yes,5,4,Drama
+S080189,Samarth Hegde,Day Scholar,12 Commerce,TechShield,16,Female,Divine,38,63,64,79,39,70,353,58.83,90.8,5.3,Company Secretary,Business Studies,Biology,352,Average,Yes,Hockey,8,Yes,6,5,Chess
+S080061,Sai Shah,Hosteler,12 Commerce,TechShield,17,Female,Divine,77,44,85,48,35,64,353,58.83,76.2,2.1,Investment Banker,Accountancy,Physics,353,Average,Yes,Cricket,7,No,6,6,Reading
+S080138,Wyatt Pandya,Hosteler,12 Commerce,TechShield,17,Male,Paradise,55,56,40,86,68,47,352,58.67,86.7,3.1,Company Secretary,Business Studies,Chemistry,354,Average,No,,0,No,0,0,Robotics Club
+S080264,Benjamin Dubey,Hosteler,12 Commerce,DevFlow,16,Male,Petals,38,83,37,70,52,72,352,58.67,92.7,1.6,Auditor,Economics,Chemistry,355,Average,No,,0,No,0,0,Debate
+S080125,Yauvani Kala,Hosteler,12 Commerce,SyntaSphere,16,Male,Passion,87,85,41,59,38,42,352,58.67,89.2,2.5,Company Secretary,Economics,Biology,356,Average,No,,0,No,0,0,Coding Club
+S080314,Bhavya Gera,Hosteler,12 Commerce,TechShield,16,Male,Passion,40,71,62,45,40,93,351,58.5,75.0,4.9,Tax Consultant,Economics,Biology,357,Average,No,,0,No,0,0,Volunteering
+S080071,Kabir Chatterjee,Hosteler,12 Commerce,DevFlow,17,Male,Petals,72,72,62,43,55,45,349,58.17,99.8,6.0,Financial Analyst,Entrepreneurship,Biology,358,Average,Yes,Cricket,9,No,6,4,Robotics Club
+S080039,Robert Gopal,Day Scholar,12 Commerce,TechShield,16,Female,Divine,45,90,39,80,46,48,348,58.0,74.8,2.9,Bank Manager,Entrepreneurship,Biology,359,Average,Yes,Cricket,4,No,9,8,Reading
+S080011,Laban Ramaswamy,Hosteler,12 Commerce,PixelForge,16,Male,Paradise,92,39,57,38,46,74,346,57.67,96.0,6.3,Company Secretary,Entrepreneurship,Physics,360,Average,Yes,Hockey,11,Yes,6,5,Coding Club
+S080225,Charles Varughese,Hosteler,12 Commerce,DevFlow,17,Male,Paradise,35,66,53,35,99,54,342,57.0,97.2,6.7,Auditor,Accountancy,Biology,361,Average,Yes,Cricket,7,No,9,7,Music
+S080274,Arin Wagle,Day Scholar,12 Commerce,PixelForge,16,Female,Divine,47,45,61,82,60,47,342,57.0,85.4,6.4,Financial Analyst,Entrepreneurship,Chemistry,362,Average,No,,0,No,0,0,Painting
+S080361,Xavier Kuruvilla,Hosteler,12 Commerce,DevFlow,17,Male,Passion,41,100,54,54,52,41,342,57.0,72.6,5.9,Auditor,Accountancy,Physics,363,Average,Yes,Football,2,No,4,4,Music
+S080228,Sudiksha Dixit,Hosteler,12 Commerce,SyntaSphere,17,Male,Passion,69,39,56,83,37,58,342,57.0,80.7,3.3,Auditor,Accountancy,Biology,364,Average,No,,0,No,0,0,Photography
+S080141,Manya Bhat,Day Scholar,12 Commerce,TechShield,16,Male,Divine,96,55,54,41,59,36,341,56.83,71.8,7.0,Chartered Accountant,Entrepreneurship,Biology,365,Average,Yes,Cricket,7,Yes,10,5,Dance
+S080140,Samarth Wadhwa,Hosteler,12 Commerce,PixelForge,16,Female,Divine,36,36,81,38,50,100,341,56.83,91.0,1.0,Auditor,Business Studies,Chemistry,366,Average,Yes,Cricket,10,No,2,1,Robotics Club
+S080090,Daniel Mukhopadhyay,Day Scholar,12 Commerce,PixelForge,17,Male,Divine,41,88,71,43,36,62,341,56.83,71.9,5.6,Company Secretary,Business Studies,Biology,367,Average,No,,0,No,0,0,Volunteering
+S080289,Sai Chaudhary,Hosteler,12 Commerce,TechShield,17,Male,Petals,55,37,54,44,93,57,340,56.67,93.2,5.6,Bank Manager,Economics,Physics,368,Average,Yes,Tennis,13,Yes,14,8,Music
+S080103,Arunima Gupta,Day Scholar,12 Commerce,TechShield,17,Female,Divine,92,77,41,39,51,39,339,56.5,96.6,5.6,Tax Consultant,Accountancy,Chemistry,369,Average,Yes,Badminton,2,Yes,12,16,Science Club
+S080003,Faris Parmar,Hosteler,12 Commerce,DevFlow,16,Female,Divine,43,46,35,93,47,71,335,55.83,91.1,1.2,Auditor,Accountancy,Biology,370,Average,Yes,Cricket,2,No,8,4,Drama
+S080006,Reva Thakkar,Day Scholar,12 Commerce,SyntaSphere,17,Female,Divine,57,50,50,39,43,95,334,55.67,75.0,1.6,Auditor,Accountancy,Physics,371,Average,No,,0,No,0,0,Painting
+S080173,Lila Kapoor,Hosteler,12 Commerce,DevFlow,17,Female,Divine,49,63,37,35,69,81,334,55.67,80.9,5.4,Marketing Manager,Economics,Physics,372,Average,No,,0,No,0,0,Entrepreneurship Club
+S080396,Ansh Subramanian,Hosteler,12 Commerce,SyntaSphere,17,Male,Paradise,56,63,80,44,52,38,333,55.5,99.8,6.0,Entrepreneur,Accountancy,Chemistry,373,Average,Yes,Cricket,13,Yes,15,18,Public Speaking
+S080179,Jeremiah Sridhar,Hosteler,12 Commerce,DevFlow,16,Male,Passion,53,41,54,85,48,52,333,55.5,74.7,3.9,Business Analyst,Economics,Physics,374,Average,Yes,Badminton,12,Yes,11,9,Reading
+S080073,Inaya Garg,Day Scholar,12 Commerce,DevFlow,17,Male,Divine,44,82,48,41,71,47,333,55.5,84.6,4.4,Financial Analyst,Entrepreneurship,Biology,375,Average,No,,0,No,0,0,Quiz Club
+S080316,Caleb Borra,Hosteler,12 Commerce,DevFlow,16,Male,Paradise,43,61,39,79,57,54,333,55.5,80.9,7.8,Tax Consultant,Business Studies,Chemistry,376,Average,Yes,Athletics,2,No,3,3,Coding Club
+S080111,Kala Nagarajan,Hosteler,12 Commerce,PixelForge,17,Male,Passion,50,50,40,42,93,55,330,55.0,84.1,6.7,Stock Market Analyst,Accountancy,Biology,377,Average,Yes,Tennis,10,Yes,10,6,Drama
+S080188,Charvi Dass,Day Scholar,12 Commerce,SyntaSphere,17,Male,Divine,40,47,70,73,44,56,330,55.0,97.7,2.3,Entrepreneur,Economics,Chemistry,378,Average,No,,0,No,0,0,Science Club
+S080327,Aryan Chowdhury,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,41,38,41,58,53,97,328,54.67,88.5,5.8,Financial Analyst,Economics,Chemistry,379,Average,No,,0,No,0,0,Dance
+S080047,Pranit Dutta,Hosteler,12 Commerce,TechShield,17,Female,Divine,64,35,64,70,49,45,327,54.5,84.7,2.8,Business Analyst,Entrepreneurship,Physics,380,Average,Yes,Volleyball,11,Yes,13,11,Entrepreneurship Club
+S080267,Wishi Jha,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,65,39,74,38,35,76,327,54.5,85.6,1.6,Bank Manager,Accountancy,Chemistry,381,Average,Yes,Cricket,15,No,2,1,Public Speaking
+S080365,Baghyawati Badal,Day Scholar,12 Commerce,TechShield,17,Male,Divine,46,61,40,50,89,41,327,54.5,89.8,6.2,Investment Banker,Accountancy,Physics,382,Average,No,,0,No,0,0,Music
+S080200,Veda Cheema,Hosteler,12 Commerce,PixelForge,17,Male,Petals,43,39,48,52,72,72,326,54.33,81.8,5.5,Tax Consultant,Accountancy,Physics,383,Average,Yes,Basketball,15,Yes,5,2,Volunteering
+S080046,Mugdha Choudhury,Hosteler,12 Commerce,TechShield,16,Female,Divine,45,68,59,46,45,59,322,53.67,92.9,5.1,Tax Consultant,Accountancy,Chemistry,384,Average,Yes,Football,3,No,8,6,Reading
+S080260,Simon Mohanty,Hosteler,12 Commerce,DevFlow,17,Male,Passion,66,66,57,46,39,47,321,53.5,98.4,5.9,Business Analyst,Economics,Biology,385,Average,Yes,Football,13,Yes,15,15,Painting
+S080086,Pahal Mandal,Hosteler,12 Commerce,SyntaSphere,16,Male,Passion,99,55,36,38,55,37,320,53.33,95.8,3.2,Economist,Economics,Chemistry,386,Average,Yes,Athletics,12,No,3,1,Volunteering
+S080025,Rachit Sachar,Hosteler,12 Commerce,PixelForge,17,Female,Divine,39,38,55,68,76,42,318,53.0,91.3,5.7,Entrepreneur,Accountancy,Physics,387,Average,Yes,Hockey,12,No,9,10,Music
+S080010,Gaurang Butala,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,47,40,37,43,93,58,318,53.0,76.8,7.1,Company Secretary,Business Studies,Physics,388,Average,No,,0,No,0,0,Painting
+S080098,Tripti Choudhry,Hosteler,12 Commerce,SyntaSphere,16,Female,Divine,36,78,59,38,39,65,315,52.5,98.4,6.2,Chartered Accountant,Entrepreneurship,Physics,389,Average,Yes,Football,2,No,5,4,Public Speaking
+S080376,Ucchal Sarna,Hosteler,12 Commerce,TechShield,16,Male,Paradise,57,35,70,48,41,64,315,52.5,85.2,1.5,Economist,Entrepreneurship,Physics,390,Average,No,,0,No,0,0,Public Speaking
+S080054,Janani Mangat,Hosteler,12 Commerce,SyntaSphere,17,Female,Divine,45,70,44,54,35,67,315,52.5,73.2,7.9,Auditor,Accountancy,Biology,391,Average,Yes,Volleyball,2,Yes,9,7,Volunteering
+S080278,Yashica Krishnamurthy,Hosteler,12 Commerce,DevFlow,17,Female,Divine,70,36,75,42,44,47,314,52.33,72.2,7.2,Auditor,Accountancy,Chemistry,392,Average,Yes,Badminton,10,No,6,5,Photography
+S080097,Gaurav Bhattacharyya,Day Scholar,12 Commerce,DevFlow,16,Female,Divine,51,37,76,67,37,42,310,51.67,73.2,3.5,Company Secretary,Entrepreneurship,Biology,393,Average,Yes,Cricket,7,Yes,15,13,Reading
+S080153,Rachana Dada,Day Scholar,12 Commerce,TechShield,16,Male,Divine,91,51,38,47,42,39,308,51.33,78.0,4.2,Company Secretary,Accountancy,Chemistry,394,Average,Yes,Cricket,4,No,10,4,Dance
+S080209,Wazir Tiwari,Hosteler,12 Commerce,PixelForge,16,Male,Petals,65,44,47,69,42,38,305,50.83,95.0,7.0,Marketing Manager,Accountancy,Biology,395,Average,No,,0,No,0,0,Public Speaking
+S080283,Daksh Kar,Hosteler,12 Commerce,PixelForge,17,Male,Paradise,44,43,56,61,63,37,304,50.67,83.6,6.8,Financial Analyst,Economics,Biology,396,Average,Yes,Badminton,10,No,5,3,Public Speaking
+S080087,Jeet Behl,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,40,39,45,56,62,59,301,50.17,74.0,3.1,Marketing Manager,Accountancy,Chemistry,397,Average,Yes,Volleyball,3,Yes,12,14,Debate
+S080201,Januja Dada,Day Scholar,12 Commerce,PixelForge,17,Female,Divine,37,38,70,67,43,41,296,49.33,75.1,2.3,Business Analyst,Economics,Biology,398,Needs Improvement,Yes,Football,4,Yes,9,4,Painting
+S080398,Lopa Mannan,Day Scholar,12 Commerce,DevFlow,17,Female,Divine,35,49,46,46,50,64,290,48.33,88.3,7.1,Investment Banker,Business Studies,Physics,399,Needs Improvement,Yes,Badminton,5,Yes,12,10,Chess
+S080291,Yachana Kunda,Day Scholar,12 Commerce,DevFlow,16,Male,Divine,43,63,37,36,49,49,277,46.17,78.5,3.1,Entrepreneur,Business Studies,Physics,400,Needs Improvement,Yes,Badminton,13,No,6,6,Drama

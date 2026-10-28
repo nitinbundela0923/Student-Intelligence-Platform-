@@ -1,0 +1,401 @@
+Student_ID,Student_Name,Student_Type,Class,Section,Age,Gender,Hostel_Name,Business_Marks,Accountancy_Marks,English_Marks,Economics_Marks,Physical_Education_Marks,Hindi_Marks,Total_Marks,Percentage,Attendance_Percentage,Study_Hours_Per_Day,Career_Goal,Favorite_Subject,Least_Favorite_Subject,Rank,Academic_Performance_Category,Sports_Participation,Favorite_Sport,Sports_Hours_Per_Week,School_Team_Member,Competitions_Attended,Medals_or_Certificates,Favorite_Extracurricular_Activity
+S020167,Manthan Narang,Day Scholar,10,Predictix,15,Male,Divine,93,58,91,80,94,99,515,85.83,98.6,4.6,Tax Consultant,Computer,Hindi,1,Excellent,Yes,Badminton,8,No,5,5,Painting
+S020312,Reyansh Vaidya,Day Scholar,10,AI,15,Female,Divine,87,85,91,89,86,68,506,84.33,84.6,2.5,Company Secretary,Computer,Social Science,2,Good,Yes,Cricket,14,No,7,7,Painting
+S020106,Raksha Bir,Day Scholar,10,Predictix,15,Female,Divine,57,76,82,96,98,95,504,84.0,89.1,6.5,Chartered Accountant,Science,Hindi,3,Good,Yes,Football,12,Yes,6,2,Robotics Club
+S020279,Ria Varty,Hosteler,10,ML,14,Male,Passion,99,63,79,90,96,73,500,83.33,97.9,1.2,Stock Market Analyst,English,Hindi,4,Good,No,,0,No,0,0,Debate
+S020016,Charvi Mandal,Day Scholar,10,AI,14,Female,Divine,86,97,100,70,53,93,499,83.17,77.5,4.5,Business Analyst,Maths,Hindi,5,Good,No,,0,No,0,0,Quiz Club
+S020342,Qasim Seth,Day Scholar,10,Predictix,15,Male,Divine,93,90,86,95,66,67,497,82.83,84.5,3.8,Financial Analyst,Science,Hindi,6,Good,Yes,Volleyball,2,No,4,3,Debate
+S020108,Lekha Venkatesh,Hosteler,10,CognitoSphere,15,Female,Divine,40,94,100,78,89,92,493,82.17,82.3,6.6,Financial Analyst,Computer,Social Science,7,Good,No,,0,No,0,0,Drama
+S020262,Bhavini Rattan,Hosteler,10,Predictix,15,Female,Divine,52,91,75,99,80,94,491,81.83,84.0,7.7,Investment Banker,Maths,Hindi,8,Good,Yes,Cricket,14,No,2,2,Music
+S020283,Anirudh Sani,Hosteler,10,Predictix,14,Female,Divine,98,80,63,91,73,81,486,81.0,85.8,2.9,Stock Market Analyst,Maths,Hindi,9,Good,Yes,Badminton,10,Yes,5,3,Public Speaking
+S020058,Nachiket Shroff,Day Scholar,10,AI,15,Male,Divine,86,97,100,97,64,42,486,81.0,87.3,4.9,Company Secretary,English,Social Science,10,Good,Yes,Kabaddi,6,No,5,5,Volunteering
+S020198,Ikbal Ramanathan,Hosteler,10,CognitoSphere,15,Female,Divine,58,84,80,75,98,89,484,80.67,88.1,5.5,Tax Consultant,Science,Social Science,11,Good,Yes,Badminton,5,No,9,8,Dance
+S020112,Praneel Mahal,Day Scholar,10,AI,15,Male,Divine,59,89,88,61,91,92,480,80.0,74.2,7.1,Stock Market Analyst,Maths,Social Science,12,Good,Yes,Basketball,2,No,5,5,Entrepreneurship Club
+S020091,Isaiah Bakshi,Day Scholar,10,AI,14,Female,Divine,87,70,50,94,98,81,480,80.0,71.4,7.4,Marketing Manager,English,Social Science,13,Good,Yes,Volleyball,15,No,10,4,Public Speaking
+S020053,Meghana Zachariah,Hosteler,10,ML,14,Male,Passion,73,75,93,92,68,78,479,79.83,75.6,6.2,Company Secretary,Computer,Hindi,14,Good,No,,0,No,0,0,Volunteering
+S020153,Azad Vora,Day Scholar,10,Predictix,15,Female,Divine,89,95,79,85,85,44,477,79.5,90.9,2.4,Auditor,English,Hindi,15,Good,Yes,Badminton,12,Yes,15,8,Science Club
+S020324,Tanveer Dhawan,Hosteler,10,ML,14,Female,Divine,82,67,95,94,61,77,476,79.33,85.7,6.8,Bank Manager,Computer,Social Science,16,Good,Yes,Cricket,6,Yes,8,3,Quiz Club
+S020020,Janani Tiwari,Hosteler,10,AI,14,Male,Passion,68,98,83,80,71,76,476,79.33,87.7,1.9,Chartered Accountant,Computer,Hindi,17,Good,Yes,Badminton,15,Yes,10,4,Debate
+S020117,Ayush Chowdhury,Day Scholar,10,Predictix,14,Female,Divine,95,55,74,60,99,93,476,79.33,70.2,2.0,Chartered Accountant,English,Hindi,18,Good,No,,0,No,0,0,Coding Club
+S020113,Vedika Dara,Day Scholar,10,AI,14,Female,Divine,63,88,89,86,73,76,475,79.17,97.7,2.1,Company Secretary,English,Social Science,19,Good,No,,0,No,0,0,Public Speaking
+S020041,Vidhi Srinivas,Hosteler,10,AI,14,Male,Passion,99,83,73,85,82,51,473,78.83,77.8,4.5,Financial Analyst,English,Hindi,20,Good,Yes,Badminton,15,No,3,1,Drama
+S020382,Rachana Kurian,Hosteler,10,CognitoSphere,15,Female,Divine,74,77,80,75,92,74,472,78.67,92.9,1.0,Financial Analyst,Maths,Social Science,21,Good,No,,0,No,0,0,Quiz Club
+S020359,Saumya Nair,Day Scholar,10,CognitoSphere,14,Male,Divine,78,75,79,91,54,94,471,78.5,86.0,2.2,Marketing Manager,Computer,Social Science,22,Good,No,,0,No,0,0,Public Speaking
+S020013,Nisha Srinivas,Hosteler,10,CognitoSphere,14,Male,Passion,98,49,84,71,93,74,469,78.17,86.6,3.0,Auditor,Science,Hindi,23,Good,Yes,Cricket,2,No,1,1,Entrepreneurship Club
+S020330,Neel Khare,Hosteler,10,AI,15,Male,Petals,70,53,90,91,97,67,468,78.0,89.6,2.2,Chartered Accountant,English,Social Science,24,Good,Yes,Basketball,13,No,9,11,Public Speaking
+S020372,Ria Sem,Hosteler,10,ML,15,Female,Divine,36,68,81,100,86,96,467,77.83,89.3,5.1,Marketing Manager,Computer,Social Science,25,Good,No,,0,No,0,0,Reading
+S020143,Fariq Banik,Day Scholar,10,Predictix,15,Female,Divine,89,78,82,78,75,65,467,77.83,81.4,1.4,Financial Analyst,Computer,Hindi,26,Good,Yes,Cricket,15,Yes,13,13,Debate
+S020387,Aarna Dewan,Hosteler,10,Predictix,14,Female,Divine,58,76,94,64,93,81,466,77.67,90.3,5.9,Stock Market Analyst,Maths,Hindi,27,Good,Yes,Cricket,12,Yes,5,5,Volunteering
+S020254,Gunbir Sunder,Hosteler,10,Predictix,15,Male,Paradise,47,73,77,92,97,79,465,77.5,77.6,4.2,Tax Consultant,Computer,Social Science,28,Good,No,,0,No,0,0,Quiz Club
+S020297,Sneha Walia,Hosteler,10,CognitoSphere,15,Female,Divine,80,99,44,81,96,64,464,77.33,76.9,6.8,Stock Market Analyst,Science,Social Science,29,Good,No,,0,No,0,0,Drama
+S020060,Kabir Srinivas,Day Scholar,10,Predictix,14,Male,Divine,84,88,81,95,55,61,464,77.33,90.0,1.9,Marketing Manager,Science,Social Science,30,Good,Yes,Basketball,14,No,9,4,Drama
+S020040,Aarini Master,Hosteler,10,AI,14,Female,Divine,76,85,62,84,89,67,463,77.17,86.7,1.4,Bank Manager,English,Social Science,31,Good,No,,0,No,0,0,Entrepreneurship Club
+S020235,Rehaan Bava,Day Scholar,10,CognitoSphere,15,Male,Divine,90,92,89,69,75,48,463,77.17,76.0,3.5,Financial Analyst,English,Hindi,32,Good,No,,0,No,0,0,Debate
+S020362,Urvashi Rastogi,Day Scholar,10,Predictix,14,Male,Divine,87,80,62,88,70,75,462,77.0,89.9,5.8,Economist,English,Hindi,33,Good,Yes,Badminton,15,Yes,12,5,Quiz Club
+S020044,Hardik Chopra,Hosteler,10,Predictix,15,Female,Divine,94,90,49,98,40,91,462,77.0,83.7,1.8,Auditor,Maths,Social Science,34,Good,No,,0,No,0,0,Entrepreneurship Club
+S020021,Vritti Ganguly,Day Scholar,10,AI,14,Female,Divine,47,89,79,80,87,79,461,76.83,77.4,5.5,Business Analyst,Maths,Hindi,35,Good,Yes,Cricket,11,Yes,12,5,Music
+S020202,Thomas Kara,Hosteler,10,Predictix,15,Female,Divine,58,95,52,73,95,87,460,76.67,93.4,5.9,Chartered Accountant,Maths,Hindi,36,Good,Yes,Cricket,3,Yes,14,5,Music
+S020344,Vincent Ram,Hosteler,10,AI,14,Male,Passion,53,79,93,85,56,93,459,76.5,76.0,2.2,Investment Banker,Maths,Hindi,37,Good,Yes,Hockey,11,Yes,13,14,Volunteering
+S020234,Bhavani Kuruvilla,Day Scholar,10,ML,15,Female,Divine,90,100,86,59,67,57,459,76.5,98.9,1.7,Stock Market Analyst,Computer,Hindi,38,Good,No,,0,No,0,0,Photography
+S020107,Hemangini Lall,Day Scholar,10,ML,15,Male,Divine,65,85,62,74,89,83,458,76.33,77.6,1.6,Bank Manager,Computer,Social Science,39,Good,Yes,Cricket,3,Yes,12,5,Coding Club
+S020076,Krishna Jaggi,Day Scholar,10,CognitoSphere,15,Female,Divine,78,83,95,51,52,99,458,76.33,90.0,2.0,Entrepreneur,Maths,Social Science,40,Good,Yes,Kabaddi,8,No,1,0,Entrepreneurship Club
+S020319,Aarini Khurana,Hosteler,10,AI,15,Female,Divine,38,85,64,92,82,96,457,76.17,80.0,6.7,Business Analyst,Maths,Hindi,41,Good,Yes,Basketball,3,No,8,9,Robotics Club
+S020180,Ishani Sarna,Day Scholar,10,Predictix,14,Male,Divine,89,96,42,100,89,41,457,76.17,78.1,3.0,Investment Banker,English,Hindi,42,Good,Yes,Basketball,14,Yes,13,12,Entrepreneurship Club
+S020246,Yuvraj Thakkar,Day Scholar,10,AI,14,Male,Divine,61,100,75,74,93,54,457,76.17,76.6,3.5,Financial Analyst,Science,Social Science,43,Good,No,,0,No,0,0,Volunteering
+S020268,Andrew Merchant,Day Scholar,10,AI,15,Female,Divine,84,48,94,88,89,53,456,76.0,83.7,4.9,Entrepreneur,Computer,Hindi,44,Good,Yes,Badminton,10,No,2,0,Photography
+S020305,Ishita Raval,Day Scholar,10,Predictix,14,Male,Divine,61,71,89,91,51,93,456,76.0,91.5,7.4,Company Secretary,English,Social Science,45,Good,Yes,Badminton,10,No,2,1,Public Speaking
+S020378,Panini Balasubramanian,Hosteler,10,CognitoSphere,15,Female,Divine,67,87,69,98,57,77,455,75.83,98.5,3.1,Company Secretary,Science,Social Science,46,Good,Yes,Badminton,14,Yes,8,3,Science Club
+S020363,Balendra Hegde,Day Scholar,10,Predictix,14,Female,Divine,94,71,92,55,57,86,455,75.83,86.0,3.3,Bank Manager,Science,Hindi,47,Good,Yes,Athletics,7,No,6,4,Coding Club
+S020025,Mohammed Chad,Day Scholar,10,ML,15,Male,Divine,44,73,99,73,90,75,454,75.67,82.1,5.4,Company Secretary,Science,Hindi,48,Good,Yes,Badminton,10,Yes,15,18,Photography
+S020177,Chaaya Raghavan,Day Scholar,10,CognitoSphere,14,Male,Divine,89,36,90,96,72,71,454,75.67,92.8,2.7,Entrepreneur,Science,Hindi,49,Good,Yes,Hockey,6,No,2,2,Coding Club
+S020222,David Kuruvilla,Day Scholar,10,Predictix,14,Female,Divine,89,77,49,57,93,89,454,75.67,86.6,2.1,Entrepreneur,English,Social Science,50,Good,No,,0,No,0,0,Public Speaking
+S020302,Leena Kala,Hosteler,10,CognitoSphere,15,Female,Divine,64,73,98,78,41,100,454,75.67,79.7,3.2,Auditor,Science,Hindi,51,Good,Yes,Badminton,8,No,2,0,Photography
+S020388,Wriddhish Setty,Day Scholar,10,Predictix,14,Male,Divine,89,85,97,41,42,100,454,75.67,87.0,8.0,Business Analyst,Computer,Social Science,52,Good,Yes,Cricket,2,No,6,3,Painting
+S020260,Hemang Ravi,Hosteler,10,CognitoSphere,14,Female,Divine,39,95,80,66,84,89,453,75.5,96.8,7.4,Chartered Accountant,Computer,Hindi,53,Good,Yes,Cricket,15,No,10,7,Quiz Club
+S020197,Vanya Hans,Hosteler,10,AI,14,Male,Petals,53,75,53,84,92,96,453,75.5,87.3,7.7,Stock Market Analyst,Science,Hindi,54,Good,Yes,Badminton,11,No,8,6,Coding Club
+S020012,Praneel Borde,Day Scholar,10,Predictix,14,Female,Divine,89,62,100,64,87,49,451,75.17,84.0,4.6,Economist,Computer,Social Science,55,Good,Yes,Volleyball,11,No,1,1,Science Club
+S020097,Ayushman Parmar,Day Scholar,10,AI,14,Female,Divine,88,96,91,58,66,52,451,75.17,73.8,5.1,Marketing Manager,Computer,Social Science,56,Good,Yes,Cricket,14,No,7,7,Debate
+S020266,Dominic Swamy,Hosteler,10,AI,15,Male,Paradise,95,38,99,91,85,42,450,75.0,82.1,7.9,Company Secretary,Computer,Social Science,57,Good,Yes,Cricket,14,Yes,14,16,Public Speaking
+S020034,Falguni Nagi,Day Scholar,10,Predictix,14,Male,Divine,95,87,77,89,47,55,450,75.0,80.6,5.2,Bank Manager,Computer,Social Science,58,Good,Yes,Football,12,Yes,14,17,Chess
+S020280,Nirja Nagy,Hosteler,10,AI,15,Female,Divine,84,83,51,90,89,52,449,74.83,73.5,5.3,Company Secretary,Computer,Hindi,59,Good,No,,0,No,0,0,Robotics Club
+S020309,Qarin Babu,Day Scholar,10,Predictix,14,Male,Divine,68,83,65,79,96,58,449,74.83,96.3,5.7,Marketing Manager,English,Social Science,60,Good,No,,0,No,0,0,Debate
+S020317,Michael Brahmbhatt,Hosteler,10,Predictix,15,Female,Divine,74,76,89,100,37,73,449,74.83,76.1,2.8,Business Analyst,English,Social Science,61,Good,Yes,Cricket,5,No,1,0,Volunteering
+S020226,Jeremiah Bera,Day Scholar,10,ML,15,Male,Divine,75,77,56,90,65,85,448,74.67,94.9,6.6,Tax Consultant,English,Hindi,62,Good,Yes,Cricket,7,No,8,3,Science Club
+S020329,Yagnesh Sawhney,Day Scholar,10,CognitoSphere,15,Female,Divine,76,73,99,50,65,85,448,74.67,91.2,3.5,Auditor,Computer,Hindi,63,Good,Yes,Cricket,12,No,9,6,Volunteering
+S020104,Chatura Lanka,Hosteler,10,ML,14,Male,Paradise,59,59,83,82,75,89,447,74.5,92.9,5.1,Entrepreneur,Computer,Hindi,64,Good,No,,0,No,0,0,Debate
+S020043,Arjun Sarna,Day Scholar,10,CognitoSphere,14,Female,Divine,75,90,56,75,97,54,447,74.5,75.7,1.4,Auditor,Maths,Social Science,65,Good,Yes,Basketball,14,Yes,10,7,Public Speaking
+S020176,Yahvi Patla,Day Scholar,10,AI,14,Female,Divine,51,76,86,99,84,51,447,74.5,93.8,1.9,Financial Analyst,Maths,Hindi,66,Good,No,,0,No,0,0,Chess
+S020275,Krishna Golla,Day Scholar,10,CognitoSphere,15,Male,Divine,99,80,80,52,43,91,445,74.17,96.2,5.0,Stock Market Analyst,Computer,Hindi,67,Good,Yes,Badminton,6,No,3,1,Drama
+S020225,Harshil Kothari,Day Scholar,10,CognitoSphere,14,Male,Divine,63,99,71,69,68,74,444,74.0,70.1,7.4,Company Secretary,Maths,Hindi,68,Good,Yes,Swimming,4,No,3,1,Reading
+S020073,Sarthak Goswami,Hosteler,10,AI,14,Female,Divine,53,99,51,97,93,51,444,74.0,83.7,1.2,Chartered Accountant,Computer,Hindi,69,Good,Yes,Badminton,12,Yes,5,3,Robotics Club
+S020391,Unnati Memon,Hosteler,10,ML,15,Male,Passion,89,54,68,63,76,93,443,73.83,96.8,6.0,Tax Consultant,Science,Hindi,70,Good,No,,0,No,0,0,Music
+S020366,Mohini Handa,Hosteler,10,ML,14,Female,Divine,38,61,94,93,66,91,443,73.83,99.2,4.5,Financial Analyst,Computer,Hindi,71,Good,Yes,Cricket,5,No,5,6,Painting
+S020066,Rachana Mand,Day Scholar,10,AI,14,Female,Divine,87,93,81,38,91,53,443,73.83,72.5,3.2,Business Analyst,English,Hindi,72,Good,No,,0,No,0,0,Robotics Club
+S020244,Irya Krishnan,Day Scholar,10,CognitoSphere,15,Male,Divine,53,87,92,50,65,96,443,73.83,79.7,6.1,Company Secretary,Maths,Social Science,73,Good,No,,0,No,0,0,Dance
+S020133,Nirja Kakar,Day Scholar,10,CognitoSphere,15,Female,Divine,92,60,69,96,45,81,443,73.83,75.0,4.1,Financial Analyst,English,Hindi,74,Good,No,,0,No,0,0,Public Speaking
+S020173,Bhavna Basak,Day Scholar,10,AI,15,Male,Divine,97,60,45,100,54,87,443,73.83,70.2,6.4,Company Secretary,Science,Social Science,75,Good,No,,0,No,0,0,Robotics Club
+S020052,Saumya Tak,Day Scholar,10,AI,14,Male,Divine,87,47,94,67,80,67,442,73.67,73.4,5.6,Bank Manager,Science,Social Science,76,Good,No,,0,No,0,0,Science Club
+S020019,Upkaar Hans,Hosteler,10,CognitoSphere,15,Male,Paradise,73,56,97,90,52,74,442,73.67,92.9,5.0,Business Analyst,English,Social Science,77,Good,No,,0,No,0,0,Music
+S020199,Patrick Misra,Day Scholar,10,AI,14,Female,Divine,98,64,84,45,88,63,442,73.67,80.9,2.4,Economist,Computer,Social Science,78,Good,No,,0,No,0,0,Dance
+S020350,Dominic Ganguly,Day Scholar,10,Predictix,15,Male,Divine,93,36,97,86,89,41,442,73.67,77.8,5.4,Tax Consultant,English,Social Science,79,Good,No,,0,No,0,0,Reading
+S020128,Harsh Balay,Day Scholar,10,AI,15,Male,Divine,84,52,77,57,75,96,441,73.5,70.5,7.4,Entrepreneur,English,Hindi,80,Good,No,,0,No,0,0,Music
+S020150,Utkarsh Mody,Hosteler,10,ML,14,Female,Divine,59,84,89,75,81,51,439,73.17,81.9,4.8,Investment Banker,Computer,Hindi,81,Good,Yes,Volleyball,12,No,6,7,Chess
+S020065,Maya Viswanathan,Day Scholar,10,Predictix,14,Female,Divine,99,56,45,69,82,88,439,73.17,74.5,6.3,Entrepreneur,Science,Hindi,82,Good,No,,0,No,0,0,Reading
+S020172,Laban Rama,Hosteler,10,AI,14,Female,Divine,80,35,93,77,73,80,438,73.0,80.5,6.1,Entrepreneur,Computer,Hindi,83,Good,Yes,Badminton,5,No,2,1,Painting
+S020224,Yutika Savant,Day Scholar,10,ML,15,Male,Divine,88,62,63,93,83,49,438,73.0,98.5,3.5,Financial Analyst,English,Social Science,84,Good,Yes,Swimming,8,Yes,11,8,Robotics Club
+S020163,Jairaj Khosla,Day Scholar,10,Predictix,15,Male,Divine,59,82,100,55,88,54,438,73.0,81.4,7.7,Tax Consultant,Maths,Social Science,85,Good,Yes,Badminton,8,No,8,3,Painting
+S020083,Bachittar Som,Hosteler,10,Predictix,14,Male,Passion,87,92,45,99,61,53,437,72.83,93.5,4.8,Business Analyst,English,Hindi,86,Good,Yes,Cricket,13,No,9,5,Science Club
+S020205,Bina Toor,Day Scholar,10,ML,15,Female,Divine,86,83,56,41,82,89,437,72.83,73.3,1.5,Stock Market Analyst,Computer,Hindi,87,Good,Yes,Football,11,Yes,6,6,Chess
+S020137,Yasti Shetty,Day Scholar,10,AI,14,Male,Divine,89,66,66,96,39,81,437,72.83,77.8,4.2,Tax Consultant,Computer,Hindi,88,Good,Yes,Basketball,10,No,1,0,Science Club
+S020371,Falguni Sha,Hosteler,10,ML,15,Female,Divine,74,95,91,72,54,51,437,72.83,95.8,2.8,Tax Consultant,Maths,Hindi,89,Good,Yes,Cricket,8,No,8,7,Coding Club
+S020370,Rachit Kannan,Day Scholar,10,ML,14,Female,Divine,91,77,92,68,70,39,437,72.83,85.7,1.2,Company Secretary,Computer,Social Science,90,Good,No,,0,No,0,0,Debate
+S020360,Chakrika Bava,Hosteler,10,Predictix,15,Male,Petals,97,79,45,61,82,73,437,72.83,83.5,4.3,Auditor,Science,Social Science,91,Good,No,,0,No,0,0,Coding Club
+S020118,Saumya Kapoor,Day Scholar,10,Predictix,15,Female,Divine,93,94,40,46,71,93,437,72.83,81.7,6.8,Tax Consultant,English,Hindi,92,Good,No,,0,No,0,0,Volunteering
+S020131,Lajita Dayal,Hosteler,10,AI,14,Male,Petals,66,63,83,76,58,91,437,72.83,96.1,1.5,Investment Banker,Maths,Hindi,93,Good,No,,0,No,0,0,Drama
+S020308,Yashica Chaudhari,Hosteler,10,AI,14,Female,Divine,97,58,98,71,51,60,435,72.5,70.1,1.5,Marketing Manager,Science,Hindi,94,Good,Yes,Athletics,2,Yes,14,12,Dance
+S020321,Advika Gill,Day Scholar,10,ML,15,Female,Divine,35,69,61,97,98,75,435,72.5,83.8,4.4,Stock Market Analyst,Maths,Hindi,95,Good,Yes,Tennis,3,No,10,7,Dance
+S020218,Vasana Cheema,Hosteler,10,CognitoSphere,15,Male,Paradise,89,78,73,56,60,79,435,72.5,84.3,5.8,Financial Analyst,English,Social Science,96,Good,Yes,Basketball,5,No,4,2,Photography
+S020049,Zinal Lata,Day Scholar,10,ML,15,Female,Divine,74,51,80,47,82,100,434,72.33,83.4,3.7,Investment Banker,English,Hindi,97,Good,Yes,Volleyball,13,Yes,13,7,Painting
+S020311,Falguni Mani,Day Scholar,10,Predictix,15,Female,Divine,51,96,97,87,65,38,434,72.33,85.2,7.2,Economist,Maths,Social Science,98,Good,Yes,Football,3,No,2,2,Chess
+S020068,Radhika Murty,Hosteler,10,AI,15,Female,Divine,91,79,86,60,73,45,434,72.33,81.7,6.0,Bank Manager,Computer,Hindi,99,Good,No,,0,No,0,0,Coding Club
+S020318,Harrison Bajwa,Day Scholar,10,ML,15,Female,Divine,46,63,87,70,96,71,433,72.17,70.5,4.5,Business Analyst,Computer,Hindi,100,Good,Yes,Football,7,No,4,3,Volunteering
+S020158,Henry Deol,Hosteler,10,AI,14,Male,Passion,96,90,73,51,47,76,433,72.17,82.2,5.9,Tax Consultant,English,Hindi,101,Good,Yes,Badminton,4,No,10,10,Coding Club
+S020160,Karan Kala,Hosteler,10,ML,15,Male,Paradise,99,73,81,56,89,35,433,72.17,71.4,7.6,Stock Market Analyst,English,Hindi,102,Good,Yes,Badminton,10,No,5,5,Quiz Club
+S020374,Azaan Hans,Day Scholar,10,AI,15,Male,Divine,98,93,36,64,60,81,432,72.0,88.8,7.7,Marketing Manager,Maths,Social Science,103,Good,No,,0,No,0,0,Volunteering
+S020257,Vasana Rana,Day Scholar,10,AI,15,Male,Divine,50,90,93,79,71,49,432,72.0,97.8,2.0,Financial Analyst,Computer,Hindi,104,Good,No,,0,No,0,0,Quiz Club
+S020213,Barkha Kota,Day Scholar,10,AI,14,Female,Divine,45,87,99,92,68,40,431,71.83,91.0,4.9,Tax Consultant,Maths,Social Science,105,Good,No,,0,No,0,0,Coding Club
+S020215,Jackson Kapur,Hosteler,10,Predictix,15,Male,Passion,90,60,86,77,43,75,431,71.83,76.4,6.2,Entrepreneur,Computer,Social Science,106,Good,Yes,Kabaddi,7,Yes,5,5,Painting
+S020190,Laksh Krishna,Day Scholar,10,CognitoSphere,14,Male,Divine,64,90,82,53,96,46,431,71.83,83.8,6.7,Chartered Accountant,Science,Social Science,107,Good,Yes,Basketball,4,No,3,2,Public Speaking
+S020394,Vamakshi Master,Day Scholar,10,AI,14,Male,Divine,91,86,60,61,83,50,431,71.83,85.2,5.0,Financial Analyst,Maths,Hindi,108,Good,No,,0,No,0,0,Robotics Club
+S020341,Qasim Chahal,Hosteler,10,Predictix,14,Female,Divine,80,36,55,88,95,77,431,71.83,75.6,3.5,Chartered Accountant,English,Hindi,109,Good,Yes,Badminton,3,No,9,7,Music
+S020001,Arin Barad,Hosteler,10,ML,14,Female,Divine,35,87,69,88,57,94,430,71.67,75.6,3.7,Entrepreneur,English,Hindi,110,Good,No,,0,No,0,0,Photography
+S020200,Luke Sachdeva,Hosteler,10,CognitoSphere,14,Male,Paradise,79,81,52,72,93,53,430,71.67,76.3,2.6,Bank Manager,Maths,Hindi,111,Good,Yes,Basketball,11,Yes,5,4,Chess
+S020121,Devansh Behl,Day Scholar,10,AI,15,Male,Divine,83,78,86,59,85,39,430,71.67,73.4,7.4,Business Analyst,English,Social Science,112,Good,Yes,Basketball,9,No,9,7,Dance
+S020300,Patrick Contractor,Hosteler,10,AI,14,Female,Divine,86,65,72,50,78,78,429,71.5,72.2,7.4,Company Secretary,English,Social Science,113,Good,No,,0,No,0,0,Quiz Club
+S020169,Unnati Solanki,Day Scholar,10,AI,15,Male,Divine,98,100,50,86,36,59,429,71.5,91.1,6.2,Financial Analyst,Maths,Social Science,114,Good,Yes,Volleyball,12,Yes,5,6,Robotics Club
+S020099,Orinder Pau,Hosteler,10,Predictix,15,Male,Petals,60,43,78,59,95,94,429,71.5,88.5,3.9,Auditor,Maths,Social Science,115,Good,No,,0,No,0,0,Volunteering
+S020365,Victor Bhakta,Day Scholar,10,Predictix,14,Male,Divine,37,84,100,59,55,93,428,71.33,75.3,7.6,Stock Market Analyst,Computer,Hindi,116,Good,Yes,Football,3,No,5,3,Science Club
+S020111,Kashvi Hayer,Day Scholar,10,CognitoSphere,14,Male,Divine,100,54,85,64,64,61,428,71.33,85.5,6.5,Entrepreneur,English,Social Science,117,Good,Yes,Badminton,12,No,7,3,Science Club
+S020270,Dalaja Natarajan,Hosteler,10,Predictix,15,Male,Petals,54,80,78,93,52,70,427,71.17,72.0,6.9,Financial Analyst,English,Social Science,118,Good,Yes,Football,2,No,4,3,Music
+S020293,Matthew Prabhakar,Day Scholar,10,AI,15,Male,Divine,82,88,44,89,71,53,427,71.17,88.2,3.5,Tax Consultant,Computer,Social Science,119,Good,Yes,Cricket,2,Yes,8,5,Coding Club
+S020072,Yagnesh Ahuja,Day Scholar,10,CognitoSphere,15,Male,Divine,51,95,62,92,44,82,426,71.0,96.2,5.1,Economist,English,Social Science,120,Good,No,,0,No,0,0,Quiz Club
+S020178,Yagnesh Hayer,Hosteler,10,ML,14,Female,Divine,68,66,89,60,95,48,426,71.0,99.8,5.1,Bank Manager,Science,Hindi,121,Good,No,,0,No,0,0,Music
+S020269,Finn Hari,Hosteler,10,ML,15,Female,Divine,80,52,94,93,70,36,425,70.83,85.0,7.0,Tax Consultant,Computer,Social Science,122,Good,Yes,Cricket,6,No,3,3,Reading
+S020263,Viraj Ramanathan,Hosteler,10,Predictix,14,Female,Divine,52,73,66,100,82,51,424,70.67,92.7,3.7,Economist,Maths,Social Science,123,Good,Yes,Football,10,No,7,6,Dance
+S020031,Baljiwan Kala,Day Scholar,10,Predictix,15,Female,Divine,87,67,42,97,82,49,424,70.67,84.2,2.7,Investment Banker,Science,Social Science,124,Good,Yes,Tennis,13,Yes,13,15,Quiz Club
+S020208,Aachal Iyengar,Day Scholar,10,CognitoSphere,15,Male,Divine,87,99,47,99,54,38,424,70.67,87.6,7.0,Business Analyst,Science,Hindi,125,Good,Yes,Basketball,5,No,5,5,Painting
+S020373,Lipika Lad,Day Scholar,10,AI,15,Female,Divine,56,96,57,96,83,36,424,70.67,76.7,2.4,Investment Banker,Computer,Hindi,126,Good,No,,0,No,0,0,Drama
+S020059,Zinal Walia,Day Scholar,10,ML,15,Male,Divine,79,92,90,37,55,71,424,70.67,80.3,2.6,Financial Analyst,Computer,Social Science,127,Good,No,,0,No,0,0,Debate
+S020050,Harinakshi Mallick,Day Scholar,10,Predictix,15,Female,Divine,58,90,89,46,40,100,423,70.5,90.3,5.5,Stock Market Analyst,English,Hindi,128,Good,Yes,Cricket,14,No,3,2,Chess
+S020196,Gagan Ram,Day Scholar,10,Predictix,14,Male,Divine,77,58,89,54,73,71,422,70.33,78.1,4.5,Marketing Manager,Computer,Hindi,129,Good,Yes,Football,5,No,3,2,Reading
+S020369,Vrishti Bhargava,Day Scholar,10,AI,15,Female,Divine,78,53,66,96,61,68,422,70.33,89.3,1.5,Marketing Manager,Science,Social Science,130,Good,Yes,Badminton,7,Yes,5,6,Painting
+S020286,Aadi Srinivasan,Day Scholar,10,ML,15,Male,Divine,84,91,40,63,61,83,422,70.33,86.0,5.6,Business Analyst,Computer,Hindi,131,Good,No,,0,No,0,0,Public Speaking
+S020337,Ati Chopra,Hosteler,10,ML,14,Male,Paradise,62,82,93,45,66,74,422,70.33,79.3,3.7,Stock Market Analyst,Science,Social Science,132,Good,No,,0,No,0,0,Drama
+S020096,Rehaan Palla,Day Scholar,10,ML,14,Female,Divine,89,47,78,38,93,77,422,70.33,73.1,5.2,Auditor,Science,Hindi,133,Good,Yes,Cricket,2,No,4,1,Reading
+S020323,Naksh Sehgal,Hosteler,10,Predictix,15,Female,Divine,88,86,36,72,50,90,422,70.33,85.7,5.3,Bank Manager,Science,Hindi,134,Good,Yes,Cricket,7,No,5,4,Painting
+S020203,Chaman Nanda,Hosteler,10,CognitoSphere,15,Male,Petals,57,99,55,36,85,89,421,70.17,97.6,4.5,Auditor,English,Hindi,135,Good,Yes,Badminton,9,No,2,1,Drama
+S020315,Bishakha Chadha,Hosteler,10,AI,14,Male,Petals,85,97,40,55,71,73,421,70.17,88.9,5.8,Bank Manager,Computer,Hindi,136,Good,No,,0,No,0,0,Photography
+S020296,Vyanjana Gokhale,Day Scholar,10,ML,15,Female,Divine,59,72,66,77,66,81,421,70.17,79.4,7.8,Entrepreneur,English,Social Science,137,Good,No,,0,No,0,0,Quiz Club
+S020231,Anusha Sankaran,Hosteler,10,CognitoSphere,15,Female,Divine,87,44,97,44,61,88,421,70.17,89.0,4.2,Financial Analyst,Science,Social Science,138,Good,Yes,Football,12,Yes,15,19,Entrepreneurship Club
+S020056,Elijah Oommen,Hosteler,10,CognitoSphere,14,Male,Passion,59,46,73,94,53,95,420,70.0,73.5,7.3,Investment Banker,English,Social Science,139,Good,Yes,Cricket,4,No,8,9,Dance
+S020103,Nidra Joshi,Day Scholar,10,Predictix,15,Male,Divine,49,78,61,74,93,65,420,70.0,89.8,7.6,Marketing Manager,English,Hindi,140,Good,Yes,Football,11,No,3,2,Reading
+S020105,Anita Parmar,Hosteler,10,AI,15,Female,Divine,41,70,51,100,97,61,420,70.0,93.7,5.3,Economist,English,Social Science,141,Good,Yes,Football,11,No,8,7,Drama
+S020036,Ekiya Minhas,Day Scholar,10,ML,14,Female,Divine,96,52,68,57,76,71,420,70.0,82.4,2.3,Company Secretary,Science,Hindi,142,Good,Yes,Tennis,5,Yes,11,8,Public Speaking
+S020122,Sai Oak,Hosteler,10,ML,14,Female,Divine,45,66,91,52,95,70,419,69.83,95.2,5.2,Chartered Accountant,Computer,Hindi,143,Average,No,,0,No,0,0,Quiz Club
+S020003,Ridhi Loke,Hosteler,10,AI,15,Female,Divine,97,66,38,50,70,98,419,69.83,87.4,5.0,Company Secretary,English,Hindi,144,Average,Yes,Hockey,14,Yes,11,5,Photography
+S020333,Ria Gokhale,Day Scholar,10,AI,14,Female,Divine,97,57,95,48,39,82,418,69.67,91.2,2.2,Investment Banker,Maths,Social Science,145,Average,No,,0,No,0,0,Photography
+S020174,Urishilla Bhakta,Day Scholar,10,CognitoSphere,15,Female,Divine,73,81,89,58,69,48,418,69.67,74.9,3.5,Tax Consultant,Maths,Social Science,146,Average,No,,0,No,0,0,Dance
+S020018,Krisha Kala,Day Scholar,10,CognitoSphere,14,Female,Divine,97,99,68,78,37,39,418,69.67,81.5,3.2,Investment Banker,English,Social Science,147,Average,No,,0,No,0,0,Entrepreneurship Club
+S020336,Arin Dass,Day Scholar,10,CognitoSphere,14,Male,Divine,70,79,50,78,94,46,417,69.5,73.5,1.6,Tax Consultant,Science,Social Science,148,Average,Yes,Cricket,13,No,3,3,Robotics Club
+S020214,Xalak Sen,Hosteler,10,Predictix,15,Female,Divine,86,44,63,84,94,46,417,69.5,84.1,4.7,Bank Manager,Maths,Hindi,149,Average,Yes,Volleyball,3,No,8,10,Debate
+S020026,Abeer Sane,Day Scholar,10,Predictix,15,Male,Divine,62,94,69,90,42,60,417,69.5,74.4,2.1,Auditor,English,Social Science,150,Average,No,,0,No,0,0,Debate
+S020148,Orinder Jain,Day Scholar,10,ML,14,Male,Divine,95,50,52,97,46,77,417,69.5,89.3,3.6,Company Secretary,English,Hindi,151,Average,No,,0,No,0,0,Music
+S020241,William Dey,Day Scholar,10,CognitoSphere,15,Female,Divine,45,75,98,41,85,73,417,69.5,95.5,7.8,Bank Manager,Computer,Hindi,152,Average,No,,0,No,0,0,Chess
+S020227,Hemal Sem,Hosteler,10,ML,14,Female,Divine,86,75,55,90,64,47,417,69.5,88.9,6.5,Bank Manager,Science,Social Science,153,Average,Yes,Cricket,2,No,6,6,Robotics Club
+S020166,Lakshmi Patel,Hosteler,10,ML,14,Female,Divine,79,86,96,51,68,36,416,69.33,74.3,5.0,Auditor,Maths,Social Science,154,Average,Yes,Cricket,11,Yes,13,13,Science Club
+S020132,Wishi Ranganathan,Hosteler,10,CognitoSphere,15,Male,Paradise,57,61,65,99,45,89,416,69.33,74.9,2.4,Economist,Science,Hindi,155,Average,No,,0,No,0,0,Drama
+S020067,Maanas Oommen,Hosteler,10,Predictix,15,Female,Divine,54,42,72,88,86,73,415,69.17,70.2,3.0,Marketing Manager,Science,Social Science,156,Average,No,,0,No,0,0,Drama
+S020116,Zaitra Bera,Day Scholar,10,CognitoSphere,14,Male,Divine,87,85,55,49,51,88,415,69.17,81.7,7.3,Business Analyst,Science,Hindi,157,Average,Yes,Badminton,3,Yes,13,11,Science Club
+S020256,Faraj Ravi,Hosteler,10,Predictix,15,Male,Passion,48,70,92,57,68,79,414,69.0,87.7,7.6,Marketing Manager,Computer,Hindi,158,Average,No,,0,No,0,0,Drama
+S020140,Kamala Dubey,Day Scholar,10,ML,14,Female,Divine,71,90,56,57,82,58,414,69.0,84.6,4.5,Chartered Accountant,English,Hindi,159,Average,Yes,Football,2,No,6,5,Reading
+S020014,Samarth Jani,Day Scholar,10,AI,14,Female,Divine,57,36,97,48,85,91,414,69.0,74.3,3.8,Tax Consultant,Maths,Hindi,160,Average,No,,0,No,0,0,Painting
+S020247,Finn Ratti,Hosteler,10,AI,14,Male,Passion,89,56,74,48,53,94,414,69.0,77.2,7.3,Stock Market Analyst,Computer,Hindi,161,Average,Yes,Cricket,8,Yes,10,7,Volunteering
+S020273,Gopal Brar,Hosteler,10,CognitoSphere,15,Female,Divine,92,83,52,60,60,67,414,69.0,90.4,2.6,Company Secretary,English,Hindi,162,Average,Yes,Cricket,4,No,1,0,Science Club
+S020248,Ekansh Narang,Day Scholar,10,ML,14,Female,Divine,80,68,50,45,80,90,413,68.83,81.9,4.0,Tax Consultant,Maths,Social Science,163,Average,Yes,Volleyball,2,No,2,1,Public Speaking
+S020175,Siya Bala,Hosteler,10,AI,14,Male,Paradise,71,40,52,85,88,77,413,68.83,90.0,7.6,Marketing Manager,Maths,Social Science,164,Average,Yes,Cricket,7,Yes,11,11,Volunteering
+S020290,Yochana Shah,Hosteler,10,Predictix,15,Female,Divine,80,96,62,87,42,45,412,68.67,98.6,4.1,Business Analyst,Computer,Social Science,165,Average,Yes,Badminton,4,Yes,13,15,Chess
+S020386,Priya Chander,Hosteler,10,Predictix,15,Male,Petals,73,60,46,91,66,76,412,68.67,90.7,2.0,Tax Consultant,Computer,Social Science,166,Average,No,,0,No,0,0,Reading
+S020236,Ekantika Mandal,Day Scholar,10,ML,15,Male,Divine,87,72,80,85,38,49,411,68.5,82.9,2.3,Entrepreneur,Maths,Hindi,167,Average,Yes,Cricket,2,No,9,6,Chess
+S020396,Jackson Soni,Day Scholar,10,CognitoSphere,15,Female,Divine,86,47,80,81,74,43,411,68.5,76.9,5.9,Company Secretary,English,Hindi,168,Average,Yes,Cricket,4,Yes,13,8,Entrepreneurship Club
+S020030,Yagnesh Sangha,Day Scholar,10,CognitoSphere,14,Male,Divine,98,46,65,50,75,77,411,68.5,98.1,2.5,Business Analyst,Science,Hindi,169,Average,Yes,Cricket,2,No,2,1,Painting
+S020164,Mekhala Bir,Hosteler,10,Predictix,14,Male,Petals,87,43,77,46,81,77,411,68.5,96.1,2.6,Bank Manager,Maths,Social Science,170,Average,Yes,Cricket,8,No,3,3,Debate
+S020141,Ikbal Amble,Hosteler,10,ML,14,Male,Paradise,58,59,68,87,91,48,411,68.5,78.8,3.6,Investment Banker,Maths,Social Science,171,Average,Yes,Cricket,15,Yes,10,12,Robotics Club
+S020310,Brinda Arora,Day Scholar,10,Predictix,14,Female,Divine,47,63,49,71,88,92,410,68.33,89.9,1.8,Economist,Computer,Hindi,172,Average,Yes,Badminton,11,Yes,12,6,Music
+S020082,Yoshita Grewal,Hosteler,10,CognitoSphere,14,Female,Divine,69,42,75,94,87,43,410,68.33,82.2,2.6,Chartered Accountant,Computer,Hindi,173,Average,Yes,Badminton,12,No,3,3,Music
+S020077,Jackson Balasubramanian,Hosteler,10,ML,14,Female,Divine,85,78,40,91,70,46,410,68.33,87.2,6.6,Stock Market Analyst,Maths,Hindi,174,Average,Yes,Cricket,10,Yes,15,16,Dance
+S020027,Anthony Sundaram,Hosteler,10,ML,15,Female,Divine,61,87,69,71,55,67,410,68.33,77.2,2.0,Stock Market Analyst,Science,Social Science,175,Average,Yes,Badminton,5,No,9,3,Painting
+S020156,Azaan Venkataraman,Hosteler,10,ML,15,Female,Divine,39,50,65,85,97,73,409,68.17,93.3,7.9,Business Analyst,English,Social Science,176,Average,No,,0,No,0,0,Drama
+S020033,Anthony Dugar,Hosteler,10,ML,14,Female,Divine,85,67,73,46,65,73,409,68.17,97.5,5.4,Marketing Manager,Maths,Social Science,177,Average,Yes,Basketball,7,No,8,9,Quiz Club
+S020089,Reyansh Lad,Hosteler,10,AI,15,Female,Divine,70,98,61,35,60,85,409,68.17,87.1,4.5,Investment Banker,Science,Hindi,178,Average,Yes,Cricket,4,No,7,4,Music
+S020320,Jagdish Chauhan,Day Scholar,10,AI,15,Male,Divine,66,45,53,86,95,64,409,68.17,77.6,3.2,Marketing Manager,Science,Hindi,179,Average,Yes,Athletics,7,No,7,6,Robotics Club
+S020395,Rudra Lalla,Hosteler,10,Predictix,15,Male,Passion,80,75,88,59,61,46,409,68.17,77.7,1.8,Company Secretary,Maths,Hindi,180,Average,Yes,Cricket,5,No,2,0,Dance
+S020051,Damini Kota,Day Scholar,10,Predictix,14,Female,Divine,90,45,96,73,54,51,409,68.17,85.7,3.1,Tax Consultant,Maths,Hindi,181,Average,Yes,Badminton,9,No,9,10,Entrepreneurship Club
+S020155,Ekanta Parmar,Hosteler,10,ML,14,Male,Passion,89,56,42,47,80,95,409,68.17,73.5,4.6,Business Analyst,English,Hindi,182,Average,No,,0,No,0,0,Robotics Club
+S020332,Aashi Iyer,Day Scholar,10,CognitoSphere,14,Female,Divine,99,36,69,39,70,96,409,68.17,99.9,5.9,Tax Consultant,Maths,Hindi,183,Average,No,,0,No,0,0,Entrepreneurship Club
+S020138,Udyati Prabhakar,Hosteler,10,ML,15,Male,Paradise,46,84,85,45,59,89,408,68.0,77.6,3.1,Marketing Manager,English,Social Science,184,Average,Yes,Football,7,No,10,12,Drama
+S020239,Vyanjana Thakur,Day Scholar,10,ML,14,Female,Divine,50,50,92,56,76,84,408,68.0,78.6,5.5,Auditor,Maths,Social Science,185,Average,Yes,Cricket,8,Yes,15,12,Volunteering
+S020251,Chatura Sampath,Hosteler,10,Predictix,15,Female,Divine,63,69,98,61,56,61,408,68.0,91.2,3.0,Financial Analyst,Maths,Hindi,186,Average,No,,0,No,0,0,Reading
+S020119,Ekaraj Buch,Day Scholar,10,ML,14,Male,Divine,93,84,58,47,85,40,407,67.83,78.2,5.4,Investment Banker,Maths,Hindi,187,Average,Yes,Cricket,2,No,2,0,Dance
+S020151,Anjali Johal,Hosteler,10,Predictix,15,Female,Divine,98,93,53,71,53,39,407,67.83,85.1,5.8,Entrepreneur,English,Hindi,188,Average,Yes,Football,13,No,9,10,Public Speaking
+S020023,Ethan Bhardwaj,Day Scholar,10,CognitoSphere,15,Female,Divine,76,47,97,47,61,78,406,67.67,75.0,3.1,Investment Banker,Science,Social Science,189,Average,Yes,Athletics,5,No,9,10,Photography
+S020081,Sathvik Mittal,Day Scholar,10,CognitoSphere,14,Female,Divine,47,75,53,87,76,68,406,67.67,71.6,2.7,Marketing Manager,Science,Social Science,190,Average,Yes,Badminton,9,No,3,1,Public Speaking
+S020357,Saumya Bajwa,Hosteler,10,ML,14,Female,Divine,86,58,71,69,35,87,406,67.67,93.5,5.6,Marketing Manager,Computer,Social Science,191,Average,No,,0,No,0,0,Volunteering
+S020368,Ijaya Oza,Day Scholar,10,CognitoSphere,15,Female,Divine,42,72,85,40,81,86,406,67.67,93.6,1.7,Chartered Accountant,Maths,Hindi,192,Average,Yes,Tennis,7,No,6,5,Reading
+S020298,Lakshit Rajagopalan,Day Scholar,10,CognitoSphere,14,Male,Divine,71,78,75,50,45,87,406,67.67,87.3,5.4,Auditor,Science,Social Science,193,Average,Yes,Cricket,9,No,7,6,Volunteering
+S020114,Fiyaz Sheth,Day Scholar,10,CognitoSphere,15,Male,Divine,43,84,59,95,48,77,406,67.67,72.8,1.7,Entrepreneur,Science,Hindi,194,Average,Yes,Kabaddi,6,No,4,2,Dance
+S020110,Divya Swamy,Day Scholar,10,ML,15,Male,Divine,60,77,67,73,70,59,406,67.67,70.3,3.1,Economist,English,Social Science,195,Average,Yes,Swimming,10,Yes,7,8,Volunteering
+S020171,Ronith Shenoy,Day Scholar,10,CognitoSphere,14,Male,Divine,73,96,72,68,62,35,406,67.67,97.7,7.5,Chartered Accountant,Maths,Social Science,196,Average,No,,0,No,0,0,Drama
+S020301,Pooja Sane,Day Scholar,10,AI,15,Female,Divine,96,52,58,100,45,54,405,67.5,90.2,4.2,Company Secretary,English,Hindi,197,Average,No,,0,No,0,0,Debate
+S020351,Upasna Iyer,Day Scholar,10,ML,14,Female,Divine,81,49,57,89,84,45,405,67.5,80.1,7.5,Entrepreneur,Computer,Hindi,198,Average,No,,0,No,0,0,Dance
+S020154,Anamika Dada,Day Scholar,10,CognitoSphere,15,Male,Divine,41,73,93,55,52,91,405,67.5,96.9,2.5,Business Analyst,Maths,Social Science,199,Average,No,,0,No,0,0,Public Speaking
+S020130,Yoshita Korpal,Hosteler,10,CognitoSphere,15,Male,Petals,91,77,52,70,75,40,405,67.5,92.5,2.6,Financial Analyst,Computer,Hindi,200,Average,No,,0,No,0,0,Robotics Club
+S020379,Vihaan Palan,Day Scholar,10,CognitoSphere,15,Female,Divine,91,49,58,97,35,75,405,67.5,74.9,1.5,Chartered Accountant,Computer,Hindi,201,Average,Yes,Cricket,4,No,5,3,Painting
+S020037,Faris Chandra,Hosteler,10,CognitoSphere,15,Male,Paradise,94,60,68,56,41,86,405,67.5,74.5,7.7,Financial Analyst,Maths,Hindi,202,Average,Yes,Cricket,2,Yes,10,5,Painting
+S020390,Ranveer Randhawa,Day Scholar,10,CognitoSphere,14,Female,Divine,54,77,44,58,78,93,404,67.33,82.0,3.1,Auditor,English,Hindi,203,Average,No,,0,No,0,0,Painting
+S020361,Ayushman Sidhu,Day Scholar,10,CognitoSphere,14,Female,Divine,37,71,97,65,83,51,404,67.33,72.9,2.5,Company Secretary,Computer,Hindi,204,Average,No,,0,No,0,0,Coding Club
+S020326,Charita Gulati,Hosteler,10,Predictix,15,Female,Divine,79,36,59,70,71,89,404,67.33,88.7,3.8,Company Secretary,Science,Hindi,205,Average,Yes,Tennis,4,No,8,10,Volunteering
+S020355,Mitesh Barad,Hosteler,10,AI,15,Male,Passion,82,39,53,47,83,100,404,67.33,97.8,6.2,Stock Market Analyst,English,Hindi,206,Average,No,,0,No,0,0,Reading
+S020353,Kavya Lala,Day Scholar,10,AI,15,Female,Divine,38,69,57,72,80,88,404,67.33,79.7,5.5,Economist,Maths,Social Science,207,Average,No,,0,No,0,0,Quiz Club
+S020343,Dominic Tella,Day Scholar,10,Predictix,14,Female,Divine,69,86,38,55,100,56,404,67.33,98.5,5.0,Company Secretary,Science,Social Science,208,Average,Yes,Kabaddi,10,Yes,7,5,Painting
+S020075,Qabil Jayaraman,Day Scholar,10,AI,14,Male,Divine,41,74,71,62,58,97,403,67.17,86.4,1.5,Marketing Manager,English,Social Science,209,Average,Yes,Badminton,5,No,8,4,Debate
+S020028,Ekapad Dani,Day Scholar,10,ML,14,Female,Divine,90,89,39,60,55,69,402,67.0,77.8,6.6,Investment Banker,Science,Hindi,210,Average,Yes,Cricket,10,No,5,3,Chess
+S020162,Raksha Warrior,Day Scholar,10,ML,15,Female,Divine,51,89,44,67,68,83,402,67.0,83.7,7.6,Investment Banker,Science,Hindi,211,Average,Yes,Basketball,8,No,3,2,Chess
+S020238,Arin Tripathi,Hosteler,10,Predictix,15,Female,Divine,62,48,70,44,88,90,402,67.0,75.9,1.3,Tax Consultant,English,Hindi,212,Average,No,,0,No,0,0,Dance
+S020376,Farhan Pathak,Hosteler,10,CognitoSphere,14,Male,Paradise,73,42,61,64,66,96,402,67.0,86.1,6.5,Economist,Maths,Hindi,213,Average,Yes,Football,7,No,5,5,Painting
+S020134,Kabir Jha,Hosteler,10,Predictix,15,Female,Divine,83,89,45,73,54,57,401,66.83,83.9,4.2,Marketing Manager,English,Hindi,214,Average,Yes,Basketball,13,No,8,5,Coding Club
+S020057,Madhav Nanda,Day Scholar,10,AI,14,Male,Divine,66,60,72,85,41,77,401,66.83,88.9,6.0,Investment Banker,English,Social Science,215,Average,Yes,Football,11,Yes,14,15,Drama
+S020079,Luke Hegde,Day Scholar,10,CognitoSphere,14,Female,Divine,40,97,37,78,90,58,400,66.67,95.8,3.2,Business Analyst,Maths,Hindi,216,Average,No,,0,No,0,0,Volunteering
+S020201,Upadhriti Sagar,Hosteler,10,ML,14,Female,Divine,89,82,41,48,44,96,400,66.67,74.4,2.0,Marketing Manager,Maths,Hindi,217,Average,Yes,Cricket,10,No,8,3,Coding Club
+S020377,Tanish Nagar,Hosteler,10,CognitoSphere,15,Female,Divine,91,45,95,60,47,62,400,66.67,87.1,5.1,Auditor,English,Hindi,218,Average,No,,0,No,0,0,Dance
+S020038,Ronith Choudhury,Day Scholar,10,Predictix,15,Female,Divine,98,50,63,61,59,69,400,66.67,81.5,4.0,Bank Manager,Science,Social Science,219,Average,No,,0,No,0,0,Drama
+S020193,Wishi Loke,Day Scholar,10,Predictix,15,Male,Divine,45,60,52,96,91,55,399,66.5,84.4,2.7,Financial Analyst,Computer,Hindi,220,Average,Yes,Football,11,No,7,6,Reading
+S020287,Ethan Pandey,Day Scholar,10,AI,15,Female,Divine,62,38,78,90,89,42,399,66.5,98.6,7.5,Marketing Manager,English,Social Science,221,Average,No,,0,No,0,0,Music
+S020288,Frado Boase,Hosteler,10,Predictix,14,Female,Divine,83,94,65,51,36,70,399,66.5,100.0,6.4,Stock Market Analyst,Computer,Social Science,222,Average,Yes,Basketball,12,No,5,5,Volunteering
+S020120,Samar Anand,Day Scholar,10,CognitoSphere,15,Female,Divine,50,82,44,48,99,76,399,66.5,74.9,2.5,Stock Market Analyst,English,Hindi,223,Average,No,,0,No,0,0,Coding Club
+S020170,Vedant Desai,Hosteler,10,CognitoSphere,15,Male,Paradise,44,81,52,100,80,41,398,66.33,81.4,3.6,Financial Analyst,Computer,Hindi,224,Average,No,,0,No,0,0,Public Speaking
+S020086,Geetika Sarraf,Day Scholar,10,AI,15,Male,Divine,78,61,93,77,37,52,398,66.33,70.1,1.1,Stock Market Analyst,English,Social Science,225,Average,No,,0,No,0,0,Painting
+S020303,Ayushman Wali,Day Scholar,10,AI,15,Male,Divine,70,75,47,79,71,56,398,66.33,78.2,4.1,Business Analyst,Computer,Social Science,226,Average,Yes,Volleyball,15,No,7,7,Photography
+S020078,Mekhala Narain,Hosteler,10,AI,15,Male,Petals,59,95,99,37,50,58,398,66.33,93.6,2.7,Bank Manager,English,Hindi,227,Average,Yes,Football,8,Yes,15,6,Coding Club
+S020015,Ekantika Mander,Day Scholar,10,CognitoSphere,15,Male,Divine,60,78,60,86,50,64,398,66.33,78.4,6.0,Tax Consultant,Computer,Social Science,228,Average,Yes,Badminton,6,No,6,2,Volunteering
+S020194,Yashawini Prabhu,Hosteler,10,ML,14,Male,Paradise,72,48,100,88,53,35,396,66.0,76.8,3.7,Tax Consultant,Computer,Hindi,229,Average,No,,0,No,0,0,Drama
+S020139,Yashica Hora,Hosteler,10,Predictix,14,Female,Divine,48,79,53,69,61,85,395,65.83,99.6,6.7,Entrepreneur,Maths,Hindi,230,Average,Yes,Badminton,11,Yes,7,5,Drama
+S020046,Ekapad Gade,Day Scholar,10,AI,14,Male,Divine,50,85,82,48,76,54,395,65.83,83.8,6.0,Economist,English,Social Science,231,Average,Yes,Cricket,10,No,8,8,Reading
+S020098,Unni Ghose,Hosteler,10,AI,14,Male,Passion,74,78,72,82,36,53,395,65.83,85.2,6.8,Marketing Manager,English,Social Science,232,Average,No,,0,No,0,0,Public Speaking
+S020338,Aarini Tripathi,Day Scholar,10,Predictix,15,Male,Divine,87,63,59,69,60,57,395,65.83,90.9,2.9,Economist,Computer,Social Science,233,Average,Yes,Football,11,Yes,13,8,Painting
+S020102,Gauri Palla,Hosteler,10,ML,14,Male,Paradise,71,57,63,68,57,78,394,65.67,75.9,2.2,Company Secretary,Maths,Hindi,234,Average,Yes,Cricket,7,No,10,9,Drama
+S020352,Chatura Swaminathan,Day Scholar,10,CognitoSphere,15,Female,Divine,41,94,71,40,50,97,393,65.5,71.5,5.2,Financial Analyst,Computer,Social Science,235,Average,Yes,Football,2,No,6,3,Painting
+S020161,Xalak Bhavsar,Day Scholar,10,AI,14,Female,Divine,80,100,61,47,40,65,393,65.5,74.3,7.0,Financial Analyst,Science,Hindi,236,Average,No,,0,No,0,0,Music
+S020085,Chakrika Ratti,Hosteler,10,ML,15,Male,Passion,46,85,50,52,70,90,393,65.5,96.5,7.6,Company Secretary,English,Social Science,237,Average,Yes,Football,9,No,10,5,Public Speaking
+S020245,Kamya Ravi,Hosteler,10,AI,14,Female,Divine,80,66,61,44,44,98,393,65.5,70.4,2.5,Entrepreneur,Science,Social Science,238,Average,Yes,Cricket,4,Yes,14,9,Entrepreneurship Club
+S020186,Frado Deshmukh,Day Scholar,10,ML,14,Female,Divine,84,86,69,61,58,35,393,65.5,87.8,1.1,Chartered Accountant,English,Social Science,239,Average,Yes,Basketball,7,No,9,8,Coding Club
+S020147,Harini Bora,Hosteler,10,AI,15,Female,Divine,96,65,66,62,56,46,391,65.17,99.8,1.2,Auditor,English,Social Science,240,Average,No,,0,No,0,0,Science Club
+S020212,Ekaja Yohannan,Day Scholar,10,CognitoSphere,15,Female,Divine,52,50,97,40,81,71,391,65.17,95.7,7.4,Marketing Manager,English,Social Science,241,Average,No,,0,No,0,0,Music
+S020093,Gabriel Borde,Day Scholar,10,ML,15,Female,Divine,38,77,67,66,48,95,391,65.17,95.0,6.8,Financial Analyst,Science,Hindi,242,Average,No,,0,No,0,0,Music
+S020314,Qadim Vohra,Day Scholar,10,Predictix,15,Male,Divine,60,55,85,64,72,55,391,65.17,82.4,4.9,Auditor,Maths,Hindi,243,Average,Yes,Football,7,No,9,8,Painting
+S020249,Krish Mander,Day Scholar,10,ML,15,Female,Divine,47,41,83,89,59,72,391,65.17,75.3,2.9,Financial Analyst,English,Social Science,244,Average,No,,0,No,0,0,Quiz Club
+S020062,Ira Jaggi,Day Scholar,10,Predictix,15,Female,Divine,49,64,50,63,97,68,391,65.17,93.1,6.4,Chartered Accountant,Computer,Hindi,245,Average,No,,0,No,0,0,Debate
+S020006,Warjas Raj,Day Scholar,10,CognitoSphere,15,Male,Divine,53,36,52,71,82,97,391,65.17,97.6,2.1,Company Secretary,Science,Hindi,246,Average,Yes,Kabaddi,9,No,10,5,Photography
+S020284,Ranveer Iyengar,Day Scholar,10,Predictix,14,Female,Divine,97,70,45,61,52,64,389,64.83,73.7,6.1,Stock Market Analyst,Maths,Hindi,247,Average,Yes,Football,10,No,1,0,Entrepreneurship Club
+S020282,Damyanti Ganesan,Hosteler,10,Predictix,14,Male,Passion,58,71,40,75,79,66,389,64.83,88.2,4.4,Tax Consultant,Maths,Hindi,248,Average,Yes,Basketball,8,No,10,4,Public Speaking
+S020129,Unni Buch,Hosteler,10,AI,14,Male,Paradise,50,74,65,89,66,45,389,64.83,81.2,3.1,Chartered Accountant,English,Hindi,249,Average,Yes,Cricket,13,Yes,12,12,Dance
+S020145,Adweta Kant,Day Scholar,10,CognitoSphere,15,Male,Divine,37,81,40,76,91,64,389,64.83,92.2,6.6,Financial Analyst,English,Social Science,250,Average,No,,0,No,0,0,Dance
+S020348,Unnati Setty,Hosteler,10,CognitoSphere,14,Female,Divine,40,62,73,90,46,78,389,64.83,82.8,3.0,Company Secretary,English,Hindi,251,Average,Yes,Cricket,2,No,10,10,Drama
+S020383,Zayan Srivastava,Hosteler,10,Predictix,15,Female,Divine,93,70,37,60,61,67,388,64.67,70.7,4.0,Chartered Accountant,Computer,Hindi,252,Average,No,,0,No,0,0,Painting
+S020295,Umang Sandhu,Hosteler,10,CognitoSphere,14,Female,Divine,54,83,45,44,63,99,388,64.67,95.4,4.7,Entrepreneur,English,Social Science,253,Average,No,,0,No,0,0,Dance
+S020299,Udarsh Sodhi,Hosteler,10,CognitoSphere,14,Male,Paradise,88,68,95,47,51,39,388,64.67,90.7,7.9,Company Secretary,English,Social Science,254,Average,Yes,Badminton,9,No,10,8,Science Club
+S020375,Nachiket Sane,Hosteler,10,CognitoSphere,14,Male,Passion,66,66,67,58,66,64,387,64.5,71.2,5.3,Marketing Manager,Computer,Hindi,255,Average,No,,0,No,0,0,Painting
+S020229,Isaac Kaul,Hosteler,10,AI,14,Male,Passion,59,66,83,68,41,70,387,64.5,88.8,5.5,Financial Analyst,Maths,Hindi,256,Average,Yes,Football,4,Yes,6,4,Music
+S020004,Tarak Chander,Hosteler,10,ML,15,Female,Divine,68,55,42,53,75,94,387,64.5,74.9,2.9,Business Analyst,Computer,Hindi,257,Average,Yes,Football,4,No,5,4,Drama
+S020364,Pranav Shukla,Day Scholar,10,AI,15,Female,Divine,88,87,59,38,63,52,387,64.5,98.4,3.3,Tax Consultant,Science,Social Science,258,Average,No,,0,No,0,0,Entrepreneurship Club
+S020204,Kamya Bandi,Hosteler,10,CognitoSphere,14,Female,Divine,83,51,62,86,42,63,387,64.5,94.7,7.8,Economist,Maths,Social Science,259,Average,Yes,Basketball,11,No,3,1,Drama
+S020304,Dominic Toor,Hosteler,10,AI,14,Male,Petals,70,53,47,61,100,56,387,64.5,98.8,4.8,Financial Analyst,Maths,Social Science,260,Average,Yes,Cricket,8,Yes,7,8,Chess
+S020087,Kala Merchant,Hosteler,10,Predictix,15,Female,Divine,44,38,91,50,80,83,386,64.33,75.3,6.4,Marketing Manager,Maths,Social Science,261,Average,No,,0,No,0,0,Drama
+S020347,Nisha Majumdar,Day Scholar,10,Predictix,14,Female,Divine,38,63,57,65,82,81,386,64.33,88.3,6.3,Investment Banker,Science,Hindi,262,Average,Yes,Badminton,9,No,10,9,Entrepreneurship Club
+S020381,Abdul Majumdar,Hosteler,10,CognitoSphere,15,Female,Divine,59,85,56,55,55,76,386,64.33,93.4,2.9,Stock Market Analyst,English,Social Science,263,Average,Yes,Football,13,Yes,14,17,Painting
+S020195,Samarth Sem,Hosteler,10,Predictix,14,Female,Divine,97,56,49,63,48,71,384,64.0,88.5,1.8,Auditor,Maths,Hindi,264,Average,No,,0,No,0,0,Coding Club
+S020127,Wridesh Nagi,Hosteler,10,Predictix,15,Male,Petals,70,82,40,43,62,87,384,64.0,99.5,1.7,Auditor,Science,Social Science,265,Average,Yes,Volleyball,7,No,6,4,Debate
+S020400,Yasti Gade,Hosteler,10,CognitoSphere,15,Male,Passion,63,46,88,43,49,95,384,64.0,95.7,4.8,Economist,Maths,Social Science,266,Average,Yes,Football,12,No,6,4,Quiz Club
+S020070,Teerth Kala,Hosteler,10,Predictix,14,Female,Divine,41,50,92,73,35,93,384,64.0,94.2,7.9,Financial Analyst,Science,Social Science,267,Average,No,,0,No,0,0,Reading
+S020349,Zarna Bail,Day Scholar,10,Predictix,14,Female,Divine,57,55,85,48,94,45,384,64.0,89.7,3.8,Economist,Science,Social Science,268,Average,Yes,Hockey,9,No,4,4,Dance
+S020071,Nicholas Nagi,Day Scholar,10,Predictix,15,Female,Divine,52,83,66,48,76,59,384,64.0,72.9,6.0,Bank Manager,Maths,Hindi,269,Average,Yes,Tennis,12,No,9,7,Public Speaking
+S020356,Nakul Buch,Day Scholar,10,ML,14,Male,Divine,45,90,49,59,68,73,384,64.0,81.2,4.3,Financial Analyst,Computer,Hindi,270,Average,Yes,Athletics,12,Yes,9,3,Painting
+S020339,Wahab Bala,Day Scholar,10,Predictix,15,Female,Divine,56,39,84,54,61,90,384,64.0,76.2,5.9,Company Secretary,Computer,Hindi,271,Average,Yes,Basketball,15,Yes,10,12,Quiz Club
+S020220,Om Dar,Hosteler,10,ML,15,Female,Divine,92,51,92,47,39,62,383,63.83,90.9,6.4,Company Secretary,English,Hindi,272,Average,Yes,Hockey,13,No,10,12,Photography
+S020367,Utkarsh Ramakrishnan,Day Scholar,10,AI,15,Male,Divine,43,35,39,87,95,84,383,63.83,98.7,7.2,Tax Consultant,Maths,Hindi,273,Average,No,,0,No,0,0,Science Club
+S020035,Falguni Gill,Hosteler,10,Predictix,15,Male,Petals,58,91,52,35,86,60,382,63.67,87.3,1.8,Bank Manager,Science,Social Science,274,Average,No,,0,No,0,0,Debate
+S020002,Charan Gill,Day Scholar,10,Predictix,15,Female,Divine,98,94,63,38,35,54,382,63.67,98.7,6.8,Entrepreneur,Maths,Social Science,275,Average,Yes,Football,5,Yes,11,12,Dance
+S020017,Amrita Nadkarni,Hosteler,10,AI,14,Male,Passion,38,57,83,76,54,73,381,63.5,89.8,4.6,Bank Manager,English,Hindi,276,Average,Yes,Badminton,2,No,5,5,Coding Club
+S020272,Sarthak Sani,Hosteler,10,AI,14,Male,Paradise,57,84,88,43,42,67,381,63.5,95.4,1.5,Bank Manager,Maths,Hindi,277,Average,Yes,Cricket,14,Yes,7,7,Music
+S020100,Anya Sethi,Day Scholar,10,ML,15,Male,Divine,63,35,63,64,94,62,381,63.5,92.0,7.7,Economist,English,Hindi,278,Average,No,,0,No,0,0,Robotics Club
+S020126,Nakul Mital,Day Scholar,10,ML,14,Female,Divine,50,64,62,48,80,76,380,63.33,82.1,3.2,Stock Market Analyst,Science,Social Science,279,Average,No,,0,No,0,0,Entrepreneurship Club
+S020152,Nicholas Sachar,Day Scholar,10,AI,14,Female,Divine,83,42,77,54,61,63,380,63.33,95.7,6.1,Chartered Accountant,Science,Hindi,280,Average,Yes,Cricket,10,Yes,11,5,Robotics Club
+S020045,Victor Mandal,Hosteler,10,ML,15,Male,Passion,58,56,100,69,62,35,380,63.33,97.6,2.7,Tax Consultant,Maths,Social Science,281,Average,Yes,Cricket,13,No,7,6,Chess
+S020345,Wyatt Kunda,Hosteler,10,ML,15,Male,Passion,46,66,54,82,35,96,379,63.17,73.0,4.8,Tax Consultant,Science,Social Science,282,Average,Yes,Badminton,10,Yes,12,5,Drama
+S020022,Brinda Muni,Hosteler,10,CognitoSphere,15,Female,Divine,78,56,37,76,39,93,379,63.17,78.0,5.9,Tax Consultant,Maths,Social Science,283,Average,Yes,Athletics,6,Yes,7,4,Entrepreneurship Club
+S020209,Saksham Tata,Hosteler,10,Predictix,15,Female,Divine,46,64,62,53,55,99,379,63.17,93.6,3.4,Company Secretary,English,Hindi,284,Average,Yes,Football,2,No,1,0,Entrepreneurship Club
+S020261,Upasna Batra,Day Scholar,10,Predictix,15,Female,Divine,52,60,67,52,88,60,379,63.17,72.6,5.0,Chartered Accountant,Science,Social Science,285,Average,Yes,Badminton,2,No,7,3,Science Club
+S020277,Dalbir Dugal,Day Scholar,10,AI,15,Male,Divine,86,42,49,95,68,38,378,63.0,82.6,2.4,Bank Manager,Science,Hindi,286,Average,Yes,Kabaddi,2,Yes,6,5,Volunteering
+S020211,Pavani Dewan,Day Scholar,10,Predictix,14,Female,Divine,56,72,55,43,70,81,377,62.83,72.1,6.0,Stock Market Analyst,Computer,Social Science,287,Average,Yes,Cricket,3,Yes,10,8,Volunteering
+S020024,Harshil Nair,Hosteler,10,AI,15,Male,Passion,68,41,73,86,63,46,377,62.83,78.2,5.0,Entrepreneur,English,Social Science,288,Average,Yes,Basketball,8,No,5,4,Coding Club
+S020331,Nilima Ramakrishnan,Hosteler,10,CognitoSphere,15,Female,Divine,59,83,82,57,36,60,377,62.83,85.8,1.0,Company Secretary,Computer,Hindi,289,Average,No,,0,No,0,0,Debate
+S020232,Priya Mutti,Hosteler,10,ML,15,Male,Petals,39,50,78,79,96,35,377,62.83,97.8,2.3,Financial Analyst,Maths,Hindi,290,Average,Yes,Cricket,4,No,10,5,Public Speaking
+S020088,Yatan Dey,Hosteler,10,ML,14,Female,Divine,91,36,63,37,70,80,377,62.83,94.5,5.4,Financial Analyst,Science,Social Science,291,Average,Yes,Cricket,3,No,9,6,Dance
+S020289,Wazir Oak,Day Scholar,10,Predictix,15,Male,Divine,81,69,67,36,50,74,377,62.83,95.4,4.1,Financial Analyst,English,Hindi,292,Average,Yes,Football,9,Yes,7,5,Dance
+S020115,Garima Narayanan,Hosteler,10,ML,15,Female,Divine,58,60,43,84,71,61,377,62.83,89.8,1.5,Marketing Manager,Computer,Hindi,293,Average,No,,0,No,0,0,Entrepreneurship Club
+S020063,Faqid Edwin,Hosteler,10,AI,14,Male,Passion,93,49,48,48,40,99,377,62.83,88.9,7.1,Economist,Science,Social Science,294,Average,No,,0,No,0,0,Coding Club
+S020039,Barkha Dhaliwal,Day Scholar,10,ML,15,Male,Divine,58,87,53,38,72,68,376,62.67,97.2,3.6,Investment Banker,Maths,Hindi,295,Average,Yes,Athletics,4,No,3,3,Quiz Club
+S020346,Abha Morar,Day Scholar,10,CognitoSphere,15,Female,Divine,66,47,84,51,75,52,375,62.5,96.9,6.7,Bank Manager,English,Hindi,296,Average,Yes,Basketball,8,No,5,2,Robotics Club
+S020042,Divya Misra,Day Scholar,10,ML,15,Male,Divine,90,53,68,49,75,40,375,62.5,96.2,6.8,Investment Banker,English,Social Science,297,Average,Yes,Cricket,15,No,4,4,Reading
+S020061,Abha Bassi,Day Scholar,10,Predictix,15,Male,Divine,98,73,65,61,41,37,375,62.5,80.7,2.1,Business Analyst,Maths,Hindi,298,Average,Yes,Cricket,2,No,5,6,Chess
+S020271,Janya Das,Day Scholar,10,AI,14,Male,Divine,51,76,79,86,43,40,375,62.5,77.0,5.7,Economist,English,Social Science,299,Average,Yes,Football,7,No,1,1,Entrepreneurship Club
+S020123,Anusha Wason,Hosteler,10,ML,14,Female,Divine,44,36,69,54,91,80,374,62.33,91.4,7.2,Financial Analyst,Science,Social Science,300,Average,No,,0,No,0,0,Entrepreneurship Club
+S020109,Vedika Vaidya,Hosteler,10,AI,15,Male,Passion,64,68,44,80,45,72,373,62.17,97.8,1.7,Company Secretary,Computer,Hindi,301,Average,Yes,Cricket,12,No,2,2,Entrepreneurship Club
+S020165,Pushti Lanka,Day Scholar,10,Predictix,15,Male,Divine,48,50,57,74,97,47,373,62.17,86.5,5.3,Economist,Science,Social Science,302,Average,Yes,Basketball,12,No,10,5,Entrepreneurship Club
+S020146,Manthan Ramaswamy,Day Scholar,10,CognitoSphere,14,Male,Divine,72,59,53,99,39,51,373,62.17,79.0,5.7,Marketing Manager,English,Hindi,303,Average,Yes,Football,8,No,5,4,Robotics Club
+S020095,Rajata Sandhu,Hosteler,10,AI,15,Female,Divine,48,42,41,72,83,86,372,62.0,77.0,5.2,Company Secretary,Maths,Social Science,304,Average,Yes,Basketball,11,No,10,5,Entrepreneurship Club
+S020092,Samar Madan,Day Scholar,10,AI,14,Male,Divine,59,77,45,38,63,89,371,61.83,75.9,3.3,Chartered Accountant,Maths,Hindi,305,Average,Yes,Badminton,13,No,2,0,Public Speaking
+S020007,Jai Sant,Hosteler,10,Predictix,15,Male,Passion,93,44,49,51,37,96,370,61.67,90.7,2.0,Tax Consultant,Computer,Hindi,306,Average,Yes,Badminton,13,Yes,15,9,Coding Club
+S020084,Jagdish Sundaram,Day Scholar,10,Predictix,15,Male,Divine,72,56,35,42,96,69,370,61.67,100.0,6.9,Marketing Manager,Computer,Hindi,307,Average,Yes,Football,12,Yes,11,8,Public Speaking
+S020340,Turvi Kota,Day Scholar,10,CognitoSphere,14,Male,Divine,62,94,68,39,49,58,370,61.67,84.0,3.3,Chartered Accountant,English,Hindi,308,Average,Yes,Badminton,3,No,3,2,Robotics Club
+S020398,Dev Shanker,Day Scholar,10,Predictix,14,Female,Divine,55,88,57,57,54,58,369,61.5,93.6,1.2,Company Secretary,Computer,Social Science,309,Average,Yes,Basketball,12,No,8,5,Entrepreneurship Club
+S020278,Girindra Hegde,Hosteler,10,CognitoSphere,14,Female,Divine,65,98,44,39,79,44,369,61.5,96.6,4.4,Financial Analyst,Computer,Hindi,310,Average,Yes,Tennis,6,No,5,4,Photography
+S020221,Ishanvi Chawla,Hosteler,10,Predictix,14,Female,Divine,59,36,82,81,37,73,368,61.33,91.0,5.5,Investment Banker,English,Social Science,311,Average,Yes,Cricket,8,No,7,4,Robotics Club
+S020159,Lavanya Mitter,Hosteler,10,AI,14,Male,Petals,50,58,58,35,92,75,368,61.33,73.9,2.4,Bank Manager,Maths,Social Science,312,Average,Yes,Badminton,6,No,5,3,Painting
+S020191,Ayushman Chowdhury,Day Scholar,10,AI,14,Male,Divine,37,74,55,57,85,59,367,61.17,72.2,2.7,Economist,Maths,Hindi,313,Average,No,,0,No,0,0,Debate
+S020188,Anita Narayanan,Hosteler,10,Predictix,14,Male,Paradise,49,35,79,82,76,45,366,61.0,82.3,5.3,Economist,Maths,Hindi,314,Average,Yes,Tennis,6,No,7,9,Drama
+S020029,Sanaya Vora,Hosteler,10,Predictix,14,Female,Divine,42,45,75,73,43,87,365,60.83,81.9,6.9,Financial Analyst,Science,Hindi,315,Average,No,,0,No,0,0,Reading
+S020380,Aarna Ravi,Day Scholar,10,Predictix,15,Female,Divine,58,59,48,64,62,74,365,60.83,93.0,4.3,Bank Manager,Science,Hindi,316,Average,Yes,Cricket,6,Yes,15,15,Painting
+S020393,Dalaja Bawa,Day Scholar,10,CognitoSphere,14,Male,Divine,69,64,62,80,38,52,365,60.83,95.0,3.6,Chartered Accountant,Science,Social Science,317,Average,Yes,Football,12,Yes,13,5,Drama
+S020124,Hardik Das,Hosteler,10,ML,14,Male,Passion,74,91,41,35,41,83,365,60.83,81.2,2.7,Investment Banker,Maths,Social Science,318,Average,Yes,Cricket,2,No,6,4,Debate
+S020242,Anay Kumar,Hosteler,10,ML,14,Male,Paradise,36,52,48,76,90,63,365,60.83,75.7,7.3,Bank Manager,Maths,Hindi,319,Average,Yes,Cricket,6,No,2,2,Reading
+S020335,Lohit Agrawal,Day Scholar,10,AI,14,Female,Divine,42,43,59,99,53,69,365,60.83,83.3,2.9,Chartered Accountant,English,Hindi,320,Average,Yes,Cricket,5,Yes,5,6,Entrepreneurship Club
+S020005,Joshua Sarma,Day Scholar,10,Predictix,15,Female,Divine,44,100,59,58,47,56,364,60.67,94.8,5.8,Bank Manager,Computer,Social Science,321,Average,Yes,Football,11,No,1,1,Robotics Club
+S020285,Nihal Sharma,Day Scholar,10,CognitoSphere,15,Female,Divine,49,37,98,39,69,70,362,60.33,94.8,1.6,Business Analyst,English,Social Science,322,Average,No,,0,No,0,0,Quiz Club
+S020047,Nathan Bumb,Day Scholar,10,Predictix,15,Male,Divine,40,92,76,51,62,41,362,60.33,93.9,6.2,Economist,English,Hindi,323,Average,Yes,Kabaddi,12,Yes,7,5,Chess
+S020399,Hemani Wagle,Day Scholar,10,AI,14,Female,Divine,76,38,38,77,38,95,362,60.33,97.4,1.3,Business Analyst,Science,Hindi,324,Average,Yes,Kabaddi,8,Yes,8,5,Robotics Club
+S020255,Ekaja Pai,Hosteler,10,Predictix,15,Female,Divine,69,37,53,87,63,53,362,60.33,70.9,5.0,Bank Manager,Computer,Hindi,325,Average,Yes,Football,5,No,9,6,Volunteering
+S020144,Elijah Narasimhan,Day Scholar,10,Predictix,15,Male,Divine,86,52,38,50,70,66,362,60.33,88.6,5.6,Stock Market Analyst,English,Hindi,326,Average,Yes,Basketball,12,No,10,12,Chess
+S020189,Prisha Venkataraman,Hosteler,10,Predictix,14,Female,Divine,70,57,67,37,48,83,362,60.33,94.5,2.5,Stock Market Analyst,Science,Social Science,327,Average,Yes,Basketball,5,No,2,2,Debate
+S020064,Oliver Mitra,Day Scholar,10,ML,15,Female,Divine,47,54,81,77,52,50,361,60.17,99.1,6.4,Marketing Manager,Science,Social Science,328,Average,No,,0,No,0,0,Music
+S020385,Faraj Dave,Day Scholar,10,CognitoSphere,15,Female,Divine,42,47,42,78,70,82,361,60.17,73.3,1.9,Tax Consultant,Computer,Social Science,329,Average,Yes,Cricket,4,No,10,7,Photography
+S020184,Qushi Ganesh,Hosteler,10,Predictix,15,Female,Divine,54,40,51,59,88,67,359,59.83,83.5,6.0,Stock Market Analyst,Maths,Social Science,330,Average,Yes,Football,11,No,6,5,Music
+S020136,Urmi Chakraborty,Day Scholar,10,ML,15,Female,Divine,44,87,39,50,84,55,359,59.83,98.7,6.4,Economist,English,Social Science,331,Average,Yes,Badminton,9,No,9,10,Debate
+S020384,Rushil Murty,Day Scholar,10,CognitoSphere,15,Male,Divine,70,48,44,66,55,76,359,59.83,98.6,7.6,Investment Banker,English,Hindi,332,Average,No,,0,No,0,0,Dance
+S020292,Warda Nazareth,Hosteler,10,Predictix,14,Male,Petals,68,67,37,80,40,65,357,59.5,72.3,4.1,Financial Analyst,Maths,Hindi,333,Average,Yes,Basketball,15,Yes,14,17,Drama
+S020054,Gaurika Walia,Hosteler,10,CognitoSphere,15,Female,Divine,35,85,49,36,56,96,357,59.5,96.1,7.8,Business Analyst,English,Social Science,334,Average,Yes,Volleyball,14,Yes,11,7,Entrepreneurship Club
+S020327,Abeer Sabharwal,Hosteler,10,CognitoSphere,15,Male,Petals,62,70,57,68,48,51,356,59.33,87.3,7.0,Financial Analyst,Computer,Social Science,335,Average,Yes,Cricket,9,No,1,0,Music
+S020008,Dalaja Thakur,Hosteler,10,ML,14,Female,Divine,50,63,51,53,64,74,355,59.17,73.9,1.6,Chartered Accountant,Maths,Hindi,336,Average,No,,0,No,0,0,Painting
+S020090,Imaran Nazareth,Hosteler,10,AI,15,Male,Petals,43,51,68,64,70,59,355,59.17,90.4,7.2,Auditor,English,Hindi,337,Average,Yes,Volleyball,14,No,10,4,Robotics Club
+S020258,Jagrati Dave,Day Scholar,10,ML,15,Female,Divine,71,43,72,36,93,40,355,59.17,94.8,1.9,Stock Market Analyst,Computer,Hindi,338,Average,No,,0,No,0,0,Science Club
+S020216,Onveer Roy,Hosteler,10,Predictix,15,Male,Passion,53,62,75,39,83,42,354,59.0,99.4,2.5,Marketing Manager,Maths,Social Science,339,Average,Yes,Hockey,6,Yes,5,4,Public Speaking
+S020276,Rachit Kata,Day Scholar,10,Predictix,15,Male,Divine,64,41,77,37,63,72,354,59.0,91.1,1.5,Chartered Accountant,Computer,Hindi,340,Average,Yes,Cricket,12,Yes,6,6,Quiz Club
+S020217,Warhi Aurora,Day Scholar,10,AI,15,Female,Divine,57,45,53,43,70,86,354,59.0,96.2,4.2,Stock Market Analyst,Science,Social Science,341,Average,No,,0,No,0,0,Science Club
+S020252,Simon Soni,Day Scholar,10,Predictix,15,Female,Divine,65,56,75,43,56,58,353,58.83,74.3,1.1,Entrepreneur,English,Social Science,342,Average,Yes,Hockey,11,Yes,15,11,Debate
+S020207,Turvi Joshi,Hosteler,10,Predictix,15,Female,Divine,41,75,46,74,36,80,352,58.67,85.0,3.2,Chartered Accountant,Computer,Hindi,343,Average,No,,0,No,0,0,Chess
+S020243,Gaurav Sha,Hosteler,10,CognitoSphere,15,Female,Divine,49,41,73,44,68,77,352,58.67,91.0,7.5,Chartered Accountant,English,Hindi,344,Average,Yes,Basketball,5,No,3,3,Music
+S020316,Tanmayi Sethi,Day Scholar,10,CognitoSphere,14,Female,Divine,51,69,45,44,44,99,352,58.67,70.4,6.8,Auditor,Science,Hindi,345,Average,Yes,Cricket,5,No,5,6,Music
+S020048,Abhimanyu Kulkarni,Day Scholar,10,ML,15,Female,Divine,57,65,86,46,37,61,352,58.67,93.4,3.0,Economist,Maths,Social Science,346,Average,Yes,Badminton,3,No,8,4,Painting
+S020080,Advay Khosla,Hosteler,10,CognitoSphere,14,Male,Passion,53,58,67,46,54,74,352,58.67,71.8,7.7,Marketing Manager,Maths,Hindi,347,Average,No,,0,No,0,0,Dance
+S020094,Bachittar Mistry,Hosteler,10,Predictix,14,Female,Divine,92,50,45,42,39,83,351,58.5,93.5,1.4,Marketing Manager,Maths,Social Science,348,Average,Yes,Swimming,11,Yes,6,4,Coding Club
+S020265,Rudra Puri,Day Scholar,10,CognitoSphere,14,Male,Divine,52,63,54,73,74,35,351,58.5,73.4,1.0,Investment Banker,Maths,Hindi,349,Average,No,,0,No,0,0,Chess
+S020187,Ekta Yohannan,Hosteler,10,ML,15,Female,Divine,72,69,50,56,63,40,350,58.33,71.2,2.0,Chartered Accountant,Science,Social Science,350,Average,Yes,Cricket,8,No,2,1,Quiz Club
+S020074,Girish Mitra,Hosteler,10,Predictix,15,Female,Divine,50,82,72,40,54,50,348,58.0,99.7,3.1,Marketing Manager,Maths,Hindi,351,Average,Yes,Hockey,12,No,6,5,Volunteering
+S020179,Vihaan Verma,Day Scholar,10,ML,14,Male,Divine,39,70,59,53,89,37,347,57.83,95.9,3.7,Company Secretary,Computer,Hindi,352,Average,No,,0,No,0,0,Painting
+S020307,Upma Baral,Hosteler,10,ML,14,Female,Divine,90,47,75,59,39,36,346,57.67,87.6,7.1,Investment Banker,Science,Social Science,353,Average,No,,0,No,0,0,Volunteering
+S020253,Darika Bhat,Hosteler,10,CognitoSphere,14,Male,Passion,44,56,36,80,95,35,346,57.67,84.2,1.3,Company Secretary,Computer,Hindi,354,Average,No,,0,No,0,0,Quiz Club
+S020259,Ekaja Sachdeva,Day Scholar,10,ML,14,Female,Divine,35,41,67,52,79,71,345,57.5,91.4,2.0,Auditor,English,Hindi,355,Average,Yes,Badminton,13,No,9,4,Science Club
+S020358,Ekta Nagy,Hosteler,10,Predictix,15,Female,Divine,63,63,37,76,63,43,345,57.5,87.6,5.4,Company Secretary,English,Social Science,356,Average,Yes,Basketball,7,No,4,2,Entrepreneurship Club
+S020219,Chaitaly Bakshi,Hosteler,10,ML,15,Female,Divine,60,44,53,76,75,36,344,57.33,98.0,4.5,Tax Consultant,Maths,Social Science,357,Average,No,,0,No,0,0,Entrepreneurship Club
+S020230,Mahika Sood,Hosteler,10,AI,15,Female,Divine,48,53,71,68,58,46,344,57.33,95.3,7.4,Financial Analyst,English,Hindi,358,Average,Yes,Football,7,Yes,11,7,Public Speaking
+S020306,Ishanvi Barad,Day Scholar,10,ML,14,Female,Divine,46,52,70,49,80,45,342,57.0,79.8,4.5,Bank Manager,English,Hindi,359,Average,No,,0,No,0,0,Dance
+S020069,Keya Babu,Day Scholar,10,Predictix,15,Male,Divine,78,55,37,38,68,65,341,56.83,99.6,1.8,Company Secretary,Computer,Social Science,360,Average,Yes,Badminton,9,Yes,8,10,Debate
+S020294,Gayathri Mitra,Hosteler,10,AI,14,Female,Divine,55,82,40,72,54,38,341,56.83,94.2,4.6,Auditor,Computer,Hindi,361,Average,No,,0,No,0,0,Entrepreneurship Club
+S020210,Abdul Vig,Hosteler,10,ML,15,Female,Divine,61,44,54,98,47,36,340,56.67,86.4,7.8,Financial Analyst,English,Hindi,362,Average,No,,0,No,0,0,Painting
+S020149,Ati Nagi,Day Scholar,10,ML,14,Male,Divine,49,72,46,49,46,78,340,56.67,87.2,1.9,Auditor,English,Hindi,363,Average,No,,0,No,0,0,Photography
+S020233,Kai Divan,Day Scholar,10,AI,14,Male,Divine,49,62,38,76,52,63,340,56.67,78.0,4.4,Auditor,Computer,Social Science,364,Average,Yes,Badminton,13,Yes,9,4,Dance
+S020135,Inaya Rajagopal,Hosteler,10,Predictix,15,Female,Divine,95,60,54,59,35,36,339,56.5,82.1,3.9,Chartered Accountant,Computer,Social Science,365,Average,Yes,Volleyball,14,No,1,1,Entrepreneurship Club
+S020389,Guneet Padmanabhan,Day Scholar,10,AI,15,Female,Divine,43,44,46,49,55,100,337,56.17,88.3,8.0,Auditor,English,Social Science,366,Average,No,,0,No,0,0,Drama
+S020328,Alexander Bhandari,Hosteler,10,CognitoSphere,14,Male,Paradise,64,62,46,53,53,56,334,55.67,79.7,7.3,Company Secretary,Science,Social Science,367,Average,Yes,Football,11,No,6,3,Photography
+S020010,Darika Arya,Hosteler,10,Predictix,15,Male,Petals,60,58,79,38,46,53,334,55.67,80.6,7.0,Bank Manager,Science,Hindi,368,Average,No,,0,No,0,0,Reading
+S020182,Aarna Shukla,Day Scholar,10,Predictix,15,Female,Divine,77,73,49,47,36,51,333,55.5,92.2,3.5,Tax Consultant,Computer,Hindi,369,Average,Yes,Cricket,3,No,1,1,Robotics Club
+S020313,Maya Dora,Hosteler,10,AI,15,Female,Divine,56,61,49,77,51,37,331,55.17,72.7,5.9,Auditor,Maths,Hindi,370,Average,No,,0,No,0,0,Robotics Club
+S020322,Vamakshi Bala,Hosteler,10,ML,15,Female,Divine,83,51,36,55,50,56,331,55.17,96.1,1.8,Auditor,English,Hindi,371,Average,Yes,Hockey,4,Yes,15,17,Reading
+S020185,Krish Tailor,Hosteler,10,ML,15,Female,Divine,56,70,51,72,40,42,331,55.17,84.9,4.7,Marketing Manager,Maths,Hindi,372,Average,Yes,Badminton,12,No,8,8,Science Club
+S020011,Hritik Setty,Hosteler,10,ML,15,Male,Petals,62,59,71,56,35,47,330,55.0,81.0,5.1,Entrepreneur,Maths,Hindi,373,Average,Yes,Badminton,10,No,7,4,Debate
+S020334,Ridhi Goswami,Hosteler,10,Predictix,15,Male,Passion,42,75,47,70,59,37,330,55.0,96.9,2.2,Business Analyst,Computer,Hindi,374,Average,Yes,Kabaddi,5,Yes,7,8,Photography
+S020009,Mitali Deshpande,Day Scholar,10,CognitoSphere,14,Female,Divine,40,60,48,39,100,42,329,54.83,97.3,1.3,Financial Analyst,Maths,Hindi,375,Average,Yes,Kabaddi,10,No,4,3,Dance
+S020264,Hemal Dugar,Hosteler,10,Predictix,15,Female,Divine,45,42,69,48,77,47,328,54.67,90.7,7.1,Tax Consultant,Maths,Hindi,376,Average,Yes,Football,11,Yes,6,5,Drama
+S020291,Chakrika Karnik,Hosteler,10,AI,14,Female,Divine,64,57,53,41,64,49,328,54.67,90.5,7.0,Stock Market Analyst,Computer,Hindi,377,Average,Yes,Athletics,14,Yes,10,5,Dance
+S020142,Hemal Shanker,Hosteler,10,AI,14,Male,Passion,97,47,36,42,69,35,326,54.33,76.3,6.5,Entrepreneur,Computer,Social Science,378,Average,Yes,Cricket,7,No,3,1,Volunteering
+S020237,Vedhika Sangha,Day Scholar,10,Predictix,14,Female,Divine,53,75,50,36,75,36,325,54.17,84.0,6.6,Financial Analyst,Maths,Social Science,379,Average,No,,0,No,0,0,Reading
+S020125,Anirudh Bath,Hosteler,10,AI,15,Male,Passion,59,43,63,47,56,56,324,54.0,85.4,6.7,Business Analyst,Science,Hindi,380,Average,No,,0,No,0,0,Quiz Club
+S020240,Gopal Rastogi,Hosteler,10,CognitoSphere,14,Female,Divine,86,39,40,78,37,43,323,53.83,94.9,3.9,Bank Manager,Computer,Social Science,381,Average,Yes,Kabaddi,15,Yes,6,4,Entrepreneurship Club
+S020032,Avi Sastry,Day Scholar,10,CognitoSphere,15,Female,Divine,74,37,39,41,65,67,323,53.83,89.2,5.9,Investment Banker,Science,Social Science,382,Average,Yes,Athletics,12,Yes,5,3,Music
+S020267,Aarna Dyal,Day Scholar,10,ML,15,Male,Divine,53,37,58,53,65,56,322,53.67,84.4,3.0,Tax Consultant,English,Social Science,383,Average,Yes,Basketball,7,Yes,12,15,Quiz Club
+S020168,Laksh Purohit,Day Scholar,10,ML,14,Female,Divine,75,46,45,44,65,46,321,53.5,72.5,3.0,Tax Consultant,Maths,Social Science,384,Average,Yes,Basketball,4,Yes,6,2,Science Club
+S020354,Nandini Andra,Day Scholar,10,CognitoSphere,15,Male,Divine,66,57,45,47,51,53,319,53.17,96.8,3.4,Business Analyst,Science,Social Science,385,Average,Yes,Volleyball,10,No,8,3,Science Club
+S020183,Vedika Sharma,Hosteler,10,ML,14,Female,Divine,84,46,48,51,50,40,319,53.17,91.1,7.5,Economist,Computer,Social Science,386,Average,No,,0,No,0,0,Quiz Club
+S020206,Lohit Lall,Day Scholar,10,ML,14,Male,Divine,55,48,43,62,36,74,318,53.0,89.2,1.2,Entrepreneur,Maths,Hindi,387,Average,Yes,Basketball,2,Yes,5,2,Science Club
+S020325,Ekani Gala,Hosteler,10,CognitoSphere,15,Male,Passion,43,35,74,59,60,47,318,53.0,72.8,5.4,Company Secretary,Science,Hindi,388,Average,No,,0,No,0,0,Chess
+S020055,Fariq Sengupta,Day Scholar,10,AI,14,Female,Divine,73,46,51,52,36,59,317,52.83,90.9,2.3,Chartered Accountant,Science,Social Science,389,Average,Yes,Badminton,3,Yes,8,4,Debate
+S020281,Jai Purohit,Day Scholar,10,CognitoSphere,14,Female,Divine,42,65,64,46,36,64,317,52.83,99.7,1.1,Economist,Maths,Hindi,390,Average,Yes,Cricket,2,No,1,0,Robotics Club
+S020274,Panini Khanna,Hosteler,10,CognitoSphere,14,Male,Petals,47,61,39,52,35,81,315,52.5,80.2,5.8,Auditor,English,Hindi,391,Average,No,,0,No,0,0,Painting
+S020101,Kashvi Chakrabarti,Hosteler,10,AI,14,Female,Divine,35,81,36,44,80,38,314,52.33,78.7,2.4,Auditor,Computer,Hindi,392,Average,No,,0,No,0,0,Quiz Club
+S020392,Maanas Shenoy,Hosteler,10,AI,15,Male,Passion,58,47,38,40,51,79,313,52.17,96.1,7.5,Company Secretary,Science,Social Science,393,Average,No,,0,No,0,0,Coding Club
+S020157,Advaith Chowdhury,Day Scholar,10,CognitoSphere,14,Female,Divine,82,36,50,49,45,50,312,52.0,70.7,5.0,Company Secretary,English,Social Science,394,Average,Yes,Kabaddi,4,No,1,0,Reading
+S020181,Krisha Verma,Hosteler,10,Predictix,15,Female,Divine,58,40,35,41,76,62,312,52.0,78.4,5.2,Marketing Manager,Science,Social Science,395,Average,Yes,Badminton,2,No,10,6,Painting
+S020223,Bhavika Kade,Day Scholar,10,AI,15,Female,Divine,47,46,48,46,37,87,311,51.83,92.5,5.4,Financial Analyst,Maths,Social Science,396,Average,No,,0,No,0,0,Chess
+S020250,Thomas Virk,Hosteler,10,Predictix,14,Male,Petals,66,49,63,49,41,39,307,51.17,72.0,1.7,Marketing Manager,English,Social Science,397,Average,No,,0,No,0,0,Painting
+S020397,Abha Lata,Day Scholar,10,ML,14,Female,Divine,40,53,66,57,36,51,303,50.5,90.9,6.3,Business Analyst,Science,Social Science,398,Average,No,,0,No,0,0,Reading
+S020228,Zaid Wagle,Hosteler,10,CognitoSphere,14,Male,Paradise,38,90,36,54,38,45,301,50.17,92.3,1.9,Investment Banker,Computer,Hindi,399,Average,Yes,Tennis,11,Yes,5,4,Music
+S020192,Amaira Sridhar,Hosteler,10,ML,14,Male,Passion,84,37,49,36,40,51,297,49.5,78.0,7.6,Entrepreneur,Maths,Hindi,400,Needs Improvement,No,,0,No,0,0,Debate
